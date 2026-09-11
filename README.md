@@ -113,6 +113,8 @@ python scripts/build_posteval_v3.py
 
 Open the autosaving label and reply-review tools on Windows with `open-labels.ps1` and `open-reply-review.ps1`. Dataset preparation commands and archive checksum are documented in `docs/batch-sampling.md` and `docs/discovery.md`.
 
+To try the v3 deterministic response guardrail with your own messages, run `python scripts/try_responses.py` and open `http://127.0.0.1:8766`. This local playground uses a transparent keyword intent suggestion and no Gemini call, so it previews response safety and wording rather than end-to-end model accuracy.
+
 ## Attribution
 
 Dataset: [Thought Vector, Customer Support on Twitter](https://www.kaggle.com/datasets/thoughtvector/customer-support-on-twitter), listed as CC BY-NC-SA 4.0. Included excerpts remain under the dataset licence. Code and documentation were produced with AI coding assistance and reviewed through the candidate’s labelling and reply-rating workflows; the candidate should be prepared to explain and modify them live.
