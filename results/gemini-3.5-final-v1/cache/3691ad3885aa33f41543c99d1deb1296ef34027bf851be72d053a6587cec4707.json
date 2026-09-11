@@ -1,0 +1,120 @@
+{
+  "parsed": {
+    "results": [
+      {
+        "intent": "billing_subscription",
+        "route": "escalate",
+        "reason": "account_action",
+        "draft": "We can check why that free trial message is showing up. Could you join us in a DM with your account's email address or username? We'll look into this for you.",
+        "evidence_ids": [],
+        "reply_kind": "handoff",
+        "tweet_id": "1964114"
+      },
+      {
+        "intent": "billing_subscription",
+        "route": "escalate",
+        "reason": "account_action",
+        "draft": "We'd love to help get your Premium status sorted out. Can you send us a DM with your account's username or email address? We'll take a look under the hood.",
+        "evidence_ids": [],
+        "reply_kind": "handoff",
+        "tweet_id": "2030150"
+      },
+      {
+        "intent": "billing_subscription",
+        "route": "escalate",
+        "reason": "unverified_policy",
+        "draft": "We appreciate you sharing your thoughts on this with us. To look closer at how your family plan is set up and discuss this, please DM us your account's username or email address.",
+        "evidence_ids": [],
+        "reply_kind": "handoff",
+        "tweet_id": "568941"
+      },
+      {
+        "intent": "billing_subscription",
+        "route": "escalate",
+        "reason": "account_action",
+        "draft": "That sounds frustrating. Can you send us a DM with your account's email address or username? We'll check what's happening with your billing status.",
+        "evidence_ids": [],
+        "reply_kind": "handoff",
+        "tweet_id": "1812153"
+      },
+      {
+        "intent": "account_access_security",
+        "route": "escalate",
+        "reason": "account_action",
+        "draft": "That definitely doesn't sound right. Let's get this sorted out for you. Please DM us your email address so we can take a look backstage.",
+        "evidence_ids": [],
+        "reply_kind": "handoff",
+        "tweet_id": "454701"
+      },
+      {
+        "intent": "billing_subscription",
+        "route": "escalate",
+        "reason": "security_privacy",
+        "draft": "For safety and security, please delete your tweet since it contains private email information. Could you send us a DM instead so we can help with your subscription question?",
+        "evidence_ids": [
+          "1464488"
+        ],
+        "reply_kind": "handoff",
+        "tweet_id": "1883295"
+      },
+      {
+        "intent": "billing_subscription",
+        "route": "escalate",
+        "reason": "account_action",
+        "draft": "Let's check on that payment right away. Can you DM us your account's email address or username? We'll take a look under the hood for you.",
+        "evidence_ids": [],
+        "reply_kind": "handoff",
+        "tweet_id": "645130"
+      },
+      {
+        "intent": "account_access_security",
+        "route": "escalate",
+        "reason": "account_action",
+        "draft": "That doesn't sound right at all. Could you send us a DM with your account's email address or username? We'll take a look backstage to see what's happening.",
+        "evidence_ids": [],
+        "reply_kind": "handoff",
+        "tweet_id": "1882482"
+      },
+      {
+        "intent": "playback_app",
+        "route": "auto_handle",
+        "reason": "supported_general_help",
+        "draft": "We hear you! Rest assured, we're working on updating the app for iPhone X support as we speak. Stay tuned for any updates.",
+        "evidence_ids": [
+          "2311295",
+          "1162344"
+        ],
+        "reply_kind": "answer",
+        "tweet_id": "2394579"
+      },
+      {
+        "intent": "billing_subscription",
+        "route": "escalate",
+        "reason": "account_action",
+        "draft": "Let's see what's going on with your billing. Can you send us a DM with your account's email address or username? We'll take a look under the hood to help out.",
+        "evidence_ids": [],
+        "reply_kind": "handoff",
+        "tweet_id": "2069240"
+      }
+    ]
+  },
+  "metadata": {
+    "model": "gemini-3.5-flash",
+    "model_version": "gemini-3.5-flash",
+    "request_sha256": "3691ad3885aa33f41543c99d1deb1296ef34027bf851be72d053a6587cec4707",
+    "usage": {
+      "promptTokenCount": 8105,
+      "candidatesTokenCount": 1172,
+      "totalTokenCount": 9277,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 8105
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "latency_ms": 33800.030599999445,
+    "cache_hit": false
+  }
+}

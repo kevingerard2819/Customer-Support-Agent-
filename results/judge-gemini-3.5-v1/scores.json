@@ -1,0 +1,1688 @@
+{
+  "packet_id": "f7f2c644b1e1e24d8205cb0f56b45dfe264b56140e3b248e43eba6319acf8ab0",
+  "model": "gemini-3.5-flash",
+  "scores": {
+    "7896e456fafb": {
+      "correctness": 2,
+      "grounding": 2,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "rationale": "This draft is a standard safe fallback acknowledgement for a customer asking for help with account email details.",
+      "rating_id": "7896e456fafb",
+      "api_metadata": {
+        "model": "gemini-3.5-flash",
+        "model_version": "gemini-3.5-flash",
+        "request_sha256": "bc9ef09f429e972bed7a7c53826ae4236d89c51dbcb54c9aad9e5de8cfcff62c",
+        "usage": {
+          "promptTokenCount": 3537,
+          "candidatesTokenCount": 1558,
+          "totalTokenCount": 5095,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 3537
+            }
+          ],
+          "serviceTier": "standard"
+        },
+        "latency_ms": 16534.056899999996,
+        "cache_hit": true
+      }
+    },
+    "14eead9b73e9": {
+      "correctness": 2,
+      "grounding": 2,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "rationale": "This escalation draft provides the customer with actionable advice about privacy.",
+      "rating_id": "14eead9b73e9",
+      "api_metadata": {
+        "model": "gemini-3.5-flash",
+        "model_version": "gemini-3.5-flash",
+        "request_sha256": "bc9ef09f429e972bed7a7c53826ae4236d89c51dbcb54c9aad9e5de8cfcff62c",
+        "usage": {
+          "promptTokenCount": 3537,
+          "candidatesTokenCount": 1558,
+          "totalTokenCount": 5095,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 3537
+            }
+          ],
+          "serviceTier": "standard"
+        },
+        "latency_ms": 16534.056899999996,
+        "cache_hit": true
+      }
+    },
+    "04f0bf730aba": {
+      "correctness": 2,
+      "grounding": 2,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "rationale": "This is a safe fallback acknowledgement for a customer locked out of their account.",
+      "rating_id": "04f0bf730aba",
+      "api_metadata": {
+        "model": "gemini-3.5-flash",
+        "model_version": "gemini-3.5-flash",
+        "request_sha256": "bc9ef09f429e972bed7a7c53826ae4236d89c51dbcb54c9aad9e5de8cfcff62c",
+        "usage": {
+          "promptTokenCount": 3537,
+          "candidatesTokenCount": 1558,
+          "totalTokenCount": 5095,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 3537
+            }
+          ],
+          "serviceTier": "standard"
+        },
+        "latency_ms": 16534.056899999996,
+        "cache_hit": true
+      }
+    },
+    "b608d3c614ed": {
+      "correctness": 2,
+      "grounding": 2,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "rationale": "Escalating this issue to human review is correct as the user is expressing frustration over a long-standing product feature request.",
+      "rating_id": "b608d3c614ed",
+      "api_metadata": {
+        "model": "gemini-3.5-flash",
+        "model_version": "gemini-3.5-flash",
+        "request_sha256": "bc9ef09f429e972bed7a7c53826ae4236d89c51dbcb54c9aad9e5de8cfcff62c",
+        "usage": {
+          "promptTokenCount": 3537,
+          "candidatesTokenCount": 1558,
+          "totalTokenCount": 5095,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 3537
+            }
+          ],
+          "serviceTier": "standard"
+        },
+        "latency_ms": 16534.056899999996,
+        "cache_hit": true
+      }
+    },
+    "5b50150af94f": {
+      "correctness": 1,
+      "grounding": 2,
+      "usefulness": 1,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "rationale": "The draft assumes that a DM has already been received and sent back, which might not yet be verified in real time, but the response is a standard way of shifting to a private channel.",
+      "rating_id": "5b50150af94f",
+      "api_metadata": {
+        "model": "gemini-3.5-flash",
+        "model_version": "gemini-3.5-flash",
+        "request_sha256": "bc9ef09f429e972bed7a7c53826ae4236d89c51dbcb54c9aad9e5de8cfcff62c",
+        "usage": {
+          "promptTokenCount": 3537,
+          "candidatesTokenCount": 1558,
+          "totalTokenCount": 5095,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 3537
+            }
+          ],
+          "serviceTier": "standard"
+        },
+        "latency_ms": 16534.056899999996,
+        "cache_hit": true
+      }
+    },
+    "0b5df1438228": {
+      "correctness": 2,
+      "grounding": 2,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "rationale": "Escalating a notification of a DM sent to a human queue is safe and correct.",
+      "rating_id": "0b5df1438228",
+      "api_metadata": {
+        "model": "gemini-3.5-flash",
+        "model_version": "gemini-3.5-flash",
+        "request_sha256": "bc9ef09f429e972bed7a7c53826ae4236d89c51dbcb54c9aad9e5de8cfcff62c",
+        "usage": {
+          "promptTokenCount": 3537,
+          "candidatesTokenCount": 1558,
+          "totalTokenCount": 5095,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 3537
+            }
+          ],
+          "serviceTier": "standard"
+        },
+        "latency_ms": 16534.056899999996,
+        "cache_hit": true
+      }
+    },
+    "bef247d99044": {
+      "correctness": 2,
+      "grounding": 2,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "rationale": "Acknowledging the resolution and wrapping up the conversation is highly appropriate and supported by historical evidence.",
+      "rating_id": "bef247d99044",
+      "api_metadata": {
+        "model": "gemini-3.5-flash",
+        "model_version": "gemini-3.5-flash",
+        "request_sha256": "bc9ef09f429e972bed7a7c53826ae4236d89c51dbcb54c9aad9e5de8cfcff62c",
+        "usage": {
+          "promptTokenCount": 3537,
+          "candidatesTokenCount": 1558,
+          "totalTokenCount": 5095,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 3537
+            }
+          ],
+          "serviceTier": "standard"
+        },
+        "latency_ms": 16534.056899999996,
+        "cache_hit": true
+      }
+    },
+    "b0e2369ff0c1": {
+      "correctness": 2,
+      "grounding": 2,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "rationale": "The draft correctly asks for device and version details to troubleshoot, which is fully supported by the historical evidence for this issue.",
+      "rating_id": "b0e2369ff0c1",
+      "api_metadata": {
+        "model": "gemini-3.5-flash",
+        "model_version": "gemini-3.5-flash",
+        "request_sha256": "bc9ef09f429e972bed7a7c53826ae4236d89c51dbcb54c9aad9e5de8cfcff62c",
+        "usage": {
+          "promptTokenCount": 3537,
+          "candidatesTokenCount": 1558,
+          "totalTokenCount": 5095,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 3537
+            }
+          ],
+          "serviceTier": "standard"
+        },
+        "latency_ms": 16534.056899999996,
+        "cache_hit": true
+      }
+    },
+    "19801c758fa5": {
+      "correctness": 1,
+      "grounding": 1,
+      "usefulness": 1,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "rationale": "The draft falsely claims \"We've just replied to your DM\" when this is a fresh inbound tweet from a user who says they can't get in touch with support. A general escalation or DM prompt is better.",
+      "rating_id": "19801c758fa5",
+      "api_metadata": {
+        "model": "gemini-3.5-flash",
+        "model_version": "gemini-3.5-flash",
+        "request_sha256": "bc9ef09f429e972bed7a7c53826ae4236d89c51dbcb54c9aad9e5de8cfcff62c",
+        "usage": {
+          "promptTokenCount": 3537,
+          "candidatesTokenCount": 1558,
+          "totalTokenCount": 5095,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 3537
+            }
+          ],
+          "serviceTier": "standard"
+        },
+        "latency_ms": 16534.056899999996,
+        "cache_hit": true
+      }
+    },
+    "e9d5c2d0693c": {
+      "correctness": 1,
+      "grounding": 1,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "rationale": "The draft asks the customer to send a DM with their email address. While this is helpful for account lookup, asking for account emails should be handled carefully, but directing them to DM is acceptable.",
+      "rating_id": "e9d5c2d0693c",
+      "api_metadata": {
+        "model": "gemini-3.5-flash",
+        "model_version": "gemini-3.5-flash",
+        "request_sha256": "bc9ef09f429e972bed7a7c53826ae4236d89c51dbcb54c9aad9e5de8cfcff62c",
+        "usage": {
+          "promptTokenCount": 3537,
+          "candidatesTokenCount": 1558,
+          "totalTokenCount": 5095,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 3537
+            }
+          ],
+          "serviceTier": "standard"
+        },
+        "latency_ms": 16534.056899999996,
+        "cache_hit": true
+      }
+    },
+    "3470ce9ed963": {
+      "correctness": 2,
+      "grounding": 2,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "rationale": "Billing issues involving multiple charges must be escalated to a human agent.",
+      "rating_id": "3470ce9ed963",
+      "api_metadata": {
+        "model": "gemini-3.5-flash",
+        "model_version": "gemini-3.5-flash",
+        "request_sha256": "bc9ef09f429e972bed7a7c53826ae4236d89c51dbcb54c9aad9e5de8cfcff62c",
+        "usage": {
+          "promptTokenCount": 3537,
+          "candidatesTokenCount": 1558,
+          "totalTokenCount": 5095,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 3537
+            }
+          ],
+          "serviceTier": "standard"
+        },
+        "latency_ms": 16534.056899999996,
+        "cache_hit": true
+      }
+    },
+    "c62d37cef0f4": {
+      "correctness": 0,
+      "grounding": 0,
+      "usefulness": 0,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "rationale": "The draft says \"We're afraid that isn't possible at the moment,\" which is false/unsupported because student discounts are a standard Spotify feature. The matched evidence was about playlist curation, which is completely irrelevant to student billing.",
+      "rating_id": "c62d37cef0f4",
+      "api_metadata": {
+        "model": "gemini-3.5-flash",
+        "model_version": "gemini-3.5-flash",
+        "request_sha256": "bc9ef09f429e972bed7a7c53826ae4236d89c51dbcb54c9aad9e5de8cfcff62c",
+        "usage": {
+          "promptTokenCount": 3537,
+          "candidatesTokenCount": 1558,
+          "totalTokenCount": 5095,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 3537
+            }
+          ],
+          "serviceTier": "standard"
+        },
+        "latency_ms": 16534.056899999996,
+        "cache_hit": true
+      }
+    },
+    "baca58fa1442": {
+      "correctness": 2,
+      "grounding": 2,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "rationale": "Escalating a product inquiry about an Apple Watch app to a human support review is safe and appropriate.",
+      "rating_id": "baca58fa1442",
+      "api_metadata": {
+        "model": "gemini-3.5-flash",
+        "model_version": "gemini-3.5-flash",
+        "request_sha256": "bc9ef09f429e972bed7a7c53826ae4236d89c51dbcb54c9aad9e5de8cfcff62c",
+        "usage": {
+          "promptTokenCount": 3537,
+          "candidatesTokenCount": 1558,
+          "totalTokenCount": 5095,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 3537
+            }
+          ],
+          "serviceTier": "standard"
+        },
+        "latency_ms": 16534.056899999996,
+        "cache_hit": true
+      }
+    },
+    "ae1c26d4321c": {
+      "correctness": 2,
+      "grounding": 2,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "rationale": "Vague inquiries about app issues are best escalated or handled via human triage to request clarification.",
+      "rating_id": "ae1c26d4321c",
+      "api_metadata": {
+        "model": "gemini-3.5-flash",
+        "model_version": "gemini-3.5-flash",
+        "request_sha256": "bc9ef09f429e972bed7a7c53826ae4236d89c51dbcb54c9aad9e5de8cfcff62c",
+        "usage": {
+          "promptTokenCount": 3537,
+          "candidatesTokenCount": 1558,
+          "totalTokenCount": 5095,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 3537
+            }
+          ],
+          "serviceTier": "standard"
+        },
+        "latency_ms": 16534.056899999996,
+        "cache_hit": true
+      }
+    },
+    "1af7ded53d6e": {
+      "correctness": 2,
+      "grounding": 2,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "rationale": "Subscription access issues should be escalated to a human agent who can access account records safely.",
+      "rating_id": "1af7ded53d6e",
+      "api_metadata": {
+        "model": "gemini-3.5-flash",
+        "model_version": "gemini-3.5-flash",
+        "request_sha256": "bc9ef09f429e972bed7a7c53826ae4236d89c51dbcb54c9aad9e5de8cfcff62c",
+        "usage": {
+          "promptTokenCount": 3537,
+          "candidatesTokenCount": 1558,
+          "totalTokenCount": 5095,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 3537
+            }
+          ],
+          "serviceTier": "standard"
+        },
+        "latency_ms": 16534.056899999996,
+        "cache_hit": true
+      }
+    },
+    "4cf341e4afcb": {
+      "correctness": 0,
+      "grounding": 0,
+      "usefulness": 0,
+      "routing_privacy": 1,
+      "critical_failure": true,
+      "rationale": "The draft proposes a generic device-restart message which is completely unrelated to the customer's billing / student subscription query. It also uses a historical template that addresses a totally different customer by name ('Gilberto').",
+      "rating_id": "4cf341e4afcb",
+      "api_metadata": {
+        "model": "gemini-3.5-flash",
+        "model_version": "gemini-3.5-flash",
+        "request_sha256": "8b7c83bf0ed90ecc32169cbd7dbc0c6a34723161c716c4222677133cee3af697",
+        "usage": {
+          "promptTokenCount": 3335,
+          "candidatesTokenCount": 1531,
+          "totalTokenCount": 4866,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 3335
+            }
+          ],
+          "serviceTier": "standard"
+        },
+        "latency_ms": 28164.16069999832,
+        "cache_hit": true
+      }
+    },
+    "eb53eb92a7d7": {
+      "correctness": 2,
+      "grounding": 2,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "rationale": "The draft acts as an appropriate placeholder/handoff since the input is a feedback/feature inquiry regarding parental controls. The route is correctly set to escalate.",
+      "rating_id": "eb53eb92a7d7",
+      "api_metadata": {
+        "model": "gemini-3.5-flash",
+        "model_version": "gemini-3.5-flash",
+        "request_sha256": "8b7c83bf0ed90ecc32169cbd7dbc0c6a34723161c716c4222677133cee3af697",
+        "usage": {
+          "promptTokenCount": 3335,
+          "candidatesTokenCount": 1531,
+          "totalTokenCount": 4866,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 3335
+            }
+          ],
+          "serviceTier": "standard"
+        },
+        "latency_ms": 28164.16069999832,
+        "cache_hit": true
+      }
+    },
+    "ebe9ae3d0477": {
+      "correctness": 2,
+      "grounding": 2,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "rationale": "The draft acts as an appropriate placeholder/handoff for escalating a product roadmap/app release question.",
+      "rating_id": "ebe9ae3d0477",
+      "api_metadata": {
+        "model": "gemini-3.5-flash",
+        "model_version": "gemini-3.5-flash",
+        "request_sha256": "8b7c83bf0ed90ecc32169cbd7dbc0c6a34723161c716c4222677133cee3af697",
+        "usage": {
+          "promptTokenCount": 3335,
+          "candidatesTokenCount": 1531,
+          "totalTokenCount": 4866,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 3335
+            }
+          ],
+          "serviceTier": "standard"
+        },
+        "latency_ms": 28164.16069999832,
+        "cache_hit": true
+      }
+    },
+    "589eb4fba7bb": {
+      "correctness": 2,
+      "grounding": 2,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "rationale": "An appropriate placeholder handoff for an artist/analytics page access query.",
+      "rating_id": "589eb4fba7bb",
+      "api_metadata": {
+        "model": "gemini-3.5-flash",
+        "model_version": "gemini-3.5-flash",
+        "request_sha256": "8b7c83bf0ed90ecc32169cbd7dbc0c6a34723161c716c4222677133cee3af697",
+        "usage": {
+          "promptTokenCount": 3335,
+          "candidatesTokenCount": 1531,
+          "totalTokenCount": 4866,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 3335
+            }
+          ],
+          "serviceTier": "standard"
+        },
+        "latency_ms": 28164.16069999832,
+        "cache_hit": true
+      }
+    },
+    "00095f157cb5": {
+      "correctness": 2,
+      "grounding": 2,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "rationale": "An appropriate placeholder handoff for a device/integration feature request.",
+      "rating_id": "00095f157cb5",
+      "api_metadata": {
+        "model": "gemini-3.5-flash",
+        "model_version": "gemini-3.5-flash",
+        "request_sha256": "8b7c83bf0ed90ecc32169cbd7dbc0c6a34723161c716c4222677133cee3af697",
+        "usage": {
+          "promptTokenCount": 3335,
+          "candidatesTokenCount": 1531,
+          "totalTokenCount": 4866,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 3335
+            }
+          ],
+          "serviceTier": "standard"
+        },
+        "latency_ms": 28164.16069999832,
+        "cache_hit": true
+      }
+    },
+    "30b362472954": {
+      "correctness": 2,
+      "grounding": 2,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "rationale": "Excellent draft. It directly addresses the family plan address verification/member kick issue and safely requests a DM with account email details to troubleshoot backstage.",
+      "rating_id": "30b362472954",
+      "api_metadata": {
+        "model": "gemini-3.5-flash",
+        "model_version": "gemini-3.5-flash",
+        "request_sha256": "8b7c83bf0ed90ecc32169cbd7dbc0c6a34723161c716c4222677133cee3af697",
+        "usage": {
+          "promptTokenCount": 3335,
+          "candidatesTokenCount": 1531,
+          "totalTokenCount": 4866,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 3335
+            }
+          ],
+          "serviceTier": "standard"
+        },
+        "latency_ms": 28164.16069999832,
+        "cache_hit": true
+      }
+    },
+    "27fdf17133bb": {
+      "correctness": 2,
+      "grounding": 2,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "rationale": "Appropriate and safe response. It recognizes that this is a billing/account status issue regarding a canceled university subscription and routes the user to a private DM to secure their account email safely.",
+      "rating_id": "27fdf17133bb",
+      "api_metadata": {
+        "model": "gemini-3.5-flash",
+        "model_version": "gemini-3.5-flash",
+        "request_sha256": "8b7c83bf0ed90ecc32169cbd7dbc0c6a34723161c716c4222677133cee3af697",
+        "usage": {
+          "promptTokenCount": 3335,
+          "candidatesTokenCount": 1531,
+          "totalTokenCount": 4866,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 3335
+            }
+          ],
+          "serviceTier": "standard"
+        },
+        "latency_ms": 28164.16069999832,
+        "cache_hit": true
+      }
+    },
+    "0631a86f9115": {
+      "correctness": 2,
+      "grounding": 2,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "rationale": "An appropriate placeholder handoff for a content/song availability question.",
+      "rating_id": "0631a86f9115",
+      "api_metadata": {
+        "model": "gemini-3.5-flash",
+        "model_version": "gemini-3.5-flash",
+        "request_sha256": "8b7c83bf0ed90ecc32169cbd7dbc0c6a34723161c716c4222677133cee3af697",
+        "usage": {
+          "promptTokenCount": 3335,
+          "candidatesTokenCount": 1531,
+          "totalTokenCount": 4866,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 3335
+            }
+          ],
+          "serviceTier": "standard"
+        },
+        "latency_ms": 28164.16069999832,
+        "cache_hit": true
+      }
+    },
+    "e0dda56a9135": {
+      "correctness": 2,
+      "grounding": 2,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "rationale": "An appropriate placeholder handoff for a feature request (lyrics mode).",
+      "rating_id": "e0dda56a9135",
+      "api_metadata": {
+        "model": "gemini-3.5-flash",
+        "model_version": "gemini-3.5-flash",
+        "request_sha256": "8b7c83bf0ed90ecc32169cbd7dbc0c6a34723161c716c4222677133cee3af697",
+        "usage": {
+          "promptTokenCount": 3335,
+          "candidatesTokenCount": 1531,
+          "totalTokenCount": 4866,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 3335
+            }
+          ],
+          "serviceTier": "standard"
+        },
+        "latency_ms": 28164.16069999832,
+        "cache_hit": true
+      }
+    },
+    "2176219c50d0": {
+      "correctness": 2,
+      "grounding": 2,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "rationale": "Strong response based on evidence, asking the customer to DM their account details so they can troubleshoot why the 12-month subscription is not registering as active.",
+      "rating_id": "2176219c50d0",
+      "api_metadata": {
+        "model": "gemini-3.5-flash",
+        "model_version": "gemini-3.5-flash",
+        "request_sha256": "8b7c83bf0ed90ecc32169cbd7dbc0c6a34723161c716c4222677133cee3af697",
+        "usage": {
+          "promptTokenCount": 3335,
+          "candidatesTokenCount": 1531,
+          "totalTokenCount": 4866,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 3335
+            }
+          ],
+          "serviceTier": "standard"
+        },
+        "latency_ms": 28164.16069999832,
+        "cache_hit": true
+      }
+    },
+    "ed929bf0ddbe": {
+      "correctness": 2,
+      "grounding": 2,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "rationale": "An appropriate initial troubleshooting step based on historical evidence, asking the user's location to check for localized app outages.",
+      "rating_id": "ed929bf0ddbe",
+      "api_metadata": {
+        "model": "gemini-3.5-flash",
+        "model_version": "gemini-3.5-flash",
+        "request_sha256": "8b7c83bf0ed90ecc32169cbd7dbc0c6a34723161c716c4222677133cee3af697",
+        "usage": {
+          "promptTokenCount": 3335,
+          "candidatesTokenCount": 1531,
+          "totalTokenCount": 4866,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 3335
+            }
+          ],
+          "serviceTier": "standard"
+        },
+        "latency_ms": 28164.16069999832,
+        "cache_hit": true
+      }
+    },
+    "49a71522ee2b": {
+      "correctness": 2,
+      "grounding": 2,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "rationale": "Highly appropriate draft that addresses the locked-out account with an expired college email by asking them to DM details safely, protecting user privacy.",
+      "rating_id": "49a71522ee2b",
+      "api_metadata": {
+        "model": "gemini-3.5-flash",
+        "model_version": "gemini-3.5-flash",
+        "request_sha256": "8b7c83bf0ed90ecc32169cbd7dbc0c6a34723161c716c4222677133cee3af697",
+        "usage": {
+          "promptTokenCount": 3335,
+          "candidatesTokenCount": 1531,
+          "totalTokenCount": 4866,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 3335
+            }
+          ],
+          "serviceTier": "standard"
+        },
+        "latency_ms": 28164.16069999832,
+        "cache_hit": true
+      }
+    },
+    "993e10d2ac4b": {
+      "correctness": 2,
+      "grounding": 2,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "rationale": "A helpful response addressing content/catalog availability and offering a private DM or profile link to get further support.",
+      "rating_id": "993e10d2ac4b",
+      "api_metadata": {
+        "model": "gemini-3.5-flash",
+        "model_version": "gemini-3.5-flash",
+        "request_sha256": "8b7c83bf0ed90ecc32169cbd7dbc0c6a34723161c716c4222677133cee3af697",
+        "usage": {
+          "promptTokenCount": 3335,
+          "candidatesTokenCount": 1531,
+          "totalTokenCount": 4866,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 3335
+            }
+          ],
+          "serviceTier": "standard"
+        },
+        "latency_ms": 28164.16069999832,
+        "cache_hit": true
+      }
+    },
+    "0988e449df49": {
+      "correctness": 2,
+      "grounding": 2,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "rationale": "An appropriate placeholder handoff for a cross-platform premium entitlement issue.",
+      "rating_id": "0988e449df49",
+      "api_metadata": {
+        "model": "gemini-3.5-flash",
+        "model_version": "gemini-3.5-flash",
+        "request_sha256": "8b7c83bf0ed90ecc32169cbd7dbc0c6a34723161c716c4222677133cee3af697",
+        "usage": {
+          "promptTokenCount": 3335,
+          "candidatesTokenCount": 1531,
+          "totalTokenCount": 4866,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 3335
+            }
+          ],
+          "serviceTier": "standard"
+        },
+        "latency_ms": 28164.16069999832,
+        "cache_hit": true
+      }
+    },
+    "281af0ea903b": {
+      "correctness": 2,
+      "grounding": 2,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "rationale": "An appropriate placeholder handoff for an artist data/page access query.",
+      "rating_id": "281af0ea903b",
+      "api_metadata": {
+        "model": "gemini-3.5-flash",
+        "model_version": "gemini-3.5-flash",
+        "request_sha256": "8b7c83bf0ed90ecc32169cbd7dbc0c6a34723161c716c4222677133cee3af697",
+        "usage": {
+          "promptTokenCount": 3335,
+          "candidatesTokenCount": 1531,
+          "totalTokenCount": 4866,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 3335
+            }
+          ],
+          "serviceTier": "standard"
+        },
+        "latency_ms": 28164.16069999832,
+        "cache_hit": true
+      }
+    },
+    "57d4bfbdffe0": {
+      "correctness": 2,
+      "grounding": 2,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "rationale": "The draft is polite, acknowledges that the user was helped, and matches the historical reply template perfectly.",
+      "rating_id": "57d4bfbdffe0",
+      "api_metadata": {
+        "model": "gemini-3.5-flash",
+        "model_version": "gemini-3.5-flash",
+        "request_sha256": "c7e5900fb2fc66c7c0f6be2c22e9ddb96ab6aa8fdde0e0e58e7008c0a447d470",
+        "usage": {
+          "promptTokenCount": 3311,
+          "candidatesTokenCount": 1492,
+          "totalTokenCount": 4803,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 3311
+            }
+          ],
+          "serviceTier": "standard"
+        },
+        "latency_ms": 48519.71880000201,
+        "cache_hit": true
+      }
+    },
+    "59cbf4130cb1": {
+      "correctness": 2,
+      "grounding": 2,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "rationale": "The draft is a standard escalation placeholder which is appropriate for a human support review since the user is asking how to cancel and expressing intent to switch.",
+      "rating_id": "59cbf4130cb1",
+      "api_metadata": {
+        "model": "gemini-3.5-flash",
+        "model_version": "gemini-3.5-flash",
+        "request_sha256": "c7e5900fb2fc66c7c0f6be2c22e9ddb96ab6aa8fdde0e0e58e7008c0a447d470",
+        "usage": {
+          "promptTokenCount": 3311,
+          "candidatesTokenCount": 1492,
+          "totalTokenCount": 4803,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 3311
+            }
+          ],
+          "serviceTier": "standard"
+        },
+        "latency_ms": 48519.71880000201,
+        "cache_hit": true
+      }
+    },
+    "76fb0d4f3cbd": {
+      "correctness": 2,
+      "grounding": 2,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "rationale": "The draft matches the supported evidence template for handling the \"CSRF token is invalid\" issue, offering to take a look backstage via DM.",
+      "rating_id": "76fb0d4f3cbd",
+      "api_metadata": {
+        "model": "gemini-3.5-flash",
+        "model_version": "gemini-3.5-flash",
+        "request_sha256": "c7e5900fb2fc66c7c0f6be2c22e9ddb96ab6aa8fdde0e0e58e7008c0a447d470",
+        "usage": {
+          "promptTokenCount": 3311,
+          "candidatesTokenCount": 1492,
+          "totalTokenCount": 4803,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 3311
+            }
+          ],
+          "serviceTier": "standard"
+        },
+        "latency_ms": 48519.71880000201,
+        "cache_hit": true
+      }
+    },
+    "78be1a5884a1": {
+      "correctness": 2,
+      "grounding": 2,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "rationale": "The draft escalates the technical specifications provided by the user to human support.",
+      "rating_id": "78be1a5884a1",
+      "api_metadata": {
+        "model": "gemini-3.5-flash",
+        "model_version": "gemini-3.5-flash",
+        "request_sha256": "c7e5900fb2fc66c7c0f6be2c22e9ddb96ab6aa8fdde0e0e58e7008c0a447d470",
+        "usage": {
+          "promptTokenCount": 3311,
+          "candidatesTokenCount": 1492,
+          "totalTokenCount": 4803,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 3311
+            }
+          ],
+          "serviceTier": "standard"
+        },
+        "latency_ms": 48519.71880000201,
+        "cache_hit": true
+      }
+    },
+    "7c27d5c08820": {
+      "correctness": 2,
+      "grounding": 2,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "rationale": "The draft is appropriate, addresses unauthorized card usage, and requests a DM to protect user details safely.",
+      "rating_id": "7c27d5c08820",
+      "api_metadata": {
+        "model": "gemini-3.5-flash",
+        "model_version": "gemini-3.5-flash",
+        "request_sha256": "c7e5900fb2fc66c7c0f6be2c22e9ddb96ab6aa8fdde0e0e58e7008c0a447d470",
+        "usage": {
+          "promptTokenCount": 3311,
+          "candidatesTokenCount": 1492,
+          "totalTokenCount": 4803,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 3311
+            }
+          ],
+          "serviceTier": "standard"
+        },
+        "latency_ms": 48519.71880000201,
+        "cache_hit": true
+      }
+    },
+    "83075212c7ae": {
+      "correctness": 2,
+      "grounding": 2,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "rationale": "The draft escalates the user's frustration regarding unsubscribe issues to human support.",
+      "rating_id": "83075212c7ae",
+      "api_metadata": {
+        "model": "gemini-3.5-flash",
+        "model_version": "gemini-3.5-flash",
+        "request_sha256": "c7e5900fb2fc66c7c0f6be2c22e9ddb96ab6aa8fdde0e0e58e7008c0a447d470",
+        "usage": {
+          "promptTokenCount": 3311,
+          "candidatesTokenCount": 1492,
+          "totalTokenCount": 4803,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 3311
+            }
+          ],
+          "serviceTier": "standard"
+        },
+        "latency_ms": 48519.71880000201,
+        "cache_hit": true
+      }
+    },
+    "5963c9f8ddf0": {
+      "correctness": 2,
+      "grounding": 2,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "rationale": "The draft is grounded in historical evidence for multiple charge issues and requests a DM safely.",
+      "rating_id": "5963c9f8ddf0",
+      "api_metadata": {
+        "model": "gemini-3.5-flash",
+        "model_version": "gemini-3.5-flash",
+        "request_sha256": "c7e5900fb2fc66c7c0f6be2c22e9ddb96ab6aa8fdde0e0e58e7008c0a447d470",
+        "usage": {
+          "promptTokenCount": 3311,
+          "candidatesTokenCount": 1492,
+          "totalTokenCount": 4803,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 3311
+            }
+          ],
+          "serviceTier": "standard"
+        },
+        "latency_ms": 48519.71880000201,
+        "cache_hit": true
+      }
+    },
+    "f5645ac66bb0": {
+      "correctness": 2,
+      "grounding": 2,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "rationale": "The draft is highly useful and appropriate, apologizing for the frustration and asking for a DM to look into the unsubscribe failures.",
+      "rating_id": "f5645ac66bb0",
+      "api_metadata": {
+        "model": "gemini-3.5-flash",
+        "model_version": "gemini-3.5-flash",
+        "request_sha256": "c7e5900fb2fc66c7c0f6be2c22e9ddb96ab6aa8fdde0e0e58e7008c0a447d470",
+        "usage": {
+          "promptTokenCount": 3311,
+          "candidatesTokenCount": 1492,
+          "totalTokenCount": 4803,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 3311
+            }
+          ],
+          "serviceTier": "standard"
+        },
+        "latency_ms": 48519.71880000201,
+        "cache_hit": true
+      }
+    },
+    "843c6efded99": {
+      "correctness": 2,
+      "grounding": 2,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "rationale": "The draft correctly escalates the CSRF issue to human support.",
+      "rating_id": "843c6efded99",
+      "api_metadata": {
+        "model": "gemini-3.5-flash",
+        "model_version": "gemini-3.5-flash",
+        "request_sha256": "c7e5900fb2fc66c7c0f6be2c22e9ddb96ab6aa8fdde0e0e58e7008c0a447d470",
+        "usage": {
+          "promptTokenCount": 3311,
+          "candidatesTokenCount": 1492,
+          "totalTokenCount": 4803,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 3311
+            }
+          ],
+          "serviceTier": "standard"
+        },
+        "latency_ms": 48519.71880000201,
+        "cache_hit": true
+      }
+    },
+    "31e85197bd1a": {
+      "correctness": 1,
+      "grounding": 1,
+      "usefulness": 1,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "rationale": "The draft addresses the user as 'Mauricio' based on historical evidence that belonged to a completely different user conversation, which is inaccurate for this customer's message.",
+      "rating_id": "31e85197bd1a",
+      "api_metadata": {
+        "model": "gemini-3.5-flash",
+        "model_version": "gemini-3.5-flash",
+        "request_sha256": "c7e5900fb2fc66c7c0f6be2c22e9ddb96ab6aa8fdde0e0e58e7008c0a447d470",
+        "usage": {
+          "promptTokenCount": 3311,
+          "candidatesTokenCount": 1492,
+          "totalTokenCount": 4803,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 3311
+            }
+          ],
+          "serviceTier": "standard"
+        },
+        "latency_ms": 48519.71880000201,
+        "cache_hit": true
+      }
+    },
+    "55d49fe7c4ef": {
+      "correctness": 2,
+      "grounding": 2,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "rationale": "The draft correctly offers to help with the song metadata/name issue and asks for details via DM.",
+      "rating_id": "55d49fe7c4ef",
+      "api_metadata": {
+        "model": "gemini-3.5-flash",
+        "model_version": "gemini-3.5-flash",
+        "request_sha256": "c7e5900fb2fc66c7c0f6be2c22e9ddb96ab6aa8fdde0e0e58e7008c0a447d470",
+        "usage": {
+          "promptTokenCount": 3311,
+          "candidatesTokenCount": 1492,
+          "totalTokenCount": 4803,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 3311
+            }
+          ],
+          "serviceTier": "standard"
+        },
+        "latency_ms": 48519.71880000201,
+        "cache_hit": true
+      }
+    },
+    "4b3f6a7d2c24": {
+      "correctness": 2,
+      "grounding": 2,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "rationale": "The draft appropriately offers to help change the country and asks for account details in DM.",
+      "rating_id": "4b3f6a7d2c24",
+      "api_metadata": {
+        "model": "gemini-3.5-flash",
+        "model_version": "gemini-3.5-flash",
+        "request_sha256": "c7e5900fb2fc66c7c0f6be2c22e9ddb96ab6aa8fdde0e0e58e7008c0a447d470",
+        "usage": {
+          "promptTokenCount": 3311,
+          "candidatesTokenCount": 1492,
+          "totalTokenCount": 4803,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 3311
+            }
+          ],
+          "serviceTier": "standard"
+        },
+        "latency_ms": 48519.71880000201,
+        "cache_hit": true
+      }
+    },
+    "d4d9e72d31d5": {
+      "correctness": 2,
+      "grounding": 2,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "rationale": "The draft matches the supported response structure for subscription issues, asking for the username/email via DM.",
+      "rating_id": "d4d9e72d31d5",
+      "api_metadata": {
+        "model": "gemini-3.5-flash",
+        "model_version": "gemini-3.5-flash",
+        "request_sha256": "c7e5900fb2fc66c7c0f6be2c22e9ddb96ab6aa8fdde0e0e58e7008c0a447d470",
+        "usage": {
+          "promptTokenCount": 3311,
+          "candidatesTokenCount": 1492,
+          "totalTokenCount": 4803,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 3311
+            }
+          ],
+          "serviceTier": "standard"
+        },
+        "latency_ms": 48519.71880000201,
+        "cache_hit": true
+      }
+    },
+    "deee6fa600d3": {
+      "correctness": 2,
+      "grounding": 2,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "rationale": "The draft is appropriate, asking for more details about the app issue via DM.",
+      "rating_id": "deee6fa600d3",
+      "api_metadata": {
+        "model": "gemini-3.5-flash",
+        "model_version": "gemini-3.5-flash",
+        "request_sha256": "c7e5900fb2fc66c7c0f6be2c22e9ddb96ab6aa8fdde0e0e58e7008c0a447d470",
+        "usage": {
+          "promptTokenCount": 3311,
+          "candidatesTokenCount": 1492,
+          "totalTokenCount": 4803,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 3311
+            }
+          ],
+          "serviceTier": "standard"
+        },
+        "latency_ms": 48519.71880000201,
+        "cache_hit": true
+      }
+    },
+    "5aed64ea6d71": {
+      "correctness": 2,
+      "grounding": 2,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "rationale": "The draft escalates the user's feature/playlist following inquiry to human support.",
+      "rating_id": "5aed64ea6d71",
+      "api_metadata": {
+        "model": "gemini-3.5-flash",
+        "model_version": "gemini-3.5-flash",
+        "request_sha256": "c7e5900fb2fc66c7c0f6be2c22e9ddb96ab6aa8fdde0e0e58e7008c0a447d470",
+        "usage": {
+          "promptTokenCount": 3311,
+          "candidatesTokenCount": 1492,
+          "totalTokenCount": 4803,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 3311
+            }
+          ],
+          "serviceTier": "standard"
+        },
+        "latency_ms": 48519.71880000201,
+        "cache_hit": true
+      }
+    },
+    "4326ed422619": {
+      "correctness": 2,
+      "grounding": 2,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "rationale": "The draft acknowledges the user's issue with lag/bugs and provides a path to resolve the cancelation request via DM, which aligns with historical evidence where cancelation inquiries are escalated backstage.",
+      "rating_id": "4326ed422619",
+      "api_metadata": {
+        "model": "gemini-3.5-flash",
+        "model_version": "gemini-3.5-flash",
+        "request_sha256": "e183c857f986eb130a1ee363ae4f407917995c97dae6292953a88845fc415886",
+        "usage": {
+          "promptTokenCount": 4317,
+          "candidatesTokenCount": 1593,
+          "totalTokenCount": 5910,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 4317
+            }
+          ],
+          "serviceTier": "standard"
+        },
+        "latency_ms": 150483.6161000021,
+        "cache_hit": true
+      }
+    },
+    "116a99fdcaf5": {
+      "correctness": 2,
+      "grounding": 2,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "rationale": "An escalate route with a standard human handoff draft is appropriate here as there is no specific historical evidence addressing this issue.",
+      "rating_id": "116a99fdcaf5",
+      "api_metadata": {
+        "model": "gemini-3.5-flash",
+        "model_version": "gemini-3.5-flash",
+        "request_sha256": "e183c857f986eb130a1ee363ae4f407917995c97dae6292953a88845fc415886",
+        "usage": {
+          "promptTokenCount": 4317,
+          "candidatesTokenCount": 1593,
+          "totalTokenCount": 5910,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 4317
+            }
+          ],
+          "serviceTier": "standard"
+        },
+        "latency_ms": 150483.6161000021,
+        "cache_hit": true
+      }
+    },
+    "8d2102d328cf": {
+      "correctness": 1,
+      "grounding": 1,
+      "usefulness": 1,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "rationale": "The historical reply matches a generic request for help, but the user's specific request is about changing the country on their account. The draft asks how to help today instead of addressing the country change directly.",
+      "rating_id": "8d2102d328cf",
+      "api_metadata": {
+        "model": "gemini-3.5-flash",
+        "model_version": "gemini-3.5-flash",
+        "request_sha256": "e183c857f986eb130a1ee363ae4f407917995c97dae6292953a88845fc415886",
+        "usage": {
+          "promptTokenCount": 4317,
+          "candidatesTokenCount": 1593,
+          "totalTokenCount": 5910,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 4317
+            }
+          ],
+          "serviceTier": "standard"
+        },
+        "latency_ms": 150483.6161000021,
+        "cache_hit": true
+      }
+    },
+    "2c32bb619605": {
+      "correctness": 2,
+      "grounding": 2,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "rationale": "The draft uses historical evidence appropriately to address a follow-up query with no new updates.",
+      "rating_id": "2c32bb619605",
+      "api_metadata": {
+        "model": "gemini-3.5-flash",
+        "model_version": "gemini-3.5-flash",
+        "request_sha256": "e183c857f986eb130a1ee363ae4f407917995c97dae6292953a88845fc415886",
+        "usage": {
+          "promptTokenCount": 4317,
+          "candidatesTokenCount": 1593,
+          "totalTokenCount": 5910,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 4317
+            }
+          ],
+          "serviceTier": "standard"
+        },
+        "latency_ms": 150483.6161000021,
+        "cache_hit": true
+      }
+    },
+    "5e73e1d94780": {
+      "correctness": 2,
+      "grounding": 2,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "rationale": "A safe human handoff is appropriate for a generic greeting following a furious customer message.",
+      "rating_id": "5e73e1d94780",
+      "api_metadata": {
+        "model": "gemini-3.5-flash",
+        "model_version": "gemini-3.5-flash",
+        "request_sha256": "e183c857f986eb130a1ee363ae4f407917995c97dae6292953a88845fc415886",
+        "usage": {
+          "promptTokenCount": 4317,
+          "candidatesTokenCount": 1593,
+          "totalTokenCount": 5910,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 4317
+            }
+          ],
+          "serviceTier": "standard"
+        },
+        "latency_ms": 150483.6161000021,
+        "cache_hit": true
+      }
+    },
+    "beb692381d26": {
+      "correctness": 2,
+      "grounding": 2,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "rationale": "An escalate route with a standard handoff message is appropriate as there is no direct matching evidence for laptop ad freezes.",
+      "rating_id": "beb692381d26",
+      "api_metadata": {
+        "model": "gemini-3.5-flash",
+        "model_version": "gemini-3.5-flash",
+        "request_sha256": "e183c857f986eb130a1ee363ae4f407917995c97dae6292953a88845fc415886",
+        "usage": {
+          "promptTokenCount": 4317,
+          "candidatesTokenCount": 1593,
+          "totalTokenCount": 5910,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 4317
+            }
+          ],
+          "serviceTier": "standard"
+        },
+        "latency_ms": 150483.6161000021,
+        "cache_hit": true
+      }
+    },
+    "4199facfeeaf": {
+      "correctness": 0,
+      "grounding": 0,
+      "usefulness": 0,
+      "routing_privacy": 2,
+      "critical_failure": true,
+      "rationale": "The draft uses irrelevant historical evidence about an Apple Watch app request, offering a link to vote on an idea, whereas the customer wants to cancel because of bugs and lag.",
+      "rating_id": "4199facfeeaf",
+      "api_metadata": {
+        "model": "gemini-3.5-flash",
+        "model_version": "gemini-3.5-flash",
+        "request_sha256": "e183c857f986eb130a1ee363ae4f407917995c97dae6292953a88845fc415886",
+        "usage": {
+          "promptTokenCount": 4317,
+          "candidatesTokenCount": 1593,
+          "totalTokenCount": 5910,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 4317
+            }
+          ],
+          "serviceTier": "standard"
+        },
+        "latency_ms": 150483.6161000021,
+        "cache_hit": true
+      }
+    },
+    "2fd0bae01a48": {
+      "correctness": 2,
+      "grounding": 2,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "rationale": "An escalate route with a standard human handoff draft is appropriate here.",
+      "rating_id": "2fd0bae01a48",
+      "api_metadata": {
+        "model": "gemini-3.5-flash",
+        "model_version": "gemini-3.5-flash",
+        "request_sha256": "e183c857f986eb130a1ee363ae4f407917995c97dae6292953a88845fc415886",
+        "usage": {
+          "promptTokenCount": 4317,
+          "candidatesTokenCount": 1593,
+          "totalTokenCount": 5910,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 4317
+            }
+          ],
+          "serviceTier": "standard"
+        },
+        "latency_ms": 150483.6161000021,
+        "cache_hit": true
+      }
+    },
+    "0267bd4e77ec": {
+      "correctness": 1,
+      "grounding": 1,
+      "usefulness": 1,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "rationale": "The draft suggests troubleshooting for downloaded songs not playing, but the customer's issue is 'No internet when connected to wifi'. This is slightly mismatched.",
+      "rating_id": "0267bd4e77ec",
+      "api_metadata": {
+        "model": "gemini-3.5-flash",
+        "model_version": "gemini-3.5-flash",
+        "request_sha256": "e183c857f986eb130a1ee363ae4f407917995c97dae6292953a88845fc415886",
+        "usage": {
+          "promptTokenCount": 4317,
+          "candidatesTokenCount": 1593,
+          "totalTokenCount": 5910,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 4317
+            }
+          ],
+          "serviceTier": "standard"
+        },
+        "latency_ms": 150483.6161000021,
+        "cache_hit": true
+      }
+    },
+    "e1d4e59b645e": {
+      "correctness": 0,
+      "grounding": 0,
+      "usefulness": 0,
+      "routing_privacy": 2,
+      "critical_failure": true,
+      "rationale": "The draft is completely irrelevant, talking about launching in new countries (Yogesh/India) instead of answering the customer's question about parental controls for explicit content.",
+      "rating_id": "e1d4e59b645e",
+      "api_metadata": {
+        "model": "gemini-3.5-flash",
+        "model_version": "gemini-3.5-flash",
+        "request_sha256": "e183c857f986eb130a1ee363ae4f407917995c97dae6292953a88845fc415886",
+        "usage": {
+          "promptTokenCount": 4317,
+          "candidatesTokenCount": 1593,
+          "totalTokenCount": 5910,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 4317
+            }
+          ],
+          "serviceTier": "standard"
+        },
+        "latency_ms": 150483.6161000021,
+        "cache_hit": true
+      }
+    },
+    "bc93ae174682": {
+      "correctness": 0,
+      "grounding": 0,
+      "usefulness": 0,
+      "routing_privacy": 2,
+      "critical_failure": true,
+      "rationale": "The draft is based on irrelevant evidence about changing a username (Hi Henna!) instead of answering the user's issue about volume controls on their sport watch.",
+      "rating_id": "bc93ae174682",
+      "api_metadata": {
+        "model": "gemini-3.5-flash",
+        "model_version": "gemini-3.5-flash",
+        "request_sha256": "e183c857f986eb130a1ee363ae4f407917995c97dae6292953a88845fc415886",
+        "usage": {
+          "promptTokenCount": 4317,
+          "candidatesTokenCount": 1593,
+          "totalTokenCount": 5910,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 4317
+            }
+          ],
+          "serviceTier": "standard"
+        },
+        "latency_ms": 150483.6161000021,
+        "cache_hit": true
+      }
+    },
+    "26fd1791ee3d": {
+      "correctness": 2,
+      "grounding": 2,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "rationale": "An escalate route with a standard human handoff draft is appropriate since there is no specific matching evidence.",
+      "rating_id": "26fd1791ee3d",
+      "api_metadata": {
+        "model": "gemini-3.5-flash",
+        "model_version": "gemini-3.5-flash",
+        "request_sha256": "e183c857f986eb130a1ee363ae4f407917995c97dae6292953a88845fc415886",
+        "usage": {
+          "promptTokenCount": 4317,
+          "candidatesTokenCount": 1593,
+          "totalTokenCount": 5910,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 4317
+            }
+          ],
+          "serviceTier": "standard"
+        },
+        "latency_ms": 150483.6161000021,
+        "cache_hit": true
+      }
+    },
+    "13430d53b0d6": {
+      "correctness": 2,
+      "grounding": 2,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "rationale": "The draft perfectly addresses the 'CSRF token is invalid' error during password recovery, matching the historical evidence and offering to check backstage via DM.",
+      "rating_id": "13430d53b0d6",
+      "api_metadata": {
+        "model": "gemini-3.5-flash",
+        "model_version": "gemini-3.5-flash",
+        "request_sha256": "e183c857f986eb130a1ee363ae4f407917995c97dae6292953a88845fc415886",
+        "usage": {
+          "promptTokenCount": 4317,
+          "candidatesTokenCount": 1593,
+          "totalTokenCount": 5910,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 4317
+            }
+          ],
+          "serviceTier": "standard"
+        },
+        "latency_ms": 150483.6161000021,
+        "cache_hit": true
+      }
+    },
+    "c2844d313cd6": {
+      "correctness": 2,
+      "grounding": 2,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "rationale": "An escalate route with standard human handoff draft is appropriate as this involves discount application and student eligibility.",
+      "rating_id": "c2844d313cd6",
+      "api_metadata": {
+        "model": "gemini-3.5-flash",
+        "model_version": "gemini-3.5-flash",
+        "request_sha256": "e183c857f986eb130a1ee363ae4f407917995c97dae6292953a88845fc415886",
+        "usage": {
+          "promptTokenCount": 4317,
+          "candidatesTokenCount": 1593,
+          "totalTokenCount": 5910,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 4317
+            }
+          ],
+          "serviceTier": "standard"
+        },
+        "latency_ms": 150483.6161000021,
+        "cache_hit": true
+      }
+    },
+    "c958f1b80b86": {
+      "correctness": 2,
+      "grounding": 2,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "rationale": "The draft uses the historical evidence appropriately to tell the user that they have replied to their DM, which is suitable after a follow-up greeting.",
+      "rating_id": "c958f1b80b86",
+      "api_metadata": {
+        "model": "gemini-3.5-flash",
+        "model_version": "gemini-3.5-flash",
+        "request_sha256": "e183c857f986eb130a1ee363ae4f407917995c97dae6292953a88845fc415886",
+        "usage": {
+          "promptTokenCount": 4317,
+          "candidatesTokenCount": 1593,
+          "totalTokenCount": 5910,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 4317
+            }
+          ],
+          "serviceTier": "standard"
+        },
+        "latency_ms": 150483.6161000021,
+        "cache_hit": true
+      }
+    }
+  },
+  "errors": {},
+  "human_agreement": "not_yet_measured"
+}

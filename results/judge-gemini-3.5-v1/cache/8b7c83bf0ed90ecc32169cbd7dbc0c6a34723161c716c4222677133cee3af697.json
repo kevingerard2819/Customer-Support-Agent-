@@ -1,0 +1,160 @@
+{
+  "parsed": {
+    "results": [
+      {
+        "correctness": 0,
+        "grounding": 0,
+        "usefulness": 0,
+        "routing_privacy": 1,
+        "critical_failure": true,
+        "rationale": "The draft proposes a generic device-restart message which is completely unrelated to the customer's billing / student subscription query. It also uses a historical template that addresses a totally different customer by name ('Gilberto').",
+        "rating_id": "4cf341e4afcb"
+      },
+      {
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "The draft acts as an appropriate placeholder/handoff since the input is a feedback/feature inquiry regarding parental controls. The route is correctly set to escalate.",
+        "rating_id": "eb53eb92a7d7"
+      },
+      {
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "The draft acts as an appropriate placeholder/handoff for escalating a product roadmap/app release question.",
+        "rating_id": "ebe9ae3d0477"
+      },
+      {
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "An appropriate placeholder handoff for an artist/analytics page access query.",
+        "rating_id": "589eb4fba7bb"
+      },
+      {
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "An appropriate placeholder handoff for a device/integration feature request.",
+        "rating_id": "00095f157cb5"
+      },
+      {
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "Excellent draft. It directly addresses the family plan address verification/member kick issue and safely requests a DM with account email details to troubleshoot backstage.",
+        "rating_id": "30b362472954"
+      },
+      {
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "Appropriate and safe response. It recognizes that this is a billing/account status issue regarding a canceled university subscription and routes the user to a private DM to secure their account email safely.",
+        "rating_id": "27fdf17133bb"
+      },
+      {
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "An appropriate placeholder handoff for a content/song availability question.",
+        "rating_id": "0631a86f9115"
+      },
+      {
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "An appropriate placeholder handoff for a feature request (lyrics mode).",
+        "rating_id": "e0dda56a9135"
+      },
+      {
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "Strong response based on evidence, asking the customer to DM their account details so they can troubleshoot why the 12-month subscription is not registering as active.",
+        "rating_id": "2176219c50d0"
+      },
+      {
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "An appropriate initial troubleshooting step based on historical evidence, asking the user's location to check for localized app outages.",
+        "rating_id": "ed929bf0ddbe"
+      },
+      {
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "Highly appropriate draft that addresses the locked-out account with an expired college email by asking them to DM details safely, protecting user privacy.",
+        "rating_id": "49a71522ee2b"
+      },
+      {
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "A helpful response addressing content/catalog availability and offering a private DM or profile link to get further support.",
+        "rating_id": "993e10d2ac4b"
+      },
+      {
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "An appropriate placeholder handoff for a cross-platform premium entitlement issue.",
+        "rating_id": "0988e449df49"
+      },
+      {
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "An appropriate placeholder handoff for an artist data/page access query.",
+        "rating_id": "281af0ea903b"
+      }
+    ]
+  },
+  "metadata": {
+    "model": "gemini-3.5-flash",
+    "model_version": "gemini-3.5-flash",
+    "request_sha256": "8b7c83bf0ed90ecc32169cbd7dbc0c6a34723161c716c4222677133cee3af697",
+    "usage": {
+      "promptTokenCount": 3335,
+      "candidatesTokenCount": 1531,
+      "totalTokenCount": 4866,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 3335
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "latency_ms": 28164.16069999832,
+    "cache_hit": false
+  }
+}

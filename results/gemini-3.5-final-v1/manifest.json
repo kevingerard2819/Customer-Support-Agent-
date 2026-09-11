@@ -1,0 +1,10 @@
+{
+  "model": "gemini-3.5-flash",
+  "packet_id": "e814af31db3c1703f0e30d55360e7693e4d47e9ac12212f7909333260fd945ad",
+  "accepted_partial_count": 120,
+  "recovery_batch_size": 10,
+  "partial_manifest_sha256": "035f0b3f92ca833c7d844dbd472239c3ae5530ea99a1ee65f33e237dc1d59aae",
+  "prompt_sha256": "dacabb0a5cca396865e7d5ea1820af77baf0e4f93486060bfe1690a576b7f199",
+  "created_at": "2026-09-10T18:29:53.255216+00:00",
+  "note": "Preserved 120 accepted v1 outputs. The next 20-item response failed exact ID validation and was not accepted. Remaining 80 recovered in exact 10-item batches."
+}

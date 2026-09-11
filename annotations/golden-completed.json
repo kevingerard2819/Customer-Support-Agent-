@@ -1,0 +1,1607 @@
+{
+  "packet_id": "e814af31db3c1703f0e30d55360e7693e4d47e9ac12212f7909333260fd945ad",
+  "guide_version": "0.2",
+  "source": "human_entries_in_local_annotation_tool",
+  "labels": {
+    "510478": {
+      "intent": "playback_app",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "its a suggestion ",
+      "updated_at": "2026-09-10T08:02:39.133822+00:00"
+    },
+    "2081816": {
+      "intent": "billing_subscription",
+      "route": "escalate",
+      "reason": "supported_general_help",
+      "flag": "",
+      "notes": "its a billing isssue ",
+      "updated_at": "2026-09-10T08:06:00.106656+00:00"
+    },
+    "1887548": {
+      "intent": "account_access_security",
+      "route": "escalate",
+      "reason": "account_action",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T08:06:29.375122+00:00"
+    },
+    "2414561": {
+      "intent": "other_unclear",
+      "route": "escalate",
+      "reason": "supported_general_help",
+      "flag": "",
+      "notes": "cutomer wants to talk\n",
+      "updated_at": "2026-09-10T08:07:24.933182+00:00"
+    },
+    "1339549": {
+      "intent": "social_acknowledgement",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T08:07:31.936482+00:00"
+    },
+    "2627920": {
+      "intent": "other_unclear",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T08:08:22.099226+00:00"
+    },
+    "2141762": {
+      "intent": "playback_app",
+      "route": "escalate",
+      "reason": "repeated_failure",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T08:08:57.083920+00:00"
+    },
+    "2560544": {
+      "intent": "billing_subscription",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T08:09:22.614382+00:00"
+    },
+    "2609463": {
+      "intent": "billing_subscription",
+      "route": "escalate",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T08:09:34.490068+00:00"
+    },
+    "2948927": {
+      "intent": "library_playlists",
+      "route": "escalate",
+      "reason": "supported_general_help",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T08:10:15.456241+00:00"
+    },
+    "2043856": {
+      "intent": "billing_subscription",
+      "route": "escalate",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T08:10:44.493336+00:00"
+    },
+    "1838290": {
+      "intent": "social_acknowledgement",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T08:10:52.885373+00:00"
+    },
+    "562453": {
+      "intent": "billing_subscription",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T08:11:03.267828+00:00"
+    },
+    "2065606": {
+      "intent": "other_unclear",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T08:11:11.770197+00:00"
+    },
+    "292967": {
+      "intent": "feedback_feature_request",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T08:11:20.164550+00:00"
+    },
+    "439857": {
+      "intent": "other_unclear",
+      "route": "escalate",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T08:11:51.548055+00:00"
+    },
+    "111990": {
+      "intent": "social_acknowledgement",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T08:12:16.134811+00:00"
+    },
+    "1804308": {
+      "intent": "feedback_feature_request",
+      "route": "escalate",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T08:13:02.600733+00:00"
+    },
+    "1545286": {
+      "intent": "feedback_feature_request",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T08:13:29.978964+00:00"
+    },
+    "629915": {
+      "intent": "social_acknowledgement",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T08:13:38.871791+00:00"
+    },
+    "2081798": {
+      "intent": "playback_app",
+      "route": "escalate",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T08:16:03.954202+00:00"
+    },
+    "1988845": {
+      "intent": "billing_subscription",
+      "route": "escalate",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T08:16:18.554889+00:00"
+    },
+    "203126": {
+      "intent": "billing_subscription",
+      "route": "escalate",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T08:16:37.938919+00:00"
+    },
+    "712178": {
+      "intent": "social_acknowledgement",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T08:16:52.973392+00:00"
+    },
+    "2125245": {
+      "intent": "catalog_availability",
+      "route": "auto_handle",
+      "reason": "account_action",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T08:17:10.880280+00:00"
+    },
+    "163747": {
+      "intent": "playback_app",
+      "route": "escalate",
+      "reason": "repeated_failure",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T08:59:35.236530+00:00"
+    },
+    "1779504": {
+      "intent": "billing_subscription",
+      "route": "escalate",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T08:59:56.494566+00:00"
+    },
+    "2637138": {
+      "intent": "catalog_availability",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T09:00:12.417307+00:00"
+    },
+    "1097428": {
+      "intent": "playback_app",
+      "route": "escalate",
+      "reason": "repeated_failure",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T09:00:47.589239+00:00"
+    },
+    "2042082": {
+      "intent": "account_access_security",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T09:01:26.492575+00:00"
+    },
+    "834634": {
+      "intent": "playback_app",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T09:01:40.973682+00:00"
+    },
+    "2580777": {
+      "intent": "playback_app",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T09:02:00.936627+00:00"
+    },
+    "1874716": {
+      "intent": "billing_subscription",
+      "route": "escalate",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T09:02:10.578156+00:00"
+    },
+    "586361": {
+      "intent": "catalog_availability",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T09:02:22.782607+00:00"
+    },
+    "1134238": {
+      "intent": "playback_app",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T09:03:01.147469+00:00"
+    },
+    "674457": {
+      "intent": "playback_app",
+      "route": "escalate",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T09:03:48.318682+00:00"
+    },
+    "1983910": {
+      "intent": "account_access_security",
+      "route": "escalate",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T09:04:01.094016+00:00"
+    },
+    "1769558": {
+      "intent": "other_unclear",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T09:04:19.913155+00:00"
+    },
+    "1760761": {
+      "intent": "account_access_security",
+      "route": "escalate",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T09:04:30.116396+00:00"
+    },
+    "2915267": {
+      "intent": "account_access_security",
+      "route": "escalate",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T09:04:42.943671+00:00"
+    },
+    "184170": {
+      "intent": "playback_app",
+      "route": "escalate",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T09:05:04.333895+00:00"
+    },
+    "792874": {
+      "intent": "billing_subscription",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T09:05:18.714515+00:00"
+    },
+    "1783957": {
+      "intent": "playback_app",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T09:05:39.743207+00:00"
+    },
+    "739920": {
+      "intent": "social_acknowledgement",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T09:05:47.929310+00:00"
+    },
+    "514141": {
+      "intent": "other_unclear",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T09:06:07.845015+00:00"
+    },
+    "149381": {
+      "intent": "playback_app",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T09:06:22.207680+00:00"
+    },
+    "1825708": {
+      "intent": "billing_subscription",
+      "route": "escalate",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T09:07:05.278502+00:00"
+    },
+    "2794515": {
+      "intent": "billing_subscription",
+      "route": "escalate",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T09:07:18.687950+00:00"
+    },
+    "2183184": {
+      "intent": "billing_subscription",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T09:07:39.556377+00:00"
+    },
+    "89512": {
+      "intent": "feedback_feature_request",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T09:08:03.485449+00:00"
+    },
+    "7011": {
+      "intent": "billing_subscription",
+      "route": "escalate",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T09:08:10.913298+00:00"
+    },
+    "2025874": {
+      "intent": "playback_app",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T09:08:21.855941+00:00"
+    },
+    "2118692": {
+      "intent": "social_acknowledgement",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T09:08:31.704457+00:00"
+    },
+    "2912350": {
+      "intent": "feedback_feature_request",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T09:08:49.446493+00:00"
+    },
+    "1521346": {
+      "intent": "feedback_feature_request",
+      "route": "escalate",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T09:09:06.201571+00:00"
+    },
+    "1659439": {
+      "intent": "feedback_feature_request",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T09:09:13.815206+00:00"
+    },
+    "2902798": {
+      "intent": "billing_subscription",
+      "route": "escalate",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T09:22:05.085486+00:00"
+    },
+    "438426": {
+      "intent": "billing_subscription",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T09:22:13.633074+00:00"
+    },
+    "31593": {
+      "intent": "feedback_feature_request",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T09:22:27.305517+00:00"
+    },
+    "1938400": {
+      "intent": "other_unclear",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T09:23:04.401740+00:00"
+    },
+    "567991": {
+      "intent": "playback_app",
+      "route": "escalate",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T09:58:13.740882+00:00"
+    },
+    "1853470": {
+      "intent": "playback_app",
+      "route": "escalate",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T09:58:35.225581+00:00"
+    },
+    "2251534": {
+      "intent": "catalog_availability",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T09:58:51.435529+00:00"
+    },
+    "1265642": {
+      "intent": "playback_app",
+      "route": "escalate",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T09:59:23.441552+00:00"
+    },
+    "2951506": {
+      "intent": "social_acknowledgement",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T09:59:33.165143+00:00"
+    },
+    "2305413": {
+      "intent": "other_unclear",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T09:59:44.230503+00:00"
+    },
+    "2138988": {
+      "intent": "billing_subscription",
+      "route": "escalate",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:00:00.524947+00:00"
+    },
+    "1989580": {
+      "intent": "other_unclear",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:00:34.440189+00:00"
+    },
+    "2268730": {
+      "intent": "feedback_feature_request",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:00:45.909311+00:00"
+    },
+    "1198674": {
+      "intent": "playback_app",
+      "route": "escalate",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:00:59.349701+00:00"
+    },
+    "1476019": {
+      "intent": "billing_subscription",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "you need to be enrolled at uni or school",
+      "updated_at": "2026-09-10T10:01:33.904868+00:00"
+    },
+    "1761839": {
+      "intent": "playback_app",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:01:45.293065+00:00"
+    },
+    "2442061": {
+      "intent": "library_playlists",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:02:02.732872+00:00"
+    },
+    "663087": {
+      "intent": "billing_subscription",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "company policy",
+      "updated_at": "2026-09-10T10:02:18.028115+00:00"
+    },
+    "2504254": {
+      "intent": "library_playlists",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:02:29.549954+00:00"
+    },
+    "207212": {
+      "intent": "playback_app",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:02:46.200171+00:00"
+    },
+    "1845723": {
+      "intent": "account_access_security",
+      "route": "escalate",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:02:54.191668+00:00"
+    },
+    "2105361": {
+      "intent": "account_access_security",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:03:20.907040+00:00"
+    },
+    "2036310": {
+      "intent": "feedback_feature_request",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:03:31.265744+00:00"
+    },
+    "1112623": {
+      "intent": "billing_subscription",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:03:51.807170+00:00"
+    },
+    "2045366": {
+      "intent": "library_playlists",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:04:01.531699+00:00"
+    },
+    "2878327": {
+      "intent": "other_unclear",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:04:17.124240+00:00"
+    },
+    "1862655": {
+      "intent": "billing_subscription",
+      "route": "escalate",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:04:26.315877+00:00"
+    },
+    "2063233": {
+      "intent": "billing_subscription",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:04:43.261484+00:00"
+    },
+    "2712664": {
+      "intent": "catalog_availability",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:05:00.663389+00:00"
+    },
+    "758530": {
+      "intent": "social_acknowledgement",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:05:20.330754+00:00"
+    },
+    "2272752": {
+      "intent": "playback_app",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:06:18.113891+00:00"
+    },
+    "2165543": {
+      "intent": "playback_app",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:06:43.907730+00:00"
+    },
+    "1145862": {
+      "intent": "playback_app",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:07:02.700428+00:00"
+    },
+    "1587579": {
+      "intent": "feedback_feature_request",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:07:28.316508+00:00"
+    },
+    "230264": {
+      "intent": "billing_subscription",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:07:38.249228+00:00"
+    },
+    "1377519": {
+      "intent": "billing_subscription",
+      "route": "escalate",
+      "reason": "repeated_failure",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:08:50.228292+00:00"
+    },
+    "1982963": {
+      "intent": "feedback_feature_request",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:09:01.266025+00:00"
+    },
+    "260045": {
+      "intent": "playback_app",
+      "route": "escalate",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:09:26.013322+00:00"
+    },
+    "1939073": {
+      "intent": "billing_subscription",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:09:40.869656+00:00"
+    },
+    "1780586": {
+      "intent": "billing_subscription",
+      "route": "escalate",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:09:51.904196+00:00"
+    },
+    "335343": {
+      "intent": "feedback_feature_request",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:10:04.521688+00:00"
+    },
+    "1897161": {
+      "intent": "catalog_availability",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:10:14.710913+00:00"
+    },
+    "1992091": {
+      "intent": "catalog_availability",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:10:21.097991+00:00"
+    },
+    "2259710": {
+      "intent": "feedback_feature_request",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:10:32.670681+00:00"
+    },
+    "1143737": {
+      "intent": "playback_app",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:10:52.770004+00:00"
+    },
+    "1103674": {
+      "intent": "playback_app",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:11:01.593890+00:00"
+    },
+    "1830851": {
+      "intent": "feedback_feature_request",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:11:16.330303+00:00"
+    },
+    "2456259": {
+      "intent": "billing_subscription",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:11:23.810504+00:00"
+    },
+    "895201": {
+      "intent": "account_access_security",
+      "route": "escalate",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:11:37.706721+00:00"
+    },
+    "1720287": {
+      "intent": "catalog_availability",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:11:45.747691+00:00"
+    },
+    "1807589": {
+      "intent": "feedback_feature_request",
+      "route": "escalate",
+      "reason": "safe_acknowledgement",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:12:04.608985+00:00"
+    },
+    "1676599": {
+      "intent": "feedback_feature_request",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:12:18.448864+00:00"
+    },
+    "2216049": {
+      "intent": "library_playlists",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:12:30.089346+00:00"
+    },
+    "1934280": {
+      "intent": "feedback_feature_request",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:12:50.275401+00:00"
+    },
+    "2821996": {
+      "intent": "feedback_feature_request",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:13:53.037398+00:00"
+    },
+    "1996450": {
+      "intent": "library_playlists",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:14:03.942455+00:00"
+    },
+    "2394406": {
+      "intent": "account_access_security",
+      "route": "escalate",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:14:14.716627+00:00"
+    },
+    "2861287": {
+      "intent": "billing_subscription",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:14:26.413151+00:00"
+    },
+    "1991700": {
+      "intent": "billing_subscription",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:14:45.459209+00:00"
+    },
+    "2457268": {
+      "intent": "feedback_feature_request",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:14:57.267964+00:00"
+    },
+    "2746365": {
+      "intent": "feedback_feature_request",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:15:05.379147+00:00"
+    },
+    "2749457": {
+      "intent": "playback_app",
+      "route": "escalate",
+      "reason": "repeated_failure",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:15:25.410248+00:00"
+    },
+    "163713": {
+      "intent": "feedback_feature_request",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:15:33.868969+00:00"
+    },
+    "2363327": {
+      "intent": "account_access_security",
+      "route": "escalate",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:15:40.783229+00:00"
+    },
+    "1145281": {
+      "intent": "account_access_security",
+      "route": "escalate",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:15:58.047717+00:00"
+    },
+    "1749860": {
+      "intent": "library_playlists",
+      "route": "escalate",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:16:28.239922+00:00"
+    },
+    "925390": {
+      "intent": "billing_subscription",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:16:36.825216+00:00"
+    },
+    "2852990": {
+      "intent": "social_acknowledgement",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:16:47.911405+00:00"
+    },
+    "2583310": {
+      "intent": "catalog_availability",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:16:59.631776+00:00"
+    },
+    "689585": {
+      "intent": "billing_subscription",
+      "route": "escalate",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:19:59.834025+00:00"
+    },
+    "2555577": {
+      "intent": "billing_subscription",
+      "route": "escalate",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:20:17.846934+00:00"
+    },
+    "1198657": {
+      "intent": "billing_subscription",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:20:27.310705+00:00"
+    },
+    "1517639": {
+      "intent": "feedback_feature_request",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:20:39.916495+00:00"
+    },
+    "1103029": {
+      "intent": "social_acknowledgement",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:21:18.686203+00:00"
+    },
+    "1695256": {
+      "intent": "feedback_feature_request",
+      "route": "escalate",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:21:49.727090+00:00"
+    },
+    "1778471": {
+      "intent": "billing_subscription",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:22:02.714912+00:00"
+    },
+    "1286621": {
+      "intent": "library_playlists",
+      "route": "escalate",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:22:27.317416+00:00"
+    },
+    "2279523": {
+      "intent": "playback_app",
+      "route": "escalate",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:22:49.487735+00:00"
+    },
+    "576784": {
+      "intent": "feedback_feature_request",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:23:09.215456+00:00"
+    },
+    "450860": {
+      "intent": "other_unclear",
+      "route": "escalate",
+      "reason": "sensitive_safety",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:28:13.683028+00:00"
+    },
+    "619707": {
+      "intent": "feedback_feature_request",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:28:30.803866+00:00"
+    },
+    "652030": {
+      "intent": "billing_subscription",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:28:44.055600+00:00"
+    },
+    "2276904": {
+      "intent": "catalog_availability",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:28:51.720361+00:00"
+    },
+    "648648": {
+      "intent": "feedback_feature_request",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:29:07.551364+00:00"
+    },
+    "2560565": {
+      "intent": "library_playlists",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:30:00.617762+00:00"
+    },
+    "2629114": {
+      "intent": "feedback_feature_request",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:47:05.460280+00:00"
+    },
+    "2246028": {
+      "intent": "playback_app",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:47:29.143773+00:00"
+    },
+    "2504234": {
+      "intent": "catalog_availability",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:47:40.717110+00:00"
+    },
+    "789815": {
+      "intent": "billing_subscription",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:48:56.260670+00:00"
+    },
+    "1470934": {
+      "intent": "playback_app",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:49:05.613196+00:00"
+    },
+    "1993001": {
+      "intent": "feedback_feature_request",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:49:25.156425+00:00"
+    },
+    "2190782": {
+      "intent": "account_access_security",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:49:38.150064+00:00"
+    },
+    "1298576": {
+      "intent": "playback_app",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:49:50.071376+00:00"
+    },
+    "823260": {
+      "intent": "feedback_feature_request",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:50:00.853691+00:00"
+    },
+    "1998290": {
+      "intent": "account_access_security",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:51:15.330130+00:00"
+    },
+    "1851438": {
+      "intent": "account_access_security",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:51:26.602795+00:00"
+    },
+    "1794771": {
+      "intent": "billing_subscription",
+      "route": "escalate",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:51:36.155155+00:00"
+    },
+    "876815": {
+      "intent": "other_unclear",
+      "route": "escalate",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:51:49.932069+00:00"
+    },
+    "813542": {
+      "intent": "other_unclear",
+      "route": "escalate",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:52:28.368678+00:00"
+    },
+    "1034901": {
+      "intent": "billing_subscription",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:52:46.255197+00:00"
+    },
+    "2183001": {
+      "intent": "account_access_security",
+      "route": "escalate",
+      "reason": "security_privacy",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:53:11.350684+00:00"
+    },
+    "91667": {
+      "intent": "account_access_security",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:53:26.681279+00:00"
+    },
+    "1871599": {
+      "intent": "billing_subscription",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:53:41.470053+00:00"
+    },
+    "1215738": {
+      "intent": "feedback_feature_request",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:53:58.249895+00:00"
+    },
+    "548698": {
+      "intent": "feedback_feature_request",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:54:12.131105+00:00"
+    },
+    "1098085": {
+      "intent": "feedback_feature_request",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:54:25.197248+00:00"
+    },
+    "2036355": {
+      "intent": "billing_subscription",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:54:34.902956+00:00"
+    },
+    "2264840": {
+      "intent": "feedback_feature_request",
+      "route": "escalate",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:55:06.929129+00:00"
+    },
+    "1871992": {
+      "intent": "billing_subscription",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:55:16.240261+00:00"
+    },
+    "48085": {
+      "intent": "playback_app",
+      "route": "escalate",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:55:30.353981+00:00"
+    },
+    "2789384": {
+      "intent": "playback_app",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:55:38.852334+00:00"
+    },
+    "238023": {
+      "intent": "playback_app",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:55:46.714320+00:00"
+    },
+    "852668": {
+      "intent": "billing_subscription",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:55:54.310037+00:00"
+    },
+    "2913904": {
+      "intent": "other_unclear",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:56:00.561463+00:00"
+    },
+    "863686": {
+      "intent": "feedback_feature_request",
+      "route": "escalate",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:56:15.557250+00:00"
+    },
+    "2287370": {
+      "intent": "billing_subscription",
+      "route": "escalate",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:56:23.452816+00:00"
+    },
+    "2405263": {
+      "intent": "feedback_feature_request",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:56:32.806927+00:00"
+    },
+    "1783692": {
+      "intent": "account_access_security",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:56:41.741674+00:00"
+    },
+    "2052018": {
+      "intent": "billing_subscription",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:56:52.673302+00:00"
+    },
+    "2848318": {
+      "intent": "account_access_security",
+      "route": "escalate",
+      "reason": "security_privacy",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:57:18.487816+00:00"
+    },
+    "2070762": {
+      "intent": "billing_subscription",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:57:30.882233+00:00"
+    },
+    "106327": {
+      "intent": "social_acknowledgement",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:57:36.454953+00:00"
+    },
+    "623005": {
+      "intent": "playback_app",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:57:50.904658+00:00"
+    },
+    "2691957": {
+      "intent": "social_acknowledgement",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:57:57.425900+00:00"
+    },
+    "462665": {
+      "intent": "account_access_security",
+      "route": "escalate",
+      "reason": "sensitive_safety",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:58:06.494378+00:00"
+    },
+    "2084662": {
+      "intent": "account_access_security",
+      "route": "escalate",
+      "reason": "security_privacy",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:58:16.916449+00:00"
+    },
+    "2968468": {
+      "intent": "billing_subscription",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:58:26.603741+00:00"
+    },
+    "1306144": {
+      "intent": "account_access_security",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:58:42.976742+00:00"
+    },
+    "2817500": {
+      "intent": "other_unclear",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:59:02.608112+00:00"
+    },
+    "2921971": {
+      "intent": "feedback_feature_request",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:59:12.953636+00:00"
+    },
+    "1876204": {
+      "intent": "playback_app",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:59:26.047705+00:00"
+    },
+    "1897423": {
+      "intent": "account_access_security",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:59:33.118944+00:00"
+    },
+    "1451706": {
+      "intent": "billing_subscription",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:59:40.459773+00:00"
+    },
+    "1337494": {
+      "intent": "billing_subscription",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T10:59:50.636108+00:00"
+    },
+    "1964114": {
+      "intent": "billing_subscription",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T11:00:05.215325+00:00"
+    },
+    "2030150": {
+      "intent": "billing_subscription",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T11:00:14.379343+00:00"
+    },
+    "568941": {
+      "intent": "feedback_feature_request",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T11:00:24.953838+00:00"
+    },
+    "1812153": {
+      "intent": "billing_subscription",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T11:00:33.538569+00:00"
+    },
+    "454701": {
+      "intent": "account_access_security",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T11:00:42.112951+00:00"
+    },
+    "1883295": {
+      "intent": "billing_subscription",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T11:00:56.148937+00:00"
+    },
+    "645130": {
+      "intent": "billing_subscription",
+      "route": "escalate",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T11:01:06.562768+00:00"
+    },
+    "1882482": {
+      "intent": "library_playlists",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T11:01:24.353190+00:00"
+    },
+    "2394579": {
+      "intent": "playback_app",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T11:01:33.742220+00:00"
+    },
+    "2069240": {
+      "intent": "billing_subscription",
+      "route": "auto_handle",
+      "reason": "",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T11:01:41.718144+00:00"
+    }
+  }
+}

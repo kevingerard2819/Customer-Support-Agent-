@@ -1,0 +1,160 @@
+{
+  "parsed": {
+    "results": [
+      {
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "The draft acknowledges the user's issue with lag/bugs and provides a path to resolve the cancelation request via DM, which aligns with historical evidence where cancelation inquiries are escalated backstage.",
+        "rating_id": "4326ed422619"
+      },
+      {
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "An escalate route with a standard human handoff draft is appropriate here as there is no specific historical evidence addressing this issue.",
+        "rating_id": "116a99fdcaf5"
+      },
+      {
+        "correctness": 1,
+        "grounding": 1,
+        "usefulness": 1,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "The historical reply matches a generic request for help, but the user's specific request is about changing the country on their account. The draft asks how to help today instead of addressing the country change directly.",
+        "rating_id": "8d2102d328cf"
+      },
+      {
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "The draft uses historical evidence appropriately to address a follow-up query with no new updates.",
+        "rating_id": "2c32bb619605"
+      },
+      {
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "A safe human handoff is appropriate for a generic greeting following a furious customer message.",
+        "rating_id": "5e73e1d94780"
+      },
+      {
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "An escalate route with a standard handoff message is appropriate as there is no direct matching evidence for laptop ad freezes.",
+        "rating_id": "beb692381d26"
+      },
+      {
+        "correctness": 0,
+        "grounding": 0,
+        "usefulness": 0,
+        "routing_privacy": 2,
+        "critical_failure": true,
+        "rationale": "The draft uses irrelevant historical evidence about an Apple Watch app request, offering a link to vote on an idea, whereas the customer wants to cancel because of bugs and lag.",
+        "rating_id": "4199facfeeaf"
+      },
+      {
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "An escalate route with a standard human handoff draft is appropriate here.",
+        "rating_id": "2fd0bae01a48"
+      },
+      {
+        "correctness": 1,
+        "grounding": 1,
+        "usefulness": 1,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "The draft suggests troubleshooting for downloaded songs not playing, but the customer's issue is 'No internet when connected to wifi'. This is slightly mismatched.",
+        "rating_id": "0267bd4e77ec"
+      },
+      {
+        "correctness": 0,
+        "grounding": 0,
+        "usefulness": 0,
+        "routing_privacy": 2,
+        "critical_failure": true,
+        "rationale": "The draft is completely irrelevant, talking about launching in new countries (Yogesh/India) instead of answering the customer's question about parental controls for explicit content.",
+        "rating_id": "e1d4e59b645e"
+      },
+      {
+        "correctness": 0,
+        "grounding": 0,
+        "usefulness": 0,
+        "routing_privacy": 2,
+        "critical_failure": true,
+        "rationale": "The draft is based on irrelevant evidence about changing a username (Hi Henna!) instead of answering the user's issue about volume controls on their sport watch.",
+        "rating_id": "bc93ae174682"
+      },
+      {
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "An escalate route with a standard human handoff draft is appropriate since there is no specific matching evidence.",
+        "rating_id": "26fd1791ee3d"
+      },
+      {
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "The draft perfectly addresses the 'CSRF token is invalid' error during password recovery, matching the historical evidence and offering to check backstage via DM.",
+        "rating_id": "13430d53b0d6"
+      },
+      {
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "An escalate route with standard human handoff draft is appropriate as this involves discount application and student eligibility.",
+        "rating_id": "c2844d313cd6"
+      },
+      {
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "The draft uses the historical evidence appropriately to tell the user that they have replied to their DM, which is suitable after a follow-up greeting.",
+        "rating_id": "c958f1b80b86"
+      }
+    ]
+  },
+  "metadata": {
+    "model": "gemini-3.5-flash",
+    "model_version": "gemini-3.5-flash",
+    "request_sha256": "e183c857f986eb130a1ee363ae4f407917995c97dae6292953a88845fc415886",
+    "usage": {
+      "promptTokenCount": 4317,
+      "candidatesTokenCount": 1593,
+      "totalTokenCount": 5910,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 4317
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "latency_ms": 150483.6161000021,
+    "cache_hit": false
+  }
+}

@@ -1,0 +1,620 @@
+{
+  "trivial": {
+    "dev": {
+      "n": 50,
+      "intent_accuracy": 0.26,
+      "intent_macro_f1_all_8": 0.051587301587301584,
+      "intent_per_class": {
+        "billing_subscription": {
+          "precision": 0.26,
+          "recall": 1.0,
+          "f1": 0.4126984126984127,
+          "support": 13
+        },
+        "account_access_security": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 5
+        },
+        "playback_app": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 12
+        },
+        "library_playlists": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 1
+        },
+        "catalog_availability": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 3
+        },
+        "feedback_feature_request": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 4
+        },
+        "social_acknowledgement": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 6
+        },
+        "other_unclear": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 6
+        }
+      },
+      "auto_count": 0,
+      "auto_coverage": 0.0,
+      "escalation_required_count": 23,
+      "escalation_recall": 1.0,
+      "auto_route_disagreements": 0,
+      "auto_route_disagreement_rate": null,
+      "auto_route_disagreement_wilson95": null,
+      "reply_kind_counts": {
+        "handoff": 50
+      },
+      "reply_quality_measured": false
+    },
+    "test_representative": {
+      "n": 120,
+      "intent_accuracy": 0.24166666666666667,
+      "intent_macro_f1_all_8": 0.04865771812080537,
+      "intent_per_class": {
+        "billing_subscription": {
+          "precision": 0.24166666666666667,
+          "recall": 1.0,
+          "f1": 0.38926174496644295,
+          "support": 29
+        },
+        "account_access_security": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 11
+        },
+        "playback_app": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 21
+        },
+        "library_playlists": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 8
+        },
+        "catalog_availability": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 8
+        },
+        "feedback_feature_request": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 30
+        },
+        "social_acknowledgement": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 5
+        },
+        "other_unclear": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 8
+        }
+      },
+      "auto_count": 0,
+      "auto_coverage": 0.0,
+      "escalation_required_count": 32,
+      "escalation_recall": 1.0,
+      "auto_route_disagreements": 0,
+      "auto_route_disagreement_rate": null,
+      "auto_route_disagreement_wilson95": null,
+      "reply_kind_counts": {
+        "handoff": 120
+      },
+      "reply_quality_measured": false
+    },
+    "test_challenge": {
+      "n": 30,
+      "intent_accuracy": 0.4,
+      "intent_macro_f1_all_8": 0.07142857142857142,
+      "intent_per_class": {
+        "billing_subscription": {
+          "precision": 0.4,
+          "recall": 1.0,
+          "f1": 0.5714285714285714,
+          "support": 12
+        },
+        "account_access_security": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 7
+        },
+        "playback_app": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 3
+        },
+        "library_playlists": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 1
+        },
+        "catalog_availability": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 0
+        },
+        "feedback_feature_request": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 4
+        },
+        "social_acknowledgement": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 2
+        },
+        "other_unclear": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 1
+        }
+      },
+      "auto_count": 0,
+      "auto_coverage": 0.0,
+      "escalation_required_count": 6,
+      "escalation_recall": 1.0,
+      "auto_route_disagreements": 0,
+      "auto_route_disagreement_rate": null,
+      "auto_route_disagreement_wilson95": null,
+      "reply_kind_counts": {
+        "handoff": 30
+      },
+      "reply_quality_measured": false
+    }
+  },
+  "simple": {
+    "dev": {
+      "n": 50,
+      "intent_accuracy": 1.0,
+      "intent_macro_f1_all_8": 1.0,
+      "intent_per_class": {
+        "billing_subscription": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 13
+        },
+        "account_access_security": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 5
+        },
+        "playback_app": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 12
+        },
+        "library_playlists": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 1
+        },
+        "catalog_availability": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 3
+        },
+        "feedback_feature_request": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 4
+        },
+        "social_acknowledgement": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 6
+        },
+        "other_unclear": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 6
+        }
+      },
+      "auto_count": 12,
+      "auto_coverage": 0.24,
+      "escalation_required_count": 23,
+      "escalation_recall": 0.9565217391304348,
+      "auto_route_disagreements": 1,
+      "auto_route_disagreement_rate": 0.08333333333333333,
+      "auto_route_disagreement_wilson95": [
+        0.014864709450773478,
+        0.35388592179859524
+      ],
+      "reply_kind_counts": {
+        "historical_reply": 50
+      },
+      "reply_quality_measured": false
+    },
+    "test_representative": {
+      "n": 120,
+      "intent_accuracy": 0.3416666666666667,
+      "intent_macro_f1_all_8": 0.19057620885412563,
+      "intent_per_class": {
+        "billing_subscription": {
+          "precision": 0.5609756097560976,
+          "recall": 0.7931034482758621,
+          "f1": 0.6571428571428571,
+          "support": 29
+        },
+        "account_access_security": {
+          "precision": 0.5,
+          "recall": 0.36363636363636365,
+          "f1": 0.42105263157894735,
+          "support": 11
+        },
+        "playback_app": {
+          "precision": 0.23076923076923078,
+          "recall": 0.5714285714285714,
+          "f1": 0.3287671232876712,
+          "support": 21
+        },
+        "library_playlists": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 8
+        },
+        "catalog_availability": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 8
+        },
+        "feedback_feature_request": {
+          "precision": 0.5,
+          "recall": 0.06666666666666667,
+          "f1": 0.11764705882352941,
+          "support": 30
+        },
+        "social_acknowledgement": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 5
+        },
+        "other_unclear": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 8
+        }
+      },
+      "auto_count": 27,
+      "auto_coverage": 0.225,
+      "escalation_required_count": 32,
+      "escalation_recall": 0.78125,
+      "auto_route_disagreements": 7,
+      "auto_route_disagreement_rate": 0.25925925925925924,
+      "auto_route_disagreement_wilson95": [
+        0.13170208422866778,
+        0.4467893040261568
+      ],
+      "reply_kind_counts": {
+        "historical_reply": 120
+      },
+      "reply_quality_measured": false
+    },
+    "test_challenge": {
+      "n": 30,
+      "intent_accuracy": 0.4666666666666667,
+      "intent_macro_f1_all_8": 0.2537878787878788,
+      "intent_per_class": {
+        "billing_subscription": {
+          "precision": 0.6428571428571429,
+          "recall": 0.75,
+          "f1": 0.6923076923076923,
+          "support": 12
+        },
+        "account_access_security": {
+          "precision": 0.5,
+          "recall": 0.2857142857142857,
+          "f1": 0.36363636363636365,
+          "support": 7
+        },
+        "playback_app": {
+          "precision": 0.2,
+          "recall": 0.6666666666666666,
+          "f1": 0.3076923076923077,
+          "support": 3
+        },
+        "library_playlists": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 1
+        },
+        "catalog_availability": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 0
+        },
+        "feedback_feature_request": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 4
+        },
+        "social_acknowledgement": {
+          "precision": 1.0,
+          "recall": 0.5,
+          "f1": 0.6666666666666666,
+          "support": 2
+        },
+        "other_unclear": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 1
+        }
+      },
+      "auto_count": 7,
+      "auto_coverage": 0.23333333333333334,
+      "escalation_required_count": 6,
+      "escalation_recall": 1.0,
+      "auto_route_disagreements": 0,
+      "auto_route_disagreement_rate": 0.0,
+      "auto_route_disagreement_wilson95": [
+        0,
+        0.35433884297520657
+      ],
+      "reply_kind_counts": {
+        "historical_reply": 30
+      },
+      "reply_quality_measured": false
+    }
+  },
+  "guarded_retrieval": {
+    "dev": {
+      "n": 50,
+      "intent_accuracy": 1.0,
+      "intent_macro_f1_all_8": 1.0,
+      "intent_per_class": {
+        "billing_subscription": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 13
+        },
+        "account_access_security": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 5
+        },
+        "playback_app": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 12
+        },
+        "library_playlists": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 1
+        },
+        "catalog_availability": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 3
+        },
+        "feedback_feature_request": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 4
+        },
+        "social_acknowledgement": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 6
+        },
+        "other_unclear": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 6
+        }
+      },
+      "auto_count": 0,
+      "auto_coverage": 0.0,
+      "escalation_required_count": 23,
+      "escalation_recall": 1.0,
+      "auto_route_disagreements": 0,
+      "auto_route_disagreement_rate": null,
+      "auto_route_disagreement_wilson95": null,
+      "reply_kind_counts": {
+        "handoff": 50
+      },
+      "reply_quality_measured": false
+    },
+    "test_representative": {
+      "n": 120,
+      "intent_accuracy": 0.3416666666666667,
+      "intent_macro_f1_all_8": 0.19057620885412563,
+      "intent_per_class": {
+        "billing_subscription": {
+          "precision": 0.5609756097560976,
+          "recall": 0.7931034482758621,
+          "f1": 0.6571428571428571,
+          "support": 29
+        },
+        "account_access_security": {
+          "precision": 0.5,
+          "recall": 0.36363636363636365,
+          "f1": 0.42105263157894735,
+          "support": 11
+        },
+        "playback_app": {
+          "precision": 0.23076923076923078,
+          "recall": 0.5714285714285714,
+          "f1": 0.3287671232876712,
+          "support": 21
+        },
+        "library_playlists": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 8
+        },
+        "catalog_availability": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 8
+        },
+        "feedback_feature_request": {
+          "precision": 0.5,
+          "recall": 0.06666666666666667,
+          "f1": 0.11764705882352941,
+          "support": 30
+        },
+        "social_acknowledgement": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 5
+        },
+        "other_unclear": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 8
+        }
+      },
+      "auto_count": 3,
+      "auto_coverage": 0.025,
+      "escalation_required_count": 32,
+      "escalation_recall": 1.0,
+      "auto_route_disagreements": 0,
+      "auto_route_disagreement_rate": 0.0,
+      "auto_route_disagreement_wilson95": [
+        0,
+        0.5615060804490177
+      ],
+      "reply_kind_counts": {
+        "handoff": 117,
+        "clarification": 2,
+        "acknowledgement": 1
+      },
+      "reply_quality_measured": false
+    },
+    "test_challenge": {
+      "n": 30,
+      "intent_accuracy": 0.4666666666666667,
+      "intent_macro_f1_all_8": 0.2537878787878788,
+      "intent_per_class": {
+        "billing_subscription": {
+          "precision": 0.6428571428571429,
+          "recall": 0.75,
+          "f1": 0.6923076923076923,
+          "support": 12
+        },
+        "account_access_security": {
+          "precision": 0.5,
+          "recall": 0.2857142857142857,
+          "f1": 0.36363636363636365,
+          "support": 7
+        },
+        "playback_app": {
+          "precision": 0.2,
+          "recall": 0.6666666666666666,
+          "f1": 0.3076923076923077,
+          "support": 3
+        },
+        "library_playlists": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 1
+        },
+        "catalog_availability": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 0
+        },
+        "feedback_feature_request": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 4
+        },
+        "social_acknowledgement": {
+          "precision": 1.0,
+          "recall": 0.5,
+          "f1": 0.6666666666666666,
+          "support": 2
+        },
+        "other_unclear": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 1
+        }
+      },
+      "auto_count": 1,
+      "auto_coverage": 0.03333333333333333,
+      "escalation_required_count": 6,
+      "escalation_recall": 1.0,
+      "auto_route_disagreements": 0,
+      "auto_route_disagreement_rate": 0.0,
+      "auto_route_disagreement_wilson95": [
+        0,
+        0.7934567085261071
+      ],
+      "reply_kind_counts": {
+        "handoff": 29,
+        "acknowledgement": 1
+      },
+      "reply_quality_measured": false
+    }
+  }
+}

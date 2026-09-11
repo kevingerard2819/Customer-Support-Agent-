@@ -1,0 +1,42 @@
+{
+  "intent": "other_unclear",
+  "route": "escalate",
+  "reason": "insufficient_context",
+  "draft": "We're here to help. Could you send us a DM with more details about what's happening with the app, along with your username or email address?",
+  "evidence_ids": [],
+  "reply_kind": "handoff",
+  "tweet_id": "2913904",
+  "output_check_violations": [],
+  "split": "test_representative",
+  "system": "gemini",
+  "raw_prediction": {
+    "intent": "other_unclear",
+    "route": "escalate",
+    "reason": "insufficient_context",
+    "draft": "We're here to help. Could you send us a DM with more details about what's happening with the app, along with your username or email address?",
+    "evidence_ids": [],
+    "reply_kind": "handoff",
+    "tweet_id": "2913904"
+  },
+  "api_error": null,
+  "api_metadata": {
+    "model": "gemini-3.5-flash",
+    "model_version": "gemini-3.5-flash",
+    "request_sha256": "b5cde36d5e6d6459885c6cdc71c7846ca0b45049d3603c4024cfad8335abfb75",
+    "usage": {
+      "promptTokenCount": 8414,
+      "candidatesTokenCount": 1192,
+      "totalTokenCount": 9606,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 8414
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "latency_ms": 23677.850600000966,
+    "cache_hit": false
+  },
+  "latency_ms": 2367.7850600000966
+}

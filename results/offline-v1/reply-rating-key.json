@@ -1,0 +1,452 @@
+{
+  "6fdddaa193d0": {
+    "system": "trivial",
+    "tweet_id": "1887548",
+    "partition": "calibration"
+  },
+  "dbbc3fad6aa0": {
+    "system": "simple",
+    "tweet_id": "1887548",
+    "partition": "calibration"
+  },
+  "eaafcf6eea86": {
+    "system": "guarded_retrieval",
+    "tweet_id": "1887548",
+    "partition": "calibration"
+  },
+  "043eaaf5b72c": {
+    "system": "trivial",
+    "tweet_id": "203126",
+    "partition": "calibration"
+  },
+  "2bf3f3727788": {
+    "system": "simple",
+    "tweet_id": "203126",
+    "partition": "calibration"
+  },
+  "10aeeafd88f1": {
+    "system": "guarded_retrieval",
+    "tweet_id": "203126",
+    "partition": "calibration"
+  },
+  "41a3fc6962dc": {
+    "system": "trivial",
+    "tweet_id": "2609463",
+    "partition": "calibration"
+  },
+  "c36a3e7fcb3e": {
+    "system": "simple",
+    "tweet_id": "2609463",
+    "partition": "calibration"
+  },
+  "5962033095c9": {
+    "system": "guarded_retrieval",
+    "tweet_id": "2609463",
+    "partition": "calibration"
+  },
+  "b833b8bc83de": {
+    "system": "trivial",
+    "tweet_id": "712178",
+    "partition": "calibration"
+  },
+  "645d81d48d6b": {
+    "system": "simple",
+    "tweet_id": "712178",
+    "partition": "calibration"
+  },
+  "46ca3b2a2480": {
+    "system": "guarded_retrieval",
+    "tweet_id": "712178",
+    "partition": "calibration"
+  },
+  "0d421261ed26": {
+    "system": "trivial",
+    "tweet_id": "1783957",
+    "partition": "calibration"
+  },
+  "4a2e75dfb648": {
+    "system": "simple",
+    "tweet_id": "1783957",
+    "partition": "calibration"
+  },
+  "ed2a5c705b4c": {
+    "system": "guarded_retrieval",
+    "tweet_id": "1783957",
+    "partition": "calibration"
+  },
+  "2472cd2ffa3f": {
+    "system": "trivial",
+    "tweet_id": "2065606",
+    "partition": "calibration"
+  },
+  "d36added9f2e": {
+    "system": "simple",
+    "tweet_id": "2065606",
+    "partition": "calibration"
+  },
+  "459d0aca4521": {
+    "system": "guarded_retrieval",
+    "tweet_id": "2065606",
+    "partition": "calibration"
+  },
+  "b8bc45e6f6a4": {
+    "system": "trivial",
+    "tweet_id": "1779504",
+    "partition": "calibration"
+  },
+  "d8f38fffb1a1": {
+    "system": "simple",
+    "tweet_id": "1779504",
+    "partition": "calibration"
+  },
+  "65a4ae5e7bc8": {
+    "system": "guarded_retrieval",
+    "tweet_id": "1779504",
+    "partition": "calibration"
+  },
+  "538938317943": {
+    "system": "trivial",
+    "tweet_id": "184170",
+    "partition": "calibration"
+  },
+  "45b57cc5805f": {
+    "system": "simple",
+    "tweet_id": "184170",
+    "partition": "calibration"
+  },
+  "0a47f518071f": {
+    "system": "guarded_retrieval",
+    "tweet_id": "184170",
+    "partition": "calibration"
+  },
+  "a981165074a0": {
+    "system": "trivial",
+    "tweet_id": "629915",
+    "partition": "calibration"
+  },
+  "724d5292d184": {
+    "system": "simple",
+    "tweet_id": "629915",
+    "partition": "calibration"
+  },
+  "ded1cf4d941b": {
+    "system": "guarded_retrieval",
+    "tweet_id": "629915",
+    "partition": "calibration"
+  },
+  "b1f0fb3fdb8f": {
+    "system": "trivial",
+    "tweet_id": "834634",
+    "partition": "calibration"
+  },
+  "2bd386c7e77d": {
+    "system": "simple",
+    "tweet_id": "834634",
+    "partition": "calibration"
+  },
+  "72f0badb7cc5": {
+    "system": "guarded_retrieval",
+    "tweet_id": "834634",
+    "partition": "calibration"
+  },
+  "8285c0f0e98c": {
+    "system": "trivial",
+    "tweet_id": "1103029",
+    "partition": "validation"
+  },
+  "33ebae0fbf5a": {
+    "system": "simple",
+    "tweet_id": "1103029",
+    "partition": "validation"
+  },
+  "36da339ef50a": {
+    "system": "guarded_retrieval",
+    "tweet_id": "1103029",
+    "partition": "validation"
+  },
+  "d9e5cd6c72cc": {
+    "system": "trivial",
+    "tweet_id": "7011",
+    "partition": "validation"
+  },
+  "e6ff153d1120": {
+    "system": "simple",
+    "tweet_id": "7011",
+    "partition": "validation"
+  },
+  "a81205919829": {
+    "system": "guarded_retrieval",
+    "tweet_id": "7011",
+    "partition": "validation"
+  },
+  "87030f34966d": {
+    "system": "trivial",
+    "tweet_id": "1761839",
+    "partition": "validation"
+  },
+  "0baf246a3e42": {
+    "system": "simple",
+    "tweet_id": "1761839",
+    "partition": "validation"
+  },
+  "e43505b0a9a4": {
+    "system": "guarded_retrieval",
+    "tweet_id": "1761839",
+    "partition": "validation"
+  },
+  "2ec85fd98e55": {
+    "system": "trivial",
+    "tweet_id": "260045",
+    "partition": "validation"
+  },
+  "021aeaf9fc7a": {
+    "system": "simple",
+    "tweet_id": "260045",
+    "partition": "validation"
+  },
+  "15a1f04744c4": {
+    "system": "guarded_retrieval",
+    "tweet_id": "260045",
+    "partition": "validation"
+  },
+  "2bf280c4ebe1": {
+    "system": "trivial",
+    "tweet_id": "2279523",
+    "partition": "validation"
+  },
+  "5816d431d319": {
+    "system": "simple",
+    "tweet_id": "2279523",
+    "partition": "validation"
+  },
+  "aedeb3ecaaa9": {
+    "system": "guarded_retrieval",
+    "tweet_id": "2279523",
+    "partition": "validation"
+  },
+  "ba608b6ecabf": {
+    "system": "trivial",
+    "tweet_id": "2363327",
+    "partition": "validation"
+  },
+  "2508bf5a4abe": {
+    "system": "simple",
+    "tweet_id": "2363327",
+    "partition": "validation"
+  },
+  "71bf34401f61": {
+    "system": "guarded_retrieval",
+    "tweet_id": "2363327",
+    "partition": "validation"
+  },
+  "94ba4910b91f": {
+    "system": "trivial",
+    "tweet_id": "2305413",
+    "partition": "validation"
+  },
+  "248a01653cc1": {
+    "system": "simple",
+    "tweet_id": "2305413",
+    "partition": "validation"
+  },
+  "8fad7f763927": {
+    "system": "guarded_retrieval",
+    "tweet_id": "2305413",
+    "partition": "validation"
+  },
+  "2d66ef6d7bce": {
+    "system": "trivial",
+    "tweet_id": "876815",
+    "partition": "validation"
+  },
+  "1b06715814df": {
+    "system": "simple",
+    "tweet_id": "876815",
+    "partition": "validation"
+  },
+  "82adce0ba64e": {
+    "system": "guarded_retrieval",
+    "tweet_id": "876815",
+    "partition": "validation"
+  },
+  "df6d32990cc5": {
+    "system": "trivial",
+    "tweet_id": "1853470",
+    "partition": "validation"
+  },
+  "f52269651f80": {
+    "system": "simple",
+    "tweet_id": "1853470",
+    "partition": "validation"
+  },
+  "c2af09282fb7": {
+    "system": "guarded_retrieval",
+    "tweet_id": "1853470",
+    "partition": "validation"
+  },
+  "5c130a48b0df": {
+    "system": "trivial",
+    "tweet_id": "576784",
+    "partition": "validation"
+  },
+  "b59c4eceb99a": {
+    "system": "simple",
+    "tweet_id": "576784",
+    "partition": "validation"
+  },
+  "a5e954c1ea23": {
+    "system": "guarded_retrieval",
+    "tweet_id": "576784",
+    "partition": "validation"
+  },
+  "e197725e21cc": {
+    "system": "trivial",
+    "tweet_id": "1112623",
+    "partition": "validation"
+  },
+  "1b4b0ae669fe": {
+    "system": "simple",
+    "tweet_id": "1112623",
+    "partition": "validation"
+  },
+  "78e4d6ce0b95": {
+    "system": "guarded_retrieval",
+    "tweet_id": "1112623",
+    "partition": "validation"
+  },
+  "e7172ad9c2ee": {
+    "system": "trivial",
+    "tweet_id": "689585",
+    "partition": "validation"
+  },
+  "42ccddba9e7e": {
+    "system": "simple",
+    "tweet_id": "689585",
+    "partition": "validation"
+  },
+  "4a41872682f5": {
+    "system": "guarded_retrieval",
+    "tweet_id": "689585",
+    "partition": "validation"
+  },
+  "fed06d239c7f": {
+    "system": "trivial",
+    "tweet_id": "1143737",
+    "partition": "validation"
+  },
+  "d604b75c75f9": {
+    "system": "simple",
+    "tweet_id": "1143737",
+    "partition": "validation"
+  },
+  "48314f996114": {
+    "system": "guarded_retrieval",
+    "tweet_id": "1143737",
+    "partition": "validation"
+  },
+  "4e27cd214cf5": {
+    "system": "trivial",
+    "tweet_id": "1659439",
+    "partition": "validation"
+  },
+  "c034bbd28c18": {
+    "system": "simple",
+    "tweet_id": "1659439",
+    "partition": "validation"
+  },
+  "a61e69e1e73c": {
+    "system": "guarded_retrieval",
+    "tweet_id": "1659439",
+    "partition": "validation"
+  },
+  "4d8e6cf73a86": {
+    "system": "trivial",
+    "tweet_id": "91667",
+    "partition": "validation"
+  },
+  "fb6ff19ad459": {
+    "system": "simple",
+    "tweet_id": "91667",
+    "partition": "validation"
+  },
+  "f76bfcb5c392": {
+    "system": "guarded_retrieval",
+    "tweet_id": "91667",
+    "partition": "validation"
+  },
+  "a1c99e95cf18": {
+    "system": "trivial",
+    "tweet_id": "2913904",
+    "partition": "validation"
+  },
+  "916ae4c88cef": {
+    "system": "simple",
+    "tweet_id": "2913904",
+    "partition": "validation"
+  },
+  "bca068f8a708": {
+    "system": "guarded_retrieval",
+    "tweet_id": "2913904",
+    "partition": "validation"
+  },
+  "04c101cba85a": {
+    "system": "trivial",
+    "tweet_id": "1749860",
+    "partition": "validation"
+  },
+  "9a82cb81f5f1": {
+    "system": "simple",
+    "tweet_id": "1749860",
+    "partition": "validation"
+  },
+  "bef2ce10de74": {
+    "system": "guarded_retrieval",
+    "tweet_id": "1749860",
+    "partition": "validation"
+  },
+  "8106a01beda6": {
+    "system": "trivial",
+    "tweet_id": "2036310",
+    "partition": "validation"
+  },
+  "b22671027e97": {
+    "system": "simple",
+    "tweet_id": "2036310",
+    "partition": "validation"
+  },
+  "5f4ff378ed40": {
+    "system": "guarded_retrieval",
+    "tweet_id": "2036310",
+    "partition": "validation"
+  },
+  "abe0791e95b3": {
+    "system": "trivial",
+    "tweet_id": "2183001",
+    "partition": "validation"
+  },
+  "d71f43f66137": {
+    "system": "simple",
+    "tweet_id": "2183001",
+    "partition": "validation"
+  },
+  "4ecb6b03a500": {
+    "system": "guarded_retrieval",
+    "tweet_id": "2183001",
+    "partition": "validation"
+  },
+  "82328faa8baa": {
+    "system": "trivial",
+    "tweet_id": "1807589",
+    "partition": "validation"
+  },
+  "e3a1513c0de4": {
+    "system": "simple",
+    "tweet_id": "1807589",
+    "partition": "validation"
+  },
+  "54ddba741890": {
+    "system": "guarded_retrieval",
+    "tweet_id": "1807589",
+    "partition": "validation"
+  }
+}

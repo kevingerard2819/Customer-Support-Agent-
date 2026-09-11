@@ -1,0 +1,632 @@
+{
+  "50db08a56c00": {
+    "system": "trivial",
+    "tweet_id": "2363327",
+    "partition": "validation",
+    "source_rating_id": "7896e456fafb",
+    "style_version": "human-tone-v2"
+  },
+  "5850b7a1d1a8": {
+    "system": "gemini",
+    "tweet_id": "2363327",
+    "partition": "validation",
+    "source_rating_id": "14eead9b73e9",
+    "style_version": "human-tone-v2"
+  },
+  "5ebfad994557": {
+    "system": "trivial",
+    "tweet_id": "1887548",
+    "partition": "calibration",
+    "source_rating_id": "04f0bf730aba",
+    "style_version": "human-tone-v2"
+  },
+  "99d5acaf7bdd": {
+    "system": "gemini",
+    "tweet_id": "2065606",
+    "partition": "calibration",
+    "source_rating_id": "b608d3c614ed",
+    "style_version": "human-tone-v2"
+  },
+  "63aeead458df": {
+    "system": "gemini",
+    "tweet_id": "629915",
+    "partition": "calibration",
+    "source_rating_id": "5b50150af94f",
+    "style_version": "human-tone-v2"
+  },
+  "51eb14edb5f7": {
+    "system": "trivial",
+    "tweet_id": "629915",
+    "partition": "calibration",
+    "source_rating_id": "0b5df1438228",
+    "style_version": "human-tone-v2"
+  },
+  "ef9a80743279": {
+    "system": "simple",
+    "tweet_id": "712178",
+    "partition": "calibration",
+    "source_rating_id": "bef247d99044",
+    "style_version": "human-tone-v2"
+  },
+  "1f1bf9601cdc": {
+    "system": "simple",
+    "tweet_id": "1783957",
+    "partition": "calibration",
+    "source_rating_id": "b0e2369ff0c1",
+    "style_version": "human-tone-v2"
+  },
+  "7d9491859c60": {
+    "system": "simple",
+    "tweet_id": "1887548",
+    "partition": "calibration",
+    "source_rating_id": "19801c758fa5",
+    "style_version": "human-tone-v2"
+  },
+  "61b73bc1b7d3": {
+    "system": "simple",
+    "tweet_id": "1143737",
+    "partition": "validation",
+    "source_rating_id": "e9d5c2d0693c",
+    "style_version": "human-tone-v2"
+  },
+  "f2a96893ba04": {
+    "system": "trivial",
+    "tweet_id": "7011",
+    "partition": "validation",
+    "source_rating_id": "3470ce9ed963",
+    "style_version": "human-tone-v2"
+  },
+  "96cb5b5679b4": {
+    "system": "simple",
+    "tweet_id": "689585",
+    "partition": "validation",
+    "source_rating_id": "c62d37cef0f4",
+    "style_version": "human-tone-v2"
+  },
+  "5263a469c078": {
+    "system": "trivial",
+    "tweet_id": "2305413",
+    "partition": "validation",
+    "source_rating_id": "baca58fa1442",
+    "style_version": "human-tone-v2"
+  },
+  "74e6dbcdf16a": {
+    "system": "trivial",
+    "tweet_id": "2913904",
+    "partition": "validation",
+    "source_rating_id": "ae1c26d4321c",
+    "style_version": "human-tone-v2"
+  },
+  "715168588561": {
+    "system": "trivial",
+    "tweet_id": "1112623",
+    "partition": "validation",
+    "source_rating_id": "1af7ded53d6e",
+    "style_version": "human-tone-v2"
+  },
+  "e7c8a92cfb94": {
+    "system": "simple",
+    "tweet_id": "203126",
+    "partition": "calibration",
+    "source_rating_id": "4cf341e4afcb",
+    "style_version": "human-tone-v2"
+  },
+  "b794d1eea75b": {
+    "system": "gemini",
+    "tweet_id": "2036310",
+    "partition": "validation",
+    "source_rating_id": "eb53eb92a7d7",
+    "style_version": "human-tone-v2"
+  },
+  "fc2c5a00e976": {
+    "system": "gemini",
+    "tweet_id": "2305413",
+    "partition": "validation",
+    "source_rating_id": "ebe9ae3d0477",
+    "style_version": "human-tone-v2"
+  },
+  "44cc0030a492": {
+    "system": "trivial",
+    "tweet_id": "1103029",
+    "partition": "validation",
+    "source_rating_id": "589eb4fba7bb",
+    "style_version": "human-tone-v2"
+  },
+  "f0927050304f": {
+    "system": "gemini",
+    "tweet_id": "576784",
+    "partition": "validation",
+    "source_rating_id": "00095f157cb5",
+    "style_version": "human-tone-v2"
+  },
+  "d24fff989514": {
+    "system": "gemini",
+    "tweet_id": "1779504",
+    "partition": "calibration",
+    "source_rating_id": "30b362472954",
+    "style_version": "human-tone-v2"
+  },
+  "972a188fa4fa": {
+    "system": "gemini",
+    "tweet_id": "203126",
+    "partition": "calibration",
+    "source_rating_id": "27fdf17133bb",
+    "style_version": "human-tone-v2"
+  },
+  "1002441dd3bb": {
+    "system": "trivial",
+    "tweet_id": "876815",
+    "partition": "validation",
+    "source_rating_id": "0631a86f9115",
+    "style_version": "human-tone-v2"
+  },
+  "a65574f4248f": {
+    "system": "trivial",
+    "tweet_id": "1659439",
+    "partition": "validation",
+    "source_rating_id": "e0dda56a9135",
+    "style_version": "human-tone-v2"
+  },
+  "f1780f1caf87": {
+    "system": "simple",
+    "tweet_id": "1112623",
+    "partition": "validation",
+    "source_rating_id": "2176219c50d0",
+    "style_version": "human-tone-v2"
+  },
+  "1a2698153671": {
+    "system": "simple",
+    "tweet_id": "2913904",
+    "partition": "validation",
+    "source_rating_id": "ed929bf0ddbe",
+    "style_version": "human-tone-v2"
+  },
+  "aa0ed1ef299b": {
+    "system": "gemini",
+    "tweet_id": "1887548",
+    "partition": "calibration",
+    "source_rating_id": "49a71522ee2b",
+    "style_version": "human-tone-v2"
+  },
+  "53f37300c237": {
+    "system": "gemini",
+    "tweet_id": "876815",
+    "partition": "validation",
+    "source_rating_id": "993e10d2ac4b",
+    "style_version": "human-tone-v2"
+  },
+  "119324216fd5": {
+    "system": "trivial",
+    "tweet_id": "2609463",
+    "partition": "calibration",
+    "source_rating_id": "0988e449df49",
+    "style_version": "human-tone-v2"
+  },
+  "82f5c73c8c7b": {
+    "system": "gemini",
+    "tweet_id": "1103029",
+    "partition": "validation",
+    "source_rating_id": "281af0ea903b",
+    "style_version": "human-tone-v2"
+  },
+  "b899a693ab6c": {
+    "system": "gemini",
+    "tweet_id": "712178",
+    "partition": "calibration",
+    "source_rating_id": "57d4bfbdffe0",
+    "style_version": "human-tone-v2"
+  },
+  "741c5b3155ae": {
+    "system": "trivial",
+    "tweet_id": "1853470",
+    "partition": "validation",
+    "source_rating_id": "59cbf4130cb1",
+    "style_version": "human-tone-v2"
+  },
+  "68ac243d18b3": {
+    "system": "simple",
+    "tweet_id": "91667",
+    "partition": "validation",
+    "source_rating_id": "76fb0d4f3cbd",
+    "style_version": "human-tone-v2"
+  },
+  "eb16f98daec4": {
+    "system": "gemini",
+    "tweet_id": "260045",
+    "partition": "validation",
+    "source_rating_id": "78be1a5884a1",
+    "style_version": "human-tone-v2"
+  },
+  "77f405f1d13f": {
+    "system": "gemini",
+    "tweet_id": "2183001",
+    "partition": "validation",
+    "source_rating_id": "7c27d5c08820",
+    "style_version": "human-tone-v2"
+  },
+  "cf5466be15a7": {
+    "system": "trivial",
+    "tweet_id": "2279523",
+    "partition": "validation",
+    "source_rating_id": "83075212c7ae",
+    "style_version": "human-tone-v2"
+  },
+  "b00bcf59b3f0": {
+    "system": "simple",
+    "tweet_id": "7011",
+    "partition": "validation",
+    "source_rating_id": "5963c9f8ddf0",
+    "style_version": "human-tone-v2"
+  },
+  "6bfc7b20c0e8": {
+    "system": "gemini",
+    "tweet_id": "2279523",
+    "partition": "validation",
+    "source_rating_id": "f5645ac66bb0",
+    "style_version": "human-tone-v2"
+  },
+  "96dd17c9ddab": {
+    "system": "trivial",
+    "tweet_id": "91667",
+    "partition": "validation",
+    "source_rating_id": "843c6efded99",
+    "style_version": "human-tone-v2"
+  },
+  "b6f3740771dd": {
+    "system": "simple",
+    "tweet_id": "2183001",
+    "partition": "validation",
+    "source_rating_id": "31e85197bd1a",
+    "style_version": "human-tone-v2"
+  },
+  "f389af0ef67b": {
+    "system": "gemini",
+    "tweet_id": "1749860",
+    "partition": "validation",
+    "source_rating_id": "55d49fe7c4ef",
+    "style_version": "human-tone-v2"
+  },
+  "313dba1f3be3": {
+    "system": "gemini",
+    "tweet_id": "1761839",
+    "partition": "validation",
+    "source_rating_id": "4b3f6a7d2c24",
+    "style_version": "human-tone-v2"
+  },
+  "b4a2ca1ceb52": {
+    "system": "gemini",
+    "tweet_id": "1112623",
+    "partition": "validation",
+    "source_rating_id": "d4d9e72d31d5",
+    "style_version": "human-tone-v2"
+  },
+  "746413710507": {
+    "system": "gemini",
+    "tweet_id": "2913904",
+    "partition": "validation",
+    "source_rating_id": "deee6fa600d3",
+    "style_version": "human-tone-v2"
+  },
+  "f0148f47095a": {
+    "system": "gemini",
+    "tweet_id": "834634",
+    "partition": "calibration",
+    "source_rating_id": "5aed64ea6d71",
+    "style_version": "human-tone-v2"
+  },
+  "1aef6f3cd327": {
+    "system": "gemini",
+    "tweet_id": "1853470",
+    "partition": "validation",
+    "source_rating_id": "4326ed422619",
+    "style_version": "human-tone-v2"
+  },
+  "61cb7256b9fa": {
+    "system": "trivial",
+    "tweet_id": "576784",
+    "partition": "validation",
+    "source_rating_id": "116a99fdcaf5",
+    "style_version": "human-tone-v2"
+  },
+  "3b315a4da59f": {
+    "system": "simple",
+    "tweet_id": "1761839",
+    "partition": "validation",
+    "source_rating_id": "8d2102d328cf",
+    "style_version": "human-tone-v2"
+  },
+  "963e175709e3": {
+    "system": "simple",
+    "tweet_id": "2065606",
+    "partition": "calibration",
+    "source_rating_id": "2c32bb619605",
+    "style_version": "human-tone-v2"
+  },
+  "68dcd4e050b6": {
+    "system": "trivial",
+    "tweet_id": "1807589",
+    "partition": "validation",
+    "source_rating_id": "5e73e1d94780",
+    "style_version": "human-tone-v2"
+  },
+  "fe56bd1abac5": {
+    "system": "gemini",
+    "tweet_id": "1783957",
+    "partition": "calibration",
+    "source_rating_id": "beb692381d26",
+    "style_version": "human-tone-v2"
+  },
+  "a47e3d9ad8bb": {
+    "system": "simple",
+    "tweet_id": "1853470",
+    "partition": "validation",
+    "source_rating_id": "4199facfeeaf",
+    "style_version": "human-tone-v2"
+  },
+  "822ac38df478": {
+    "system": "gemini",
+    "tweet_id": "1807589",
+    "partition": "validation",
+    "source_rating_id": "2fd0bae01a48",
+    "style_version": "human-tone-v2"
+  },
+  "8abb69e074d3": {
+    "system": "simple",
+    "tweet_id": "184170",
+    "partition": "calibration",
+    "source_rating_id": "0267bd4e77ec",
+    "style_version": "human-tone-v2"
+  },
+  "7d98a4b480e6": {
+    "system": "simple",
+    "tweet_id": "2036310",
+    "partition": "validation",
+    "source_rating_id": "e1d4e59b645e",
+    "style_version": "human-tone-v2"
+  },
+  "059f0c92e8ae": {
+    "system": "simple",
+    "tweet_id": "576784",
+    "partition": "validation",
+    "source_rating_id": "bc93ae174682",
+    "style_version": "human-tone-v2"
+  },
+  "0dfc60934f55": {
+    "system": "trivial",
+    "tweet_id": "834634",
+    "partition": "calibration",
+    "source_rating_id": "26fd1791ee3d",
+    "style_version": "human-tone-v2"
+  },
+  "519a095bebc6": {
+    "system": "gemini",
+    "tweet_id": "91667",
+    "partition": "validation",
+    "source_rating_id": "13430d53b0d6",
+    "style_version": "human-tone-v2"
+  },
+  "7545f153a088": {
+    "system": "trivial",
+    "tweet_id": "689585",
+    "partition": "validation",
+    "source_rating_id": "c2844d313cd6",
+    "style_version": "human-tone-v2"
+  },
+  "95c1e695feab": {
+    "system": "simple",
+    "tweet_id": "1807589",
+    "partition": "validation",
+    "source_rating_id": "c958f1b80b86",
+    "style_version": "human-tone-v2"
+  },
+  "a8f795be3437": {
+    "system": "trivial",
+    "tweet_id": "1749860",
+    "partition": "validation",
+    "source_rating_id": "30a54ad4fe37",
+    "style_version": "human-tone-v2"
+  },
+  "82640143e515": {
+    "system": "simple",
+    "tweet_id": "260045",
+    "partition": "validation",
+    "source_rating_id": "95a2e5303aa6",
+    "style_version": "human-tone-v2"
+  },
+  "970d2467a502": {
+    "system": "trivial",
+    "tweet_id": "1779504",
+    "partition": "calibration",
+    "source_rating_id": "a2682fe2432f",
+    "style_version": "human-tone-v2"
+  },
+  "c19ad302bb2d": {
+    "system": "simple",
+    "tweet_id": "876815",
+    "partition": "validation",
+    "source_rating_id": "8ed46a67e29a",
+    "style_version": "human-tone-v2"
+  },
+  "a2b5d40a1ca3": {
+    "system": "gemini",
+    "tweet_id": "2609463",
+    "partition": "calibration",
+    "source_rating_id": "924f270c36c9",
+    "style_version": "human-tone-v2"
+  },
+  "534a4c2d7304": {
+    "system": "simple",
+    "tweet_id": "2363327",
+    "partition": "validation",
+    "source_rating_id": "1ec10e2d4eff",
+    "style_version": "human-tone-v2"
+  },
+  "451556d5488c": {
+    "system": "trivial",
+    "tweet_id": "1761839",
+    "partition": "validation",
+    "source_rating_id": "f809ce8e52ef",
+    "style_version": "human-tone-v2"
+  },
+  "f62e7ec227f4": {
+    "system": "trivial",
+    "tweet_id": "712178",
+    "partition": "calibration",
+    "source_rating_id": "4a41c7d2127b",
+    "style_version": "human-tone-v2"
+  },
+  "7e27afc6a0b5": {
+    "system": "gemini",
+    "tweet_id": "1659439",
+    "partition": "validation",
+    "source_rating_id": "767fa8573345",
+    "style_version": "human-tone-v2"
+  },
+  "feb374a4a9e3": {
+    "system": "gemini",
+    "tweet_id": "7011",
+    "partition": "validation",
+    "source_rating_id": "d4ae14590505",
+    "style_version": "human-tone-v2"
+  },
+  "be1bf172dc3d": {
+    "system": "simple",
+    "tweet_id": "1659439",
+    "partition": "validation",
+    "source_rating_id": "68711e3f53de",
+    "style_version": "human-tone-v2"
+  },
+  "587163e139bd": {
+    "system": "simple",
+    "tweet_id": "2609463",
+    "partition": "calibration",
+    "source_rating_id": "bd9072ee6279",
+    "style_version": "human-tone-v2"
+  },
+  "b80b3dcf9637": {
+    "system": "trivial",
+    "tweet_id": "2183001",
+    "partition": "validation",
+    "source_rating_id": "5404f912ed57",
+    "style_version": "human-tone-v2"
+  },
+  "18c35da67af4": {
+    "system": "trivial",
+    "tweet_id": "2065606",
+    "partition": "calibration",
+    "source_rating_id": "91763c6d31aa",
+    "style_version": "human-tone-v2"
+  },
+  "a124c4ba42da": {
+    "system": "gemini",
+    "tweet_id": "689585",
+    "partition": "validation",
+    "source_rating_id": "ab8e3068c362",
+    "style_version": "human-tone-v2"
+  },
+  "199e3c8e8fc0": {
+    "system": "simple",
+    "tweet_id": "1103029",
+    "partition": "validation",
+    "source_rating_id": "0f9bc77ecabe",
+    "style_version": "human-tone-v2"
+  },
+  "92e1f045e003": {
+    "system": "trivial",
+    "tweet_id": "184170",
+    "partition": "calibration",
+    "source_rating_id": "591b9394aa82",
+    "style_version": "human-tone-v2"
+  },
+  "b24c0333d17e": {
+    "system": "trivial",
+    "tweet_id": "2036310",
+    "partition": "validation",
+    "source_rating_id": "6d4786620d3d",
+    "style_version": "human-tone-v2"
+  },
+  "ed93b77b7b45": {
+    "system": "gemini",
+    "tweet_id": "184170",
+    "partition": "calibration",
+    "source_rating_id": "fd94ea56ddee",
+    "style_version": "human-tone-v2"
+  },
+  "8daa1be2dca0": {
+    "system": "simple",
+    "tweet_id": "834634",
+    "partition": "calibration",
+    "source_rating_id": "5aeb5661e00e",
+    "style_version": "human-tone-v2"
+  },
+  "a24aacba4248": {
+    "system": "trivial",
+    "tweet_id": "1143737",
+    "partition": "validation",
+    "source_rating_id": "bb3c039f08be",
+    "style_version": "human-tone-v2"
+  },
+  "8cbf607d1ae8": {
+    "system": "simple",
+    "tweet_id": "2279523",
+    "partition": "validation",
+    "source_rating_id": "79b27c168fb0",
+    "style_version": "human-tone-v2"
+  },
+  "f645b8314c49": {
+    "system": "simple",
+    "tweet_id": "1749860",
+    "partition": "validation",
+    "source_rating_id": "7e5e385b4920",
+    "style_version": "human-tone-v2"
+  },
+  "b5160550ddec": {
+    "system": "trivial",
+    "tweet_id": "260045",
+    "partition": "validation",
+    "source_rating_id": "b87af9198f21",
+    "style_version": "human-tone-v2"
+  },
+  "4aaa8ce86684": {
+    "system": "trivial",
+    "tweet_id": "1783957",
+    "partition": "calibration",
+    "source_rating_id": "0cee4341114f",
+    "style_version": "human-tone-v2"
+  },
+  "f85f5b36298c": {
+    "system": "simple",
+    "tweet_id": "1779504",
+    "partition": "calibration",
+    "source_rating_id": "ee3b89e42518",
+    "style_version": "human-tone-v2"
+  },
+  "f1d0fe9cd91e": {
+    "system": "trivial",
+    "tweet_id": "203126",
+    "partition": "calibration",
+    "source_rating_id": "d95544680a4f",
+    "style_version": "human-tone-v2"
+  },
+  "ed82d2d352b6": {
+    "system": "gemini",
+    "tweet_id": "1143737",
+    "partition": "validation",
+    "source_rating_id": "06855e397652",
+    "style_version": "human-tone-v2"
+  },
+  "650a657d02ba": {
+    "system": "simple",
+    "tweet_id": "2305413",
+    "partition": "validation",
+    "source_rating_id": "0149d84b14e0",
+    "style_version": "human-tone-v2"
+  },
+  "42663deff87d": {
+    "system": "simple",
+    "tweet_id": "629915",
+    "partition": "calibration",
+    "source_rating_id": "6b801d2c63a4",
+    "style_version": "human-tone-v2"
+  }
+}

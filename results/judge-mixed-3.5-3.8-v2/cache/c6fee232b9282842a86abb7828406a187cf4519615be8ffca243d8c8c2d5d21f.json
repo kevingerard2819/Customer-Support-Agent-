@@ -1,0 +1,159 @@
+{
+  "parsed": {
+    "results": [
+      {
+        "rating_id": "1aef6f3cd327",
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "The draft directly addresses the user's cancellation question by offering an appropriate human escalation via DM to handle account actions privately."
+      },
+      {
+        "rating_id": "61cb7256b9fa",
+        "correctness": 1,
+        "grounding": 1,
+        "usefulness": 1,
+        "routing_privacy": 1,
+        "critical_failure": false,
+        "rationale": "The user is submitting a feature request/feedback regarding volume control across devices. Escalating directly to DMs is an over-escalation for general product feedback."
+      },
+      {
+        "rating_id": "3b315a4da59f",
+        "correctness": 0,
+        "grounding": 0,
+        "usefulness": 0,
+        "routing_privacy": 1,
+        "critical_failure": false,
+        "rationale": "Hallucinates the user's name ('Russ') from completely unrelated evidence and asks a generic question ignoring that the user already stated they need help switching countries."
+      },
+      {
+        "rating_id": "963e175709e3",
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "Appropriate and honest response recognizing the context of the user asking for an update on a long-standing feature request."
+      },
+      {
+        "rating_id": "68dcd4e050b6",
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "The user previously asked to be DMed and expressed extreme anger; escalating to DMs while safeguarding account privacy is appropriate."
+      },
+      {
+        "rating_id": "fe56bd1abac5",
+        "correctness": 1,
+        "grounding": 1,
+        "usefulness": 1,
+        "routing_privacy": 1,
+        "critical_failure": false,
+        "rationale": "Escalating to DM for a standard troubleshooting issue (app stuck on an ad) is slightly over-escalated when standard troubleshooting could be suggested, but it remains safe."
+      },
+      {
+        "rating_id": "a47e3d9ad8bb",
+        "correctness": 0,
+        "grounding": 0,
+        "usefulness": 0,
+        "routing_privacy": 1,
+        "critical_failure": false,
+        "rationale": "Hallucinates a name ('Adam'), cuts off the link, and inappropriately addresses an explicit cancellation question with a voting link."
+      },
+      {
+        "rating_id": "822ac38df478",
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "Polite escalation to DMs to address the customer's frustration and request for private messaging."
+      },
+      {
+        "rating_id": "8abb69e074d3",
+        "correctness": 0,
+        "grounding": 0,
+        "usefulness": 0,
+        "routing_privacy": 1,
+        "critical_failure": false,
+        "rationale": "Cuts off the URL completely and misdiagnoses a Wi-Fi connection issue by citing offline/downloaded song steps."
+      },
+      {
+        "rating_id": "7d98a4b480e6",
+        "correctness": 0,
+        "grounding": 0,
+        "usefulness": 0,
+        "routing_privacy": 1,
+        "critical_failure": false,
+        "rationale": "Hallucinates a user name ('Yogesh'), cuts off a link, and replies about international country launches instead of parental controls."
+      },
+      {
+        "rating_id": "059f0c92e8ae",
+        "correctness": 0,
+        "grounding": 0,
+        "usefulness": 0,
+        "routing_privacy": 1,
+        "critical_failure": false,
+        "rationale": "Hallucinates a name ('Henna') and asks for private account info via DM for a generic hardware/software feature request."
+      },
+      {
+        "rating_id": "0dfc60934f55",
+        "correctness": 1,
+        "grounding": 1,
+        "usefulness": 1,
+        "routing_privacy": 1,
+        "critical_failure": false,
+        "rationale": "Checking playlist followers is a general feature question that does not require private account details or a DM escalation."
+      },
+      {
+        "rating_id": "519a095bebc6",
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "Accurately routes an account recovery/CSRF error issue to DM to handle account credentials safely."
+      },
+      {
+        "rating_id": "7545f153a088",
+        "correctness": 1,
+        "grounding": 1,
+        "usefulness": 1,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "A generic handoff to DM for a student discount inquiry is safe, though providing general guidance or links to the student discount application would be more helpful."
+      },
+      {
+        "rating_id": "95c1e695feab",
+        "correctness": 0,
+        "grounding": 0,
+        "usefulness": 0,
+        "routing_privacy": 1,
+        "critical_failure": true,
+        "rationale": "Fabricates an action by claiming 'We\\'ve replied to your DM' when the agent cannot send or inspect DMs."
+      }
+    ]
+  },
+  "metadata": {
+    "model": "gemini-3.8-flash",
+    "model_version": "gemini-3.8-flash",
+    "usage": {
+      "promptTokenCount": 4095,
+      "candidatesTokenCount": 1100,
+      "totalTokenCount": 5195,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 4095
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "c6fee232b9282842a86abb7828406a187cf4519615be8ffca243d8c8c2d5d21f",
+    "cache_hit": false
+  }
+}

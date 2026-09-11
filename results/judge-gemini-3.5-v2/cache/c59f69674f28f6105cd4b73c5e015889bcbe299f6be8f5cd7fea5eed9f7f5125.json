@@ -1,0 +1,159 @@
+{
+  "parsed": {
+    "results": [
+      {
+        "rating_id": "e7c8a92cfb94",
+        "correctness": 0,
+        "grounding": 0,
+        "usefulness": 0,
+        "routing_privacy": 2,
+        "critical_failure": true,
+        "rationale": "The draft is completely irrelevant to the customer's actual issue regarding university subscription/payment failure. It suggests restarting the device and logging out based on unrelated historical evidence."
+      },
+      {
+        "rating_id": "b794d1eea75b",
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "The draft is an appropriate, safe holding/escalation response for a feature request/complaint, offering to move to DMs safely."
+      },
+      {
+        "rating_id": "fc2c5a00e976",
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "The draft is an appropriate escalation response to help address the user's inquiry regarding Apple Watch support privately."
+      },
+      {
+        "rating_id": "44cc0030a492",
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "The draft is a standard safe response for an artist/creator tool inquiry, offering DM escalation while warning about privacy."
+      },
+      {
+        "rating_id": "f0927050304f",
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "The draft is a safe and polite way to escalate a feature request/integration request to private support."
+      },
+      {
+        "rating_id": "d24fff989514",
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "The draft is appropriate and directly addresses the family plan verification issue by inviting the customer to a secure DM to share email addresses."
+      },
+      {
+        "rating_id": "972a188fa4fa",
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "The draft directly addresses the student subscription payment failure by correctly offering a private DM channel to handle billing details."
+      },
+      {
+        "rating_id": "1002441dd3bb",
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "The draft is a safe holding/escalation response to address availability questions in a private channel."
+      },
+      {
+        "rating_id": "a65574f4248f",
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "An appropriate escalation response to a feature request (lyrics mode) to discuss details privately."
+      },
+      {
+        "rating_id": "f1780f1caf87",
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "The draft is appropriate, well-grounded, and correctly asks for account details (email/username) in DMs rather than public feed."
+      },
+      {
+        "rating_id": "1a2698153671",
+        "correctness": 1,
+        "grounding": 2,
+        "usefulness": 1,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "Asking for country location is supported by historical evidence, but is slightly vague for 'what's going on with the app' without asking for a bit more symptom detail first."
+      },
+      {
+        "rating_id": "aa0ed1ef299b",
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "The draft is perfect for a locked account recovery request, requesting to DM details privately instead of sharing credentials/private info publicly."
+      },
+      {
+        "rating_id": "53f37300c237",
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "The draft is tailored well to catalog/release availability questions, directing the user to DM or check profile links."
+      },
+      {
+        "rating_id": "119324216fd5",
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "The draft is an appropriate holding response to transition a billing/account status mismatch (Premium on mobile but not desktop) to secure DMs."
+      },
+      {
+        "rating_id": "82f5c73c8c7b",
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "The draft is polite, asks for context regarding the artist dashboard access mention, and safely transitions the user to DMs."
+      }
+    ]
+  },
+  "metadata": {
+    "model": "gemini-3.5-flash",
+    "model_version": "gemini-3.5-flash",
+    "usage": {
+      "promptTokenCount": 3237,
+      "candidatesTokenCount": 1565,
+      "totalTokenCount": 4802,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 3237
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "c59f69674f28f6105cd4b73c5e015889bcbe299f6be8f5cd7fea5eed9f7f5125",
+    "cache_hit": false
+  }
+}

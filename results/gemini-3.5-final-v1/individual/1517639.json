@@ -1,0 +1,46 @@
+{
+  "intent": "feedback_feature_request",
+  "route": "auto_handle",
+  "reason": "safe_acknowledgement",
+  "draft": "We can see how a filter to remove auto-tuned vocals would be handy! Thanks for taking the time to share your feedback with us—we've noted it down.",
+  "evidence_ids": [
+    "166654"
+  ],
+  "reply_kind": "acknowledgement",
+  "tweet_id": "1517639",
+  "output_check_violations": [],
+  "split": "test_representative",
+  "system": "gemini",
+  "raw_prediction": {
+    "intent": "feedback_feature_request",
+    "route": "auto_handle",
+    "reason": "safe_acknowledgement",
+    "draft": "We can see how a filter to remove auto-tuned vocals would be handy! Thanks for taking the time to share your feedback with us—we've noted it down.",
+    "evidence_ids": [
+      "166654"
+    ],
+    "reply_kind": "acknowledgement",
+    "tweet_id": "1517639"
+  },
+  "api_error": null,
+  "api_metadata": {
+    "model": "gemini-3.5-flash",
+    "model_version": "gemini-3.5-flash",
+    "request_sha256": "bdeac386b7d1a77ee04f938134441c0531921fa739e9a68d151b30a02cf797f8",
+    "usage": {
+      "promptTokenCount": 7976,
+      "candidatesTokenCount": 1229,
+      "totalTokenCount": 9205,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 7976
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "latency_ms": 23383.085800000117,
+    "cache_hit": false
+  },
+  "latency_ms": 2338.3085800000117
+}

@@ -1,0 +1,42 @@
+{
+  "intent": "playback_app",
+  "route": "escalate",
+  "reason": "insufficient_context",
+  "draft": "Hey there! We want to help get this playing. Could you tell us what device you're using and if you see any error messages when it loads?",
+  "evidence_ids": [],
+  "reply_kind": "handoff",
+  "tweet_id": "1298576",
+  "output_check_violations": [],
+  "split": "test_representative",
+  "system": "gemini",
+  "raw_prediction": {
+    "intent": "playback_app",
+    "route": "escalate",
+    "reason": "insufficient_context",
+    "draft": "Hey there! We want to help get this playing. Could you tell us what device you're using and if you see any error messages when it loads?",
+    "evidence_ids": [],
+    "reply_kind": "handoff",
+    "tweet_id": "1298576"
+  },
+  "api_error": null,
+  "api_metadata": {
+    "model": "gemini-3.5-flash",
+    "model_version": "gemini-3.5-flash",
+    "request_sha256": "3b41f140500e5275f7deab46b432cd384f38d7f5b275c64c25d11b49561999d6",
+    "usage": {
+      "promptTokenCount": 8436,
+      "candidatesTokenCount": 1259,
+      "totalTokenCount": 9695,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 8436
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "latency_ms": 23737.858399999823,
+    "cache_hit": false
+  },
+  "latency_ms": 2373.7858399999823
+}

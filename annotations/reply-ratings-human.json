@@ -1,0 +1,25 @@
+{
+  "packet_id": "f7f2c644b1e1e24d8205cb0f56b45dfe264b56140e3b248e43eba6319acf8ab0",
+  "rubric_version": "v1",
+  "source": "human_entries_in_local_reply_tool",
+  "ratings": {
+    "7896e456fafb": {
+      "correctness": 1,
+      "grounding": 1,
+      "usefulness": 1,
+      "routing_privacy": 1,
+      "critical_failure": false,
+      "notes": "",
+      "updated_at": "2026-09-10T18:42:07.958673+00:00"
+    },
+    "14eead9b73e9": {
+      "correctness": 1,
+      "grounding": "",
+      "usefulness": "",
+      "routing_privacy": "",
+      "critical_failure": "",
+      "notes": "",
+      "updated_at": "2026-09-10T19:28:30.557552+00:00"
+    }
+  }
+}

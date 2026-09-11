@@ -1,0 +1,121 @@
+{
+  "parsed": {
+    "results": [
+      {
+        "intent": "playback_app",
+        "route": "escalate",
+        "reason": "repeated_failure",
+        "draft": "We're sorry to hear that reinstalling didn't do the trick. To help us look closer, can you let us know what device, OS version, and Spotify version you're currently using?",
+        "evidence_ids": [],
+        "reply_kind": "handoff",
+        "tweet_id": "863686"
+      },
+      {
+        "intent": "billing_subscription",
+        "route": "escalate",
+        "reason": "account_action",
+        "draft": "Hey there! We want to help get you signed in and sorted. Since we need to look at your account details, could you head over to a private channel and send us a DM? Let's take a look there.",
+        "evidence_ids": [],
+        "reply_kind": "handoff",
+        "tweet_id": "2287370"
+      },
+      {
+        "intent": "feedback_feature_request",
+        "route": "auto_handle",
+        "reason": "supported_general_help",
+        "draft": "We understand how you feel! We’re working on iPhone X support as we speak. Stay tuned! 🥁",
+        "evidence_ids": [
+          "2493999"
+        ],
+        "reply_kind": "answer",
+        "tweet_id": "2405263"
+      },
+      {
+        "intent": "account_access_security",
+        "route": "escalate",
+        "reason": "account_action",
+        "draft": "Hey there! We'd love to help get this sorted for you. Please send us a private DM with the email address you're trying to use, and we'll look into this.",
+        "evidence_ids": [],
+        "reply_kind": "handoff",
+        "tweet_id": "1783692"
+      },
+      {
+        "intent": "billing_subscription",
+        "route": "escalate",
+        "reason": "account_action",
+        "draft": "We can help look into these charges for you. Please send us a DM with your account's email address so we can review this safely.",
+        "evidence_ids": [],
+        "reply_kind": "handoff",
+        "tweet_id": "2052018"
+      },
+      {
+        "intent": "other_unclear",
+        "route": "escalate",
+        "reason": "security_privacy",
+        "draft": "We hear you, and we want to make sure your privacy concern is handled. Please send us a DM with your account details or case reference so we can investigate immediately.",
+        "evidence_ids": [],
+        "reply_kind": "handoff",
+        "tweet_id": "2848318"
+      },
+      {
+        "intent": "billing_subscription",
+        "route": "escalate",
+        "reason": "account_action",
+        "draft": "We'd love to get that duplicate charge fixed for you right away. Can you send us a DM with your account's email address or username? We'll take a look backstage.",
+        "evidence_ids": [
+          "1485936"
+        ],
+        "reply_kind": "handoff",
+        "tweet_id": "2070762"
+      },
+      {
+        "intent": "social_acknowledgement",
+        "route": "auto_handle",
+        "reason": "safe_acknowledgement",
+        "draft": "You're very welcome! If anything else comes up or you have any other questions, just give us a shout. Take care!",
+        "evidence_ids": [
+          "11173"
+        ],
+        "reply_kind": "acknowledgement",
+        "tweet_id": "106327"
+      },
+      {
+        "intent": "other_unclear",
+        "route": "escalate",
+        "reason": "unsupported_language_scope",
+        "draft": "Hey there! To manage your artist profile and update your photo, please reach out to our team at Spotify for Artists for assistance. We'll hand you off to their support team.",
+        "evidence_ids": [],
+        "reply_kind": "handoff",
+        "tweet_id": "623005"
+      },
+      {
+        "intent": "social_acknowledgement",
+        "route": "auto_handle",
+        "reason": "safe_acknowledgement",
+        "draft": "Awesome! Glad to hear that. If you need anything else, we're always here to help. Rock on! 🤘",
+        "evidence_ids": [],
+        "reply_kind": "acknowledgement",
+        "tweet_id": "2691957"
+      }
+    ]
+  },
+  "metadata": {
+    "model": "gemini-3.5-flash",
+    "model_version": "gemini-3.5-flash",
+    "request_sha256": "1c0704b28224277ed9865653b143ac759f989f43ec804577cacebe5cc823e0a5",
+    "usage": {
+      "promptTokenCount": 8239,
+      "candidatesTokenCount": 1153,
+      "totalTokenCount": 9392,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 8239
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "latency_ms": 22480.18989999764,
+    "cache_hit": false
+  }
+}

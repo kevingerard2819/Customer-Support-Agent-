@@ -1,0 +1,42 @@
+{
+  "intent": "billing_subscription",
+  "route": "escalate",
+  "reason": "account_action",
+  "draft": "We'd love to help you get this payment issue sorted out. Could you DM us your account's email address? We'll check things backstage.",
+  "evidence_ids": [],
+  "reply_kind": "handoff",
+  "tweet_id": "2817500",
+  "output_check_violations": [],
+  "split": "test_challenge",
+  "system": "gemini",
+  "raw_prediction": {
+    "intent": "billing_subscription",
+    "route": "escalate",
+    "reason": "account_action",
+    "draft": "We'd love to help you get this payment issue sorted out. Could you DM us your account's email address? We'll check things backstage.",
+    "evidence_ids": [],
+    "reply_kind": "handoff",
+    "tweet_id": "2817500"
+  },
+  "api_error": null,
+  "api_metadata": {
+    "model": "gemini-3.5-flash",
+    "model_version": "gemini-3.5-flash",
+    "request_sha256": "1ad6e4a7f3b8a26c85537ecaac999444cdebb68d6f2cddaac96e5530d544ff26",
+    "usage": {
+      "promptTokenCount": 7740,
+      "candidatesTokenCount": 1137,
+      "totalTokenCount": 8877,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 7740
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "latency_ms": 56308.16049999703,
+    "cache_hit": false
+  },
+  "latency_ms": 5630.816049999703
+}

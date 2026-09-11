@@ -1,0 +1,2402 @@
+[
+  {
+    "customer": {
+      "tweet_id": "1500094",
+      "author_id": "468274",
+      "inbound": "True",
+      "created_at": "Fri Nov 03 13:38:57 +0000 2017",
+      "text": "@SpotifyCares @115888 you guys charged me 3 times! Need help!",
+      "response_tweet_id": "1500093",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1500093",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Fri Nov 03 15:10:24 +0000 2017",
+      "text": "@468274 Hey Celeste, help's here! Can you DM us your account's email address? We'll take a look backstage /MV https://t.co/ldFdZRiNAt",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1500094"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1826278",
+      "author_id": "548176",
+      "inbound": "True",
+      "created_at": "Wed Oct 18 04:26:00 +0000 2017",
+      "text": "@115888 why do you not have a Spotify alarm clock??? All I want is to wake up to my Discover Weekly Playlist. Plz help😣",
+      "response_tweet_id": "1826277",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1826277",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Wed Oct 18 04:37:12 +0000 2017",
+      "text": "@548176 Hey there! We can see how that’d be useful! You can vote for the official idea here: https://t.co/YSHYSPDR4z /NS",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1826278"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2121321",
+      "author_id": "625002",
+      "inbound": "True",
+      "created_at": "Wed Nov 08 14:42:18 +0000 2017",
+      "text": "@118266 hai kak mau tanya apakah spotify sedang ada acara sportify goes to campus? Thanks 🙏",
+      "response_tweet_id": "2121320",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2121320",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Wed Nov 08 15:00:02 +0000 2017",
+      "text": "@625002 Hey Magdalena! We can help out in English via Twitter, but we also have Indonesian support via email at https://t.co/ZgU70TbP8M /PK",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "2121321"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2473682",
+      "author_id": "707288",
+      "inbound": "True",
+      "created_at": "Fri Nov 17 15:11:42 +0000 2017",
+      "text": "@SpotifyCares It's not song specific, but it might be playlist specific. It doesn't happen on my Mac, and I only have this mobile device.",
+      "response_tweet_id": "2473683",
+      "in_response_to_tweet_id": "2473681"
+    },
+    "support": {
+      "tweet_id": "2473683",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Fri Nov 17 15:24:30 +0000 2017",
+      "text": "@707288 We understand. Could you send us a DM with your account's email address or username? We'll take a look backstage /CO https://t.co/ldFdZRiNAt",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "2473682"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2175458",
+      "author_id": "209849",
+      "inbound": "True",
+      "created_at": "Thu Nov 09 13:19:18 +0000 2017",
+      "text": "@115888 I wish I didn't have to push a button for a small ad for 30 min ad free. My hands aren't always free to push. But I'm not paying cause I can't always listen",
+      "response_tweet_id": "2175457",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2175457",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Thu Nov 09 13:50:21 +0000 2017",
+      "text": "@209849 Hey Alexandra! Thanks for the feedback – we appreciate it. We’ll get this passed onto the right team /RS",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "2175458"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "559953",
+      "author_id": "250942",
+      "inbound": "True",
+      "created_at": "Sat Dec 02 12:30:34 +0000 2017",
+      "text": "@SpotifyCares I have premium and am trying to d/load an album whilst WiFi.....won’t let me follow or d/l, keeps switching toggle off?",
+      "response_tweet_id": "559952",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "559952",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Sat Dec 02 22:25:35 +0000 2017",
+      "text": "@250942 Hi Jessica, help's here! Can you DM us your account's email address or username? Also, let us know your device's make/model, operating system, and Spotify version. We'll see what we can suggest /GT https://t.co/ldFdZRiNAt",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "559953"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1586394",
+      "author_id": "488044",
+      "inbound": "True",
+      "created_at": "Sat Nov 04 15:08:05 +0000 2017",
+      "text": "@115888 there’s this annoying 30 second looping video when i stream to airplay on apple tv. how to fix?? only happened on iphone x ios11",
+      "response_tweet_id": "1586393",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1586393",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Sat Nov 04 17:48:13 +0000 2017",
+      "text": "@488044 Hi there! We've just sent a DM your way. Let's carry on chatting there /QI",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1586394"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "666353",
+      "author_id": "144988",
+      "inbound": "True",
+      "created_at": "Thu Nov 23 02:38:56 +0000 2017",
+      "text": "@SpotifyCares I was unable to watch the ad. The audio said to tap to watch the ad but there was no option to tap/ it didn't work.",
+      "response_tweet_id": "666351",
+      "in_response_to_tweet_id": "666354"
+    },
+    "support": {
+      "tweet_id": "666351",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Thu Nov 23 02:46:59 +0000 2017",
+      "text": "@144988 That's strange. We'll get this passed on to our devs so they can look into it. Give us a shout if you need anything else /CH",
+      "response_tweet_id": "666352",
+      "in_response_to_tweet_id": "666353"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2056133",
+      "author_id": "608076",
+      "inbound": "True",
+      "created_at": "Fri Oct 06 18:46:54 +0000 2017",
+      "text": "@SpotifyCares You have charged me for a student membership but i did not complete the process and do not access to premium features!",
+      "response_tweet_id": "2056132",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2056132",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Fri Oct 06 19:35:50 +0000 2017",
+      "text": "@608076 Hey James, help's here! Can you DM us your account's email address and username? We'll take a look backstage /CG https://t.co/ldFdZRiNAt",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "2056133"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "497716",
+      "author_id": "233784",
+      "inbound": "True",
+      "created_at": "Fri Dec 01 17:12:21 +0000 2017",
+      "text": "@SpotifyCares My new card has been charged by ya'll, and I haven't used your services for years? My Spotify account doesn't even have my info updates. How do we resolve this?",
+      "response_tweet_id": "497715",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "497715",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Fri Dec 01 18:54:11 +0000 2017",
+      "text": "@233784 Hey there, help's here! Could you DM us your account's email address and username? We'll take a look backstage /CG https://t.co/ldFdZRiNAt",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "497716"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1098074",
+      "author_id": "379109",
+      "inbound": "True",
+      "created_at": "Mon Oct 23 19:21:02 +0000 2017",
+      "text": "@spotifycares Why am I being charged for premium but not receiving any premium services? And why don't you have telephone troubleshooting?",
+      "response_tweet_id": "1098073",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1098073",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Mon Oct 23 22:09:22 +0000 2017",
+      "text": "@379109 Hey! We've just sent a DM your way. Let's carry on chatting there /AN",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1098074"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1016527",
+      "author_id": "360517",
+      "inbound": "True",
+      "created_at": "Thu Oct 12 14:02:23 +0000 2017",
+      "text": "@115888 what’s up about launching spotify in India #spotify",
+      "response_tweet_id": "1016525,1016529",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1016529",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Thu Oct 12 14:13:43 +0000 2017",
+      "text": "@360517 1: Hi! We don't have news on when we're landing in India, but we're launching in new countries as often as possible. Be sure to add...",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1016527"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "611978",
+      "author_id": "184908",
+      "inbound": "True",
+      "created_at": "Wed Oct 04 21:23:57 +0000 2017",
+      "text": ".@115888 migration process is not perfect. I have some extra albums I have never seen, not sure what is missing. \n\n#Groove #BringBackZune https://t.co/serMrOwC9q",
+      "response_tweet_id": "611977",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "611977",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Wed Oct 04 22:31:21 +0000 2017",
+      "text": "@184908 Hey! We're here to help. Can you DM us your account's email address? We'll take a look backstage /CP https://t.co/ldFdZRiNAt",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "611978"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1797152",
+      "author_id": "539996",
+      "inbound": "True",
+      "created_at": "Fri Oct 13 18:09:39 +0000 2017",
+      "text": "@SpotifyCares can you cancel my account for me I’m switching to Apple Music",
+      "response_tweet_id": "1797151",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1797151",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Fri Oct 13 21:13:43 +0000 2017",
+      "text": "@539996 No worries David, you can cancel anytime by heading to https://t.co/Q1zNbUXR4q. Let us know if you need a hand, we'd be happy to help /VK",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1797152"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2907326",
+      "author_id": "805026",
+      "inbound": "True",
+      "created_at": "Tue Nov 28 20:36:02 +0000 2017",
+      "text": "@SpotifyCares There is already a LOT of people who explained the problem there. Now we're waiting for a solution but it's like you really don't care about people listening to music this way.",
+      "response_tweet_id": "2907328",
+      "in_response_to_tweet_id": "2907325"
+    },
+    "support": {
+      "tweet_id": "2907328",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Tue Nov 28 20:44:17 +0000 2017",
+      "text": "@805026 We're afraid that we haven't got any news to share on this at this time. Once we do, we'll be sure to update the Community thread. In the meantime, if there's anything else we can help you with, you know where to find us 🙂 /K",
+      "response_tweet_id": "2907329",
+      "in_response_to_tweet_id": "2907326"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1716836",
+      "author_id": "519880",
+      "inbound": "True",
+      "created_at": "Mon Nov 06 07:42:41 +0000 2017",
+      "text": "@115888 Please turn off that flashing light screensaver you just added to your Web Player. It's insanely annoying.",
+      "response_tweet_id": "1716835",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1716835",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Mon Nov 06 08:17:43 +0000 2017",
+      "text": "@519880 Hey there. Is it happening with a particular track/playlist/album? Can you send us a screenshot of what you can see on your end? /AY",
+      "response_tweet_id": "1716834",
+      "in_response_to_tweet_id": "1716836"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "189893",
+      "author_id": "339461",
+      "inbound": "True",
+      "created_at": "Fri Oct 20 22:46:45 +0000 2017",
+      "text": "@115888 My accounts won’t link and I’ve contacted @SpotifyCares AND @hulu_support and neither of them can help me😭",
+      "response_tweet_id": "924761,924762",
+      "in_response_to_tweet_id": "189825"
+    },
+    "support": {
+      "tweet_id": "924762",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Fri Oct 20 22:53:52 +0000 2017",
+      "text": "@339461 Hey there! Don't worry, we're here to help. Can you DM us your account's email address or username? We'll take a look backstage /MT https://t.co/ldFdZRiNAt",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "189893"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1926505",
+      "author_id": "433415",
+      "inbound": "True",
+      "created_at": "Fri Oct 27 15:44:56 +0000 2017",
+      "text": "@125633 Ijust tweeted you via our account @433416,that account got lock and I cant acces it for the moment can I have the link ?",
+      "response_tweet_id": "1926504",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1926504",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Fri Oct 27 15:53:09 +0000 2017",
+      "text": "@433415 Hey! No worries. You should be able to reach the Artist Services team by filling out the contact form at https://t.co/yOb9dQudxx /C",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1926505"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2040133",
+      "author_id": "603230",
+      "inbound": "True",
+      "created_at": "Tue Nov 07 21:55:47 +0000 2017",
+      "text": "@SpotifyCares i logged out, now it sais im on a FREE plan, and ALL of my music that i had is NOW GONE. I am not all happy. Please fix this.",
+      "response_tweet_id": "2040132",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2040132",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Tue Nov 07 22:03:55 +0000 2017",
+      "text": "@603230 Hey, help's here! Can you DM us your account's username and email address? We'll do some digging 🔍 /TR https://t.co/ldFdZRiNAt",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "2040133"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1511001",
+      "author_id": "470724",
+      "inbound": "True",
+      "created_at": "Fri Nov 03 17:06:10 +0000 2017",
+      "text": "@SpotifyCares the 3333 song limit is really anoying. Cant believe spotify is limiting users like that, unlike the competition.",
+      "response_tweet_id": "1511000",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1511000",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Fri Nov 03 17:31:37 +0000 2017",
+      "text": "@470724 Hey, we hear you! We’d love to see your vote and hear your feedback on this idea: https://t.co/8OOl8B2i69 /TR",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1511001"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1927603",
+      "author_id": "573669",
+      "inbound": "True",
+      "created_at": "Tue Oct 31 21:02:31 +0000 2017",
+      "text": "@115888 needs an explicit songs filter (for children)! Other players have it. Oh and Apple TV app would be awesome in our house.",
+      "response_tweet_id": "1927601",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1927601",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Tue Oct 31 21:36:31 +0000 2017",
+      "text": "@573669 Hey Sean! We hear you. You can show support for the ideas on these links: https://t.co/CdI1SY9KZE &amp; https://t.co/quyaSSECJs /PC",
+      "response_tweet_id": "1927602",
+      "in_response_to_tweet_id": "1927603"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2851467",
+      "author_id": "792831",
+      "inbound": "True",
+      "created_at": "Mon Nov 27 14:27:07 +0000 2017",
+      "text": "@SpotifyCares What's up with the Discover Weekly algorithm? it keeps proposing german and french music which I've never listened to before (and which I don't want to listen to in future!)",
+      "response_tweet_id": "2851465",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2851465",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Mon Nov 27 19:41:46 +0000 2017",
+      "text": "@792831 Hey Joshua! Discover Weekly is based on what you, and others like you, are listening to. Hopefully it’s more in tune with your tastes next week /JP",
+      "response_tweet_id": "2851466",
+      "in_response_to_tweet_id": "2851467"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "969359",
+      "author_id": "350088",
+      "inbound": "True",
+      "created_at": "Sun Oct 22 04:59:41 +0000 2017",
+      "text": "@SpotifyCares former student but now can't update credit card w/o it going to the student verification page. Stuck at college verification",
+      "response_tweet_id": "969358",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "969358",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Sun Oct 22 06:52:14 +0000 2017",
+      "text": "@350088 Hey Cole! Help's here. Can you DM us your account's email address? We'll take a look backstage /RA https://t.co/ldFdZRiNAt",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "969359"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1359515",
+      "author_id": "436953",
+      "inbound": "True",
+      "created_at": "Fri Oct 27 20:26:26 +0000 2017",
+      "text": "@SpotifyCares Galaxy S7. There isn't even an option to remove unlike playlists and albums https://t.co/nlRkcohyP3",
+      "response_tweet_id": "1359517,1359518",
+      "in_response_to_tweet_id": "1359514"
+    },
+    "support": {
+      "tweet_id": "1359517",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Fri Oct 27 21:07:22 +0000 2017",
+      "text": "@436953 2: Community where you can get support from other fans: https://t.co/WgY7GXI7jf /CO",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1359515"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "57576",
+      "author_id": "129065",
+      "inbound": "True",
+      "created_at": "Wed Nov 01 19:30:55 +0000 2017",
+      "text": "@115888 hi is there a way to block people",
+      "response_tweet_id": "57574",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "57574",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Wed Nov 01 20:08:48 +0000 2017",
+      "text": "@129065 Hey there, we can see how that’d be useful! You can vote for the official idea here: https://t.co/Le9jT8ogaK /JX",
+      "response_tweet_id": "57575",
+      "in_response_to_tweet_id": "57576"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2095076",
+      "author_id": "618956",
+      "inbound": "True",
+      "created_at": "Wed Nov 08 08:37:05 +0000 2017",
+      "text": "@115888 get more ben fankhauser stuff",
+      "response_tweet_id": "2095075",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2095075",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Wed Nov 08 09:23:39 +0000 2017",
+      "text": "@618956 Hey there! We’d love to have all of his stuff available, but we have some info about content here: https://t.co/0i8GpimuDa /GK",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "2095076"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2267527",
+      "author_id": "556553",
+      "inbound": "True",
+      "created_at": "Thu Oct 19 19:13:21 +0000 2017",
+      "text": "@SpotifyCares Thank you 😊",
+      "response_tweet_id": "2267528",
+      "in_response_to_tweet_id": "1862312"
+    },
+    "support": {
+      "tweet_id": "2267528",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Thu Oct 19 19:55:54 +0000 2017",
+      "text": "@556553 Sure thing! If there's anything else, feel free to drop us a tweet. https://t.co/uEkAlnxbzn 🙂 /JE",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "2267527"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "903715",
+      "author_id": "334529",
+      "inbound": "True",
+      "created_at": "Fri Oct 20 22:58:22 +0000 2017",
+      "text": "@SpotifyCares can you make me a playlist",
+      "response_tweet_id": "903714",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "903714",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Fri Oct 20 23:14:39 +0000 2017",
+      "text": "@334529 Hey there! What type of music are you into? We'll see what we can cook up 😉 /MG",
+      "response_tweet_id": "903712",
+      "in_response_to_tweet_id": "903715"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "602845",
+      "author_id": "263159",
+      "inbound": "True",
+      "created_at": "Sun Dec 03 21:35:03 +0000 2017",
+      "text": "@SpotifyCares when i try to launch it says cannot find 'api-ms-win-core-processthreads-l1-1-2.ddl' please re-install this application. I re-installed and it still displays the error when i launch",
+      "response_tweet_id": "602843",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "602843",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Sun Dec 03 22:08:40 +0000 2017",
+      "text": "@263159 Hi, help's here! Can you let us know your desktop's operating system version? We'll see what we can suggest /DV",
+      "response_tweet_id": "602844",
+      "in_response_to_tweet_id": "602845"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "93964",
+      "author_id": "136373",
+      "inbound": "True",
+      "created_at": "Thu Nov 30 14:08:03 +0000 2017",
+      "text": "Fuck It by @5515 needs to be on @115888",
+      "response_tweet_id": "93963",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "93963",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Thu Nov 30 15:34:12 +0000 2017",
+      "text": "@136373 Hey! We’d love to have all of his stuff available, but we have some info about content here: https://t.co/1dgftcFtzc /KM",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "93964"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2313472",
+      "author_id": "670860",
+      "inbound": "True",
+      "created_at": "Sun Nov 12 19:07:43 +0000 2017",
+      "text": "@SpotifyCares issue w family account, doesn't let me accept my husband's invitation, can you help?",
+      "response_tweet_id": "2313471",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2313471",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Sun Nov 12 23:11:36 +0000 2017",
+      "text": "@670860 Hey Katie! Can you DM us the email addresses registered in both of your accounts? We'll take a look backstage /MG https://t.co/ldFdZRiNAt",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "2313472"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1909997",
+      "author_id": "568990",
+      "inbound": "True",
+      "created_at": "Wed Oct 18 12:07:00 +0000 2017",
+      "text": "@Spotifycares the lockscreen controls and out of app pause functionality have not been functional since the latest app update on iOS 11",
+      "response_tweet_id": "1909995",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1909995",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Wed Oct 18 13:31:35 +0000 2017",
+      "text": "@568990 Hey there, help's here! Does logging out &gt; restarting the device &gt; logging back in help? Keep us posted /TY",
+      "response_tweet_id": "1909996",
+      "in_response_to_tweet_id": "1909997"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1707184",
+      "author_id": "517367",
+      "inbound": "True",
+      "created_at": "Mon Nov 06 22:45:46 +0000 2017",
+      "text": "So I’m seriously pissed with @115888 RN as my payment is coming up and I can’t add the card I have for next months headbangers,  19th Nov",
+      "response_tweet_id": "1707183",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1707183",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Mon Nov 06 23:05:13 +0000 2017",
+      "text": "@517367 Hey Rob, help's here! Can you DM us your account's email address? We'll check backstage /MO https://t.co/ldFdZRiNAt",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1707184"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2728389",
+      "author_id": "765011",
+      "inbound": "True",
+      "created_at": "Mon Nov 20 14:02:41 +0000 2017",
+      "text": "@117168 I need technical help and every time I attempt to log in I get wrong password. I try to reset and never get the link via email. Not in spam folder either.",
+      "response_tweet_id": "2728387",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2728387",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Mon Nov 20 14:10:48 +0000 2017",
+      "text": "@765011 Hey Annie! Could you send us a DM with your account's email address? We'll take a look backstage /MA https://t.co/ldFdZRiNAt",
+      "response_tweet_id": "2728388",
+      "in_response_to_tweet_id": "2728389"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "818974",
+      "author_id": "315100",
+      "inbound": "True",
+      "created_at": "Thu Oct 12 21:26:26 +0000 2017",
+      "text": "@SpotifyCares When you paste in the link of artists Spotify page and then press the \"add\" button nothing happens. https://t.co/z4Z1zPWa52",
+      "response_tweet_id": "818972",
+      "in_response_to_tweet_id": "818976"
+    },
+    "support": {
+      "tweet_id": "818972",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Thu Oct 12 21:33:02 +0000 2017",
+      "text": "@315100 That's strange. Can you try it again using an incognito/private window? Let us know if that helps /QI",
+      "response_tweet_id": "818973",
+      "in_response_to_tweet_id": "818974"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2215857",
+      "author_id": "647424",
+      "inbound": "True",
+      "created_at": "Fri Nov 10 06:32:51 +0000 2017",
+      "text": "When #Reputation isn't on @115888 https://t.co/w4Xwq26JNX",
+      "response_tweet_id": "2215856",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2215856",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Fri Nov 10 06:40:14 +0000 2017",
+      "text": "@647424 Hey there! Fingers crossed we'll be able to have it soon, but there's info about Spotify content here: https://t.co/MEjmIRL2eB /KT",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "2215857"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2681312",
+      "author_id": "754312",
+      "inbound": "True",
+      "created_at": "Sun Nov 19 12:51:54 +0000 2017",
+      "text": "Scorching ping pong girls soundtrack please @SpotifyCares",
+      "response_tweet_id": "2681313,2681311",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2681311",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Sun Nov 19 14:28:47 +0000 2017",
+      "text": "@754312 Hi there! We’ll have it available to you as soon as it’s available to us. We have more info about Spotify content here: https://t.co/0i8GpimuDa. Let us know if you have any other questions /NY",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "2681312"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "272245",
+      "author_id": "180970",
+      "inbound": "True",
+      "created_at": "Fri Oct 06 01:48:26 +0000 2017",
+      "text": "@115888 why the fuck do you make it so fucking hard to rearrange a playlist where i have to google it? Fire your UI people. #MissRDIO",
+      "response_tweet_id": "272243",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "272243",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Fri Oct 06 03:00:05 +0000 2017",
+      "text": "@180970 Hey! There's info on sorting and filtering at https://t.co/5pR9eg0nYQ. It there's anything else we could help with, let us know /AR",
+      "response_tweet_id": "272242,272244",
+      "in_response_to_tweet_id": "272245"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "507395",
+      "author_id": "236469",
+      "inbound": "True",
+      "created_at": "Fri Dec 01 19:44:32 +0000 2017",
+      "text": "@SpotifyCares It's almost 2018, please tell me you are going to make Siri work with Spotify!  That would make our roads much safer!",
+      "response_tweet_id": "507394",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "507394",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Fri Dec 01 21:51:25 +0000 2017",
+      "text": "@236469 Hey Joe! We're afraid we don't have any new info to share about this, but we’ll remind the team it’s a popular request /SY",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "507395"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1874178",
+      "author_id": "559512",
+      "inbound": "True",
+      "created_at": "Fri Oct 20 08:23:49 +0000 2017",
+      "text": "@SpotifyCares I'm using iOS 10.2 and my Spotify version is 8.4.22.515",
+      "response_tweet_id": "1874177",
+      "in_response_to_tweet_id": "1874179"
+    },
+    "support": {
+      "tweet_id": "1874177",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Fri Oct 20 08:41:15 +0000 2017",
+      "text": "@559512 Cool! Just to check, does logging out of Spotify, restarting your device, and logging back in help at all? Keep us posted /NY",
+      "response_tweet_id": "1874176",
+      "in_response_to_tweet_id": "1874178"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1958901",
+      "author_id": "581146",
+      "inbound": "True",
+      "created_at": "Tue Oct 31 09:03:51 +0000 2017",
+      "text": "@SpotifyCares Google Chrome on OSX. Doesn't play out there are some javascript errors in console.",
+      "response_tweet_id": "1958903",
+      "in_response_to_tweet_id": "1958900"
+    },
+    "support": {
+      "tweet_id": "1958903",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Tue Oct 31 09:45:11 +0000 2017",
+      "text": "@581146 Hmm. Before anything else, can you let us know the country you're currently in? /AY",
+      "response_tweet_id": "1958904",
+      "in_response_to_tweet_id": "1958901"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "470965",
+      "author_id": "227130",
+      "inbound": "True",
+      "created_at": "Fri Dec 01 07:37:14 +0000 2017",
+      "text": "@115888 Hi Spotify can I sort a playlist by most recently added when using the iOS app?  If not could you add that pls?",
+      "response_tweet_id": "470964",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "470964",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Fri Dec 01 07:59:14 +0000 2017",
+      "text": "@227130 Hey there! It's possible to sort the tracks on your playlists by recently added. Check out the steps at https://t.co/myAf3mlgcv. Let us know if we can help with anything else 🙂 /AY",
+      "response_tweet_id": "470963",
+      "in_response_to_tweet_id": "470965"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "162225",
+      "author_id": "153451",
+      "inbound": "True",
+      "created_at": "Fri Nov 24 15:49:32 +0000 2017",
+      "text": "@116130 Hello, who is the best person to speak to about press enquiries please? Do you have a press email address?",
+      "response_tweet_id": "162224",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "162224",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Fri Nov 24 19:02:42 +0000 2017",
+      "text": "@153451 Hey Amy! For all press inquiries, you can reach out to the team here: https://t.co/Th3w2zq5Hv /Q",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "162225"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2308167",
+      "author_id": "669538",
+      "inbound": "True",
+      "created_at": "Mon Nov 13 02:00:08 +0000 2017",
+      "text": "@SpotifyCares I already listen that playlist.. But i want the new album.. :/",
+      "response_tweet_id": "2308169",
+      "in_response_to_tweet_id": "2308166"
+    },
+    "support": {
+      "tweet_id": "2308169",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Mon Nov 13 02:33:35 +0000 2017",
+      "text": "@669538 Got it! We'll have it available to you as soon as it's available to us: https://t.co/0i8GpimuDa /RA",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "2308167"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2364823",
+      "author_id": "682737",
+      "inbound": "True",
+      "created_at": "Mon Nov 13 21:18:18 +0000 2017",
+      "text": "Hey @115888 when u gonna update ur app to look decent on the iPhone X",
+      "response_tweet_id": "2364821",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2364821",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Mon Nov 13 22:06:01 +0000 2017",
+      "text": "@682737 Hey Kameron! We hear you - we’re working on it as we speak. Stay tuned! /TB",
+      "response_tweet_id": "2364822",
+      "in_response_to_tweet_id": "2364823"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2865502",
+      "author_id": "795908",
+      "inbound": "True",
+      "created_at": "Mon Nov 27 22:17:27 +0000 2017",
+      "text": "@SpotifyCares I can’t log into my account it just keeps coming up with ‘something went wrong please try again’ please would you help me get back into my account?",
+      "response_tweet_id": "2865501",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2865501",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Tue Nov 28 00:17:17 +0000 2017",
+      "text": "@795908 Hey! The cavalry's here. Can you DM us your account's username or email address? We'll take a look under the hood /JS https://t.co/ldFdZRiNAt",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "2865502"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1864958",
+      "author_id": "557180",
+      "inbound": "True",
+      "created_at": "Fri Oct 20 14:05:38 +0000 2017",
+      "text": "@SpotifyCares Hello! I am premium member and using it on iOS. Whenever i open the app, it gives error on mainpage. Can you help me about it?",
+      "response_tweet_id": "1864957",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1864957",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Fri Oct 20 16:11:00 +0000 2017",
+      "text": "@557180 Hi, help's here! What specific error are you getting? If you could DM us your account's email address, we'll check things backstage too /CP https://t.co/ldFdZRiNAt",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1864958"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2128279",
+      "author_id": "626556",
+      "inbound": "True",
+      "created_at": "Wed Nov 08 20:29:21 +0000 2017",
+      "text": "I FORGOT FOR THE SECOND TIME TO RENEW MY STUDENT SPOTIFY THINGY BRO I HAD TO PAY 1 MONTH OF REGULAR PRICE IM HURT",
+      "response_tweet_id": "2128278",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2128278",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Wed Nov 08 20:45:25 +0000 2017",
+      "text": "@626556 Hi there! We'll help out, don't worry. Can you send over your account's username or email address via DM? We'll see what we can suggest /GN https://t.co/ldFdZRiNAt",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "2128279"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2079737",
+      "author_id": "615086",
+      "inbound": "True",
+      "created_at": "Mon Oct 09 18:12:24 +0000 2017",
+      "text": "@115888: idea - introduce ad filters. so that people like me don't get anxiety listening to horror film ads. #thanks",
+      "response_tweet_id": "2079736",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2079736",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Mon Oct 09 19:50:13 +0000 2017",
+      "text": "@615086 Hi Nika! We didn't mean to scare you. Not to worry, we'll let the right team know that option is something you'd like to see /NJ",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "2079737"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2259560",
+      "author_id": "657958",
+      "inbound": "True",
+      "created_at": "Sun Nov 12 00:57:00 +0000 2017",
+      "text": "@SpotifyCares I don’t like that I can’t play my playlists in order, I have to shuffle play them",
+      "response_tweet_id": "2259562",
+      "in_response_to_tweet_id": "2259558"
+    },
+    "support": {
+      "tweet_id": "2259562",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Sun Nov 12 01:00:07 +0000 2017",
+      "text": "@657958 Got it. Could you DM us your account's email address or username? We'll take a look backstage /MT https://t.co/ldFdZRiNAt",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "2259560"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2597270",
+      "author_id": "735377",
+      "inbound": "True",
+      "created_at": "Fri Nov 17 04:06:18 +0000 2017",
+      "text": "I already paid but still not getting premium &amp; no email about it. why? @118266 @SpotifyCares",
+      "response_tweet_id": "2597269",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2597269",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Fri Nov 17 04:15:32 +0000 2017",
+      "text": "@735377 Hey Nadia! Could you send us a DM with your account's email address? We'll take a look backstage /FR https://t.co/ldFdZRiNAt",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "2597270"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1819058",
+      "author_id": "359863",
+      "inbound": "True",
+      "created_at": "Sat Oct 28 09:56:35 +0000 2017",
+      "text": "@115888 and if you pay for your account, can two people share it or do we  have to have our own accounts?",
+      "response_tweet_id": "1819057",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1819057",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Sat Oct 28 13:23:42 +0000 2017",
+      "text": "@359863 Hi! We're afraid you'll need to have separate accounts as Spotify is licensed for personal use only. Hope this clears things up /NY",
+      "response_tweet_id": "1819056",
+      "in_response_to_tweet_id": "1819058"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1245525",
+      "author_id": "412193",
+      "inbound": "True",
+      "created_at": "Thu Oct 26 00:15:29 +0000 2017",
+      "text": "@117168 Someone hacked my @115888 artist account &amp; locked me out of my own shit. So I can't login &amp; ya'll ain't returning my emails 😞",
+      "response_tweet_id": "1245524",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1245524",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Thu Oct 26 00:27:30 +0000 2017",
+      "text": "@412193 Hey! Could you DM us your artist URI, and your contact email address? We’ll chase this up /YM https://t.co/ldFdZRiNAt",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1245525"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "605301",
+      "author_id": "214265",
+      "inbound": "True",
+      "created_at": "Wed Nov 22 10:26:08 +0000 2017",
+      "text": "@SpotifyCares Ok so this playlist is already set...but I want to put \"tick tick boom\" under \"the way you used to do\" but I can't cause the playlist is already set....is there a option to move just 1 or 2 songs around? https://t.co/4TqfJMRR30",
+      "response_tweet_id": "605299",
+      "in_response_to_tweet_id": "605303"
+    },
+    "support": {
+      "tweet_id": "605299",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Wed Nov 22 10:31:48 +0000 2017",
+      "text": "@214265 We're afraid it's not possible on your mobile device, but you can sort this using your laptop or your desktop 🙂 /JN",
+      "response_tweet_id": "605300",
+      "in_response_to_tweet_id": "605301"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1298044",
+      "author_id": "423354",
+      "inbound": "True",
+      "created_at": "Thu Oct 26 23:44:05 +0000 2017",
+      "text": "@SpotifyCares Debit card is not available for Colombia. Only the option for pay with credit card. 😭😭😭😭 https://t.co/31otkwBRAr",
+      "response_tweet_id": "1298045",
+      "in_response_to_tweet_id": "1298043"
+    },
+    "support": {
+      "tweet_id": "1298045",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Fri Oct 27 00:07:32 +0000 2017",
+      "text": "@423354 Can you try entering your card info and check if it goes through? Let us know how it plays out /RH",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1298044"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2412721",
+      "author_id": "693600",
+      "inbound": "True",
+      "created_at": "Tue Nov 14 16:40:42 +0000 2017",
+      "text": "@SpotifyCares @46289@SpotifyCares I need my account canceled an start me another one, my account was not put on my new phone. I love my music",
+      "response_tweet_id": "2412720,2412722",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2412720",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Tue Nov 14 16:44:16 +0000 2017",
+      "text": "@693600 Hey there, we've replied to your DM! We'll continue helping out over there 🙂 /DQ",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "2412721"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1410932",
+      "author_id": "217077",
+      "inbound": "True",
+      "created_at": "Thu Nov 02 00:43:24 +0000 2017",
+      "text": "@SpotifyCares Thank you 💜",
+      "response_tweet_id": "1410931",
+      "in_response_to_tweet_id": "1410933"
+    },
+    "support": {
+      "tweet_id": "1410931",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Thu Nov 02 00:48:35 +0000 2017",
+      "text": "@217077 No worries! Give us a shout if you have any other questions 🙂 /JL",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1410932"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "231015",
+      "author_id": "171002",
+      "inbound": "True",
+      "created_at": "Thu Oct 05 09:54:27 +0000 2017",
+      "text": "@115888 please add Code Red songs..🙂",
+      "response_tweet_id": "231014",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "231014",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Thu Oct 05 09:58:36 +0000 2017",
+      "text": "@171002 Hey there! We’ll have it available to you as soon as it’s available to us! https://t.co/0i8GpimuDa. /DB",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "231015"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "966912",
+      "author_id": "349483",
+      "inbound": "True",
+      "created_at": "Sat Oct 21 21:20:23 +0000 2017",
+      "text": "@115888 is not working on my phone, the log in from Facebook is not recognizing my id. I've lost my account!",
+      "response_tweet_id": "966911",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "966911",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Sun Oct 22 00:00:58 +0000 2017",
+      "text": "@349483 Hey there, help's here! Can you DM us your account's email address? We'll take a look backstage 🙂 /CG https://t.co/ldFdZRiNAt",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "966912"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2335098",
+      "author_id": "675693",
+      "inbound": "True",
+      "created_at": "Fri Oct 20 01:26:50 +0000 2017",
+      "text": "@115888 will you have this at midnight I need to play this on my PS4 at midnight https://t.co/GE2tfZuUbI",
+      "response_tweet_id": "2335097",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2335097",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Fri Oct 20 02:20:02 +0000 2017",
+      "text": "@675693 Hey, we’ll have it available to you as soon as it’s available to us! https://t.co/0i8GpimuDa /AR",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "2335098"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1031942",
+      "author_id": "364174",
+      "inbound": "True",
+      "created_at": "Sat Oct 14 14:19:52 +0000 2017",
+      "text": "@117153 Hi i have paid and no its not a pending payment for a year of premium yet i can’t use it! That suckcs big time",
+      "response_tweet_id": "1031940",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1031940",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Sat Oct 14 18:01:49 +0000 2017",
+      "text": "@364174 @117153 We've just sent you a bit more info over DM. We'll carry on helping out there 🙂 /CG",
+      "response_tweet_id": "1031941",
+      "in_response_to_tweet_id": "1031942"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "48582",
+      "author_id": "126823",
+      "inbound": "True",
+      "created_at": "Wed Nov 01 17:02:41 +0000 2017",
+      "text": "@126824 @115888 @125633 sad to say Spotify is not in India",
+      "response_tweet_id": "48580",
+      "in_response_to_tweet_id": "48584"
+    },
+    "support": {
+      "tweet_id": "48580",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Wed Nov 01 17:08:14 +0000 2017",
+      "text": "@126823 Hey Prajwal! We're launching in new countries as often as possible. Be sure to add your email at https://t.co/X8DVSX9QgM /K",
+      "response_tweet_id": "48581",
+      "in_response_to_tweet_id": "48582"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1239143",
+      "author_id": "410650",
+      "inbound": "True",
+      "created_at": "Wed Oct 25 20:28:57 +0000 2017",
+      "text": "@115888 @SpotifyCares what are the chances of you sending me an invitation to the Hi-Fi service?",
+      "response_tweet_id": "1239144,1239142",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1239144",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Wed Oct 25 21:22:55 +0000 2017",
+      "text": "@410650 1: Hey Pablo! We know you're really excited to have lossless streaming. We don't have any info about this, but we'll let the right... /SJ",
+      "response_tweet_id": "1914256",
+      "in_response_to_tweet_id": "1239143"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2825209",
+      "author_id": "787069",
+      "inbound": "True",
+      "created_at": "Sun Nov 26 23:17:51 +0000 2017",
+      "text": "@116380 Stop-start probs with Spotify on my laptop. So FRUSTRATING &amp; paying premium. Tried loging out &amp; back in turned laptop off &amp; back on. #loveSpotify so much, on 12 Dec last year #Spotify advised I listened for 52,909mins in 2016. I guess same this year. Please HELP me!",
+      "response_tweet_id": "2825213,2825207",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2825207",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Mon Nov 27 09:34:25 +0000 2017",
+      "text": "@787069 Hey there, we understand how you feel about this. What's happening exactly? Can you also let us know the operating system and Spotify version you're using? We'll see what we can suggest /AY",
+      "response_tweet_id": "2825208",
+      "in_response_to_tweet_id": "2825209"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2402461",
+      "author_id": "691174",
+      "inbound": "True",
+      "created_at": "Tue Nov 14 13:33:03 +0000 2017",
+      "text": "@115888 you came with it this week for my discover weekly.  Not as much on the discover but went hard on that 🔥🔥🔥.  Job well done.",
+      "response_tweet_id": "2402460",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2402460",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Tue Nov 14 14:12:07 +0000 2017",
+      "text": "@691174 Hi Chris! Glad to hear you liked your Discover Weekly. Keep listening to more of your favourite tunes. This will mix things up /PL",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "2402461"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2076929",
+      "author_id": "614260",
+      "inbound": "True",
+      "created_at": "Sun Oct 08 15:44:04 +0000 2017",
+      "text": "@115888 @SpotifyCares bump",
+      "response_tweet_id": "2076928",
+      "in_response_to_tweet_id": "2076930"
+    },
+    "support": {
+      "tweet_id": "2076928",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Mon Oct 09 11:04:52 +0000 2017",
+      "text": "@614260 Hey Mikey! Sure, we can help out with this. Just DM us the email addresses linked to both your accounts. We'll take a look at both /T https://t.co/ldFdZRiNAt",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "2076929"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "639927",
+      "author_id": "271795",
+      "inbound": "True",
+      "created_at": "Wed Nov 22 20:24:59 +0000 2017",
+      "text": "@SpotifyCares BLESS YOU",
+      "response_tweet_id": "639929",
+      "in_response_to_tweet_id": "639926"
+    },
+    "support": {
+      "tweet_id": "639929",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Wed Nov 22 21:34:00 +0000 2017",
+      "text": "@271795 Thanks for the kind words! If you have any other questions, just let us know. We're here to help 🙂 /CG",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "639927"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "775119",
+      "author_id": "305195",
+      "inbound": "True",
+      "created_at": "Thu Oct 12 00:51:45 +0000 2017",
+      "text": "@SpotifyCares 🙏🏾🙏🏾🙏🏾 okay thanks ! Fan 2011 If you’d like to drop it in my email I won’t be mad ! 😉__email__",
+      "response_tweet_id": "775118,775120",
+      "in_response_to_tweet_id": "775121"
+    },
+    "support": {
+      "tweet_id": "775118",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Thu Oct 12 02:37:37 +0000 2017",
+      "text": "@305195 2: though! On another note, we'd suggest deleting your tweet as it contains private info. If there's anything else, just give us a shout /RH",
+      "response_tweet_id": "775117",
+      "in_response_to_tweet_id": "775119"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1585548",
+      "author_id": "487839",
+      "inbound": "True",
+      "created_at": "Sat Nov 04 21:05:35 +0000 2017",
+      "text": "@SpotifyCares Sounds great, and thank you! &lt;3",
+      "response_tweet_id": "1585547",
+      "in_response_to_tweet_id": "1585549"
+    },
+    "support": {
+      "tweet_id": "1585547",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Sat Nov 04 21:06:57 +0000 2017",
+      "text": "@487839 No worries! If you ever need anything else, just shout and we'll come running 🏃 /DF",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1585548"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1913639",
+      "author_id": "570016",
+      "inbound": "True",
+      "created_at": "Wed Oct 25 18:48:58 +0000 2017",
+      "text": "I need @67696 on @115888 🙌🏼🔥 https://t.co/I0W0YnICH5",
+      "response_tweet_id": "1913638",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1913638",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Wed Oct 25 20:00:50 +0000 2017",
+      "text": "@570016 Hey Josh! We’d love to have all of their stuff available, but we have some info about content here: https://t.co/0i8GpimuDa /MX",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1913639"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "832174",
+      "author_id": "318197",
+      "inbound": "True",
+      "created_at": "Fri Oct 13 05:11:24 +0000 2017",
+      "text": "just let me listen to suneohair please..... please @115888 if it wasn't for suneohair's music, I would've killed myself back in college",
+      "response_tweet_id": "832172",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "832172",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Fri Oct 13 05:25:06 +0000 2017",
+      "text": "@318197 Hey there. We'd love to have him on Spotify! Hopefully we will in the future. Check this out: https://t.co/MEjmIS2D69 /MO",
+      "response_tweet_id": "832173",
+      "in_response_to_tweet_id": "832174"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2344104",
+      "author_id": "677918",
+      "inbound": "True",
+      "created_at": "Mon Nov 13 14:51:40 +0000 2017",
+      "text": "@115888 should have some sort of “jukebox” feature that allows you to queue songs from diff accounts to the device the music it’s playing from, that’d be niceeee",
+      "response_tweet_id": "2344103,2344105",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2344105",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Mon Nov 13 15:37:38 +0000 2017",
+      "text": "@677918 1. Hey Crystal, nice idea! It's definitely something for the team to consider and we'll make sure it reaches them. In the meantime,...",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "2344104"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "466056",
+      "author_id": "225883",
+      "inbound": "True",
+      "created_at": "Sun Nov 26 04:59:43 +0000 2017",
+      "text": "@115888 hey there I am having problem on my app, the advertisement just keep popping out and I could not close it, until I kill the app and boot again, the problem continue happening",
+      "response_tweet_id": "466054",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "466054",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Sun Nov 26 15:28:00 +0000 2017",
+      "text": "@225883 Hey, the cavalry's here! What's the exact device, operating system, and Spotify app version you're using? Can you also send over a screenshot of the ad you're getting? We'll do our best to help out /NJ",
+      "response_tweet_id": "466055,466052",
+      "in_response_to_tweet_id": "466056"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1726752",
+      "author_id": "522229",
+      "inbound": "True",
+      "created_at": "Tue Nov 07 05:21:57 +0000 2017",
+      "text": "@SpotifyCares That’s truly absurd, but I know it’s not your fault. Thanks for the link/explanation.",
+      "response_tweet_id": "1726751",
+      "in_response_to_tweet_id": "1726753"
+    },
+    "support": {
+      "tweet_id": "1726751",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Tue Nov 07 05:43:31 +0000 2017",
+      "text": "@522229 Thanks for the feedback. We'll pass it on to the right team. You can also vote for the official idea at https://t.co/8OOl8B2i69 /AK",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1726752"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "622885",
+      "author_id": "267854",
+      "inbound": "True",
+      "created_at": "Thu Nov 23 07:37:41 +0000 2017",
+      "text": "@SpotifyCares It’s only when I try and play Come and Get Your Love by Redbone, the album artwork is Gloria G...and so is the song 🤷🏼‍♀️",
+      "response_tweet_id": "683951,683952",
+      "in_response_to_tweet_id": "622884"
+    },
+    "support": {
+      "tweet_id": "683951",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Thu Nov 23 12:04:50 +0000 2017",
+      "text": "@267854 Got it. Could you send us the Song Links? Just tap the three dots &gt; Share &gt; Copy Link. Also, what device, operating system, and Spotify version is this happening on? /AY",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "622885"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2275478",
+      "author_id": "661835",
+      "inbound": "True",
+      "created_at": "Sat Nov 11 03:46:58 +0000 2017",
+      "text": "@115888 rap caviar is trash",
+      "response_tweet_id": "2275477",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2275477",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Sat Nov 11 06:11:17 +0000 2017",
+      "text": "@661835 Hey! We appreciate your feedback, and we'll surely pass them on to the right folks. If you need us again, you know where to find us /LW",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "2275478"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2809055",
+      "author_id": "783420",
+      "inbound": "True",
+      "created_at": "Wed Nov 22 03:00:00 +0000 2017",
+      "text": "The fact that I can’t deactivate my FB without fucking up my Spotify acct or contacting their customer service is stupid as fuck",
+      "response_tweet_id": "2809054",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2809054",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Wed Nov 22 05:14:17 +0000 2017",
+      "text": "@783420 Hey Leslie, help's here! Can you DM us your account's email address? We'll see what we can suggest /GS https://t.co/ldFdZRiNAt",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "2809055"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "223065",
+      "author_id": "169282",
+      "inbound": "True",
+      "created_at": "Thu Oct 05 09:52:24 +0000 2017",
+      "text": "@SpotifyCares I could send members of my house to join the family account. I'm only utilizing 2 such accounts at present, would like to utilize more",
+      "response_tweet_id": "223066",
+      "in_response_to_tweet_id": "223063"
+    },
+    "support": {
+      "tweet_id": "223066",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Thu Oct 05 09:53:09 +0000 2017",
+      "text": "@169282 Sorry for the confusion. Could you DM us your account's email address or username? We'll take a closer look /AY https://t.co/ldFdZRiNAt",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "223065"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "373749",
+      "author_id": "204575",
+      "inbound": "True",
+      "created_at": "Mon Oct 09 01:41:42 +0000 2017",
+      "text": "@SpotifyCares Sure. I can select any song on that album as an example and nothing happens. https://t.co/obvT36rSjc",
+      "response_tweet_id": "373750",
+      "in_response_to_tweet_id": "373748"
+    },
+    "support": {
+      "tweet_id": "373750",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Mon Oct 09 01:45:20 +0000 2017",
+      "text": "@204575 Thanks for the screenshot. Can you DM us your account's email address or username? We'll take a look backstage /RH https://t.co/ldFdZR1cbT",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "373749"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2637123",
+      "author_id": "128762",
+      "inbound": "True",
+      "created_at": "Fri Nov 17 20:54:33 +0000 2017",
+      "text": "@SpotifyCares Yo - you guys tell me to go DM... then donʻt reply.... what gives?",
+      "response_tweet_id": "2637125",
+      "in_response_to_tweet_id": "2637122"
+    },
+    "support": {
+      "tweet_id": "2637125",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Fri Nov 17 20:59:49 +0000 2017",
+      "text": "@128762 Apologies for the delay. We've just sent a DM your way. Let's carry on chatting there /CP",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "2637123"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1069137",
+      "author_id": "372298",
+      "inbound": "True",
+      "created_at": "Fri Oct 20 15:09:14 +0000 2017",
+      "text": "@117153 Is the web player down?",
+      "response_tweet_id": "1069136",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1069136",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Fri Oct 20 16:54:10 +0000 2017",
+      "text": "@372298 Hey Callum! Don’t worry, we're here for you. Can you give us some more info on what's happening? We'll see what we can suggest /KL",
+      "response_tweet_id": "1069134",
+      "in_response_to_tweet_id": "1069137"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2264842",
+      "author_id": "659271",
+      "inbound": "True",
+      "created_at": "Sat Nov 11 01:43:26 +0000 2017",
+      "text": "@117153 hey, my boyfriend added me on his premium family plan. still haven't received the email confirmation or the invite.",
+      "response_tweet_id": "2264841",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2264841",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Sat Nov 11 03:47:32 +0000 2017",
+      "text": "@659271 Hi Kayzie, help's here! Could you DM us your username and email address? We'll take a closer look /JQ https://t.co/ldFdZRiNAt",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "2264842"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2627914",
+      "author_id": "742219",
+      "inbound": "True",
+      "created_at": "Fri Nov 17 16:54:13 +0000 2017",
+      "text": "@SpotifyCares  Ive deleted a playlist that was imorted from Itunes, Id since added to the playlist. I somehow deleted the itunes playlists and reimported them but only the original is now available. Ive checked the restore playlist option in my account but it is not listed. Help!",
+      "response_tweet_id": "2627913",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2627913",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Fri Nov 17 17:03:48 +0000 2017",
+      "text": "@742219 Hi Mark! Could you send us a DM with your account's email address? We'll take a look backstage /QI https://t.co/ldFdZRiNAt",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "2627914"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2466898",
+      "author_id": "792510",
+      "inbound": "True",
+      "created_at": "Mon Nov 27 17:05:27 +0000 2017",
+      "text": "@115888 @109236",
+      "response_tweet_id": "2850080",
+      "in_response_to_tweet_id": "2466897"
+    },
+    "support": {
+      "tweet_id": "2850080",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Mon Nov 27 18:58:50 +0000 2017",
+      "text": "@792510 Hey, that's not cool! We can confirm that your Premium expired. You can get back to Premium services through here: https://t.co/WB5TSxRfDe. If you have any other questions, just shout and we'll come running 🏃 /DT",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "2466898"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2306186",
+      "author_id": "669054",
+      "inbound": "True",
+      "created_at": "Mon Nov 13 02:15:03 +0000 2017",
+      "text": "@SpotifyCares Nope 😞",
+      "response_tweet_id": "2306187",
+      "in_response_to_tweet_id": "2306185"
+    },
+    "support": {
+      "tweet_id": "2306187",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Mon Nov 13 02:21:08 +0000 2017",
+      "text": "@669054 Best thing to try here is a reinstall. Just follow the steps at https://t.co/EqisDMwZAT. See if that helps /RH",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "2306186"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2913768",
+      "author_id": "234671",
+      "inbound": "True",
+      "created_at": "Tue Nov 28 22:36:55 +0000 2017",
+      "text": "@SpotifyCares Everything eh okay",
+      "response_tweet_id": "2913767",
+      "in_response_to_tweet_id": "2913769"
+    },
+    "support": {
+      "tweet_id": "2913767",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Tue Nov 28 22:42:48 +0000 2017",
+      "text": "@234671 Awesome! Give us a shout if we can help with anything else /CE",
+      "response_tweet_id": "2913766",
+      "in_response_to_tweet_id": "2913768"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1979541",
+      "author_id": "586031",
+      "inbound": "True",
+      "created_at": "Tue Oct 31 20:29:00 +0000 2017",
+      "text": "@SpotifyCares Saved songs/albums.\n\nThe hasty response is much appreciated ☺",
+      "response_tweet_id": "1979540",
+      "in_response_to_tweet_id": "1979542"
+    },
+    "support": {
+      "tweet_id": "1979540",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Tue Oct 31 20:36:10 +0000 2017",
+      "text": "@586031 You're welcome. There's currently a 10k limit in Your Music (Songs + Albums + Artists). More info here: https://t.co/59ABtm5Ftl 🙂 /AU",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1979541"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "916652",
+      "author_id": "333756",
+      "inbound": "True",
+      "created_at": "Sat Oct 21 08:52:35 +0000 2017",
+      "text": "@SpotifyCares  it not fix it,same thing\n😟😠😡",
+      "response_tweet_id": "916651",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "916651",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Sat Oct 21 09:42:33 +0000 2017",
+      "text": "@333756 We've just sent you a bit more info over DM. We'll carry on helping out there /DR",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "916652"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2131380",
+      "author_id": "627270",
+      "inbound": "True",
+      "created_at": "Wed Nov 08 19:43:20 +0000 2017",
+      "text": "@115888 dude https://t.co/axIMxNdXO6",
+      "response_tweet_id": "2131379",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2131379",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Wed Nov 08 20:03:54 +0000 2017",
+      "text": "@627270 Hi there. Can you let us know what's happening exactly? We'll be happy to lend a hand /LM",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "2131380"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2618580",
+      "author_id": "740013",
+      "inbound": "True",
+      "created_at": "Fri Nov 17 14:00:16 +0000 2017",
+      "text": "@115888 needs to add more of @101228’s new songs though!",
+      "response_tweet_id": "2618579",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2618579",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Fri Nov 17 14:47:53 +0000 2017",
+      "text": "@740013 Hi Danita! Fingers crossed we'll be able to have them soon, but there's info about Spotify content here: https://t.co/0i8GpimuDa /AU",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "2618580"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2144241",
+      "author_id": "630430",
+      "inbound": "True",
+      "created_at": "Wed Nov 08 23:10:57 +0000 2017",
+      "text": "@115888 If I am listening to @85082, why would I want to listen to Bieber? They are 2 totally different genres. Work on your suggested songs. No offensive  meant to Justin.",
+      "response_tweet_id": "2144240",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2144240",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Wed Nov 08 23:28:33 +0000 2017",
+      "text": "@630430 Hey there! We hear you. Your feedback has been noted and passed onto the team /NQ",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "2144241"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2118676",
+      "author_id": "624386",
+      "inbound": "True",
+      "created_at": "Wed Nov 08 13:34:23 +0000 2017",
+      "text": "@115888 when are we getting an update for iPhone X? It's annoying to use the app with those big black bars.",
+      "response_tweet_id": "2118675",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2118675",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Wed Nov 08 14:30:42 +0000 2017",
+      "text": "@624386 Hey Ankit! We're afraid we don't any info at this time. No worries, we'll make sure to keep everyone updated as soon as we have any news /JT",
+      "response_tweet_id": "2118674",
+      "in_response_to_tweet_id": "2118676"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1637387",
+      "author_id": "500769",
+      "inbound": "True",
+      "created_at": "Sun Nov 05 17:14:18 +0000 2017",
+      "text": "Hey @115888 if I’m listening to a #playlist, please don’t play suggested tracks. This isn’t #radio.... #justsayin",
+      "response_tweet_id": "1637386",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1637386",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Sun Nov 05 21:47:19 +0000 2017",
+      "text": "@500769 Hey there, we're here to help! Could you DM us with your account's username and email address? We'll take a look /TB",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1637387"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1798076",
+      "author_id": "540274",
+      "inbound": "True",
+      "created_at": "Fri Oct 13 23:11:01 +0000 2017",
+      "text": "https://t.co/Ksa5JJKJh7 Futura Grammy Winner.",
+      "response_tweet_id": "1798075",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1798075",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Fri Oct 13 23:34:16 +0000 2017",
+      "text": "@540274 Hey! Our Curation team are independent &amp; use taste, data, research, and trends to create playlists, but we’ll pass on your suggestion /TB",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1798076"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2663881",
+      "author_id": "129640",
+      "inbound": "True",
+      "created_at": "Tue Oct 31 07:23:04 +0000 2017",
+      "text": "Hey @115888, how do I play an entire album sequentially without shuffle? Android, premium subscriber.",
+      "response_tweet_id": "2663880",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2663880",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Tue Oct 31 07:45:09 +0000 2017",
+      "text": "@129640 Hey Andrei, help's here! Can you DM us your account's email address? We'll see what we can suggest /GK https://t.co/ldFdZRiNAt",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "2663881"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "948691",
+      "author_id": "344981",
+      "inbound": "True",
+      "created_at": "Thu Nov 09 14:12:34 +0000 2017",
+      "text": "@SpotifyCares 'Remember dis?' https://t.co/NQixaw7KkT",
+      "response_tweet_id": "948692",
+      "in_response_to_tweet_id": "948690"
+    },
+    "support": {
+      "tweet_id": "948692",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Thu Nov 09 14:24:00 +0000 2017",
+      "text": "@344981 We do. Rest assured, we'll give the right folks a nudge about your feedback. We hope it'd be available in all regions soon /AY",
+      "response_tweet_id": "948693,948694",
+      "in_response_to_tweet_id": "948691"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2251335",
+      "author_id": "655859",
+      "inbound": "True",
+      "created_at": "Fri Nov 10 18:18:46 +0000 2017",
+      "text": "can I sort my own playlist by \"Recently Added\"? @SpotifyCares",
+      "response_tweet_id": "2251334",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2251334",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Fri Nov 10 18:45:39 +0000 2017",
+      "text": "@655859 Hey there! We have more info to share about sorting your tunes here: https://t.co/5hjtm5AdqM. We hope this helps 🙂 /NG",
+      "response_tweet_id": "2251333",
+      "in_response_to_tweet_id": "2251335"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1101774",
+      "author_id": "379970",
+      "inbound": "True",
+      "created_at": "Sat Nov 25 10:15:36 +0000 2017",
+      "text": "@SpotifyCares  i selected the 1 pound offer for 3 months and got charged 10 pounds i really needed  that money am a student and i needed it please can you guys help my spotify email is __email__ username jacob.k7",
+      "response_tweet_id": "1101773",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1101773",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Sat Nov 25 18:12:18 +0000 2017",
+      "text": "@379970 Hi Jaco! We'd recommend deleting your tweet to keep your info private. We've also replied to your DM. Let's carry on chatting there /NJ",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1101774"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1838261",
+      "author_id": "551014",
+      "inbound": "True",
+      "created_at": "Wed Oct 18 16:47:13 +0000 2017",
+      "text": "@SpotifyCares attempting to listen to \"In Flames\". Says the song is not available. For all songs. rebooted device. all other bands work.",
+      "response_tweet_id": "1838259",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1838259",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Wed Oct 18 17:21:31 +0000 2017",
+      "text": "@551014 Hey there, help's here! Can you let us know the device, OS, and Spotify version you're using? We'll see what we can suggest /RV",
+      "response_tweet_id": "1838258,1838260",
+      "in_response_to_tweet_id": "1838261"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1788029",
+      "author_id": "537116",
+      "inbound": "True",
+      "created_at": "Thu Oct 12 15:44:06 +0000 2017",
+      "text": "Hey @115888, @44893 and @44894 have an amazing podcast you should add to your lineup!! #NSDTxSpotify",
+      "response_tweet_id": "1788028",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1788028",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Thu Oct 12 16:21:18 +0000 2017",
+      "text": "@537116 Hey, it’s great to hear you’re looking to put your podcast on Spotify! Can you shoot us a DM? We'll send over some more info /SU https://t.co/ldFdZRiNAt",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1788029"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2458495",
+      "author_id": "136765",
+      "inbound": "True",
+      "created_at": "Wed Nov 15 05:00:12 +0000 2017",
+      "text": "Why does Spotify keep stopping WHAT THE HECK @115888",
+      "response_tweet_id": "2458494",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2458494",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Wed Nov 15 05:21:24 +0000 2017",
+      "text": "@136765 Hey Jose. Don't worry, help's here. Can you tell us what device, operating system, and Spotify app versions you're using? /JU",
+      "response_tweet_id": "2458493",
+      "in_response_to_tweet_id": "2458495"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "443180",
+      "author_id": "220017",
+      "inbound": "True",
+      "created_at": "Wed Nov 22 08:19:12 +0000 2017",
+      "text": "@SpotifyCares Several Spotify customers were genuinely concerned that they had been hacked and your solution was to ignore their questions. Not very good is it?",
+      "response_tweet_id": "443179",
+      "in_response_to_tweet_id": "443181"
+    },
+    "support": {
+      "tweet_id": "443179",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Wed Nov 22 09:24:03 +0000 2017",
+      "text": "@220017 We can see where you're coming from. Don't worry, we'll continue to help on this. By the way, we've sent a bit more info via DM, Check it out /AY",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "443180"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2939738",
+      "author_id": "812506",
+      "inbound": "True",
+      "created_at": "Wed Nov 29 14:20:37 +0000 2017",
+      "text": "@SpotifyCares Allright, so you charged me double the amount of my subscription while I only have 1 family account",
+      "response_tweet_id": "2939740",
+      "in_response_to_tweet_id": "2939737"
+    },
+    "support": {
+      "tweet_id": "2939740",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Wed Nov 29 14:27:45 +0000 2017",
+      "text": "@812506 Could you send us a DM with your account's email address? We'll take a look backstage /MA https://t.co/ldFdZRiNAt",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "2939738"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1543721",
+      "author_id": "478201",
+      "inbound": "True",
+      "created_at": "Sat Nov 04 05:30:56 +0000 2017",
+      "text": "@SpotifyCares Thanks guys. Excellent CS",
+      "response_tweet_id": "1543722",
+      "in_response_to_tweet_id": "1543720"
+    },
+    "support": {
+      "tweet_id": "1543722",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Sat Nov 04 05:36:08 +0000 2017",
+      "text": "@478201 You're welcome! We're always happy to help 💚 /MO",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1543721"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "681876",
+      "author_id": "282723",
+      "inbound": "True",
+      "created_at": "Sat Oct 28 11:44:38 +0000 2017",
+      "text": "@115888 I don't care about Call of Duty. Stop upsetting my baby with gunshot sounds every other song.",
+      "response_tweet_id": "681875",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "681875",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Sat Oct 28 14:34:42 +0000 2017",
+      "text": "@282723 Hey! Can you DM us your account's email address? We'll check backstage and see what we can suggest /NY https://t.co/ldFdZRiNAt",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "681876"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2501030",
+      "author_id": "713467",
+      "inbound": "True",
+      "created_at": "Wed Nov 15 19:08:45 +0000 2017",
+      "text": "@SpotifyCares I have forgotten both my username and password to my account which i am subscribed to and pay for monthly. tried all possible usernames and emails that i would’ve used but had no luck. what can i do?",
+      "response_tweet_id": "2501029",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2501029",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Wed Nov 15 19:20:55 +0000 2017",
+      "text": "@713467 Hey Jaz! Help's here. We've just sent a DM your way. Let's carry on chatting there /CP",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "2501030"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2544101",
+      "author_id": "723215",
+      "inbound": "True",
+      "created_at": "Thu Nov 16 06:20:34 +0000 2017",
+      "text": "Hey @115888 the profile pic for Five Times August is really really really old (like 2004 old) How do I update this? Thanks",
+      "response_tweet_id": "2544099",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2544099",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Thu Nov 16 13:30:04 +0000 2017",
+      "text": "@723215 Hey! You can update your image with Spotify for Artists. There's more info on this here: https://t.co/3v3UMdAyoM /I",
+      "response_tweet_id": "2544100",
+      "in_response_to_tweet_id": "2544101"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1535161",
+      "author_id": "476051",
+      "inbound": "True",
+      "created_at": "Fri Nov 03 23:07:10 +0000 2017",
+      "text": "@115888 hey give me back my 500+ songs?",
+      "response_tweet_id": "1535160",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1535160",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Sat Nov 04 00:07:24 +0000 2017",
+      "text": "@476051 Hey there, help's here! Can you DM us what exactly happened? We'll see what we can suggest 🙂 /CG https://t.co/ldFdZRiNAt",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1535161"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1933340",
+      "author_id": "575302",
+      "inbound": "True",
+      "created_at": "Sat Oct 28 19:12:49 +0000 2017",
+      "text": "@SpotifyCares when I’m on my app I have premium and I pay every month, but when I login online I don’t have access to premium",
+      "response_tweet_id": "1933339",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1933339",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Sat Oct 28 22:30:39 +0000 2017",
+      "text": "@575302 Hi there, that doesn't sound good. Can you DM us your account's email address? We'll take a look backstage /AK https://t.co/ldFdZRiNAt",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1933340"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1604444",
+      "author_id": "492236",
+      "inbound": "True",
+      "created_at": "Tue Oct 17 08:21:14 +0000 2017",
+      "text": "Hey @spotifycares, why can't we filter out Danish music from \"Browse\"? Like most people I'm not at all interested in Danish music.",
+      "response_tweet_id": "1604443",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1604443",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Tue Oct 17 09:13:59 +0000 2017",
+      "text": "@492236 Hi again! Music availability differs per country. This means that music you find in Browse follows your account's country settings /MU",
+      "response_tweet_id": "1604439",
+      "in_response_to_tweet_id": "1604444"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1978827",
+      "author_id": "585879",
+      "inbound": "True",
+      "created_at": "Tue Oct 31 18:06:27 +0000 2017",
+      "text": "Hey @115888 put this in one of ur fav playlist pls https://t.co/4v0lcn3vG1",
+      "response_tweet_id": "1978825",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1978825",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Tue Oct 31 19:31:05 +0000 2017",
+      "text": "@585879 Hey! Our Curation team is independent &amp; use taste, data, research, and trends to create playlists, but we’ll pass on your suggestion /MC",
+      "response_tweet_id": "1978826",
+      "in_response_to_tweet_id": "1978827"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1861356",
+      "author_id": "556335",
+      "inbound": "True",
+      "created_at": "Thu Oct 19 16:15:56 +0000 2017",
+      "text": "@SpotifyCares My student discount isnt working",
+      "response_tweet_id": "1861355",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1861355",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Thu Oct 19 17:18:33 +0000 2017",
+      "text": "@556335 Hey Juan! What's going on? Could you DM us your account's email address and username also? We'll take a look backstage /JX https://t.co/ldFdZRiNAt",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1861356"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1435277",
+      "author_id": "453243",
+      "inbound": "True",
+      "created_at": "Mon Oct 16 17:15:28 +0000 2017",
+      "text": "My @115888  still isnt playing my all time low songs send help",
+      "response_tweet_id": "1435275",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1435275",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Mon Oct 16 17:28:47 +0000 2017",
+      "text": "@453243 Hey there! Are you able to play them on other devices? If so, can you let us know the iPhone model, iOS, and app versions you're using? /PB",
+      "response_tweet_id": "1435276,1435272",
+      "in_response_to_tweet_id": "1435277"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2183012",
+      "author_id": "639464",
+      "inbound": "True",
+      "created_at": "Wed Nov 08 20:29:28 +0000 2017",
+      "text": "@639465 @84849 @125633 def sent an email about it with all the links a few months ago and nothing has happened :/",
+      "response_tweet_id": "2183011",
+      "in_response_to_tweet_id": "2183013"
+    },
+    "support": {
+      "tweet_id": "2183011",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Thu Nov 09 17:35:27 +0000 2017",
+      "text": "@639464 Hey! You can contact our Artist team here: https://t.co/p1wbtdELHu. If you've reached out, DM us your email address &amp; we'll chase it up /Q https://t.co/ldFdZRiNAt",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "2183012"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1817277",
+      "author_id": "545881",
+      "inbound": "True",
+      "created_at": "Sat Oct 28 23:58:55 +0000 2017",
+      "text": "Are you kidding me, @115888? https://t.co/oUU3GQ4tne",
+      "response_tweet_id": "1817276",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1817276",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Sun Oct 29 02:30:00 +0000 2017",
+      "text": "@545881 Hey Marius! There's currently a 10k limit in Your Music (Songs + Albums + Artists). More info here: https://t.co/59ABtm5Ftl /MT",
+      "response_tweet_id": "1817274",
+      "in_response_to_tweet_id": "1817277"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "426210",
+      "author_id": "216377",
+      "inbound": "True",
+      "created_at": "Tue Oct 10 11:06:53 +0000 2017",
+      "text": "@117153 Paid for Premium but my account is still set a free. Also I am being charged 12.99Eur when your website says 9.99Eur.",
+      "response_tweet_id": "426209",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "426209",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Tue Oct 10 12:13:30 +0000 2017",
+      "text": "@216377 @117153 Hi! We've sent a bit more info via DM. We'll carry on helping out there /AY",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "426210"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2602366",
+      "author_id": "390911",
+      "inbound": "True",
+      "created_at": "Fri Nov 17 08:12:48 +0000 2017",
+      "text": "@SpotifyCares how come my Spotify keeps pausing/unpausing when I’m trying to listen to stuff? Version 8.4.27.895 (also skips songs randomly too)",
+      "response_tweet_id": "2602365",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2602365",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Fri Nov 17 08:17:18 +0000 2017",
+      "text": "@390911 Hi! Don't worry, help has arrived. Can you let us know what device you're using? In the meantime, can you give this a try: log out from Spotify &gt; restart your device &gt; log back in? Did that make a difference? /DR",
+      "response_tweet_id": "2602363",
+      "in_response_to_tweet_id": "2602366"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1960661",
+      "author_id": "581532",
+      "inbound": "True",
+      "created_at": "Tue Oct 31 19:15:05 +0000 2017",
+      "text": "@SpotifyCares Do I have to wait until the first day if school to sign up or when can I?",
+      "response_tweet_id": "1960663",
+      "in_response_to_tweet_id": "1960659"
+    },
+    "support": {
+      "tweet_id": "1960663",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Tue Oct 31 19:42:57 +0000 2017",
+      "text": "@581532 Yes, that's right. You can sign up once you're enrolled at your college or university. For more info, you can check the link we've sent /AU",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1960661"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "895387",
+      "author_id": "332605",
+      "inbound": "True",
+      "created_at": "Tue Oct 10 06:36:45 +0000 2017",
+      "text": "@SpotifyCares my premium is suddenly free, but I did not reiceive any emails about payment failing (no spam either). It says free in account",
+      "response_tweet_id": "895386",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "895386",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Tue Oct 10 06:38:33 +0000 2017",
+      "text": "@332605 Hey! Could you send us a DM with your account's email address or username? We'll take a look backstage /AY https://t.co/ldFdZRiNAt",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "895387"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1816680",
+      "author_id": "545734",
+      "inbound": "True",
+      "created_at": "Mon Oct 16 07:08:15 +0000 2017",
+      "text": "@115888  please make all songs look like this plleeeaasseee https://t.co/ez8h4vUNMx",
+      "response_tweet_id": "1816679",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1816679",
+      "author_id": "SpotifyCares",
+      "inbound": "False",
+      "created_at": "Mon Oct 16 08:01:30 +0000 2017",
+      "text": "@545734 Hey, we appreciate your feedback! Don't worry, we'll make sure to pass it on to the right team. Let us know if you need any more help /GK",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1816680"
+    }
+  }
+]

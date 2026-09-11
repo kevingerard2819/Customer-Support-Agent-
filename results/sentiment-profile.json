@@ -1,0 +1,2268 @@
+{
+  "method": "Deterministic lexicon/phrase/emoji heuristic v1; used for tone, not reported as a validated classifier.",
+  "by_split": {
+    "dev": {
+      "positive": 9,
+      "negative": 8,
+      "neutral": 32,
+      "distressed": 1
+    },
+    "test_representative": {
+      "neutral": 83,
+      "negative": 19,
+      "positive": 16,
+      "mixed": 2
+    },
+    "test_challenge": {
+      "neutral": 22,
+      "negative": 6,
+      "positive": 2
+    }
+  },
+  "by_human_intent": {
+    "playback_app": {
+      "positive": 3,
+      "neutral": 23,
+      "negative": 9,
+      "distressed": 1
+    },
+    "billing_subscription": {
+      "negative": 9,
+      "neutral": 41,
+      "positive": 3,
+      "mixed": 1
+    },
+    "account_access_security": {
+      "neutral": 14,
+      "negative": 7,
+      "positive": 2
+    },
+    "other_unclear": {
+      "neutral": 13,
+      "positive": 2
+    },
+    "social_acknowledgement": {
+      "positive": 9,
+      "neutral": 3,
+      "negative": 1
+    },
+    "library_playlists": {
+      "positive": 1,
+      "neutral": 8,
+      "negative": 1
+    },
+    "feedback_feature_request": {
+      "neutral": 28,
+      "positive": 5,
+      "negative": 4,
+      "mixed": 1
+    },
+    "catalog_availability": {
+      "negative": 2,
+      "neutral": 7,
+      "positive": 2
+    }
+  },
+  "examples": [
+    {
+      "tweet_id": "510478",
+      "split": "dev",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0,
+        "intensity": "medium",
+        "positive_hits": 1,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "2081816",
+      "split": "dev",
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0,
+        "intensity": "medium",
+        "positive_hits": 0,
+        "negative_hits": 1
+      }
+    },
+    {
+      "tweet_id": "1887548",
+      "split": "dev",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "2414561",
+      "split": "dev",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "1339549",
+      "split": "dev",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0,
+        "intensity": "medium",
+        "positive_hits": 1,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "2627920",
+      "split": "dev",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "2141762",
+      "split": "dev",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "2560544",
+      "split": "dev",
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0,
+        "intensity": "medium",
+        "positive_hits": 0,
+        "negative_hits": 1
+      }
+    },
+    {
+      "tweet_id": "2609463",
+      "split": "dev",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "2948927",
+      "split": "dev",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0,
+        "intensity": "high",
+        "positive_hits": 3,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "2043856",
+      "split": "dev",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "1838290",
+      "split": "dev",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0,
+        "intensity": "medium",
+        "positive_hits": 1,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "562453",
+      "split": "dev",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0,
+        "intensity": "medium",
+        "positive_hits": 1,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "2065606",
+      "split": "dev",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "292967",
+      "split": "dev",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "439857",
+      "split": "dev",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "111990",
+      "split": "dev",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "1804308",
+      "split": "dev",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "1545286",
+      "split": "dev",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "629915",
+      "split": "dev",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "2081798",
+      "split": "dev",
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0,
+        "intensity": "medium",
+        "positive_hits": 0,
+        "negative_hits": 1
+      }
+    },
+    {
+      "tweet_id": "1988845",
+      "split": "dev",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "203126",
+      "split": "dev",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "712178",
+      "split": "dev",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0,
+        "intensity": "high",
+        "positive_hits": 2,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "2125245",
+      "split": "dev",
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0,
+        "intensity": "medium",
+        "positive_hits": 0,
+        "negative_hits": 1
+      }
+    },
+    {
+      "tweet_id": "163747",
+      "split": "dev",
+      "sentiment": {
+        "label": "distressed",
+        "score": -1.0,
+        "intensity": "high",
+        "positive_hits": 0,
+        "negative_hits": 1
+      }
+    },
+    {
+      "tweet_id": "1779504",
+      "split": "dev",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "2637138",
+      "split": "dev",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "1097428",
+      "split": "dev",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "2042082",
+      "split": "dev",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "834634",
+      "split": "dev",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "2580777",
+      "split": "dev",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "1874716",
+      "split": "dev",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "586361",
+      "split": "dev",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "1134238",
+      "split": "dev",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "674457",
+      "split": "dev",
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0,
+        "intensity": "medium",
+        "positive_hits": 0,
+        "negative_hits": 1
+      }
+    },
+    {
+      "tweet_id": "1983910",
+      "split": "dev",
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0,
+        "intensity": "medium",
+        "positive_hits": 0,
+        "negative_hits": 1
+      }
+    },
+    {
+      "tweet_id": "1769558",
+      "split": "dev",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "1760761",
+      "split": "dev",
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0,
+        "intensity": "high",
+        "positive_hits": 0,
+        "negative_hits": 2
+      }
+    },
+    {
+      "tweet_id": "2915267",
+      "split": "dev",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "184170",
+      "split": "dev",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "792874",
+      "split": "dev",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "1783957",
+      "split": "dev",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "739920",
+      "split": "dev",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0,
+        "intensity": "medium",
+        "positive_hits": 1,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "514141",
+      "split": "dev",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0,
+        "intensity": "medium",
+        "positive_hits": 1,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "149381",
+      "split": "dev",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "1825708",
+      "split": "dev",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "2794515",
+      "split": "dev",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "2183184",
+      "split": "dev",
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0,
+        "intensity": "medium",
+        "positive_hits": 0,
+        "negative_hits": 1
+      }
+    },
+    {
+      "tweet_id": "89512",
+      "split": "dev",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0,
+        "intensity": "medium",
+        "positive_hits": 1,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "7011",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "2025874",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0,
+        "intensity": "medium",
+        "positive_hits": 0,
+        "negative_hits": 1
+      }
+    },
+    {
+      "tweet_id": "2118692",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0,
+        "intensity": "high",
+        "positive_hits": 1,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "2912350",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "1521346",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "1659439",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "2902798",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "438426",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0,
+        "intensity": "medium",
+        "positive_hits": 0,
+        "negative_hits": 1
+      }
+    },
+    {
+      "tweet_id": "31593",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0,
+        "intensity": "medium",
+        "positive_hits": 0,
+        "negative_hits": 1
+      }
+    },
+    {
+      "tweet_id": "1938400",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "567991",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "1853470",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "2251534",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "1265642",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "2951506",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0,
+        "intensity": "high",
+        "positive_hits": 2,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "2305413",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "2138988",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "1989580",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "2268730",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0,
+        "intensity": "medium",
+        "positive_hits": 1,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "1198674",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0,
+        "intensity": "medium",
+        "positive_hits": 0,
+        "negative_hits": 1
+      }
+    },
+    {
+      "tweet_id": "1476019",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "1761839",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "2442061",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "663087",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "2504254",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "207212",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "1845723",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0,
+        "intensity": "medium",
+        "positive_hits": 0,
+        "negative_hits": 1
+      }
+    },
+    {
+      "tweet_id": "2105361",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0,
+        "intensity": "medium",
+        "positive_hits": 1,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "2036310",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "1112623",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "2045366",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "2878327",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "1862655",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "2063233",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "2712664",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0,
+        "intensity": "medium",
+        "positive_hits": 1,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "758530",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0,
+        "intensity": "high",
+        "positive_hits": 2,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "2272752",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0,
+        "intensity": "medium",
+        "positive_hits": 0,
+        "negative_hits": 1
+      }
+    },
+    {
+      "tweet_id": "2165543",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0,
+        "intensity": "medium",
+        "positive_hits": 0,
+        "negative_hits": 1
+      }
+    },
+    {
+      "tweet_id": "1145862",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0,
+        "intensity": "medium",
+        "positive_hits": 1,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "1587579",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "230264",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "1377519",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "1982963",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "260045",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "1939073",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "1780586",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "335343",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "1897161",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "1992091",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "2259710",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "mixed",
+        "score": 0.0,
+        "intensity": "medium",
+        "positive_hits": 1,
+        "negative_hits": 1
+      }
+    },
+    {
+      "tweet_id": "1143737",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0,
+        "intensity": "medium",
+        "positive_hits": 0,
+        "negative_hits": 1
+      }
+    },
+    {
+      "tweet_id": "1103674",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0,
+        "intensity": "medium",
+        "positive_hits": 0,
+        "negative_hits": 1
+      }
+    },
+    {
+      "tweet_id": "1830851",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "2456259",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "895201",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "1720287",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0,
+        "intensity": "medium",
+        "positive_hits": 0,
+        "negative_hits": 1
+      }
+    },
+    {
+      "tweet_id": "1807589",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "1676599",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "2216049",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "1934280",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "2821996",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0,
+        "intensity": "medium",
+        "positive_hits": 1,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "1996450",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "2394406",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0,
+        "intensity": "medium",
+        "positive_hits": 1,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "2861287",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "1991700",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "2457268",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "high",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "2746365",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0,
+        "intensity": "medium",
+        "positive_hits": 0,
+        "negative_hits": 1
+      }
+    },
+    {
+      "tweet_id": "2749457",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "163713",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "2363327",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "1145281",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0,
+        "intensity": "medium",
+        "positive_hits": 0,
+        "negative_hits": 1
+      }
+    },
+    {
+      "tweet_id": "1749860",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "925390",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "2852990",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0,
+        "intensity": "medium",
+        "positive_hits": 1,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "2583310",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "689585",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "2555577",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "1198657",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "1517639",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "1103029",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0,
+        "intensity": "high",
+        "positive_hits": 0,
+        "negative_hits": 1
+      }
+    },
+    {
+      "tweet_id": "1695256",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "1778471",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "1286621",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "2279523",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "576784",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "450860",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "619707",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "652030",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "2276904",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0,
+        "intensity": "high",
+        "positive_hits": 2,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "648648",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "2560565",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "2629114",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "2246028",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "2504234",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "789815",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "1470934",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "1993001",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "2190782",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0,
+        "intensity": "medium",
+        "positive_hits": 0,
+        "negative_hits": 1
+      }
+    },
+    {
+      "tweet_id": "1298576",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "823260",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "1998290",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0,
+        "intensity": "medium",
+        "positive_hits": 0,
+        "negative_hits": 1
+      }
+    },
+    {
+      "tweet_id": "1851438",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "1794771",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0,
+        "intensity": "medium",
+        "positive_hits": 0,
+        "negative_hits": 1
+      }
+    },
+    {
+      "tweet_id": "876815",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "813542",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0,
+        "intensity": "medium",
+        "positive_hits": 1,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "1034901",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0,
+        "intensity": "medium",
+        "positive_hits": 1,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "2183001",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "91667",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "1871599",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "1215738",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0,
+        "intensity": "medium",
+        "positive_hits": 1,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "548698",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0,
+        "intensity": "high",
+        "positive_hits": 0,
+        "negative_hits": 1
+      }
+    },
+    {
+      "tweet_id": "1098085",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "2036355",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "2264840",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0,
+        "intensity": "medium",
+        "positive_hits": 1,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "1871992",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "mixed",
+        "score": 0.0,
+        "intensity": "medium",
+        "positive_hits": 1,
+        "negative_hits": 1
+      }
+    },
+    {
+      "tweet_id": "48085",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0,
+        "intensity": "high",
+        "positive_hits": 0,
+        "negative_hits": 2
+      }
+    },
+    {
+      "tweet_id": "2789384",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "238023",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0,
+        "intensity": "medium",
+        "positive_hits": 1,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "852668",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0,
+        "intensity": "medium",
+        "positive_hits": 0,
+        "negative_hits": 1
+      }
+    },
+    {
+      "tweet_id": "2913904",
+      "split": "test_representative",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "863686",
+      "split": "test_challenge",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "2287370",
+      "split": "test_challenge",
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0,
+        "intensity": "medium",
+        "positive_hits": 0,
+        "negative_hits": 1
+      }
+    },
+    {
+      "tweet_id": "2405263",
+      "split": "test_challenge",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "1783692",
+      "split": "test_challenge",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "2052018",
+      "split": "test_challenge",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "2848318",
+      "split": "test_challenge",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "2070762",
+      "split": "test_challenge",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0,
+        "intensity": "medium",
+        "positive_hits": 1,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "106327",
+      "split": "test_challenge",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0,
+        "intensity": "medium",
+        "positive_hits": 1,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "623005",
+      "split": "test_challenge",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "2691957",
+      "split": "test_challenge",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "high",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "462665",
+      "split": "test_challenge",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "2084662",
+      "split": "test_challenge",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "2968468",
+      "split": "test_challenge",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "high",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "1306144",
+      "split": "test_challenge",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "2817500",
+      "split": "test_challenge",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "2921971",
+      "split": "test_challenge",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "1876204",
+      "split": "test_challenge",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "1897423",
+      "split": "test_challenge",
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0,
+        "intensity": "medium",
+        "positive_hits": 0,
+        "negative_hits": 1
+      }
+    },
+    {
+      "tweet_id": "1451706",
+      "split": "test_challenge",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "1337494",
+      "split": "test_challenge",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "1964114",
+      "split": "test_challenge",
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0,
+        "intensity": "medium",
+        "positive_hits": 0,
+        "negative_hits": 1
+      }
+    },
+    {
+      "tweet_id": "2030150",
+      "split": "test_challenge",
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0,
+        "intensity": "medium",
+        "positive_hits": 0,
+        "negative_hits": 1
+      }
+    },
+    {
+      "tweet_id": "568941",
+      "split": "test_challenge",
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0,
+        "intensity": "medium",
+        "positive_hits": 0,
+        "negative_hits": 1
+      }
+    },
+    {
+      "tweet_id": "1812153",
+      "split": "test_challenge",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "454701",
+      "split": "test_challenge",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "1883295",
+      "split": "test_challenge",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "645130",
+      "split": "test_challenge",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "1882482",
+      "split": "test_challenge",
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0,
+        "intensity": "medium",
+        "positive_hits": 0,
+        "negative_hits": 1
+      }
+    },
+    {
+      "tweet_id": "2394579",
+      "split": "test_challenge",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "tweet_id": "2069240",
+      "split": "test_challenge",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "intensity": "low",
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    }
+  ]
+}

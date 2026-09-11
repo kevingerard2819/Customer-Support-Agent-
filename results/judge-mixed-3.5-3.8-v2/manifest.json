@@ -1,0 +1,10 @@
+{
+  "packet_id": "78e4fe219a31e688ad2b4feb909dbf706d04d97109ee7a7ed1c02dc6c121898d",
+  "model": "mixed:gemini-3.5-flash+gemini-3.8-flash",
+  "active_model": "gemini-3.8-flash",
+  "signature": "c6e863bfc3f9059ddbfdefa00e112d3960802e60248de3d382b39ab4632f7100",
+  "batch_size": 15,
+  "runner": "node-v1",
+  "seeded_score_count": 45,
+  "independence_limitation": "Judge versions are from the Gemini family. Human validation is primary; shared-family bias is possible."
+}

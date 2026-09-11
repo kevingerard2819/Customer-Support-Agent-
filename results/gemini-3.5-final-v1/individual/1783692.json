@@ -1,0 +1,42 @@
+{
+  "intent": "account_access_security",
+  "route": "escalate",
+  "reason": "account_action",
+  "draft": "Hey there! We'd love to help get this sorted for you. Please send us a private DM with the email address you're trying to use, and we'll look into this.",
+  "evidence_ids": [],
+  "reply_kind": "handoff",
+  "tweet_id": "1783692",
+  "output_check_violations": [],
+  "split": "test_challenge",
+  "system": "gemini",
+  "raw_prediction": {
+    "intent": "account_access_security",
+    "route": "escalate",
+    "reason": "account_action",
+    "draft": "Hey there! We'd love to help get this sorted for you. Please send us a private DM with the email address you're trying to use, and we'll look into this.",
+    "evidence_ids": [],
+    "reply_kind": "handoff",
+    "tweet_id": "1783692"
+  },
+  "api_error": null,
+  "api_metadata": {
+    "model": "gemini-3.5-flash",
+    "model_version": "gemini-3.5-flash",
+    "request_sha256": "1c0704b28224277ed9865653b143ac759f989f43ec804577cacebe5cc823e0a5",
+    "usage": {
+      "promptTokenCount": 8239,
+      "candidatesTokenCount": 1153,
+      "totalTokenCount": 9392,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 8239
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "latency_ms": 22480.18989999764,
+    "cache_hit": false
+  },
+  "latency_ms": 2248.018989999764
+}

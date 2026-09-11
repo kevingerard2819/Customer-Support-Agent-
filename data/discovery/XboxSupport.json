@@ -1,0 +1,2302 @@
+[
+  {
+    "customer": {
+      "tweet_id": "2276666",
+      "author_id": "662134",
+      "inbound": "True",
+      "created_at": "Sat Nov 11 12:21:59 +0000 2017",
+      "text": "@XboxSupport Please can someone help me with my Xbox live connection for xbox360. Ive been through every suggestion available and nothing works.",
+      "response_tweet_id": "2276672,2276664",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2276664",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Sat Nov 11 17:54:59 +0000 2017",
+      "text": "@662134 Hello, try using this guide to connect to Xbox Live https://t.co/2yQVhrhgLp. ^RM",
+      "response_tweet_id": "2276665",
+      "in_response_to_tweet_id": "2276666"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2806518",
+      "author_id": "782747",
+      "inbound": "True",
+      "created_at": "Wed Nov 22 01:53:14 +0000 2017",
+      "text": "Dear @115786 @11053 @XboxSupport I've been on live since it's creation. Is there anyway I could get my original GT back? I lost it years ago. (forgot which email I used?) my gamer score is 8820 but should be 19k and the year circle should be 15 instead of 2 😩#loyalxboxguy",
+      "response_tweet_id": "2806517",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2806517",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Wed Nov 22 03:28:41 +0000 2017",
+      "text": "@782747 @115786 @11053 Hey there. Are you able to recover the account with these steps: https://t.co/KZWLhCeu2A . That's where you would want to start. If no help this page would be next: https://t.co/9tpsiv2g0r. ^IS",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "2806518"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2442256",
+      "author_id": "700361",
+      "inbound": "True",
+      "created_at": "Tue Nov 14 20:13:32 +0000 2017",
+      "text": "@XboxSupport Hey, I’m experiencing multiple hard crashes on my Xbox One X, screen changes to multicolor pixels and Xbox will not turn off w/o a hard reset.",
+      "response_tweet_id": "2442255",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2442255",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Tue Nov 14 23:32:37 +0000 2017",
+      "text": "@700361 Definitely no fun. Can you dm your GT and if any error's before it crashes. Also if it's turning off let's work through these steps: https://t.co/TkHy1RfebJ . ^IS",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "2442256"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1748325",
+      "author_id": "527007",
+      "inbound": "True",
+      "created_at": "Tue Nov 07 05:57:27 +0000 2017",
+      "text": "@XboxSupport what the heck ? I didnt spend 500 bucks to have my party system broken",
+      "response_tweet_id": "1748324,1748326",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1748326",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Tue Nov 07 16:14:25 +0000 2017",
+      "text": "@527007 Heyo! We'd like to Direct Message so we can collect some more information. Can you follow and  1 ^BZ",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1748325"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "615590",
+      "author_id": "291439",
+      "inbound": "True",
+      "created_at": "Tue Oct 10 23:55:50 +0000 2017",
+      "text": "@XboxSupport Beer and Xbox.....but Xbox is down...i guess I’ll need more 🍺",
+      "response_tweet_id": "716345",
+      "in_response_to_tweet_id": "615427"
+    },
+    "support": {
+      "tweet_id": "716345",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Tue Oct 10 23:59:31 +0000 2017",
+      "text": "@291439 Howdy! Our teams are aware and working hard to get it fixed! We appreciate your patience and understanding with this! ^JS",
+      "response_tweet_id": "716346",
+      "in_response_to_tweet_id": "615590"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2324415",
+      "author_id": "673372",
+      "inbound": "True",
+      "created_at": "Tue Nov 21 04:24:06 +0000 2017",
+      "text": "@XboxSupport i turned on my xbox one and got an error code E202. I did the troubleshooting and it seems fine now. What was that for?",
+      "response_tweet_id": "2324413",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2324413",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Tue Nov 21 16:28:53 +0000 2017",
+      "text": "@673372 Hello, we are not able to speculate on what caused that error code to appear on your console. ^RM",
+      "response_tweet_id": "2324414",
+      "in_response_to_tweet_id": "2324415"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "899082",
+      "author_id": "333474",
+      "inbound": "True",
+      "created_at": "Sat Oct 21 01:24:46 +0000 2017",
+      "text": "@302698 Thank you so much! I hope this works!",
+      "response_tweet_id": "899081",
+      "in_response_to_tweet_id": "899083"
+    },
+    "support": {
+      "tweet_id": "899081",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Sat Oct 21 02:28:04 +0000 2017",
+      "text": "@333474 Hello! Would you mind sending us a picture of what you are seeing on your end?  ^RR",
+      "response_tweet_id": "899078",
+      "in_response_to_tweet_id": "899082"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2276417",
+      "author_id": "513573",
+      "inbound": "True",
+      "created_at": "Sat Nov 11 17:21:50 +0000 2017",
+      "text": "@XboxSupport hi, just got home from football and for some reason Fifa 18 has just randomly decided to uninstall (itself). I haven’t been on since yesterday and it was fine at the time",
+      "response_tweet_id": "2276416,2276418",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2276416",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Sat Nov 11 17:35:41 +0000 2017",
+      "text": "@513573 DM us your Gamertag and clarify what the issue is that you're having so we can investigate?  2 ^BZ",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "2276417"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "634656",
+      "author_id": "270484",
+      "inbound": "True",
+      "created_at": "Wed Nov 22 17:32:53 +0000 2017",
+      "text": "@XboxSupport yes it is! ive bin able to change my xbone one region from the UK to the US to buy &amp; PLAY US region DIGITAL games!!!  i mean whats the point of having the xbox one region free if u are now saying digital games cant be brought to be played in that region? Let me get my game!",
+      "response_tweet_id": "634658,634659,634660",
+      "in_response_to_tweet_id": "634655"
+    },
+    "support": {
+      "tweet_id": "634659",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Wed Nov 22 19:35:01 +0000 2017",
+      "text": "@270484 region that is not your own and it isn't being sold there you will not have access. This has always been the case, we do  2 ^XS",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "634656"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1543807",
+      "author_id": "478232",
+      "inbound": "True",
+      "created_at": "Sat Nov 04 04:13:33 +0000 2017",
+      "text": "Been waiting about 4 hours now for cod ww2 to update. @115786 @XboxSupport pls help",
+      "response_tweet_id": "1543806",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1543806",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Sat Nov 04 04:57:02 +0000 2017",
+      "text": "@478232 Hi there! Mind sending us a direct message https://t.co/nPX1yNXCi5 so we can further assist?  ^JA",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1543807"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2706417",
+      "author_id": "760058",
+      "inbound": "True",
+      "created_at": "Sun Nov 19 21:20:07 +0000 2017",
+      "text": "@117347 @XboxSupport please fix the audio issues (audio levels going down and up at their own will) in the multiplayer lobbies on #Forza7 and also the general instability of browsing through lobbies.",
+      "response_tweet_id": "2706416",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2706416",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Sun Nov 19 23:06:55 +0000 2017",
+      "text": "@760058 Hello, thanks for reaching out to us. Can you DM us your gamertag, NAT type, and detailed network settings? ^CO",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "2706417"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "615844",
+      "author_id": "311853",
+      "inbound": "True",
+      "created_at": "Thu Oct 12 15:58:01 +0000 2017",
+      "text": "@XboxSupport Can u help me",
+      "response_tweet_id": "805122,805123",
+      "in_response_to_tweet_id": "615427"
+    },
+    "support": {
+      "tweet_id": "805122",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Thu Oct 12 17:19:54 +0000 2017",
+      "text": "@311853 are having along with your Gamertag? Please include verbatims of any error you are seeing.  2 ^XS",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "615844"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2708184",
+      "author_id": "760518",
+      "inbound": "True",
+      "created_at": "Sat Nov 18 23:45:41 +0000 2017",
+      "text": "@XboxSupport I’m trying to install call of duty ww2 but I keeps stopping at 4% I’ve checked your website for a solution but can’t fix it.  Does it have something to do with this error? (See picture) https://t.co/1sEXPAow6b",
+      "response_tweet_id": "2708182",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2708182",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Sun Nov 19 00:13:53 +0000 2017",
+      "text": "@760518 first. Have you tried the steps here: https://t.co/nLBS8YYQ7a to see if they help at all?  2 ^RR",
+      "response_tweet_id": "2708183",
+      "in_response_to_tweet_id": "2708184"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "466501",
+      "author_id": "226014",
+      "inbound": "True",
+      "created_at": "Fri Dec 01 04:07:18 +0000 2017",
+      "text": "@XboxSupport  I just made this account yesterday because I am getting a Xbox for Christmas why did I get suspended https://t.co/HAiGZl8vmI",
+      "response_tweet_id": "466500",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "466500",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Fri Dec 01 04:49:19 +0000 2017",
+      "text": "@226014 Hi there! The message in that picture explains why the account was suspended. Follow instructions provided there. ^CO",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "466501"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2567668",
+      "author_id": "728356",
+      "inbound": "True",
+      "created_at": "Thu Nov 16 19:07:58 +0000 2017",
+      "text": "@XboxSupport And harmonix have said that my save file has messed up.",
+      "response_tweet_id": "2567664,2567674",
+      "in_response_to_tweet_id": "2567675"
+    },
+    "support": {
+      "tweet_id": "2567664",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Thu Nov 16 19:22:06 +0000 2017",
+      "text": "@728356 account info), power cycle https://t.co/QENEhDs7tB and redownload your profile and see if it corrects?  2 ^JS",
+      "response_tweet_id": "2567665,2567666,2567667",
+      "in_response_to_tweet_id": "2567668"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2975932",
+      "author_id": "820739",
+      "inbound": "True",
+      "created_at": "Thu Nov 30 01:58:38 +0000 2017",
+      "text": "@XboxSupport please help my xbox is connect to xbox live but my games won't open up and say that I am offline. Help!",
+      "response_tweet_id": "2975931",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2975931",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Thu Nov 30 02:48:49 +0000 2017",
+      "text": "@820739 Hi there! Let's try refreshing your profile by removing it and adding it again. These steps should help: https://t.co/ANtB3VzqWa ^CO",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "2975932"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2312445",
+      "author_id": "670617",
+      "inbound": "True",
+      "created_at": "Sun Nov 12 22:06:16 +0000 2017",
+      "text": "@90786 I bought the Hercopolis bundle from @115786 store I still haven't received  my skin or the golden key. Please help @XboxSupport @356568",
+      "response_tweet_id": "2312443",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2312443",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Sun Nov 12 22:36:56 +0000 2017",
+      "text": "@670617 Hi there! We'd be happy to help with this. Could you follow us back &amp; DM your GamerTag when you get a chance? \n ^TJ",
+      "response_tweet_id": "2312444",
+      "in_response_to_tweet_id": "2312445"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2282805",
+      "author_id": "663482",
+      "inbound": "True",
+      "created_at": "Sat Nov 11 19:02:47 +0000 2017",
+      "text": "@XboxSupport did you remove the option to mass remove friends from your friends list on the website?",
+      "response_tweet_id": "2282803",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2282803",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Sat Nov 11 21:58:00 +0000 2017",
+      "text": "@663482 That's not currently a feature, no - if you'd like to see that, definitely suggest that at https://t.co/xzPtJXyHRY ! ^JL",
+      "response_tweet_id": "2282804",
+      "in_response_to_tweet_id": "2282805"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "128588",
+      "author_id": "144932",
+      "inbound": "True",
+      "created_at": "Fri Nov 24 04:04:04 +0000 2017",
+      "text": "@XboxSupport Question about finding previously downloaded content on my XB1. Literally cannot find the content so can't play a 70+ hour save file. 🤔",
+      "response_tweet_id": "128586",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "128586",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Fri Nov 24 04:54:36 +0000 2017",
+      "text": "@144932 Hello, thanks for reaching out to us. You can find all your perosnally owned content in your Ready to Install. ^CO",
+      "response_tweet_id": "128587",
+      "in_response_to_tweet_id": "128588"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2845909",
+      "author_id": "469006",
+      "inbound": "True",
+      "created_at": "Mon Nov 27 09:33:44 +0000 2017",
+      "text": "@XboxSupport orange light on my power brick, my console no longer works\nIt's out of warranty and when I log  onto Microsoft support for devices it times out.\nHelp #xboxone",
+      "response_tweet_id": "2845906,2845911",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2845911",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Mon Nov 27 17:53:18 +0000 2017",
+      "text": "@469006 Hey there, you can register your device here: https://t.co/v9YfjCym1O and check for warranty and repair options. If you have  1 ^XS",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "2845909"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1376295",
+      "author_id": "440388",
+      "inbound": "True",
+      "created_at": "Fri Oct 27 19:43:15 +0000 2017",
+      "text": "Welp my headset is dead for some reason and needs to charge and my Kinect won't work for voice anymore.",
+      "response_tweet_id": "1376293",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1376293",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Sat Oct 28 02:09:53 +0000 2017",
+      "text": "@440388 Sorry to hear about your Kinect! We'd be happy to help troubleshoot. Feel free to send support questions our way.  ^JA",
+      "response_tweet_id": "1376294",
+      "in_response_to_tweet_id": "1376295"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2114224",
+      "author_id": "623347",
+      "inbound": "True",
+      "created_at": "Wed Nov 08 15:31:59 +0000 2017",
+      "text": "@115786 @XboxSupport @115786 @XboxSupport I know you don’t have the guts to respond to this",
+      "response_tweet_id": "2114222,2114225",
+      "in_response_to_tweet_id": "2114226"
+    },
+    "support": {
+      "tweet_id": "2114222",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Wed Nov 08 16:43:33 +0000 2017",
+      "text": "@623347 Submitting a Case Review for more info regarding this https://t.co/U1yn6tkAAG 2/2 ^TJ",
+      "response_tweet_id": "2114223",
+      "in_response_to_tweet_id": "2114224"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "116246",
+      "author_id": "141878",
+      "inbound": "True",
+      "created_at": "Thu Nov 23 18:19:02 +0000 2017",
+      "text": "@115786 @XboxSupport @141879 I think The xbox one is glitched and it keeps saying I need Xbox gold to play online and I just bought Xbox gold today..",
+      "response_tweet_id": "116244",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "116244",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Thu Nov 23 21:40:44 +0000 2017",
+      "text": "@141878 @115786 @141879 Hey there. This is something our teams have been looking into. To be sure can you direct message your gamertag and any steps you have tried to address this? ^IS",
+      "response_tweet_id": "116245",
+      "in_response_to_tweet_id": "116246"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1229071",
+      "author_id": "194538",
+      "inbound": "True",
+      "created_at": "Wed Oct 25 17:16:00 +0000 2017",
+      "text": "@XboxSupport my son cannot play any games without Xbox live? He is 6 years old and has minecraft xb1s, any reason why he can’t play any game",
+      "response_tweet_id": "1229070",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1229070",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Wed Oct 25 20:24:47 +0000 2017",
+      "text": "@194538 Hi there. Can you DM us your son's Gamertag so we can gather a bit more info? ^JL\n https://t.co/3ZhVDWKaYU",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1229071"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1785415",
+      "author_id": "536425",
+      "inbound": "True",
+      "created_at": "Tue Oct 17 22:54:31 +0000 2017",
+      "text": "@XboxSupport I'm:  \"Cousin Dave 360\"",
+      "response_tweet_id": "1785414",
+      "in_response_to_tweet_id": "1785416"
+    },
+    "support": {
+      "tweet_id": "1785414",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Tue Oct 17 23:29:11 +0000 2017",
+      "text": "@536425 Thanks for that information. This is an issue that we are aware of and the appropriate teams are looking into it.  ^CO",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1785415"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "772081",
+      "author_id": "304419",
+      "inbound": "True",
+      "created_at": "Thu Oct 12 00:42:03 +0000 2017",
+      "text": "@XboxSupport @304418 I am also having the same problem internet is fine I just can't sign into my xbox one live account",
+      "response_tweet_id": "772084",
+      "in_response_to_tweet_id": "772080"
+    },
+    "support": {
+      "tweet_id": "772084",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Thu Oct 12 02:04:50 +0000 2017",
+      "text": "@304419 Hey there. We have not seen many reports of sign in issues today. Can you dm your GT and a pic of what happens when you try? ^IS",
+      "response_tweet_id": "772085",
+      "in_response_to_tweet_id": "772081"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "159826",
+      "author_id": "152811",
+      "inbound": "True",
+      "created_at": "Fri Nov 24 12:56:37 +0000 2017",
+      "text": "@XboxSupport hi, is there a way I would be able to connect an Xbox One Elite Controller to my patio wirelessly? I can’t find my cable",
+      "response_tweet_id": "159824",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "159824",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Fri Nov 24 18:18:15 +0000 2017",
+      "text": "@152811 We'd be happy to help, but we could use more info. Could you follow &amp; DM @Xboxsupport with some details about this setup? ^EZ",
+      "response_tweet_id": "159825",
+      "in_response_to_tweet_id": "159826"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "899775",
+      "author_id": "333622",
+      "inbound": "True",
+      "created_at": "Sat Oct 21 01:44:25 +0000 2017",
+      "text": "@XboxSupport I would also like Edge fixed. It used to not be a problem before the recent update to the Xbox OS.",
+      "response_tweet_id": "899774",
+      "in_response_to_tweet_id": "899776"
+    },
+    "support": {
+      "tweet_id": "899774",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Sat Oct 21 02:54:44 +0000 2017",
+      "text": "@333622 Would you mind letting us know what is going on with the app exactly?  ^RR",
+      "response_tweet_id": "899772",
+      "in_response_to_tweet_id": "899775"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "497064",
+      "author_id": "233607",
+      "inbound": "True",
+      "created_at": "Sun Dec 03 00:54:03 +0000 2017",
+      "text": "@XboxSupport I got one for Gold Quest in October but not for Game Pass Goals in October",
+      "response_tweet_id": "497065",
+      "in_response_to_tweet_id": "497063"
+    },
+    "support": {
+      "tweet_id": "497065",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Sun Dec 03 02:37:07 +0000 2017",
+      "text": "@233607 Real quick, did you use the Xbox Live Trial pass or did you purchase a subscription that was constant?  ^BL",
+      "response_tweet_id": "497066",
+      "in_response_to_tweet_id": "497064"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2527935",
+      "author_id": "719773",
+      "inbound": "True",
+      "created_at": "Thu Nov 16 05:10:10 +0000 2017",
+      "text": "@XboxSupport I tested on console, mobile, Xbox app, and Xbox beta app. No luck",
+      "response_tweet_id": "2527937,2527938",
+      "in_response_to_tweet_id": "2527934"
+    },
+    "support": {
+      "tweet_id": "2527938",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Thu Nov 16 16:41:07 +0000 2017",
+      "text": "@719773 Gotcha, in this case, let's have you reach out to the chat team https://t.co/lUV7XYl61S to see if anything is happening on the back end here ^JS",
+      "response_tweet_id": "2527940",
+      "in_response_to_tweet_id": "2527935"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2813687",
+      "author_id": "784503",
+      "inbound": "True",
+      "created_at": "Sun Nov 26 22:31:46 +0000 2017",
+      "text": "Fucking Xbox has turned to the worst shit ever. But I can understand. Microsoft is a startup company, give them some time to grow...",
+      "response_tweet_id": "2813686",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2813686",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Mon Nov 27 01:54:30 +0000 2017",
+      "text": "@784503 Hi there! if you follow this link, you will be routed to an agent. https://t.co/qSynA8s7TB ^CO",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "2813687"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1106984",
+      "author_id": "381259",
+      "inbound": "True",
+      "created_at": "Tue Oct 24 00:46:51 +0000 2017",
+      "text": "@XboxSupport Also another weird thing is when I clicked on the dashboard button he sound came back but as soon as I click on the game it went silent agai",
+      "response_tweet_id": "1106986,1106987",
+      "in_response_to_tweet_id": "1106982"
+    },
+    "support": {
+      "tweet_id": "1106986",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Tue Oct 24 01:04:47 +0000 2017",
+      "text": "@381259 the console. Then sign back in and let us know if the sound comes back.  2 ^BL",
+      "response_tweet_id": "1106988,1106989",
+      "in_response_to_tweet_id": "1106984"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2869801",
+      "author_id": "796927",
+      "inbound": "True",
+      "created_at": "Tue Nov 28 00:55:21 +0000 2017",
+      "text": "@XboxSupport Hey, the @126972 app crashes multiple times a day, sometimes multiple times an HOUR on longer videos, Xbox One S 2TB, already uninstalled and reinstalled the app and hard reset several times.  Known bug?",
+      "response_tweet_id": "2869799",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2869799",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Tue Nov 28 02:13:16 +0000 2017",
+      "text": "@796927 Hi there! Just to clarify, do you currently have this app installed on the internal drive on the console, or do you have an external drive connected? ^JA",
+      "response_tweet_id": "2869800",
+      "in_response_to_tweet_id": "2869801"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "337199",
+      "author_id": "160620",
+      "inbound": "True",
+      "created_at": "Sat Oct 07 18:04:46 +0000 2017",
+      "text": "@XboxSupport hey lads could you help me with my problem @AskPlayStation is being terrible",
+      "response_tweet_id": "337198,337200",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "337198",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Sat Oct 07 21:46:35 +0000 2017",
+      "text": "@160620 DM us your Gamertag and clarify what the issue is that you're having so we can investigate?  2 ^BZ",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "337199"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "655977",
+      "author_id": "276050",
+      "inbound": "True",
+      "created_at": "Wed Nov 22 22:23:54 +0000 2017",
+      "text": "@XboxSupport https://t.co/DkdCST8x9K",
+      "response_tweet_id": "655979,655980",
+      "in_response_to_tweet_id": "655976"
+    },
+    "support": {
+      "tweet_id": "655980",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Thu Nov 23 01:37:27 +0000 2017",
+      "text": "@276050 Thanks for sending that link over. Looks like the Games are grouped alphabetically but then the groups  1 ^JL",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "655977"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2875118",
+      "author_id": "794223",
+      "inbound": "True",
+      "created_at": "Tue Nov 28 03:49:19 +0000 2017",
+      "text": "@XboxSupport #MyFriend @220734 Was recently hacked! The hacker bought $164 worth of stuff. We have reasons to believe the hacker is @509816",
+      "response_tweet_id": "2875117,2875119",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2875119",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Tue Nov 28 04:57:21 +0000 2017",
+      "text": "@794223 Hey there! You can find more info on reporting user on Xbox Live here: https://t.co/ZMbSjht6na   1 ^RR",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "2875118"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2654349",
+      "author_id": "748463",
+      "inbound": "True",
+      "created_at": "Sun Nov 19 04:33:10 +0000 2017",
+      "text": "@XboxSupport no not at all but found a fix on reddit, and it’s all good now. thanks",
+      "response_tweet_id": "2654348",
+      "in_response_to_tweet_id": "2654350"
+    },
+    "support": {
+      "tweet_id": "2654348",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Sun Nov 19 05:19:33 +0000 2017",
+      "text": "@748463 Glad you got that working, let us know if we can assist with any other issues. ^JL",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "2654349"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "589737",
+      "author_id": "259446",
+      "inbound": "True",
+      "created_at": "Sun Dec 03 10:09:07 +0000 2017",
+      "text": "@XboxSupport Hi, I took out a 1 Month Game Pass subscription on 28th Nov, in the UK.\n\nI was told about Game Pass Goals, but can not find any details on my Xbox One. I've checked under Game Pass &amp; Membership screens, but there is no mention?",
+      "response_tweet_id": "589735",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "589735",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Sun Dec 03 16:26:20 +0000 2017",
+      "text": "@259446 Hello, you can check out this page to learn more information about Game Pass Goals. https://t.co/ZDih5uYs1X ^RM",
+      "response_tweet_id": "589736",
+      "in_response_to_tweet_id": "589737"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "223409",
+      "author_id": "169372",
+      "inbound": "True",
+      "created_at": "Thu Oct 05 03:27:05 +0000 2017",
+      "text": "@116089 where is my Beta code???  Who do I talk to? @XboxSupport @115787 https://t.co/uuLD26Vc0K",
+      "response_tweet_id": "223408",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "223408",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Thu Oct 05 03:30:58 +0000 2017",
+      "text": "@169372 Heya! With a digital order there may not be a code, are you able to install the game from here https://t.co/jQ7b4DODEd ^JL",
+      "response_tweet_id": "223407",
+      "in_response_to_tweet_id": "223409"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1744173",
+      "author_id": "526013",
+      "inbound": "True",
+      "created_at": "Tue Oct 17 20:19:33 +0000 2017",
+      "text": "@XboxSupport ty!",
+      "response_tweet_id": "1744174",
+      "in_response_to_tweet_id": "1744172"
+    },
+    "support": {
+      "tweet_id": "1744174",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Tue Oct 17 20:23:29 +0000 2017",
+      "text": "@526013 You're welcome. :) ^AK",
+      "response_tweet_id": "1744175",
+      "in_response_to_tweet_id": "1744173"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "639312",
+      "author_id": "200355",
+      "inbound": "True",
+      "created_at": "Wed Nov 22 19:41:54 +0000 2017",
+      "text": "Fix your product @XboxSupport you've ruined my xbox!!! I can't even remove the @29321 update #shouldhavegotaPC 😑😑😑",
+      "response_tweet_id": "639311,639313",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "639313",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Wed Nov 22 20:08:16 +0000 2017",
+      "text": "@200355 Hey there, can you please DM us with a full description of the issue you  1 ^XS",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "639312"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "118399",
+      "author_id": "142280",
+      "inbound": "True",
+      "created_at": "Thu Nov 23 20:31:03 +0000 2017",
+      "text": "@XboxSupport ^",
+      "response_tweet_id": "118397",
+      "in_response_to_tweet_id": "118401"
+    },
+    "support": {
+      "tweet_id": "118397",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Thu Nov 23 22:16:04 +0000 2017",
+      "text": "@142280 Hi there! To confirm, does this happen with every disc or just with some? ^JS",
+      "response_tweet_id": "118398",
+      "in_response_to_tweet_id": "118399"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2955652",
+      "author_id": "815899",
+      "inbound": "True",
+      "created_at": "Wed Nov 29 18:59:52 +0000 2017",
+      "text": "@XboxSupport Like I said, been there, done that. Was told, \"Since you already take advantage with the free trial the other promotion was gone on your account. What I can suggest is to alway check our website https://t.co/LMeUFKanIY for upcoming promotion that you can take advantage.\"",
+      "response_tweet_id": "2955654,2955655",
+      "in_response_to_tweet_id": "2955651"
+    },
+    "support": {
+      "tweet_id": "2955654",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Wed Nov 29 19:50:29 +0000 2017",
+      "text": "@815899 In the region that you're located in. We wouldn't be able to change this on our end I'm afraid. 2/2 ^TJ",
+      "response_tweet_id": "2955656",
+      "in_response_to_tweet_id": "2955652"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2436591",
+      "author_id": "164383",
+      "inbound": "True",
+      "created_at": "Sun Oct 29 13:10:21 +0000 2017",
+      "text": "@XboxSupport is the new guide going to be fixed I would like to not have to hard reset my Xbox Everytime to do stuff",
+      "response_tweet_id": "2436590",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2436590",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Sun Oct 29 15:04:32 +0000 2017",
+      "text": "@164383 Hi! Let's try briefly removing your profile https://t.co/zJxn1EMf83 power cycle, then 1/2\n ^TJ",
+      "response_tweet_id": "2436588",
+      "in_response_to_tweet_id": "2436591"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "572534",
+      "author_id": "254533",
+      "inbound": "True",
+      "created_at": "Sun Dec 03 04:32:47 +0000 2017",
+      "text": "@XboxSupport Hello, I was playing saint's row the third 'the complete package' via BC. I was able to installed all the DLC however the DLC doesn't popped up on my game. I'm not sure if I need to reach a certain point in the game to unlock them. Please assist.",
+      "response_tweet_id": "572532",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "572532",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Sun Dec 03 04:56:41 +0000 2017",
+      "text": "@254533 Hello! Are you playing the game using the first or second disk?  ^RR",
+      "response_tweet_id": "572533",
+      "in_response_to_tweet_id": "572534"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "416254",
+      "author_id": "214279",
+      "inbound": "True",
+      "created_at": "Tue Oct 10 01:49:52 +0000 2017",
+      "text": "@125833 @XboxSupport em I ever going to get help with my inability to play destiny 2 from either one of you for fucks sake https://t.co/pU7EecFbr3",
+      "response_tweet_id": "416252",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "416252",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Tue Oct 10 02:33:19 +0000 2017",
+      "text": "@214279 Hey there. Have you gotten an update from your preview post? If not it would be worth it to try to initiate a chat there. ^IS",
+      "response_tweet_id": "416253",
+      "in_response_to_tweet_id": "416254"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1531868",
+      "author_id": "475191",
+      "inbound": "True",
+      "created_at": "Sat Nov 04 00:16:52 +0000 2017",
+      "text": "@XboxSupport Over this ! Haven’t been able to play one single match ! If it were digital I would want my money back ! BS !!!",
+      "response_tweet_id": "1531871",
+      "in_response_to_tweet_id": "1531867"
+    },
+    "support": {
+      "tweet_id": "1531871",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Sat Nov 04 01:47:19 +0000 2017",
+      "text": "@475191 Would it be possible to send us the error message you were seeing?  ^BL",
+      "response_tweet_id": "1531872",
+      "in_response_to_tweet_id": "1531868"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "632657",
+      "author_id": "269955",
+      "inbound": "True",
+      "created_at": "Tue Nov 21 16:38:04 +0000 2017",
+      "text": "@XboxSupport Black ops 3 has server issues too",
+      "response_tweet_id": "632656,632658",
+      "in_response_to_tweet_id": "632659"
+    },
+    "support": {
+      "tweet_id": "632658",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Tue Nov 21 21:26:06 +0000 2017",
+      "text": "@269955 Hi there! We can't speculate on server issues, they're showing all green on their support site:  1 ^CO",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "632657"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1759210",
+      "author_id": "152373",
+      "inbound": "True",
+      "created_at": "Tue Nov 07 11:51:29 +0000 2017",
+      "text": "It’s all hush hush but to get your Kinect working you need to go on the black market as adapter dealers are ur only option @152374",
+      "response_tweet_id": "1759209,1759211",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1759211",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Tue Nov 07 17:38:05 +0000 2017",
+      "text": "@152373 Hi there! Kinect adapter availability can vary by region. Recommend reaching out to  1 ^JS",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1759210"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "773662",
+      "author_id": "304805",
+      "inbound": "True",
+      "created_at": "Wed Oct 11 23:36:07 +0000 2017",
+      "text": "@XboxSupport Still no change",
+      "response_tweet_id": "773661",
+      "in_response_to_tweet_id": "773663"
+    },
+    "support": {
+      "tweet_id": "773661",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Thu Oct 12 01:33:51 +0000 2017",
+      "text": "@304805 Darn, sorry to hear. Let's next have you try a factory reset: https://t.co/2sjKs4cdnh. You can choose to ^AK",
+      "response_tweet_id": "773659",
+      "in_response_to_tweet_id": "773662"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1952676",
+      "author_id": "579799",
+      "inbound": "True",
+      "created_at": "Wed Oct 18 09:16:00 +0000 2017",
+      "text": "@XboxSupport https://t.co/DsvyTyjkmn",
+      "response_tweet_id": "1952674",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1952674",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Wed Oct 18 16:35:10 +0000 2017",
+      "text": "@579799 Hi there. Are you able to select the Andromeda download and 'pause' it? ^BZ",
+      "response_tweet_id": "1952675",
+      "in_response_to_tweet_id": "1952676"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "62961",
+      "author_id": "130420",
+      "inbound": "True",
+      "created_at": "Thu Nov 02 04:03:20 +0000 2017",
+      "text": "@XboxSupport Yes. As much as I can make sure also the noise  started after the xbox one updated on tuesday.",
+      "response_tweet_id": "62962",
+      "in_response_to_tweet_id": "62960"
+    },
+    "support": {
+      "tweet_id": "62962",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Thu Nov 02 15:05:54 +0000 2017",
+      "text": "@130420 Okay, is this issue still occurring? ^RM",
+      "response_tweet_id": "62963,62964,62965",
+      "in_response_to_tweet_id": "62961"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2181409",
+      "author_id": "639135",
+      "inbound": "True",
+      "created_at": "Thu Nov 09 16:16:13 +0000 2017",
+      "text": "@XboxSupport Plenty of space available and a very fast connection also. https://t.co/gjkE7wj5wD",
+      "response_tweet_id": "2181408",
+      "in_response_to_tweet_id": "2181410"
+    },
+    "support": {
+      "tweet_id": "2181408",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Thu Nov 09 16:46:49 +0000 2017",
+      "text": "@639135 Hey, try re-adding your account https://t.co/dVcem36rc1 and resetting your internet source by unplugging it for five minutes. ^RM",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "2181409"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "300797",
+      "author_id": "187726",
+      "inbound": "True",
+      "created_at": "Fri Oct 06 20:06:33 +0000 2017",
+      "text": "@XboxSupport My FIFA 18 Ultimate Team keeps on crashing when I choose a country. Is there anyway to fix this other than reinstalling?",
+      "response_tweet_id": "300799,300795,300800",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "300795",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Fri Oct 06 20:32:58 +0000 2017",
+      "text": "@187726 Hey, you can try restarting your console by following these steps https://t.co/isBz4u1SxB. Let us know if this helps ^RM",
+      "response_tweet_id": "300796",
+      "in_response_to_tweet_id": "300797"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1373847",
+      "author_id": "439765",
+      "inbound": "True",
+      "created_at": "Fri Oct 27 16:00:50 +0000 2017",
+      "text": "Decided since the internet isn’t working, that maybe I’ll bust out my Xbox 360 for a little and since I’m a giagantic achievement whore,",
+      "response_tweet_id": "1373845",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1373845",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Sat Oct 28 00:35:15 +0000 2017",
+      "text": "@439765 Hey there! Glad to hear you enjoy unlocking achievements. Got any particular games that you're looking to 100% complete?  ^JA",
+      "response_tweet_id": "1373846",
+      "in_response_to_tweet_id": "1373847"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "709753",
+      "author_id": "289704",
+      "inbound": "True",
+      "created_at": "Tue Oct 10 20:25:47 +0000 2017",
+      "text": "@XboxSupport \nCan you explain why Rayman 3 HD download isn’t working please?",
+      "response_tweet_id": "709752",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "709752",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Tue Oct 10 20:48:27 +0000 2017",
+      "text": "@289704 Hiya! Are you seeing any specific error messages? Mind sending us a direct message https://t.co/nPX1yNXCi5 with your Gamertag? ^JA",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "709753"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1466040",
+      "author_id": "460279",
+      "inbound": "True",
+      "created_at": "Mon Oct 16 22:35:52 +0000 2017",
+      "text": "@XboxSupport Necesito asistencia con mi cuenta que fue bloqueada. No puedo hacer compras",
+      "response_tweet_id": "1466042",
+      "in_response_to_tweet_id": "1466039"
+    },
+    "support": {
+      "tweet_id": "1466042",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Mon Oct 16 22:56:08 +0000 2017",
+      "text": "@460279 We're happy to help with any Xbox Support questions that you may have, but we're an English Support Channel. 1/2 ^JA",
+      "response_tweet_id": "1466043",
+      "in_response_to_tweet_id": "1466040"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "103469",
+      "author_id": "138775",
+      "inbound": "True",
+      "created_at": "Thu Nov 30 11:40:27 +0000 2017",
+      "text": "@XboxSupport I have been having a avoid me rep foe the past two weeks only thing I have done was tell ppl I believed to be cheating I am reporting them please tell me how that is against ur Code of conduct",
+      "response_tweet_id": "103468,103470",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "103470",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Thu Nov 30 18:03:31 +0000 2017",
+      "text": "@138775 Hi there. You can check the guide here: https://t.co/T0UlHNJsZK for tips on how to  1 ^BZ",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "103469"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "332949",
+      "author_id": "195303",
+      "inbound": "True",
+      "created_at": "Sat Oct 07 15:45:35 +0000 2017",
+      "text": "Ok guys I can finally make videos again huge thanks to @XboxSupport",
+      "response_tweet_id": "332948",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "332948",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Sat Oct 07 19:28:51 +0000 2017",
+      "text": "@195303 Great to hear you were able to get your issues solved! Feel free to reach for any future Xbox Support questions! ^JS",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "332949"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2279620",
+      "author_id": "662750",
+      "inbound": "True",
+      "created_at": "Sat Nov 11 17:44:51 +0000 2017",
+      "text": "@662751 @Tesco @XboxSupport @117331 @115786 Nope mine is working fine but it’s standard edition . Thank god",
+      "response_tweet_id": "2279619,2279621",
+      "in_response_to_tweet_id": "2279622"
+    },
+    "support": {
+      "tweet_id": "2279619",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Sat Nov 11 19:52:15 +0000 2017",
+      "text": "@662750 Hi there, thanks for keeping us up-to-date on that and we're glad to hear that. Enjoy your weekend and your new Xbox One X console! :) ^ZM",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "2279620"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "342735",
+      "author_id": "197602",
+      "inbound": "True",
+      "created_at": "Wed Nov 01 04:16:06 +0000 2017",
+      "text": "For some reason my achievements are showing up in Japanese instead of English. How do I fix this? @XboxSupport",
+      "response_tweet_id": "342736,342737,342734",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "342734",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Wed Nov 01 04:40:54 +0000 2017",
+      "text": "@197602 Hello, thanks for reaching out to us. Can you DM us your gamertag so we can get more information. ^CO",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "342735"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "122608",
+      "author_id": "143350",
+      "inbound": "True",
+      "created_at": "Thu Nov 23 23:47:15 +0000 2017",
+      "text": "@XboxSupport i made over a 500m track on Minecraft and I’m not getting the achievement I have no cheats and you can get other achievements but on the rail isn’t working @1479",
+      "response_tweet_id": "122604,122610",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "122610",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Fri Nov 24 00:03:30 +0000 2017",
+      "text": "@143350 Hi there! Thanks for reaching out to us. We recommend adding to the track just to make sure it's long  1 ^CO",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "122608"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "863754",
+      "author_id": "259866",
+      "inbound": "True",
+      "created_at": "Sun Nov 19 21:55:04 +0000 2017",
+      "text": "@XboxSupport Yes, I've done that. The Xbox is the only computer/internet capable gadget not connecting to the internet. It happened out of the blue last night.",
+      "response_tweet_id": "863753",
+      "in_response_to_tweet_id": "863755"
+    },
+    "support": {
+      "tweet_id": "863753",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Sun Nov 19 23:18:20 +0000 2017",
+      "text": "@259866 What type of connection are you using, a wired or wireless connection? ^RM",
+      "response_tweet_id": "863752",
+      "in_response_to_tweet_id": "863754"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1056922",
+      "author_id": "369547",
+      "inbound": "True",
+      "created_at": "Sat Oct 14 18:27:42 +0000 2017",
+      "text": "@XboxSupport whenever I try to start a race in forza i just keep loading then I try to do something then my game freezes",
+      "response_tweet_id": "1056921",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1056921",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Sat Oct 14 21:08:30 +0000 2017",
+      "text": "@369547 We'd be happy to help, but we could use more info. Could you follow &amp; DM @Xboxsupport with your Gamertag &amp; some details? ^EZ",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1056922"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2324374",
+      "author_id": "470005",
+      "inbound": "True",
+      "created_at": "Sun Nov 19 14:54:00 +0000 2017",
+      "text": "@XboxSupport  https://t.co/4rOCMO8RZG",
+      "response_tweet_id": "2324373",
+      "in_response_to_tweet_id": "2324375"
+    },
+    "support": {
+      "tweet_id": "2324373",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Sun Nov 19 19:08:51 +0000 2017",
+      "text": "@470005 Gotcha. To make sure our bases are covered, let's check out our guide here for this 4K issue https://t.co/5YET6VY9ob\n ^TJ",
+      "response_tweet_id": "2324372",
+      "in_response_to_tweet_id": "2324374"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "702364",
+      "author_id": "777041",
+      "inbound": "True",
+      "created_at": "Tue Nov 21 04:36:39 +0000 2017",
+      "text": "@XboxSupport I find it funny that your link says you can't do anything if you want to return a purchase....lol",
+      "response_tweet_id": "2782549,2782550",
+      "in_response_to_tweet_id": "702330"
+    },
+    "support": {
+      "tweet_id": "2782549",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Tue Nov 21 17:11:58 +0000 2017",
+      "text": "@777041 to the live chat team: https://t.co/lUV7XYl61S to explore what options may be available!  2 ^BZ",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "702364"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1140101",
+      "author_id": "388384",
+      "inbound": "True",
+      "created_at": "Tue Oct 24 06:21:12 +0000 2017",
+      "text": "So uhhh hey @XboxSupport and @115890 so that recent xbox update........what happened? Their are some issues that make the controls poop.",
+      "response_tweet_id": "1140100,1140102",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1140100",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Tue Oct 24 15:17:42 +0000 2017",
+      "text": "@388384 DM us your Gamertag and clarify what the issue is that you're having so we can investigate?  2 ^BZ",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1140101"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "118419",
+      "author_id": "142285",
+      "inbound": "True",
+      "created_at": "Fri Nov 24 05:15:54 +0000 2017",
+      "text": "@XboxSupport Didn't work",
+      "response_tweet_id": "118421",
+      "in_response_to_tweet_id": "118418"
+    },
+    "support": {
+      "tweet_id": "118421",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Fri Nov 24 05:33:14 +0000 2017",
+      "text": "@142285 Got it. To dive into this can you dm your Gamertag, a pic of the error your seeing, and if this persists when logged into another profile?  ^IS",
+      "response_tweet_id": "118422,118423",
+      "in_response_to_tweet_id": "118419"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "568553",
+      "author_id": "253403",
+      "inbound": "True",
+      "created_at": "Sun Dec 03 02:33:21 +0000 2017",
+      "text": "@XboxSupport Yes, but I want to bring a physical copy bought here in the Netherlands (disk and all included) to the little brother of my Australian girlfriend. Will that disk work on his AU Xbox?",
+      "response_tweet_id": "568555,568556",
+      "in_response_to_tweet_id": "568552"
+    },
+    "support": {
+      "tweet_id": "568555",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Sun Dec 03 03:44:56 +0000 2017",
+      "text": "@253403 to purchase a copy of the game in the region that they are located in.  2 ^RR",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "568553"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2582377",
+      "author_id": "731855",
+      "inbound": "True",
+      "created_at": "Thu Nov 16 23:48:53 +0000 2017",
+      "text": "@XboxSupport Yes it's a new controller bought in the store and no I hear sizzle when I move the joystick and I move in xbox menus",
+      "response_tweet_id": "2582379",
+      "in_response_to_tweet_id": "2582376"
+    },
+    "support": {
+      "tweet_id": "2582379",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Fri Nov 17 00:12:10 +0000 2017",
+      "text": "@731855 In this case, let's take that back to the store it was purchased from and show that to them and get it replaced.  ^JL",
+      "response_tweet_id": "2582380",
+      "in_response_to_tweet_id": "2582377"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "936350",
+      "author_id": "341981",
+      "inbound": "True",
+      "created_at": "Sat Oct 21 15:19:49 +0000 2017",
+      "text": "@202342 Thanks I tried that and the orange light won’t turn off it’s dead",
+      "response_tweet_id": "936348",
+      "in_response_to_tweet_id": "936351"
+    },
+    "support": {
+      "tweet_id": "936348",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Sat Oct 21 17:51:19 +0000 2017",
+      "text": "@341981 You can make a service request https://t.co/ZAgUyfl2P1 to send your console in to get fixed. ^JS",
+      "response_tweet_id": "936349",
+      "in_response_to_tweet_id": "936350"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "176177",
+      "author_id": "157443",
+      "inbound": "True",
+      "created_at": "Sat Nov 25 00:29:31 +0000 2017",
+      "text": "@XboxSupport Just tried with my girlfriends profile and it's still happening",
+      "response_tweet_id": "176179",
+      "in_response_to_tweet_id": "176176"
+    },
+    "support": {
+      "tweet_id": "176179",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Sat Nov 25 00:32:27 +0000 2017",
+      "text": "@157443 Definitely quite odd especially after looking at all the other steps you have tired in the past day or so. We'd wait for a response to that ticket for more guidance. ^IS",
+      "response_tweet_id": "176180",
+      "in_response_to_tweet_id": "176177"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1510780",
+      "author_id": "470661",
+      "inbound": "True",
+      "created_at": "Mon Oct 16 23:32:24 +0000 2017",
+      "text": "hi @XboxSupport i never got my FIFA 18 Ronaldo Edition pre-order bonusses code, could you guys please help me out?",
+      "response_tweet_id": "1510778,1510783",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1510783",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Mon Oct 16 23:56:46 +0000 2017",
+      "text": "@470661 Hi there! Could you Thanks for reaching out! Could you remove your profile https://t.co/zJxn1EMf83 ,  1 ^JS",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1510780"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "291567",
+      "author_id": "185426",
+      "inbound": "True",
+      "created_at": "Fri Oct 06 17:29:53 +0000 2017",
+      "text": "@XboxSupport What update preview?",
+      "response_tweet_id": "291569",
+      "in_response_to_tweet_id": "291566"
+    },
+    "support": {
+      "tweet_id": "291569",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Fri Oct 06 18:14:01 +0000 2017",
+      "text": "@185426 Xbox has a preview program. Information can be found here https://t.co/nZsFWjwXPl. ^RM",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "291567"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "454199",
+      "author_id": "222787",
+      "inbound": "True",
+      "created_at": "Thu Nov 30 23:01:54 +0000 2017",
+      "text": "@XboxSupport Yep it's on every page. It goes away when I start playing video.",
+      "response_tweet_id": "454201",
+      "in_response_to_tweet_id": "454198"
+    },
+    "support": {
+      "tweet_id": "454201",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Thu Nov 30 23:29:14 +0000 2017",
+      "text": "@222787 Definitely odd and you did the right thing with the uninstall and reinstall. It would worth it test if this persist when your logged into another profile. If it does it would be worth it to reach out to the Netflix team here: https://t.co/J9rAQdM58j ^IS",
+      "response_tweet_id": "454202",
+      "in_response_to_tweet_id": "454199"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "671134",
+      "author_id": "280105",
+      "inbound": "True",
+      "created_at": "Wed Nov 22 23:39:57 +0000 2017",
+      "text": "@XboxSupport anyway I can get a digital refund for a game if I’m not part of the preview program? I used to be but opted out 6 months back? Brought the game on the 18 November",
+      "response_tweet_id": "671133",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "671133",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Thu Nov 23 00:36:00 +0000 2017",
+      "text": "@280105 Hello. To explore your refund options, you'll want to get in touch with the chat team https://t.co/A27lh3IeG0 ^AK",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "671134"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1518025",
+      "author_id": "472189",
+      "inbound": "True",
+      "created_at": "Tue Oct 17 00:03:58 +0000 2017",
+      "text": "@XboxSupport When is xbox going to get a real baseball game???",
+      "response_tweet_id": "1518024",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1518024",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Tue Oct 17 00:27:23 +0000 2017",
+      "text": "@472189 Hey there. For something like this you want to reach out to your favorite publisher. ^IS",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1518025"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1777938",
+      "author_id": "534201",
+      "inbound": "True",
+      "created_at": "Tue Oct 17 21:20:06 +0000 2017",
+      "text": "@XboxSupport It says “sorry this profile can’t connect to XBL on this console. To fix it, download it again.” ?",
+      "response_tweet_id": "1777937",
+      "in_response_to_tweet_id": "1777939"
+    },
+    "support": {
+      "tweet_id": "1777937",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Tue Oct 17 22:46:49 +0000 2017",
+      "text": "@534201 Hello, thanks for reaching out to us. Here are the steps to do that: https://t.co/ANtB3VzqWa ^CO",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1777938"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1852872",
+      "author_id": "202234",
+      "inbound": "True",
+      "created_at": "Mon Oct 30 22:13:13 +0000 2017",
+      "text": "@XboxSupport The code worked fine! I got it a few hours before relase. Site was a bit buggy, prob large server load.\n\nI used PayPal just in case though.",
+      "response_tweet_id": "1852873",
+      "in_response_to_tweet_id": "1852871"
+    },
+    "support": {
+      "tweet_id": "1852873",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Mon Oct 30 22:43:56 +0000 2017",
+      "text": "@202234 Glad to hear it worked for you, have a great night and enjoy!  ^BL",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1852872"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1543035",
+      "author_id": "478034",
+      "inbound": "True",
+      "created_at": "Tue Oct 17 01:33:03 +0000 2017",
+      "text": "@XboxSupport My Battlefront 2 Preorder; on the Store Page for it it is showing as not purchased. Please assist.",
+      "response_tweet_id": "1543034",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1543034",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Tue Oct 17 02:19:52 +0000 2017",
+      "text": "@478034 Hi there! Mind sending us a direct message https://t.co/nPX1yNXCi5 with your Gamertag?  ^JA",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1543035"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1308784",
+      "author_id": "425857",
+      "inbound": "True",
+      "created_at": "Fri Oct 27 04:20:57 +0000 2017",
+      "text": "Also, Xbox Live Gold, that I pay for, with sponsored ads.  Bleh.",
+      "response_tweet_id": "1308782",
+      "in_response_to_tweet_id": "1308788"
+    },
+    "support": {
+      "tweet_id": "1308782",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Fri Oct 27 04:29:42 +0000 2017",
+      "text": "@425857 Hello, thanks for reaching out to us. Make sure to post your ideas here for visibility: https://t.co/bKaMp0HcbU ^CO",
+      "response_tweet_id": "1308783",
+      "in_response_to_tweet_id": "1308784"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1588529",
+      "author_id": "488522",
+      "inbound": "True",
+      "created_at": "Sat Nov 04 20:17:07 +0000 2017",
+      "text": "@XboxSupport How can I get a refund for the unplayable #CODWW2? #CallOfDutyWWII #XBOXONE #CODWW2ISASCAM #CODWW2Refund",
+      "response_tweet_id": "1588530,1588528,1588531",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1588531",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Sat Nov 04 23:11:51 +0000 2017",
+      "text": "@488522 Thanks for reaching out! For refund requests and payment inquiries we recommend reaching out  1 ^JS",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1588529"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "888655",
+      "author_id": "330979",
+      "inbound": "True",
+      "created_at": "Fri Oct 20 22:52:30 +0000 2017",
+      "text": "@XboxSupport ,This new dashboard is crap.im not being notified when I get a message! !",
+      "response_tweet_id": "888653,888657",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "888657",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Fri Oct 20 23:17:20 +0000 2017",
+      "text": "@330979 Hi there! Let's go ahead and remove: https://t.co/zJxn1EMf83 your profile from the console and then &gt;power cycle  1 ^BL",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "888655"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1282674",
+      "author_id": "420065",
+      "inbound": "True",
+      "created_at": "Thu Oct 26 17:21:11 +0000 2017",
+      "text": "@XboxSupport Not sure if you can help but i'm not getting credited for preordering south park on the rewards punchcard",
+      "response_tweet_id": "1282673",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1282673",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Thu Oct 26 17:44:32 +0000 2017",
+      "text": "@420065 Thanks for letting us know! We can help take a look - can you DM us your gamertag please? https://t.co/nPX1yNXCi5  ^QZ",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1282674"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2637533",
+      "author_id": "744431",
+      "inbound": "True",
+      "created_at": "Fri Nov 17 17:06:34 +0000 2017",
+      "text": "@XboxSupport does preordering PUBG make a difference than buying regularly",
+      "response_tweet_id": "2637532,2637534",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2637532",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Fri Nov 17 20:25:20 +0000 2017",
+      "text": "@744431 additional content or bonus' to pre-orders but otherwise, they will be the same game.  2 ^XS",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "2637533"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2657418",
+      "author_id": "749154",
+      "inbound": "True",
+      "created_at": "Sun Nov 19 19:14:35 +0000 2017",
+      "text": "@XboxSupport Nope... Apart from changing to X.",
+      "response_tweet_id": "2657419,2657420",
+      "in_response_to_tweet_id": "2657417"
+    },
+    "support": {
+      "tweet_id": "2657419",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Sun Nov 19 21:50:58 +0000 2017",
+      "text": "@749154 should return back to normal. if you do not notice your score returning after 3 days, reach back out to us.  2 ^RM",
+      "response_tweet_id": "2657421,2657422",
+      "in_response_to_tweet_id": "2657418"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "42247",
+      "author_id": "125325",
+      "inbound": "True",
+      "created_at": "Wed Nov 01 10:43:24 +0000 2017",
+      "text": "@XboxSupport Always**",
+      "response_tweet_id": "42246",
+      "in_response_to_tweet_id": "42248"
+    },
+    "support": {
+      "tweet_id": "42246",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Wed Nov 01 15:34:33 +0000 2017",
+      "text": "@125325 Hi, can you direct message us and tells us in detail what is happening and show us what is appearing on your screen? ^RM",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "42247"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2858541",
+      "author_id": "794394",
+      "inbound": "True",
+      "created_at": "Mon Nov 27 18:33:47 +0000 2017",
+      "text": "@XboxSupport why am I getting a run around with my request to review my xbl enforcement on my account? I know I haven't done anything, I've never gotten reported until I began playing a specific game, been on xbl for about 10 years now, I demand an answer.",
+      "response_tweet_id": "2858540,2858542",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2858542",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Mon Nov 27 21:56:35 +0000 2017",
+      "text": "@794394 Hey there, the email associated with the Gamertag will have received an email stating why the account was banned/suspended. In addition to  1 ^XS",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "2858541"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2420257",
+      "author_id": "695251",
+      "inbound": "True",
+      "created_at": "Sat Nov 25 21:40:04 +0000 2017",
+      "text": "@XboxSupport Hello, I cancelled my xbox live one month being auto renewed a couple of weeks ago but I was just charged. Please can you explain why?",
+      "response_tweet_id": "2420256",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2420256",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Sat Nov 25 22:17:50 +0000 2017",
+      "text": "@695251 Oh no! For this charge that you're seeing, we recommend reaching out to the live chat team to 1/2 ^TJ",
+      "response_tweet_id": "2420255",
+      "in_response_to_tweet_id": "2420257"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2710666",
+      "author_id": "761105",
+      "inbound": "True",
+      "created_at": "Sun Nov 26 23:09:39 +0000 2017",
+      "text": "@XboxSupport Only my tv",
+      "response_tweet_id": "2710668,2710669",
+      "in_response_to_tweet_id": "2710665"
+    },
+    "support": {
+      "tweet_id": "2710669",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Mon Nov 27 00:34:27 +0000 2017",
+      "text": "@761105 Depending on your internet speed, your console will use bandwidth as long as it's connected.  1 ^CO",
+      "response_tweet_id": "2710670",
+      "in_response_to_tweet_id": "2710666"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2897796",
+      "author_id": "781292",
+      "inbound": "True",
+      "created_at": "Tue Nov 28 08:16:10 +0000 2017",
+      "text": "@XboxSupport why is Cortana popping up in a bigger window while I’m playing a game causing all control of said game to be halted cuz it’s now taking up the right side of my screen like so https://t.co/a1wzyQ0yNO",
+      "response_tweet_id": "2897794,2897797",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2897794",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Tue Nov 28 16:55:43 +0000 2017",
+      "text": "@781292 just wanting the window that pops up to be smaller, we'd recommend submitting that feedback here: https://t.co/EDoaucSh9O  2 ^BZ",
+      "response_tweet_id": "2897795",
+      "in_response_to_tweet_id": "2897796"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "40153",
+      "author_id": "124800",
+      "inbound": "True",
+      "created_at": "Fri Oct 27 07:33:59 +0000 2017",
+      "text": "@115786 @XboxSupport this is from the Minecraft feedback login page. Pls fix. Device: Xiaomi Redmi 4a https://t.co/BfjlDQVUkL",
+      "response_tweet_id": "40154,40152",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "40154",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Fri Oct 27 15:05:28 +0000 2017",
+      "text": "@124800 Does that appear when you go here? https://t.co/4n9c0yQUNK ^RM",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "40153"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1308404",
+      "author_id": "425763",
+      "inbound": "True",
+      "created_at": "Fri Oct 27 03:47:10 +0000 2017",
+      "text": "@115786 @XboxSupport need to figure out a way to download the game beforehand so you can actually play at mid night release... get it together",
+      "response_tweet_id": "1308402",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1308402",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Fri Oct 27 04:12:28 +0000 2017",
+      "text": "@425763 Hey. The game should be live now but pre-downloading was available for that game specifically. To stay up to date on 1/2 ^IS",
+      "response_tweet_id": "1308403",
+      "in_response_to_tweet_id": "1308404"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1551998",
+      "author_id": "480225",
+      "inbound": "True",
+      "created_at": "Sat Nov 04 03:32:33 +0000 2017",
+      "text": "@XboxSupport https://t.co/vbiecl8vxI returns 503 Gateway error",
+      "response_tweet_id": "1551996",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1551996",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Sat Nov 04 03:48:58 +0000 2017",
+      "text": "@480225 Hi there! Just to clarify, have you tested using an alternate browser/clearing the cache?  ^JA",
+      "response_tweet_id": "1551997",
+      "in_response_to_tweet_id": "1551998"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2855514",
+      "author_id": "746623",
+      "inbound": "True",
+      "created_at": "Mon Nov 27 21:31:10 +0000 2017",
+      "text": "@XboxSupport No, I didn’t notice this issue yesterday when I was playing but can check once I’m home from work today.",
+      "response_tweet_id": "2855516",
+      "in_response_to_tweet_id": "2855513"
+    },
+    "support": {
+      "tweet_id": "2855516",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Mon Nov 27 22:45:52 +0000 2017",
+      "text": "@746623 Thanks for that info. Let's have you try reinstalling this app on your mobile device and then test.  ^JA",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "2855514"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2693420",
+      "author_id": "757046",
+      "inbound": "True",
+      "created_at": "Sun Nov 19 10:32:57 +0000 2017",
+      "text": "@XboxSupport I can’t sign in or make new accounts!!!!! https://t.co/buwyDwVAwn",
+      "response_tweet_id": "2693419",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2693419",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Sun Nov 19 17:42:59 +0000 2017",
+      "text": "@757046 Hi there! Let's try fully power cycling the console then try adding this profile again https://t.co/QENEhDawC3  ^TJ",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "2693420"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "736919",
+      "author_id": "296269",
+      "inbound": "True",
+      "created_at": "Wed Nov 15 22:04:04 +0000 2017",
+      "text": "@XboxSupport @MicrosoftHelps not sure who to contact. I have a couple questions regarding streaming Xbox One to Windows 10 and the game dvr.",
+      "response_tweet_id": "736918,736920",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "736920",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Thu Nov 16 00:46:21 +0000 2017",
+      "text": "@296269 Hey there, we're here to help. Can you DM us your gamertag and details of your questions? ^CO",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "736919"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "548496",
+      "author_id": "247648",
+      "inbound": "True",
+      "created_at": "Sat Dec 02 11:26:34 +0000 2017",
+      "text": "@XboxSupport I purchased Xbox Live Gold via Amazon yesterday. Now it is only working partly, meaning I can download Games with Gold and play them but I cannot play online in any game. It seems like my Xbox did not fully realize I own Xbox Live Gold now, so what can I do?",
+      "response_tweet_id": "548495,548497",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "548497",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Sat Dec 02 18:06:29 +0000 2017",
+      "text": "@247648 Heyo! We'd like to Direct Message so we can collect some more information. Can you follow and  1 ^BZ",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "548496"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "163183",
+      "author_id": "153731",
+      "inbound": "True",
+      "created_at": "Fri Nov 24 16:13:08 +0000 2017",
+      "text": "@XboxSupport is there no option to upgrade a HD movie I️ own into UHD? I️ own Blade Runner: The Finel Cut in HD and can’t just rebuy the UHD version",
+      "response_tweet_id": "163182",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "163182",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Fri Nov 24 19:04:59 +0000 2017",
+      "text": "@153731 Hi there, in this case, the UHD is a separate version and you would need to purchase it to own it. ^JS",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "163183"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2303574",
+      "author_id": "668419",
+      "inbound": "True",
+      "created_at": "Sun Nov 12 17:27:51 +0000 2017",
+      "text": "@XboxSupport It only says how i do it on a console\nBut i only have the xbox app on my pc",
+      "response_tweet_id": "2303573,2303575",
+      "in_response_to_tweet_id": "2303576"
+    },
+    "support": {
+      "tweet_id": "2303573",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Sun Nov 12 19:39:42 +0000 2017",
+      "text": "@668419 team here: https://t.co/lUV7XYl61S they may have some additional options for you to get this resolved.  2 ^XS",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "2303574"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "932663",
+      "author_id": "341229",
+      "inbound": "True",
+      "created_at": "Tue Sep 26 23:16:29 +0000 2017",
+      "text": "@XboxSupport I’ve done all that already, I unplugged it, I did tried offline and I’ve tried system reset and nothing.",
+      "response_tweet_id": "932665",
+      "in_response_to_tweet_id": "932662"
+    },
+    "support": {
+      "tweet_id": "932665",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Tue Sep 26 23:58:02 +0000 2017",
+      "text": "@341229 Definitely odd. Does this persist with all discs or one specifically? If just the one it would be worth it to try on another console.  ^IS",
+      "response_tweet_id": "932666",
+      "in_response_to_tweet_id": "932663"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1563095",
+      "author_id": "482728",
+      "inbound": "True",
+      "created_at": "Tue Oct 17 04:24:43 +0000 2017",
+      "text": "@XboxSupport \nhello \nyou about to lose all you Fifa 18 clients if you didn't find solution for the game search \n\nI'm just saying 👋🏻",
+      "response_tweet_id": "1563094",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1563094",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Tue Oct 17 04:51:59 +0000 2017",
+      "text": "@482728 Hey there. Not sure what your referring to, can you share your GT and more specifics? We're about to close up but 1/2 ^IS",
+      "response_tweet_id": "1563093",
+      "in_response_to_tweet_id": "1563095"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "565176",
+      "author_id": "207088",
+      "inbound": "True",
+      "created_at": "Sun Dec 03 00:25:50 +0000 2017",
+      "text": "@XboxSupport Yes",
+      "response_tweet_id": "565178",
+      "in_response_to_tweet_id": "565175"
+    },
+    "support": {
+      "tweet_id": "565178",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Sun Dec 03 01:46:13 +0000 2017",
+      "text": "@207088 Has the owner of this Realm responded to your questions at this time? Do they still have it active and open to other users?  ^JL",
+      "response_tweet_id": "565179",
+      "in_response_to_tweet_id": "565176"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2301001",
+      "author_id": "667818",
+      "inbound": "True",
+      "created_at": "Sun Nov 12 09:17:55 +0000 2017",
+      "text": "@ATVIAssist @667819 I can't even find games on xbox for ww2, 2xp is useless for me",
+      "response_tweet_id": "2301000",
+      "in_response_to_tweet_id": "2301002"
+    },
+    "support": {
+      "tweet_id": "2301000",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Sun Nov 12 17:36:23 +0000 2017",
+      "text": "@667818 We'd like to DM so we can collect more info, could you let us know when you're Following us? https://t.co/FIM7Ks4Co5  ^FH",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "2301001"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "962929",
+      "author_id": "348510",
+      "inbound": "True",
+      "created_at": "Sat Oct 21 20:21:54 +0000 2017",
+      "text": "@XboxSupport @115786 stop updating the xbox to being so fucking bad. you guys dont even give a shit about the issues but you care about format",
+      "response_tweet_id": "962928,962930",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "962930",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Sat Oct 21 22:18:58 +0000 2017",
+      "text": "@348510 Hi there, we're sorry to hear you feel that way about the update. Please  1 ^ZM",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "962929"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2366749",
+      "author_id": "683184",
+      "inbound": "True",
+      "created_at": "Mon Nov 13 23:35:42 +0000 2017",
+      "text": "@XboxSupport Have not found any retailer with one, disappointed MS hasn’t supported Day One owners that are upgrading to an X with an adapter or at least the ability to buy one",
+      "response_tweet_id": "2366752",
+      "in_response_to_tweet_id": "2366748"
+    },
+    "support": {
+      "tweet_id": "2366752",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Tue Nov 14 00:39:46 +0000 2017",
+      "text": "@683184 If you would like to see this we recommend leaving your feedback at https://t.co/EDoaucSh9O to make your voice heard! ^JS",
+      "response_tweet_id": "2366753",
+      "in_response_to_tweet_id": "2366749"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2433361",
+      "author_id": "698312",
+      "inbound": "True",
+      "created_at": "Tue Nov 14 17:42:40 +0000 2017",
+      "text": "@XboxSupport it keeps on saying this when I’m trying to play Star Wars battlefront 2 help https://t.co/ejx99vlgJf",
+      "response_tweet_id": "2433360",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2433360",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Tue Nov 14 21:33:34 +0000 2017",
+      "text": "@698312 Hi, what is your Gamertag and how did you purchase the game? ^RM",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "2433361"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2926569",
+      "author_id": "234112",
+      "inbound": "True",
+      "created_at": "Wed Nov 29 04:44:48 +0000 2017",
+      "text": "@XboxSupport So. What if the makers of Call of Duty decide to not fix this spot everyone is calling a “glitch”. Then is it still misconduct? They’ve had past maps where they intentionally left those spots accessible.",
+      "response_tweet_id": "2926570",
+      "in_response_to_tweet_id": "2926568"
+    },
+    "support": {
+      "tweet_id": "2926570",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Wed Nov 29 04:45:37 +0000 2017",
+      "text": "@234112 We would not be able to speculate on that as we are not part of their team. ^JL",
+      "response_tweet_id": "2926571",
+      "in_response_to_tweet_id": "2926569"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2202178",
+      "author_id": "153374",
+      "inbound": "True",
+      "created_at": "Thu Nov 09 22:18:53 +0000 2017",
+      "text": "@XboxSupport Don't worry. It seems to have corrected itself",
+      "response_tweet_id": "2202177,2202179",
+      "in_response_to_tweet_id": "2202180"
+    },
+    "support": {
+      "tweet_id": "2202177",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Thu Nov 09 23:25:40 +0000 2017",
+      "text": "@153374 support questions you need any help with, we'll be here to lend a hand :)  2 ^QZ",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "2202178"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1805310",
+      "author_id": "154979",
+      "inbound": "True",
+      "created_at": "Sun Oct 29 20:29:55 +0000 2017",
+      "text": "@XboxSupport And keep my games up to date, i have this disabled.",
+      "response_tweet_id": "1805311",
+      "in_response_to_tweet_id": "1805308"
+    },
+    "support": {
+      "tweet_id": "1805311",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Sun Oct 29 21:36:17 +0000 2017",
+      "text": "@154979 Thank you for letting us know that. When the update was downloading was it labeled as 4K assets?  ^BL",
+      "response_tweet_id": "1805312,1805313",
+      "in_response_to_tweet_id": "1805310"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2791797",
+      "author_id": "779182",
+      "inbound": "True",
+      "created_at": "Tue Nov 21 20:43:17 +0000 2017",
+      "text": "@XboxSupport Nope.referring to the firmware update to the UHD blu-ray player to fix the colors...e.g. Blacks looked grey.",
+      "response_tweet_id": "2791800",
+      "in_response_to_tweet_id": "2791796"
+    },
+    "support": {
+      "tweet_id": "2791800",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Tue Nov 21 22:59:08 +0000 2017",
+      "text": "@779182 Ah, gotcha. If you have automatic updates toggled on, then yes, the update may have applied in the background without you knowing. You can also check available updates under My Games &amp; Apps&gt;Updates to see if any other update is available. ^ZM",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "2791797"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "519473",
+      "author_id": "240150",
+      "inbound": "True",
+      "created_at": "Fri Dec 01 18:06:57 +0000 2017",
+      "text": "@129141 Not working for me on Xbox",
+      "response_tweet_id": "520528",
+      "in_response_to_tweet_id": "519471"
+    },
+    "support": {
+      "tweet_id": "520528",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Sat Dec 02 02:44:49 +0000 2017",
+      "text": "@240150 Official Xbox Support here. Are you still seeing this? If so could you tweet us more details? We'd love to help. ^IS",
+      "response_tweet_id": "520529",
+      "in_response_to_tweet_id": "519473"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1143808",
+      "author_id": "267435",
+      "inbound": "True",
+      "created_at": "Sun Oct 15 11:52:25 +0000 2017",
+      "text": "@XboxSupport what with the need to keep signing into NFL game pass every other day? Never used to do this crap",
+      "response_tweet_id": "1143806",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1143806",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Sun Oct 15 16:20:57 +0000 2017",
+      "text": "@267435 Hi there. After signing in, are you having issues with the NFL app and viewing any of the content? ^BZ",
+      "response_tweet_id": "1143807",
+      "in_response_to_tweet_id": "1143808"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1233296",
+      "author_id": "409248",
+      "inbound": "True",
+      "created_at": "Mon Oct 16 01:03:37 +0000 2017",
+      "text": "@XboxSupport Don't go offline on Xbox live. I've tried resetting my router and my unplugging my Xbox. Don't get what's happening",
+      "response_tweet_id": "1233295",
+      "in_response_to_tweet_id": "1233297"
+    },
+    "support": {
+      "tweet_id": "1233295",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Mon Oct 16 01:16:57 +0000 2017",
+      "text": "@409248 Hi! Let's have you follow us, DM us your Gamertag, and some more info about what you're seeing: https://t.co/nPX1yNXCi5\n ^BL",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1233296"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2790296",
+      "author_id": "778796",
+      "inbound": "True",
+      "created_at": "Tue Nov 21 16:35:31 +0000 2017",
+      "text": "@XboxSupport So.  Marvel Heroes Omega.  Yeah.  Is there anything specific I need to do?",
+      "response_tweet_id": "2790294",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2790294",
+      "author_id": "XboxSupport",
+      "inbound": "False",
+      "created_at": "Tue Nov 21 20:02:58 +0000 2017",
+      "text": "@778796 Hi, can you clarify what you are asking? ^RM",
+      "response_tweet_id": "2790295",
+      "in_response_to_tweet_id": "2790296"
+    }
+  }
+]

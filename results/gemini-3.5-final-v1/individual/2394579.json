@@ -1,0 +1,47 @@
+{
+  "intent": "playback_app",
+  "route": "escalate",
+  "reason": "Output check: Prior attempts or an unresolved follow-up require human review.",
+  "draft": "This needs a human support review. Please use a private support channel for account-specific details and do not post passwords or payment information here.",
+  "evidence_ids": [],
+  "reply_kind": "handoff",
+  "tweet_id": "2394579",
+  "output_check_violations": [
+    "Prior attempts or an unresolved follow-up require human review."
+  ],
+  "split": "test_challenge",
+  "system": "gemini",
+  "raw_prediction": {
+    "intent": "playback_app",
+    "route": "auto_handle",
+    "reason": "supported_general_help",
+    "draft": "We hear you! Rest assured, we're working on updating the app for iPhone X support as we speak. Stay tuned for any updates.",
+    "evidence_ids": [
+      "2311295",
+      "1162344"
+    ],
+    "reply_kind": "answer",
+    "tweet_id": "2394579"
+  },
+  "api_error": null,
+  "api_metadata": {
+    "model": "gemini-3.5-flash",
+    "model_version": "gemini-3.5-flash",
+    "request_sha256": "3691ad3885aa33f41543c99d1deb1296ef34027bf851be72d053a6587cec4707",
+    "usage": {
+      "promptTokenCount": 8105,
+      "candidatesTokenCount": 1172,
+      "totalTokenCount": 9277,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 8105
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "latency_ms": 33800.030599999445,
+    "cache_hit": false
+  },
+  "latency_ms": 3380.0030599999445
+}

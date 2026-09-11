@@ -1,0 +1,127 @@
+{
+  "parsed": {
+    "results": [
+      {
+        "intent": "account_access_security",
+        "route": "escalate",
+        "reason": "account_action",
+        "draft": "Hey there! We want to help get you back into your account. Could you send us a DM with your account's email address or username? We'll take a look backstage.",
+        "evidence_ids": [
+          "1944312"
+        ],
+        "reply_kind": "handoff",
+        "tweet_id": "1145281"
+      },
+      {
+        "intent": "catalog_availability",
+        "route": "escalate",
+        "reason": "unverified_policy",
+        "draft": "Hey! We'd love to look into this metadata/song name issue for you. Can you send us a DM with the details, or let us know the artist and track name here? We'll see what we can do.",
+        "evidence_ids": [],
+        "reply_kind": "handoff",
+        "tweet_id": "1749860"
+      },
+      {
+        "intent": "playback_app",
+        "route": "escalate",
+        "reason": "unverified_policy",
+        "draft": "Hey! We can clear things up. There is a track limit on offline downloads per device. To learn more about how download limits work, check out the details here: https://support.spotify.com",
+        "evidence_ids": [],
+        "reply_kind": "handoff",
+        "tweet_id": "925390"
+      },
+      {
+        "intent": "social_acknowledgement",
+        "route": "auto_handle",
+        "reason": "safe_acknowledgement",
+        "draft": "No worries! Let us know if you ever need us again. Have a great day!",
+        "evidence_ids": [
+          "991824"
+        ],
+        "reply_kind": "acknowledgement",
+        "tweet_id": "2852990"
+      },
+      {
+        "intent": "catalog_availability",
+        "route": "escalate",
+        "reason": "unverified_policy",
+        "draft": "Hi there! Taylor Swift's 'Reputation' isn't available to stream just yet. We don't have exact info on the release timing right now, but we hope to have it soon!",
+        "evidence_ids": [
+          "2251321"
+        ],
+        "reply_kind": "handoff",
+        "tweet_id": "2583310"
+      },
+      {
+        "intent": "billing_subscription",
+        "route": "escalate",
+        "reason": "account_action",
+        "draft": "Hey there! We'd love to help with your student discount. Can you DM us your account's email address or username? We'll take a look backstage to see what we can suggest.",
+        "evidence_ids": [],
+        "reply_kind": "handoff",
+        "tweet_id": "689585"
+      },
+      {
+        "intent": "billing_subscription",
+        "route": "escalate",
+        "reason": "account_action",
+        "draft": "Hey! We're here to help. Could you please send us a DM with your account's email address? We'll check this charge out backstage for you.",
+        "evidence_ids": [
+          "1902612"
+        ],
+        "reply_kind": "handoff",
+        "tweet_id": "2555577"
+      },
+      {
+        "intent": "billing_subscription",
+        "route": "escalate",
+        "reason": "account_action",
+        "draft": "Hey! Help's here. Can you DM us your account's email address or username? We'll take a look backstage to check on your Premium subscription.",
+        "evidence_ids": [
+          "1871337"
+        ],
+        "reply_kind": "handoff",
+        "tweet_id": "1198657"
+      },
+      {
+        "intent": "feedback_feature_request",
+        "route": "auto_handle",
+        "reason": "safe_acknowledgement",
+        "draft": "We can see how a filter to remove auto-tuned vocals would be handy! Thanks for taking the time to share your feedback with us—we've noted it down.",
+        "evidence_ids": [
+          "166654"
+        ],
+        "reply_kind": "acknowledgement",
+        "tweet_id": "1517639"
+      },
+      {
+        "intent": "other_unclear",
+        "route": "auto_handle",
+        "reason": "safe_acknowledgement",
+        "draft": "That's fantastic news! We're glad to hear you have access now. Let us know if we can help you with anything else.",
+        "evidence_ids": [],
+        "reply_kind": "acknowledgement",
+        "tweet_id": "1103029"
+      }
+    ]
+  },
+  "metadata": {
+    "model": "gemini-3.5-flash",
+    "model_version": "gemini-3.5-flash",
+    "request_sha256": "bdeac386b7d1a77ee04f938134441c0531921fa739e9a68d151b30a02cf797f8",
+    "usage": {
+      "promptTokenCount": 7976,
+      "candidatesTokenCount": 1229,
+      "totalTokenCount": 9205,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 7976
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "latency_ms": 23383.085800000117,
+    "cache_hit": false
+  }
+}

@@ -1,0 +1,1434 @@
+{
+  "packet_id": "78e4fe219a31e688ad2b4feb909dbf706d04d97109ee7a7ed1c02dc6c121898d",
+  "version": "reply-review-v2",
+  "style_version": "human-tone-v2",
+  "items": [
+    {
+      "rating_id": "50db08a56c00",
+      "message": "@115888 Just having some trouble with my spotify account email, can I get some help please!",
+      "context": [],
+      "draft": "Thanks for flagging this. A member of our support team needs to take a closer look and can continue with you in DMs. Please keep any account details private.",
+      "route": "escalate",
+      "evidence": []
+    },
+    {
+      "rating_id": "5850b7a1d1a8",
+      "message": "@115888 Just having some trouble with my spotify account email, can I get some help please!",
+      "context": [],
+      "draft": "Sorry you're dealing with this. We need to check the account privately, so a member of our support team can continue with you in DMs. Please don't post your email address, password, or payment details here.",
+      "route": "escalate",
+      "evidence": []
+    },
+    {
+      "rating_id": "5ebfad994557",
+      "message": "@SpotifyCares locked out of account. Email address is old (college email expired) and I can’t get in touch with support. Help.",
+      "context": [],
+      "draft": "Thanks for flagging this. A member of our support team needs to take a closer look and can continue with you in DMs. Please keep any account details private.",
+      "route": "escalate",
+      "evidence": []
+    },
+    {
+      "rating_id": "99d5acaf7bdd",
+      "message": "@SpotifyCares Any update on this?",
+      "context": [
+        {
+          "tweet_id": "2065610",
+          "role": "customer",
+          "text": "@SpotifyCares Are there any plans to write a functioning app for the Roku media player?",
+          "created_at": "Tue Aug 22 01:43:04 +0000 2017"
+        },
+        {
+          "tweet_id": "2065609",
+          "role": "support",
+          "text": "@610845 Hi! We don't have any info on this right now, but rest assured your feedback will be passed on to the right folks /RE",
+          "created_at": "Tue Aug 22 02:00:40 +0000 2017"
+        },
+        {
+          "tweet_id": "2065607",
+          "role": "customer",
+          "text": "@SpotifyCares Thanks for the reply. People are starting to get fed up with this answer. A little communication would go a long way. It's been over a year",
+          "created_at": "Tue Aug 22 19:56:12 +0000 2017"
+        },
+        {
+          "tweet_id": "2065605",
+          "role": "support",
+          "text": "@610845 We understand your frustration. Rest assured, your feedback is being heard while we work with Roku on the best path forwards /PB",
+          "created_at": "Tue Aug 22 20:21:51 +0000 2017"
+        }
+      ],
+      "draft": "Sorry this is still happening. Since the earlier steps didn't resolve it, a member of our support team needs to take a closer look in DMs. Please keep account details private.",
+      "route": "escalate",
+      "evidence": []
+    },
+    {
+      "rating_id": "63aeead458df",
+      "message": "@269247 @SpotifyCares i sent a dm as well! thank u",
+      "context": [
+        {
+          "tweet_id": "629916",
+          "role": "customer",
+          "text": "I sent a DM @SpotifyCares thank u!!",
+          "created_at": "Wed Nov 22 10:00:27 +0000 2017"
+        }
+      ],
+      "draft": "Thanks for flagging this. A member of our support team needs to take a closer look and can continue with you in DMs. Please keep any account details private.",
+      "route": "escalate",
+      "evidence": []
+    },
+    {
+      "rating_id": "51eb14edb5f7",
+      "message": "@269247 @SpotifyCares i sent a dm as well! thank u",
+      "context": [
+        {
+          "tweet_id": "629916",
+          "role": "customer",
+          "text": "I sent a DM @SpotifyCares thank u!!",
+          "created_at": "Wed Nov 22 10:00:27 +0000 2017"
+        }
+      ],
+      "draft": "Thanks for flagging this. A member of our support team needs to take a closer look and can continue with you in DMs. Please keep any account details private.",
+      "route": "escalate",
+      "evidence": []
+    },
+    {
+      "rating_id": "ef9a80743279",
+      "message": "@SpotifyCares It's all good, Patrisha G on spotify help chat has got me in. 👍 Thanks",
+      "context": [
+        {
+          "tweet_id": "712180",
+          "role": "customer",
+          "text": "@115888 Please help me get into my account. I have premium paid for by PayPal but can't find what email I used. I tried them all.",
+          "created_at": "Tue Oct 10 21:38:45 +0000 2017"
+        },
+        {
+          "tweet_id": "712179",
+          "role": "support",
+          "text": "@290316 Hey Ryan, help's here! Could you DM us any usernames and email addresses you could've used to create an account? We'll do some digging 🔍 /DQ https://t.co/ldFdZRiNAt",
+          "created_at": "Tue Oct 10 21:57:18 +0000 2017"
+        }
+      ],
+      "draft": "Awesome 😁 Just let us know if we can help with anything else.",
+      "route": "escalate",
+      "evidence": [
+        {
+          "component_id": "1833882",
+          "customer_tweet_id": "1833883",
+          "support_tweet_id": "1833882",
+          "customer_message": "@SpotifyCares Nah, it's all good.",
+          "historical_reply": "@550098 Awesome 😁 Just let us know if we can help with anything else. https://t.co/m4HWSbgHVZ /GS",
+          "created_at": "Wed Oct 18 05:49:39 +0000 2017",
+          "resolution_verified": false
+        }
+      ]
+    },
+    {
+      "rating_id": "1f1bf9601cdc",
+      "message": "spotify on my laptop is stuck on an ad so i cant use it rip",
+      "context": [],
+      "draft": "Hey! Which device, operating system, and version of Spotify are you using? We'll see what we can suggest 🙂",
+      "route": "escalate",
+      "evidence": [
+        {
+          "component_id": "2633277",
+          "customer_tweet_id": "2633278",
+          "support_tweet_id": "2633277",
+          "customer_message": "@115888 hey i haven't been able to use spotify for weeks because its stuck on some ad that wont play.",
+          "historical_reply": "@565640 Hey! Which device, operating system, and version of Spotify are you using? We'll see what we can suggest 🙂 /M https://t.co/ldFdZRiNAt",
+          "created_at": "Fri Nov 17 18:58:27 +0000 2017",
+          "resolution_verified": false
+        }
+      ]
+    },
+    {
+      "rating_id": "7d9491859c60",
+      "message": "@SpotifyCares locked out of account. Email address is old (college email expired) and I can’t get in touch with support. Help.",
+      "context": [],
+      "draft": "Hi, that doesn't sound right! We've just replied to your DM. Check it out. We'll continue helping there",
+      "route": "escalate",
+      "evidence": [
+        {
+          "component_id": "2165467",
+          "customer_tweet_id": "2165468",
+          "support_tweet_id": "2165467",
+          "customer_message": "@SpotifyCares Locked out of my prem account. Says my email is not registered I only got 1 email address and receive Spotify ads on it.",
+          "historical_reply": "@635592 Hi, that doesn't sound right! We've just replied to your DM. Check it out. We'll continue helping there /RE",
+          "created_at": "Thu Nov 09 09:59:24 +0000 2017",
+          "resolution_verified": false
+        }
+      ]
+    },
+    {
+      "rating_id": "61b73bc1b7d3",
+      "message": "@SpotifyCares why can't I listen to anything anymore? I get \"suggested songs\" everytime I shuffle an whole album. An whole artist.",
+      "context": [],
+      "draft": "Hmm. Could you send us a DM with your account's email address? We'll take a closer look privately",
+      "route": "escalate",
+      "evidence": [
+        {
+          "component_id": "544583",
+          "customer_tweet_id": "544584",
+          "support_tweet_id": "544586",
+          "customer_message": "@SpotifyCares Thanks. But it's not a playlist but an album. 10 songs maybe a ratio algorithm? 1 suggested song per 3 album songs. Rounded down. I would get 3 suggested songs and not an almost 1:1 ratio...seemed higher.",
+          "historical_reply": "@246539 Hmm. Could you send us a DM with your account's email address? We'll take a look backstage /AU https://t.co/ldFdZRiNAt",
+          "created_at": "Sat Dec 02 20:58:57 +0000 2017",
+          "resolution_verified": false
+        }
+      ]
+    },
+    {
+      "rating_id": "f2a96893ba04",
+      "message": "@117153 y'all charged my account 8 times ..... uhhh",
+      "context": [],
+      "draft": "Sorry you're dealing with this. We need to check the account privately, so a member of our support team can continue with you in DMs. Please don't post your email address, password, or payment details here.",
+      "route": "escalate",
+      "evidence": []
+    },
+    {
+      "rating_id": "96cb5b5679b4",
+      "message": "@115888 I am paying the full amount each month but I am a student with a NUS card, am I able to have this applied please? #student#music",
+      "context": [],
+      "draft": "Hey there! We're afraid that isn't possible at the moment. We're not making any promises, but we'll pass this onto the relevant folks",
+      "route": "escalate",
+      "evidence": [
+        {
+          "component_id": "1045038",
+          "customer_tweet_id": "1045041",
+          "support_tweet_id": "1045040",
+          "customer_message": "@SpotifyCares am I able to get different music for my time capsule playlist?",
+          "historical_reply": "@367072 Hey there! We're afraid that isn't possible at the moment. We're not making any promises, but we'll pass this onto the relevant folks /LO",
+          "created_at": "Thu Oct 12 22:54:46 +0000 2017",
+          "resolution_verified": false
+        }
+      ]
+    },
+    {
+      "rating_id": "5263a469c078",
+      "message": "Does anybody know if @115888 plan on releasing an app for the Apple Watch?",
+      "context": [],
+      "draft": "Thanks for flagging this. A member of our support team needs to take a closer look and can continue with you in DMs. Please keep any account details private.",
+      "route": "escalate",
+      "evidence": []
+    },
+    {
+      "rating_id": "74e6dbcdf16a",
+      "message": "@115888 what's goin on with the app yo?",
+      "context": [],
+      "draft": "Thanks for flagging this. A member of our support team needs to take a closer look and can continue with you in DMs. Please keep any account details private.",
+      "route": "escalate",
+      "evidence": []
+    },
+    {
+      "rating_id": "715168588561",
+      "message": "@SpotifyCares I purchased spotify premium for 12 months last october 11, 2017 and my 12 months premiun isn’t working?",
+      "context": [],
+      "draft": "Thanks for flagging this. A member of our support team needs to take a closer look and can continue with you in DMs. Please keep any account details private.",
+      "route": "escalate",
+      "evidence": []
+    },
+    {
+      "rating_id": "e7c8a92cfb94",
+      "message": "@SpotifyCares I had a university subscription, the payment was canceled last week for lack of money.\n—",
+      "context": [
+        {
+          "tweet_id": "203129",
+          "role": "customer",
+          "text": "@115888 what's wrong with you?? your service it`s so bad, I need talk with a real person, really this situation it`s pathetic. 🤬🤬😡😡",
+          "created_at": "Wed Oct 04 16:54:05 +0000 2017"
+        },
+        {
+          "tweet_id": "203127",
+          "role": "support",
+          "text": "@164067 Hey, help's here! Can you let us know a little more about what's going on? We'll be here /ND",
+          "created_at": "Wed Oct 04 18:27:31 +0000 2017"
+        }
+      ],
+      "draft": "Hey Gilberto, we're here to help! Does logging out > restarting the device > logging back in help? Keep us posted",
+      "route": "escalate",
+      "evidence": [
+        {
+          "component_id": "2293022",
+          "customer_tweet_id": "2293024",
+          "support_tweet_id": "2293022",
+          "customer_message": "@115888 @117168 help here.",
+          "historical_reply": "@301823 Hey Gilberto, we're here to help! Does logging out &gt; restarting the device &gt; logging back in help? Keep us posted /TB",
+          "created_at": "Sat Nov 11 22:38:46 +0000 2017",
+          "resolution_verified": false
+        }
+      ]
+    },
+    {
+      "rating_id": "b794d1eea75b",
+      "message": "@115888 Parents need a little more control over explicit content to fully enjoy your services. What y'all going to do about that?",
+      "context": [],
+      "draft": "Thanks for flagging this. A member of our support team needs to take a closer look and can continue with you in DMs. Please keep any account details private.",
+      "route": "escalate",
+      "evidence": []
+    },
+    {
+      "rating_id": "fc2c5a00e976",
+      "message": "Does anybody know if @115888 plan on releasing an app for the Apple Watch?",
+      "context": [],
+      "draft": "Thanks for flagging this. A member of our support team needs to take a closer look and can continue with you in DMs. Please keep any account details private.",
+      "route": "escalate",
+      "evidence": []
+    },
+    {
+      "rating_id": "44cc0030a492",
+      "message": "Today is a special day, after months of submitting to Spotify, I finally have access to Problem’s page and all the data....FINALLY!!",
+      "context": [],
+      "draft": "Thanks for flagging this. A member of our support team needs to take a closer look and can continue with you in DMs. Please keep any account details private.",
+      "route": "escalate",
+      "evidence": []
+    },
+    {
+      "rating_id": "f0927050304f",
+      "message": "I should be able to control @115888 volume on my @125607 @26758 Sport Watch when playing through my @26759 bluetooth boom box.\n#SoftwareUpdateNeeded Please. https://t.co/MnlVeQAnD6",
+      "context": [],
+      "draft": "Thanks for flagging this. A member of our support team needs to take a closer look and can continue with you in DMs. Please keep any account details private.",
+      "route": "escalate",
+      "evidence": []
+    },
+    {
+      "rating_id": "d24fff989514",
+      "message": "@SpotifyCares my family member got kicked off my plan, and we're getting errors when we type in our address to get him back on.Can you help?",
+      "context": [],
+      "draft": "Hey there! We'd love to help get your family member back on your plan. Could you please send us a DM with the email addresses for both accounts? We'll take a closer look privately.",
+      "route": "escalate",
+      "evidence": [
+        {
+          "component_id": "2517284",
+          "customer_tweet_id": "2517285",
+          "support_tweet_id": "2517284",
+          "customer_message": "@3493 why did I get kicked off my sisters family plan and now I keep getting error messages while trying to re-verify my account",
+          "historical_reply": "@717064 Hey there! Can you DM us your account's email address? We'll check things backstage /KT https://t.co/ldFdZRiNAt",
+          "created_at": "Wed Nov 15 23:58:12 +0000 2017",
+          "resolution_verified": false
+        },
+        {
+          "component_id": "394179",
+          "customer_tweet_id": "394180",
+          "support_tweet_id": "394179",
+          "customer_message": "@SpotifyCares What's going on with the Spotify Premium Family account? My wife and cousins got kicked off and are not able to sign up?",
+          "historical_reply": "@209395 Hey! Help's here. Can you DM us your accounts' email addresses? We'll take a look under the hood /CP https://t.co/ldFdZRiNAt",
+          "created_at": "Mon Oct 09 17:35:54 +0000 2017",
+          "resolution_verified": false
+        }
+      ]
+    },
+    {
+      "rating_id": "972a188fa4fa",
+      "message": "@SpotifyCares I had a university subscription, the payment was canceled last week for lack of money.\n—",
+      "context": [
+        {
+          "tweet_id": "203129",
+          "role": "customer",
+          "text": "@115888 what's wrong with you?? your service it`s so bad, I need talk with a real person, really this situation it`s pathetic. 🤬🤬😡😡",
+          "created_at": "Wed Oct 04 16:54:05 +0000 2017"
+        },
+        {
+          "tweet_id": "203127",
+          "role": "support",
+          "text": "@164067 Hey, help's here! Can you let us know a little more about what's going on? We'll be here /ND",
+          "created_at": "Wed Oct 04 18:27:31 +0000 2017"
+        }
+      ],
+      "draft": "We want to help get your subscription sorted. Since this is related to your billing and account status, could you please reach out to us in a DM with your account's email address? We'll look into this for you.",
+      "route": "escalate",
+      "evidence": []
+    },
+    {
+      "rating_id": "1002441dd3bb",
+      "message": "When is this going to be available on @115888? https://t.co/YJuqGQsnli",
+      "context": [],
+      "draft": "Thanks for flagging this. A member of our support team needs to take a closer look and can continue with you in DMs. Please keep any account details private.",
+      "route": "escalate",
+      "evidence": []
+    },
+    {
+      "rating_id": "a65574f4248f",
+      "message": "@115888 should bring back the lyrics mode.... I've been waiting for it to come back for soooo long!",
+      "context": [],
+      "draft": "Thanks for flagging this. A member of our support team needs to take a closer look and can continue with you in DMs. Please keep any account details private.",
+      "route": "escalate",
+      "evidence": []
+    },
+    {
+      "rating_id": "f1780f1caf87",
+      "message": "@SpotifyCares I purchased spotify premium for 12 months last october 11, 2017 and my 12 months premiun isn’t working?",
+      "context": [],
+      "draft": "Hi there! Can you DM us your account's email address or username? We'll take a closer look privately",
+      "route": "escalate",
+      "evidence": [
+        {
+          "component_id": "566347",
+          "customer_tweet_id": "566348",
+          "support_tweet_id": "566347",
+          "customer_message": "Hey @spotifycares I just signed up to the 12 month sub but it's only added 12 months on ignoring the month I just paid for a week ago, surely I shouldn't have to pay again for 12 months and 3 weeks",
+          "historical_reply": "@252770 Hi there! Can you DM us your account's email address or username? We'll take a look backstage /NQ https://t.co/ldFdZRiNAt",
+          "created_at": "Sun Dec 03 01:01:54 +0000 2017",
+          "resolution_verified": false
+        }
+      ]
+    },
+    {
+      "rating_id": "1a2698153671",
+      "message": "@115888 what's goin on with the app yo?",
+      "context": [],
+      "draft": "Hey, helps here! Can you let us know in what country are you located?",
+      "route": "escalate",
+      "evidence": [
+        {
+          "component_id": "1240023",
+          "customer_tweet_id": "1240025",
+          "support_tweet_id": "1240023",
+          "customer_message": "@289758 @115888 WHAT? https://t.co/G4ENItzmGz",
+          "historical_reply": "@410858 Hey, helps here! Can you let us know in what country are you located? /BE",
+          "created_at": "Tue Aug 16 14:37:57 +0000 2016",
+          "resolution_verified": false
+        }
+      ]
+    },
+    {
+      "rating_id": "aa0ed1ef299b",
+      "message": "@SpotifyCares locked out of account. Email address is old (college email expired) and I can’t get in touch with support. Help.",
+      "context": [],
+      "draft": "Hi there! We want to help get you back into your account. Could you please DM us with your details? We'll see what we can suggest privately.",
+      "route": "escalate",
+      "evidence": [
+        {
+          "component_id": "1490480",
+          "customer_tweet_id": "1490481",
+          "support_tweet_id": "1490480",
+          "customer_message": "@SpotifyCares \nHi Spotify, I am locked out of my account. My account was linked to my old Facebook and I have since deleted it.",
+          "historical_reply": "@466152 Hey there! We just sent you a DM 🙂 /VK",
+          "created_at": "Mon Oct 16 22:00:46 +0000 2017",
+          "resolution_verified": false
+        }
+      ]
+    },
+    {
+      "rating_id": "53f37300c237",
+      "message": "When is this going to be available on @115888? https://t.co/YJuqGQsnli",
+      "context": [],
+      "draft": "Hey there! We'd love to help you find out more about availability. Since catalog and regional availability can change, could you DM us with details or check the link in our profile for general release info?",
+      "route": "escalate",
+      "evidence": []
+    },
+    {
+      "rating_id": "119324216fd5",
+      "message": "Excuse me @115888, why is my desktop version not also Premium? I pay for Premium, so I expect Premium across all platforms - not just mobile. What can you do please?",
+      "context": [],
+      "draft": "Thanks for flagging this. A member of our support team needs to take a closer look and can continue with you in DMs. Please keep any account details private.",
+      "route": "escalate",
+      "evidence": []
+    },
+    {
+      "rating_id": "82f5c73c8c7b",
+      "message": "Today is a special day, after months of submitting to Spotify, I finally have access to Problem’s page and all the data....FINALLY!!",
+      "context": [],
+      "draft": "Thanks for reaching out. We need a little more context to understand what happened. A member of our support team can continue with you in DMs; please keep account details private.",
+      "route": "escalate",
+      "evidence": []
+    },
+    {
+      "rating_id": "b899a693ab6c",
+      "message": "@SpotifyCares It's all good, Patrisha G on spotify help chat has got me in. 👍 Thanks",
+      "context": [
+        {
+          "tweet_id": "712180",
+          "role": "customer",
+          "text": "@115888 Please help me get into my account. I have premium paid for by PayPal but can't find what email I used. I tried them all.",
+          "created_at": "Tue Oct 10 21:38:45 +0000 2017"
+        },
+        {
+          "tweet_id": "712179",
+          "role": "support",
+          "text": "@290316 Hey Ryan, help's here! Could you DM us any usernames and email addresses you could've used to create an account? We'll do some digging 🔍 /DQ https://t.co/ldFdZRiNAt",
+          "created_at": "Tue Oct 10 21:57:18 +0000 2017"
+        }
+      ],
+      "draft": "Awesome! Glad to hear you're back in. Just let us know if we can help with anything else.",
+      "route": "auto_handle",
+      "evidence": [
+        {
+          "component_id": "1833882",
+          "customer_tweet_id": "1833883",
+          "support_tweet_id": "1833882",
+          "customer_message": "@SpotifyCares Nah, it's all good.",
+          "historical_reply": "@550098 Awesome 😁 Just let us know if we can help with anything else. https://t.co/m4HWSbgHVZ /GS",
+          "created_at": "Wed Oct 18 05:49:39 +0000 2017",
+          "resolution_verified": false
+        }
+      ]
+    },
+    {
+      "rating_id": "741c5b3155ae",
+      "message": "spotify updated itself and the app is so laggy and full of bugs how do i cancel my premium n switch to apple music",
+      "context": [],
+      "draft": "Thanks for flagging this. A member of our support team needs to take a closer look and can continue with you in DMs. Please keep any account details private.",
+      "route": "escalate",
+      "evidence": []
+    },
+    {
+      "rating_id": "68ac243d18b3",
+      "message": "@SpotifyCares Trying to recover password, but getting \"CSRF token is invalid\" - help? Previously signed up through FB but want to avoid using moving forward",
+      "context": [],
+      "draft": "Hey, help's here. Can you send us a DM with your account's email address or username? We'll take a closer look privately",
+      "route": "escalate",
+      "evidence": [
+        {
+          "component_id": "468951",
+          "customer_tweet_id": "468952",
+          "support_tweet_id": "468951",
+          "customer_message": "@SpotifyCares I cannot login nor reset my password. Keep seeing this message: The CSRF token is invalid. Please try to resubmit the form.",
+          "historical_reply": "@226657 Hey, help's here. Can you send us a DM with your account's email address or username? We'll take a look backstage /AY https://t.co/ldFdZRiNAt",
+          "created_at": "Fri Dec 01 06:42:12 +0000 2017",
+          "resolution_verified": false
+        }
+      ]
+    },
+    {
+      "rating_id": "eb16f98daec4",
+      "message": "@SpotifyCares Galaxy S7 and 8.4.21.508 for spotify version. It's up to date and does not need any updates.",
+      "context": [
+        {
+          "tweet_id": "260046",
+          "role": "customer",
+          "text": "Really wish @115888 would stop freezing on my phone and not take 5 minutes for a song to start playing.",
+          "created_at": "Thu Oct 05 19:41:58 +0000 2017"
+        },
+        {
+          "tweet_id": "260044",
+          "role": "support",
+          "text": "@177868 Hi there. We're sorry you feel that way. Can you let us know what device, OS, and Spotify version you're running? /LM",
+          "created_at": "Thu Oct 05 20:43:56 +0000 2017"
+        }
+      ],
+      "draft": "Thanks for flagging this. A member of our support team needs to take a closer look and can continue with you in DMs. Please keep any account details private.",
+      "route": "escalate",
+      "evidence": []
+    },
+    {
+      "rating_id": "77f405f1d13f",
+      "message": "@115888 someone's using my card to purchase your premium account please help me",
+      "context": [],
+      "draft": "Hi there, we take unauthorized charges very seriously. Please send us a private message right away so we can help secure your account details and investigate this safely.",
+      "route": "escalate",
+      "evidence": []
+    },
+    {
+      "rating_id": "cf5466be15a7",
+      "message": ".@Spotifycares for fuck's sake stop emailing me every time anyone puts out a new song i use the goddamn app every day i'll figure it out myself. i've clicked unsubscribe for this bullshit 4 times now let me fuckin live",
+      "context": [],
+      "draft": "Thanks for flagging this. A member of our support team needs to take a closer look and can continue with you in DMs. Please keep any account details private.",
+      "route": "escalate",
+      "evidence": []
+    },
+    {
+      "rating_id": "b00bcf59b3f0",
+      "message": "@117153 y'all charged my account 8 times ..... uhhh",
+      "context": [],
+      "draft": "Hi there! That doesn't sound good. Can you DM us your account's email address or username? We'll take a closer look privately",
+      "route": "escalate",
+      "evidence": [
+        {
+          "component_id": "1909655",
+          "customer_tweet_id": "1909656",
+          "support_tweet_id": "1909655",
+          "customer_message": "@SpotifyCares i was charged 4 times",
+          "historical_reply": "@568885 Hi there! That doesn't sound good. Can you DM us your account's email address or username? We'll take a look backstage /PB https://t.co/ldFdZR1cbT",
+          "created_at": "Tue Oct 24 20:20:23 +0000 2017",
+          "resolution_verified": false
+        }
+      ]
+    },
+    {
+      "rating_id": "6bfc7b20c0e8",
+      "message": ".@Spotifycares for fuck's sake stop emailing me every time anyone puts out a new song i use the goddamn app every day i'll figure it out myself. i've clicked unsubscribe for this bullshit 4 times now let me fuckin live",
+      "context": [],
+      "draft": "We hear you, and we're sorry for the frustration. Since unsubscribe has failed multiple times, please send us a DM with your email address so we can take a closer look at your notification settings.",
+      "route": "escalate",
+      "evidence": []
+    },
+    {
+      "rating_id": "96dd17c9ddab",
+      "message": "@SpotifyCares Trying to recover password, but getting \"CSRF token is invalid\" - help? Previously signed up through FB but want to avoid using moving forward",
+      "context": [],
+      "draft": "Sorry you're dealing with this. We need to check the account privately, so a member of our support team can continue with you in DMs. Please don't post your email address, password, or payment details here.",
+      "route": "escalate",
+      "evidence": []
+    },
+    {
+      "rating_id": "b6f3740771dd",
+      "message": "@115888 someone's using my card to purchase your premium account please help me",
+      "context": [],
+      "draft": "Hi Mauricio! We've just sent you a bit more info over DM. We'll carry on helping out there",
+      "route": "escalate",
+      "evidence": [
+        {
+          "component_id": "187813",
+          "customer_tweet_id": "187814",
+          "support_tweet_id": "187813",
+          "customer_message": "@115888 need help with my account please help",
+          "historical_reply": "@160070 @115888 Hi Mauricio! We've just sent you a bit more info over DM. We'll carry on helping out there /CP",
+          "created_at": "Wed Oct 04 14:45:32 +0000 2017",
+          "resolution_verified": false
+        }
+      ]
+    },
+    {
+      "rating_id": "f389af0ef67b",
+      "message": "@115888 please fix the name of this song from @69732 iconic album please :) \n@SpotifyCares https://t.co/YEsRoEgmTl",
+      "context": [],
+      "draft": "Hey! We'd love to look into this metadata/song name issue for you. Can you send us a DM with the details, or let us know the artist and track name here? We'll see what we can do.",
+      "route": "escalate",
+      "evidence": []
+    },
+    {
+      "rating_id": "313dba1f3be3",
+      "message": "@SpotifyCares need some help switching the country on my account",
+      "context": [],
+      "draft": "We can definitely help you out with that! Could you send us a DM with your account's username or email address so we can take a closer look privately?",
+      "route": "escalate",
+      "evidence": [
+        {
+          "component_id": "1359012",
+          "customer_tweet_id": "1359013",
+          "support_tweet_id": "1359012",
+          "customer_message": "@SpotifyCares I need some help with my account.......",
+          "historical_reply": "@436847 Hey Russ! How can we help you today? /DB",
+          "created_at": "Mon Oct 16 14:29:39 +0000 2017",
+          "resolution_verified": false
+        }
+      ]
+    },
+    {
+      "rating_id": "b4a2ca1ceb52",
+      "message": "@SpotifyCares I purchased spotify premium for 12 months last october 11, 2017 and my 12 months premiun isn’t working?",
+      "context": [],
+      "draft": "Hi there! Let's check what's going on with your subscription. Can you DM us your account's email address or username? We'll take a closer look privately.",
+      "route": "escalate",
+      "evidence": [
+        {
+          "component_id": "566347",
+          "customer_tweet_id": "566348",
+          "support_tweet_id": "566347",
+          "customer_message": "Hey @spotifycares I just signed up to the 12 month sub but it's only added 12 months on ignoring the month I just paid for a week ago, surely I shouldn't have to pay again for 12 months and 3 weeks",
+          "historical_reply": "@252770 Hi there! Can you DM us your account's email address or username? We'll take a look backstage /NQ https://t.co/ldFdZRiNAt",
+          "created_at": "Sun Dec 03 01:01:54 +0000 2017",
+          "resolution_verified": false
+        }
+      ]
+    },
+    {
+      "rating_id": "746413710507",
+      "message": "@115888 what's goin on with the app yo?",
+      "context": [],
+      "draft": "We're here to help. Could you send us a DM with more details about what's happening with the app, along with your username or email address?",
+      "route": "escalate",
+      "evidence": []
+    },
+    {
+      "rating_id": "f0148f47095a",
+      "message": "hey @115888 i wanna check who’s following one of my playlists thnx",
+      "context": [],
+      "draft": "Thanks for flagging this. A member of our support team needs to take a closer look and can continue with you in DMs. Please keep any account details private.",
+      "route": "escalate",
+      "evidence": []
+    },
+    {
+      "rating_id": "1aef6f3cd327",
+      "message": "spotify updated itself and the app is so laggy and full of bugs how do i cancel my premium n switch to apple music",
+      "context": [],
+      "draft": "We're sorry to hear you're experiencing lag and bugs. If you still want to cancel your Premium subscription, please send us a DM with your account's email address or username and we'll help you privately.",
+      "route": "escalate",
+      "evidence": [
+        {
+          "component_id": "473449",
+          "customer_tweet_id": "473450",
+          "support_tweet_id": "473449",
+          "customer_message": "@115888 how do I cancel from my Android phone.",
+          "historical_reply": "@227730 Hi Rob! Could you send us a DM with your account's username or email address? We'll take a look backstage /HC https://t.co/ldFdZRiNAt",
+          "created_at": "Fri Dec 01 09:32:19 +0000 2017",
+          "resolution_verified": false
+        }
+      ]
+    },
+    {
+      "rating_id": "61cb7256b9fa",
+      "message": "I should be able to control @115888 volume on my @125607 @26758 Sport Watch when playing through my @26759 bluetooth boom box.\n#SoftwareUpdateNeeded Please. https://t.co/MnlVeQAnD6",
+      "context": [],
+      "draft": "Thanks for flagging this. A member of our support team needs to take a closer look and can continue with you in DMs. Please keep any account details private.",
+      "route": "escalate",
+      "evidence": []
+    },
+    {
+      "rating_id": "3b315a4da59f",
+      "message": "@SpotifyCares need some help switching the country on my account",
+      "context": [],
+      "draft": "Hey Russ! How can we help you today?",
+      "route": "auto_handle",
+      "evidence": [
+        {
+          "component_id": "1359012",
+          "customer_tweet_id": "1359013",
+          "support_tweet_id": "1359012",
+          "customer_message": "@SpotifyCares I need some help with my account.......",
+          "historical_reply": "@436847 Hey Russ! How can we help you today? /DB",
+          "created_at": "Mon Oct 16 14:29:39 +0000 2017",
+          "resolution_verified": false
+        }
+      ]
+    },
+    {
+      "rating_id": "963e175709e3",
+      "message": "@SpotifyCares Any update on this?",
+      "context": [
+        {
+          "tweet_id": "2065610",
+          "role": "customer",
+          "text": "@SpotifyCares Are there any plans to write a functioning app for the Roku media player?",
+          "created_at": "Tue Aug 22 01:43:04 +0000 2017"
+        },
+        {
+          "tweet_id": "2065609",
+          "role": "support",
+          "text": "@610845 Hi! We don't have any info on this right now, but rest assured your feedback will be passed on to the right folks /RE",
+          "created_at": "Tue Aug 22 02:00:40 +0000 2017"
+        },
+        {
+          "tweet_id": "2065607",
+          "role": "customer",
+          "text": "@SpotifyCares Thanks for the reply. People are starting to get fed up with this answer. A little communication would go a long way. It's been over a year",
+          "created_at": "Tue Aug 22 19:56:12 +0000 2017"
+        },
+        {
+          "tweet_id": "2065605",
+          "role": "support",
+          "text": "@610845 We understand your frustration. Rest assured, your feedback is being heard while we work with Roku on the best path forwards /PB",
+          "created_at": "Tue Aug 22 20:21:51 +0000 2017"
+        }
+      ],
+      "draft": "Hey again! We don't have any updates, but we already passed it on. If you need help with anything else, let us know",
+      "route": "escalate",
+      "evidence": [
+        {
+          "component_id": "741130",
+          "customer_tweet_id": "741131",
+          "support_tweet_id": "741130",
+          "customer_message": "@SpotifyCares Did you hear any feedback from the people you passed the feedback on to regarding my feedback? #feedback",
+          "historical_reply": "@297254 Hey again! We don't have any updates, but we already passed it on. If you need help with anything else, let us know /CB",
+          "created_at": "Wed Oct 11 13:54:23 +0000 2017",
+          "resolution_verified": false
+        }
+      ]
+    },
+    {
+      "rating_id": "68dcd4e050b6",
+      "message": "@SpotifyCares heklo",
+      "context": [
+        {
+          "tweet_id": "1807590",
+          "role": "customer",
+          "text": "@SpotifyCares dm me I’m fucking furious",
+          "created_at": "Wed Oct 18 01:52:11 +0000 2017"
+        }
+      ],
+      "draft": "Thanks for flagging this. A member of our support team needs to take a closer look and can continue with you in DMs. Please keep any account details private.",
+      "route": "escalate",
+      "evidence": []
+    },
+    {
+      "rating_id": "fe56bd1abac5",
+      "message": "spotify on my laptop is stuck on an ad so i cant use it rip",
+      "context": [],
+      "draft": "Thanks for flagging this. A member of our support team needs to take a closer look and can continue with you in DMs. Please keep any account details private.",
+      "route": "escalate",
+      "evidence": []
+    },
+    {
+      "rating_id": "a47e3d9ad8bb",
+      "message": "spotify updated itself and the app is so laggy and full of bugs how do i cancel my premium n switch to apple music",
+      "context": [],
+      "draft": "Hey Adam! It's great to hear your thoughts about this. You can vote for the official idea here:",
+      "route": "escalate",
+      "evidence": [
+        {
+          "component_id": "2361911",
+          "customer_tweet_id": "2361912",
+          "support_tweet_id": "2361911",
+          "customer_message": "@SpotifyCares any plans for Apple Watch app?  If not, I’ll have to switch to Apple Music",
+          "historical_reply": "@681997 Hey Adam! It's great to hear your thoughts about this. You can vote for the official idea here: https://t.co/geGOjDqdJ4 /LS",
+          "created_at": "Mon Nov 13 21:11:40 +0000 2017",
+          "resolution_verified": false
+        }
+      ]
+    },
+    {
+      "rating_id": "822ac38df478",
+      "message": "@SpotifyCares heklo",
+      "context": [
+        {
+          "tweet_id": "1807590",
+          "role": "customer",
+          "text": "@SpotifyCares dm me I’m fucking furious",
+          "created_at": "Wed Oct 18 01:52:11 +0000 2017"
+        }
+      ],
+      "draft": "Thanks for reaching out. We need a little more context to understand what happened. A member of our support team can continue with you in DMs; please keep account details private.",
+      "route": "escalate",
+      "evidence": []
+    },
+    {
+      "rating_id": "8abb69e074d3",
+      "message": "@SpotifyCares No internet when connected to wifi? https://t.co/hfm5rBa3OZ",
+      "context": [
+        {
+          "tweet_id": "184176",
+          "role": "customer",
+          "text": "FFS 10 minutes and @116130  still won't play! THIS is why I wont pay £9.99 a month 😠😠😠",
+          "created_at": "Sat Oct 14 22:27:47 +0000 2017"
+        },
+        {
+          "tweet_id": "184175",
+          "role": "customer",
+          "text": "@116130 23.36....still waiting",
+          "created_at": "Sat Oct 14 22:37:05 +0000 2017"
+        },
+        {
+          "tweet_id": "184171",
+          "role": "customer",
+          "text": "@116130 I give (23.40), audible on instead 🖒",
+          "created_at": "Sat Oct 14 22:40:38 +0000 2017"
+        },
+        {
+          "tweet_id": "184169",
+          "role": "support",
+          "text": "@159340 Hey Linsey! Don't worry, we can help. Could you fire over the make/model, operating system, and Spotify version you're using? /KB",
+          "created_at": "Sat Oct 14 23:44:22 +0000 2017"
+        }
+      ],
+      "draft": "Hey, sorry to hear that! Check out the steps under “Downloaded songs won't play” at They should help with this",
+      "route": "escalate",
+      "evidence": [
+        {
+          "component_id": "2022243",
+          "customer_tweet_id": "2022245",
+          "support_tweet_id": "2022243",
+          "customer_message": "@SpotifyCares I've been a premium user for a while now. Why can't I play downloaded songs when not connected to WiFi or when data is off?",
+          "historical_reply": "@598086 Hey, sorry to hear that! Check out the steps under “Downloaded songs won't play” at https://t.co/38J7tFlIBF. They should help with this /MG",
+          "created_at": "Mon Nov 06 06:31:40 +0000 2017",
+          "resolution_verified": false
+        }
+      ]
+    },
+    {
+      "rating_id": "7d98a4b480e6",
+      "message": "@115888 Parents need a little more control over explicit content to fully enjoy your services. What y'all going to do about that?",
+      "context": [],
+      "draft": "Hey Yogesh! We're launching in new countries as often as possible. Be sure to add your email at",
+      "route": "escalate",
+      "evidence": [
+        {
+          "component_id": "932756",
+          "customer_tweet_id": "932757",
+          "support_tweet_id": "932756",
+          "customer_message": "@115888 @61267 are you going to launch your services in INDIA?",
+          "historical_reply": "@341254 Hey Yogesh! We're launching in new countries as often as possible. Be sure to add your email at https://t.co/X8DVSX9QgM /BP",
+          "created_at": "Sat Oct 21 12:17:45 +0000 2017",
+          "resolution_verified": false
+        }
+      ]
+    },
+    {
+      "rating_id": "059f0c92e8ae",
+      "message": "I should be able to control @115888 volume on my @125607 @26758 Sport Watch when playing through my @26759 bluetooth boom box.\n#SoftwareUpdateNeeded Please. https://t.co/MnlVeQAnD6",
+      "context": [],
+      "draft": "Hi Henna! Can you fire over your account's email address via DM? We'll see what we can suggest",
+      "route": "escalate",
+      "evidence": [
+        {
+          "component_id": "2389821",
+          "customer_tweet_id": "2389822",
+          "support_tweet_id": "2389821",
+          "customer_message": "@SpotifyCares when will we be able to change our username??😅",
+          "historical_reply": "@688459 Hi Henna! Can you fire over your account's email address via DM? We'll see what we can suggest /NY",
+          "created_at": "Tue Nov 14 09:06:26 +0000 2017",
+          "resolution_verified": false
+        }
+      ]
+    },
+    {
+      "rating_id": "0dfc60934f55",
+      "message": "hey @115888 i wanna check who’s following one of my playlists thnx",
+      "context": [],
+      "draft": "Thanks for flagging this. A member of our support team needs to take a closer look and can continue with you in DMs. Please keep any account details private.",
+      "route": "escalate",
+      "evidence": []
+    },
+    {
+      "rating_id": "519a095bebc6",
+      "message": "@SpotifyCares Trying to recover password, but getting \"CSRF token is invalid\" - help? Previously signed up through FB but want to avoid using moving forward",
+      "context": [],
+      "draft": "Hey there, we'd love to help you with this login error. Please send us a DM with your username and the email address associated with your account, and we'll look into this privately.",
+      "route": "escalate",
+      "evidence": [
+        {
+          "component_id": "468951",
+          "customer_tweet_id": "468952",
+          "support_tweet_id": "468951",
+          "customer_message": "@SpotifyCares I cannot login nor reset my password. Keep seeing this message: The CSRF token is invalid. Please try to resubmit the form.",
+          "historical_reply": "@226657 Hey, help's here. Can you send us a DM with your account's email address or username? We'll take a look backstage /AY https://t.co/ldFdZRiNAt",
+          "created_at": "Fri Dec 01 06:42:12 +0000 2017",
+          "resolution_verified": false
+        },
+        {
+          "component_id": "2963375",
+          "customer_tweet_id": "2963376",
+          "support_tweet_id": "2963375",
+          "customer_message": "@SpotifyCares So when i try to reset my password i get \"The CSRF token is invalid. Please try to resubmit the form.\" when entering both my email and username. Help?",
+          "historical_reply": "@817692 Hey there, help's here! Could you fire over a DM with your username and screenshot of the issue? We'll check things out backstage /ZO https://t.co/ldFdZRiNAt",
+          "created_at": "Wed Nov 29 21:33:23 +0000 2017",
+          "resolution_verified": false
+        }
+      ]
+    },
+    {
+      "rating_id": "7545f153a088",
+      "message": "@115888 I am paying the full amount each month but I am a student with a NUS card, am I able to have this applied please? #student#music",
+      "context": [],
+      "draft": "Thanks for flagging this. A member of our support team needs to take a closer look and can continue with you in DMs. Please keep any account details private.",
+      "route": "escalate",
+      "evidence": []
+    },
+    {
+      "rating_id": "95c1e695feab",
+      "message": "@SpotifyCares heklo",
+      "context": [
+        {
+          "tweet_id": "1807590",
+          "role": "customer",
+          "text": "@SpotifyCares dm me I’m fucking furious",
+          "created_at": "Wed Oct 18 01:52:11 +0000 2017"
+        }
+      ],
+      "draft": "Hi! We've replied to your DM. We'll continue helping you there 🙂",
+      "route": "auto_handle",
+      "evidence": [
+        {
+          "component_id": "903306",
+          "customer_tweet_id": "903308",
+          "support_tweet_id": "903306",
+          "customer_message": "@SpotifyCares Dm",
+          "historical_reply": "@334448 Hi! We've replied to your DM. We'll continue helping you there 🙂 /BX",
+          "created_at": "Fri Oct 13 19:09:34 +0000 2017",
+          "resolution_verified": false
+        }
+      ]
+    },
+    {
+      "rating_id": "a8f795be3437",
+      "message": "@115888 please fix the name of this song from @69732 iconic album please :) \n@SpotifyCares https://t.co/YEsRoEgmTl",
+      "context": [],
+      "draft": "Thanks for flagging this. A member of our support team needs to take a closer look and can continue with you in DMs. Please keep any account details private.",
+      "route": "escalate",
+      "evidence": []
+    },
+    {
+      "rating_id": "82640143e515",
+      "message": "@SpotifyCares Galaxy S7 and 8.4.21.508 for spotify version. It's up to date and does not need any updates.",
+      "context": [
+        {
+          "tweet_id": "260046",
+          "role": "customer",
+          "text": "Really wish @115888 would stop freezing on my phone and not take 5 minutes for a song to start playing.",
+          "created_at": "Thu Oct 05 19:41:58 +0000 2017"
+        },
+        {
+          "tweet_id": "260044",
+          "role": "support",
+          "text": "@177868 Hi there. We're sorry you feel that way. Can you let us know what device, OS, and Spotify version you're running? /LM",
+          "created_at": "Thu Oct 05 20:43:56 +0000 2017"
+        }
+      ],
+      "draft": "Thanks! Does restarting your device - including removing the battery for 30 seconds if possible - help at all?",
+      "route": "escalate",
+      "evidence": [
+        {
+          "component_id": "237561",
+          "customer_tweet_id": "237562",
+          "support_tweet_id": "237564",
+          "customer_message": "@SpotifyCares Spotify version 8.4.21.508\nand my phone just got the newest system update.",
+          "historical_reply": "@172564 Thanks! Does restarting your device - including removing the battery for 30 seconds if possible - help at all? /RB",
+          "created_at": "Wed Oct 04 22:56:16 +0000 2017",
+          "resolution_verified": false
+        }
+      ]
+    },
+    {
+      "rating_id": "970d2467a502",
+      "message": "@SpotifyCares my family member got kicked off my plan, and we're getting errors when we type in our address to get him back on.Can you help?",
+      "context": [],
+      "draft": "Thanks for flagging this. A member of our support team needs to take a closer look and can continue with you in DMs. Please keep any account details private.",
+      "route": "escalate",
+      "evidence": []
+    },
+    {
+      "rating_id": "c19ad302bb2d",
+      "message": "When is this going to be available on @115888? https://t.co/YJuqGQsnli",
+      "context": [],
+      "draft": "Hey! We’ll have it available to you as soon as it’s available to us:",
+      "route": "auto_handle",
+      "evidence": [
+        {
+          "component_id": "2215953",
+          "customer_tweet_id": "2215954",
+          "support_tweet_id": "2215953",
+          "customer_message": "When is #reputation going to be available on @115888 @2069 ???? @118062 @121574",
+          "historical_reply": "@647454 Hey! We’ll have it available to you as soon as it’s available to us: https://t.co/0i8GpimuDa /RA",
+          "created_at": "Fri Nov 10 06:14:36 +0000 2017",
+          "resolution_verified": false
+        }
+      ]
+    },
+    {
+      "rating_id": "a2b5d40a1ca3",
+      "message": "Excuse me @115888, why is my desktop version not also Premium? I pay for Premium, so I expect Premium across all platforms - not just mobile. What can you do please?",
+      "context": [],
+      "draft": "Hi there! Let's get this sorted for you. Could you DM us your account's email address? We'll check what's going on privately with your premium status on desktop.",
+      "route": "escalate",
+      "evidence": []
+    },
+    {
+      "rating_id": "534a4c2d7304",
+      "message": "@115888 Just having some trouble with my spotify account email, can I get some help please!",
+      "context": [],
+      "draft": "Hi! We'd be glad to help out. Could you send us a DM with your account's email address or username? We'll take a closer look privately",
+      "route": "escalate",
+      "evidence": [
+        {
+          "component_id": "317333",
+          "customer_tweet_id": "317337",
+          "support_tweet_id": "317335",
+          "customer_message": "@SpotifyCares Hi. Having some trouble with my Family account. Any chance to get any help?",
+          "historical_reply": "@191734 Hi! We'd be glad to help out. Could you send us a DM with your account's email address or username? We'll take a look backstage /DR https://t.co/ldFdZRiNAt",
+          "created_at": "Sat Oct 07 07:37:22 +0000 2017",
+          "resolution_verified": false
+        }
+      ]
+    },
+    {
+      "rating_id": "451556d5488c",
+      "message": "@SpotifyCares need some help switching the country on my account",
+      "context": [],
+      "draft": "Thanks for flagging this. A member of our support team needs to take a closer look and can continue with you in DMs. Please keep any account details private.",
+      "route": "escalate",
+      "evidence": []
+    },
+    {
+      "rating_id": "f62e7ec227f4",
+      "message": "@SpotifyCares It's all good, Patrisha G on spotify help chat has got me in. 👍 Thanks",
+      "context": [
+        {
+          "tweet_id": "712180",
+          "role": "customer",
+          "text": "@115888 Please help me get into my account. I have premium paid for by PayPal but can't find what email I used. I tried them all.",
+          "created_at": "Tue Oct 10 21:38:45 +0000 2017"
+        },
+        {
+          "tweet_id": "712179",
+          "role": "support",
+          "text": "@290316 Hey Ryan, help's here! Could you DM us any usernames and email addresses you could've used to create an account? We'll do some digging 🔍 /DQ https://t.co/ldFdZRiNAt",
+          "created_at": "Tue Oct 10 21:57:18 +0000 2017"
+        }
+      ],
+      "draft": "Thanks for flagging this. A member of our support team needs to take a closer look and can continue with you in DMs. Please keep any account details private.",
+      "route": "escalate",
+      "evidence": []
+    },
+    {
+      "rating_id": "7e27afc6a0b5",
+      "message": "@115888 should bring back the lyrics mode.... I've been waiting for it to come back for soooo long!",
+      "context": [],
+      "draft": "Thanks for flagging this. A member of our support team needs to take a closer look and can continue with you in DMs. Please keep any account details private.",
+      "route": "escalate",
+      "evidence": []
+    },
+    {
+      "rating_id": "feb374a4a9e3",
+      "message": "@117153 y'all charged my account 8 times ..... uhhh",
+      "context": [],
+      "draft": "Sorry you're dealing with this. We need to check the account privately, so a member of our support team can continue with you in DMs. Please don't post your email address, password, or payment details here.",
+      "route": "escalate",
+      "evidence": []
+    },
+    {
+      "rating_id": "be1bf172dc3d",
+      "message": "@115888 should bring back the lyrics mode.... I've been waiting for it to come back for soooo long!",
+      "context": [],
+      "draft": "Hi Hannah! We’ll have it available to you as soon as it’s available to us. For now, check out for more info about Spotify content. Let us know if we can help with anything else",
+      "route": "auto_handle",
+      "evidence": [
+        {
+          "component_id": "2620045",
+          "customer_tweet_id": "2620046",
+          "support_tweet_id": "2620045",
+          "customer_message": "@148611 where's red velvet's new album? I've been waiting for hours",
+          "historical_reply": "@594578 Hi Hannah! We’ll have it available to you as soon as it’s available to us. For now, check out https://t.co/0i8GpimuDa for more info about Spotify content. Let us know if we can help with anything else /MC",
+          "created_at": "Fri Nov 17 15:40:07 +0000 2017",
+          "resolution_verified": false
+        }
+      ]
+    },
+    {
+      "rating_id": "587163e139bd",
+      "message": "Excuse me @115888, why is my desktop version not also Premium? I pay for Premium, so I expect Premium across all platforms - not just mobile. What can you do please?",
+      "context": [],
+      "draft": "Hey Crunch! Thanks for your feedback on Shuffle. It's a feature we're monitoring feedback on. We'll be sure to pass your thoughts on /J",
+      "route": "escalate",
+      "evidence": [
+        {
+          "component_id": "2317403",
+          "customer_tweet_id": "2317404",
+          "support_tweet_id": "2317403",
+          "customer_message": "@115888 i pay for premium:D pls fix",
+          "historical_reply": "@502768 Hey Crunch! Thanks for your feedback on Shuffle. It's a feature we're monitoring feedback on. We'll be sure to pass your thoughts on /J /J",
+          "created_at": "Mon Nov 13 08:21:05 +0000 2017",
+          "resolution_verified": false
+        }
+      ]
+    },
+    {
+      "rating_id": "b80b3dcf9637",
+      "message": "@115888 someone's using my card to purchase your premium account please help me",
+      "context": [],
+      "draft": "Thanks for flagging this. A member of our support team needs to take a closer look and can continue with you in DMs. Please keep any account details private.",
+      "route": "escalate",
+      "evidence": []
+    },
+    {
+      "rating_id": "18c35da67af4",
+      "message": "@SpotifyCares Any update on this?",
+      "context": [
+        {
+          "tweet_id": "2065610",
+          "role": "customer",
+          "text": "@SpotifyCares Are there any plans to write a functioning app for the Roku media player?",
+          "created_at": "Tue Aug 22 01:43:04 +0000 2017"
+        },
+        {
+          "tweet_id": "2065609",
+          "role": "support",
+          "text": "@610845 Hi! We don't have any info on this right now, but rest assured your feedback will be passed on to the right folks /RE",
+          "created_at": "Tue Aug 22 02:00:40 +0000 2017"
+        },
+        {
+          "tweet_id": "2065607",
+          "role": "customer",
+          "text": "@SpotifyCares Thanks for the reply. People are starting to get fed up with this answer. A little communication would go a long way. It's been over a year",
+          "created_at": "Tue Aug 22 19:56:12 +0000 2017"
+        },
+        {
+          "tweet_id": "2065605",
+          "role": "support",
+          "text": "@610845 We understand your frustration. Rest assured, your feedback is being heard while we work with Roku on the best path forwards /PB",
+          "created_at": "Tue Aug 22 20:21:51 +0000 2017"
+        }
+      ],
+      "draft": "Sorry this is still happening. Since the earlier steps didn't resolve it, a member of our support team needs to take a closer look in DMs. Please keep account details private.",
+      "route": "escalate",
+      "evidence": []
+    },
+    {
+      "rating_id": "a124c4ba42da",
+      "message": "@115888 I am paying the full amount each month but I am a student with a NUS card, am I able to have this applied please? #student#music",
+      "context": [],
+      "draft": "Hey there! We'd love to help with your student discount. Can you DM us your account's email address or username? We'll take a closer look privately to see what we can suggest.",
+      "route": "escalate",
+      "evidence": []
+    },
+    {
+      "rating_id": "199e3c8e8fc0",
+      "message": "Today is a special day, after months of submitting to Spotify, I finally have access to Problem’s page and all the data....FINALLY!!",
+      "context": [],
+      "draft": "We understand. Could you send us a DM with your account's username or email address? We'll see what we can do",
+      "route": "escalate",
+      "evidence": [
+        {
+          "component_id": "998480",
+          "customer_tweet_id": "1789307",
+          "support_tweet_id": "1789306",
+          "customer_message": "@SpotifyCares I just want my refund. I got charged twice and I still don't have access to my spotify account.",
+          "historical_reply": "@356433 We understand. Could you send us a DM with your account's username or email address? We'll see what we can do /GU https://t.co/ldFdZRiNAt",
+          "created_at": "Thu Oct 12 18:35:06 +0000 2017",
+          "resolution_verified": false
+        }
+      ]
+    },
+    {
+      "rating_id": "92e1f045e003",
+      "message": "@SpotifyCares No internet when connected to wifi? https://t.co/hfm5rBa3OZ",
+      "context": [
+        {
+          "tweet_id": "184176",
+          "role": "customer",
+          "text": "FFS 10 minutes and @116130  still won't play! THIS is why I wont pay £9.99 a month 😠😠😠",
+          "created_at": "Sat Oct 14 22:27:47 +0000 2017"
+        },
+        {
+          "tweet_id": "184175",
+          "role": "customer",
+          "text": "@116130 23.36....still waiting",
+          "created_at": "Sat Oct 14 22:37:05 +0000 2017"
+        },
+        {
+          "tweet_id": "184171",
+          "role": "customer",
+          "text": "@116130 I give (23.40), audible on instead 🖒",
+          "created_at": "Sat Oct 14 22:40:38 +0000 2017"
+        },
+        {
+          "tweet_id": "184169",
+          "role": "support",
+          "text": "@159340 Hey Linsey! Don't worry, we can help. Could you fire over the make/model, operating system, and Spotify version you're using? /KB",
+          "created_at": "Sat Oct 14 23:44:22 +0000 2017"
+        }
+      ],
+      "draft": "Thanks for flagging this. A member of our support team needs to take a closer look and can continue with you in DMs. Please keep any account details private.",
+      "route": "escalate",
+      "evidence": []
+    },
+    {
+      "rating_id": "b24c0333d17e",
+      "message": "@115888 Parents need a little more control over explicit content to fully enjoy your services. What y'all going to do about that?",
+      "context": [],
+      "draft": "Thanks for flagging this. A member of our support team needs to take a closer look and can continue with you in DMs. Please keep any account details private.",
+      "route": "escalate",
+      "evidence": []
+    },
+    {
+      "rating_id": "ed93b77b7b45",
+      "message": "@SpotifyCares No internet when connected to wifi? https://t.co/hfm5rBa3OZ",
+      "context": [
+        {
+          "tweet_id": "184176",
+          "role": "customer",
+          "text": "FFS 10 minutes and @116130  still won't play! THIS is why I wont pay £9.99 a month 😠😠😠",
+          "created_at": "Sat Oct 14 22:27:47 +0000 2017"
+        },
+        {
+          "tweet_id": "184175",
+          "role": "customer",
+          "text": "@116130 23.36....still waiting",
+          "created_at": "Sat Oct 14 22:37:05 +0000 2017"
+        },
+        {
+          "tweet_id": "184171",
+          "role": "customer",
+          "text": "@116130 I give (23.40), audible on instead 🖒",
+          "created_at": "Sat Oct 14 22:40:38 +0000 2017"
+        },
+        {
+          "tweet_id": "184169",
+          "role": "support",
+          "text": "@159340 Hey Linsey! Don't worry, we can help. Could you fire over the make/model, operating system, and Spotify version you're using? /KB",
+          "created_at": "Sat Oct 14 23:44:22 +0000 2017"
+        }
+      ],
+      "draft": "Thanks for flagging this. A member of our support team needs to take a closer look and can continue with you in DMs. Please keep any account details private.",
+      "route": "escalate",
+      "evidence": []
+    },
+    {
+      "rating_id": "8daa1be2dca0",
+      "message": "hey @115888 i wanna check who’s following one of my playlists thnx",
+      "context": [],
+      "draft": "Hi, sounds like a great idea! Show your support here: to let our devs know it's something you'd like to see",
+      "route": "escalate",
+      "evidence": [
+        {
+          "component_id": "2276256",
+          "customer_tweet_id": "2276259",
+          "support_tweet_id": "2276258",
+          "customer_message": "@115888 why can’t i shuffle multiple (or all of my) playlists?",
+          "historical_reply": "@157320 Hi, sounds like a great idea! Show your support here: https://t.co/tkblbYaJLE to let our devs know it's something you'd like to see /GT",
+          "created_at": "Sat Nov 11 14:38:13 +0000 2017",
+          "resolution_verified": false
+        }
+      ]
+    },
+    {
+      "rating_id": "a24aacba4248",
+      "message": "@SpotifyCares why can't I listen to anything anymore? I get \"suggested songs\" everytime I shuffle an whole album. An whole artist.",
+      "context": [],
+      "draft": "Thanks for flagging this. A member of our support team needs to take a closer look and can continue with you in DMs. Please keep any account details private.",
+      "route": "escalate",
+      "evidence": []
+    },
+    {
+      "rating_id": "8cbf607d1ae8",
+      "message": ".@Spotifycares for fuck's sake stop emailing me every time anyone puts out a new song i use the goddamn app every day i'll figure it out myself. i've clicked unsubscribe for this bullshit 4 times now let me fuckin live",
+      "context": [],
+      "draft": "Hey Lindsey! Best thing to try here is a reinstall. Just follow the steps at Let us know how it goes",
+      "route": "escalate",
+      "evidence": [
+        {
+          "component_id": "2081957",
+          "customer_tweet_id": "2081958",
+          "support_tweet_id": "2081957",
+          "customer_message": "@SpotifyCares Every time I use the search engine I receive this pop-up&amp; have to restart the app. Is there a way to stop this from happening? https://t.co/2hNpgwiy43",
+          "historical_reply": "@615710 Hey Lindsey! Best thing to try here is a reinstall. Just follow the steps at https://t.co/EqisDMwZAT. Let us know how it goes /MX",
+          "created_at": "Tue Oct 10 17:30:51 +0000 2017",
+          "resolution_verified": false
+        }
+      ]
+    },
+    {
+      "rating_id": "f645b8314c49",
+      "message": "@115888 please fix the name of this song from @69732 iconic album please :) \n@SpotifyCares https://t.co/YEsRoEgmTl",
+      "context": [],
+      "draft": "Hey Matt! Fingers crossed we'll be able to have it soon, but there's info about Spotify content here:",
+      "route": "escalate",
+      "evidence": [
+        {
+          "component_id": "129758",
+          "customer_tweet_id": "129759",
+          "support_tweet_id": "129758",
+          "customer_message": "@115888 @7460 please fix this",
+          "historical_reply": "@145255 Hey Matt! Fingers crossed we'll be able to have it soon, but there's info about Spotify content here: https://t.co/0i8GpimuDa /AR",
+          "created_at": "Fri Nov 24 06:03:40 +0000 2017",
+          "resolution_verified": false
+        }
+      ]
+    },
+    {
+      "rating_id": "b5160550ddec",
+      "message": "@SpotifyCares Galaxy S7 and 8.4.21.508 for spotify version. It's up to date and does not need any updates.",
+      "context": [
+        {
+          "tweet_id": "260046",
+          "role": "customer",
+          "text": "Really wish @115888 would stop freezing on my phone and not take 5 minutes for a song to start playing.",
+          "created_at": "Thu Oct 05 19:41:58 +0000 2017"
+        },
+        {
+          "tweet_id": "260044",
+          "role": "support",
+          "text": "@177868 Hi there. We're sorry you feel that way. Can you let us know what device, OS, and Spotify version you're running? /LM",
+          "created_at": "Thu Oct 05 20:43:56 +0000 2017"
+        }
+      ],
+      "draft": "Thanks for flagging this. A member of our support team needs to take a closer look and can continue with you in DMs. Please keep any account details private.",
+      "route": "escalate",
+      "evidence": []
+    },
+    {
+      "rating_id": "4aaa8ce86684",
+      "message": "spotify on my laptop is stuck on an ad so i cant use it rip",
+      "context": [],
+      "draft": "Thanks for flagging this. A member of our support team needs to take a closer look and can continue with you in DMs. Please keep any account details private.",
+      "route": "escalate",
+      "evidence": []
+    },
+    {
+      "rating_id": "f85f5b36298c",
+      "message": "@SpotifyCares my family member got kicked off my plan, and we're getting errors when we type in our address to get him back on.Can you help?",
+      "context": [],
+      "draft": "Hey there! Can you DM us your account's email address? We'll check things privately",
+      "route": "escalate",
+      "evidence": [
+        {
+          "component_id": "2517284",
+          "customer_tweet_id": "2517285",
+          "support_tweet_id": "2517284",
+          "customer_message": "@3493 why did I get kicked off my sisters family plan and now I keep getting error messages while trying to re-verify my account",
+          "historical_reply": "@717064 Hey there! Can you DM us your account's email address? We'll check things backstage /KT https://t.co/ldFdZRiNAt",
+          "created_at": "Wed Nov 15 23:58:12 +0000 2017",
+          "resolution_verified": false
+        }
+      ]
+    },
+    {
+      "rating_id": "f1d0fe9cd91e",
+      "message": "@SpotifyCares I had a university subscription, the payment was canceled last week for lack of money.\n—",
+      "context": [
+        {
+          "tweet_id": "203129",
+          "role": "customer",
+          "text": "@115888 what's wrong with you?? your service it`s so bad, I need talk with a real person, really this situation it`s pathetic. 🤬🤬😡😡",
+          "created_at": "Wed Oct 04 16:54:05 +0000 2017"
+        },
+        {
+          "tweet_id": "203127",
+          "role": "support",
+          "text": "@164067 Hey, help's here! Can you let us know a little more about what's going on? We'll be here /ND",
+          "created_at": "Wed Oct 04 18:27:31 +0000 2017"
+        }
+      ],
+      "draft": "Thanks for flagging this. A member of our support team needs to take a closer look and can continue with you in DMs. Please keep any account details private.",
+      "route": "escalate",
+      "evidence": []
+    },
+    {
+      "rating_id": "ed82d2d352b6",
+      "message": "@SpotifyCares why can't I listen to anything anymore? I get \"suggested songs\" everytime I shuffle an whole album. An whole artist.",
+      "context": [],
+      "draft": "Hey! We'd like to help clarify what's happening. To help us get to the bottom of this, could you let us know if you are using Spotify Free or Premium, and what device you are on?",
+      "route": "escalate",
+      "evidence": [
+        {
+          "component_id": "2462272",
+          "customer_tweet_id": "2462274",
+          "support_tweet_id": "2462272",
+          "customer_message": "@115888 new update is awful, why can't I listen to my own albums anymore without having to listen to random artists I haven't heard of?",
+          "historical_reply": "@704905 Hey Jill! What device, operating system, and Spotify version are you using? Also, are you rocking Free or Premium? /MA",
+          "created_at": "Wed Nov 15 08:39:02 +0000 2017",
+          "resolution_verified": false
+        }
+      ]
+    },
+    {
+      "rating_id": "650a657d02ba",
+      "message": "Does anybody know if @115888 plan on releasing an app for the Apple Watch?",
+      "context": [],
+      "draft": "Hi Henrik! We're afraid we don't have any info to share on this right now. We'd suggest showing your support at",
+      "route": "auto_handle",
+      "evidence": [
+        {
+          "component_id": "1925282",
+          "customer_tweet_id": "1925283",
+          "support_tweet_id": "1925282",
+          "customer_message": "@115888 What’s the status on an app to Apple Watch?",
+          "historical_reply": "@573050 Hi Henrik! We're afraid we don't have any info to share on this right now. We'd suggest showing your support at https://t.co/SEK4E4gi22 /LP",
+          "created_at": "Fri Oct 27 14:21:37 +0000 2017",
+          "resolution_verified": false
+        }
+      ]
+    },
+    {
+      "rating_id": "42663deff87d",
+      "message": "@269247 @SpotifyCares i sent a dm as well! thank u",
+      "context": [
+        {
+          "tweet_id": "629916",
+          "role": "customer",
+          "text": "I sent a DM @SpotifyCares thank u!!",
+          "created_at": "Wed Nov 22 10:00:27 +0000 2017"
+        }
+      ],
+      "draft": "Hey! We've just sent a DM your way. Let's carry on chatting there",
+      "route": "auto_handle",
+      "evidence": [
+        {
+          "component_id": "83692",
+          "customer_tweet_id": "83706",
+          "support_tweet_id": "678428",
+          "customer_message": "@115888 @SpotifyCares Hi! I sent a DM",
+          "historical_reply": "@281869 Hey! We've just sent a DM your way. Let's carry on chatting there /NQ",
+          "created_at": "Thu Nov 23 07:00:49 +0000 2017",
+          "resolution_verified": false
+        }
+      ]
+    }
+  ]
+}

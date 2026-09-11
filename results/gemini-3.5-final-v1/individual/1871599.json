@@ -1,0 +1,46 @@
+{
+  "intent": "billing_subscription",
+  "route": "escalate",
+  "reason": "account_action",
+  "draft": "Hey! We want to get you back to your Premium tunes for your road trip. Could you send us a DM with your account's email address or username? We'll look backstage right away.",
+  "evidence_ids": [
+    "2210950"
+  ],
+  "reply_kind": "handoff",
+  "tweet_id": "1871599",
+  "output_check_violations": [],
+  "split": "test_representative",
+  "system": "gemini",
+  "raw_prediction": {
+    "intent": "billing_subscription",
+    "route": "escalate",
+    "reason": "account_action",
+    "draft": "Hey! We want to get you back to your Premium tunes for your road trip. Could you send us a DM with your account's email address or username? We'll look backstage right away.",
+    "evidence_ids": [
+      "2210950"
+    ],
+    "reply_kind": "handoff",
+    "tweet_id": "1871599"
+  },
+  "api_error": null,
+  "api_metadata": {
+    "model": "gemini-3.5-flash",
+    "model_version": "gemini-3.5-flash",
+    "request_sha256": "a1caf5c7baf2f22f31a500365dbec02632cf92b2913b7faa09ae866ac336d21f",
+    "usage": {
+      "promptTokenCount": 8051,
+      "candidatesTokenCount": 1225,
+      "totalTokenCount": 9276,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 8051
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "latency_ms": 23729.404099998646,
+    "cache_hit": false
+  },
+  "latency_ms": 2372.9404099998646
+}

@@ -1,0 +1,42 @@
+{
+  "intent": "account_access_security",
+  "route": "escalate",
+  "reason": "account_action",
+  "draft": "We'd like to help you get this sorted out right away. Please send us a DM with your account's email address or username so we can securely check your account's status.",
+  "evidence_ids": [],
+  "reply_kind": "handoff",
+  "tweet_id": "2084662",
+  "output_check_violations": [],
+  "split": "test_challenge",
+  "system": "gemini",
+  "raw_prediction": {
+    "intent": "account_access_security",
+    "route": "escalate",
+    "reason": "account_action",
+    "draft": "We'd like to help you get this sorted out right away. Please send us a DM with your account's email address or username so we can securely check your account's status.",
+    "evidence_ids": [],
+    "reply_kind": "handoff",
+    "tweet_id": "2084662"
+  },
+  "api_error": null,
+  "api_metadata": {
+    "model": "gemini-3.5-flash",
+    "model_version": "gemini-3.5-flash",
+    "request_sha256": "1ad6e4a7f3b8a26c85537ecaac999444cdebb68d6f2cddaac96e5530d544ff26",
+    "usage": {
+      "promptTokenCount": 7740,
+      "candidatesTokenCount": 1137,
+      "totalTokenCount": 8877,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 7740
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "latency_ms": 56308.16049999703,
+    "cache_hit": false
+  },
+  "latency_ms": 5630.816049999703
+}

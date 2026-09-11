@@ -1,0 +1,18 @@
+{
+  "status": "human_labelled_pilot",
+  "provenance": "Labels supplied by the user in a pasted table in chat on 2026-09-10. Markdown escape characters removed; label choices unchanged. Not an adjudicated golden evaluation set.",
+  "examples": [
+    {"tweet_id":"1500094","intent":"billing_subscription","route":"escalate"},
+    {"tweet_id":"602845","intent":"playback_app","route":"escalate"},
+    {"tweet_id":"1909997","intent":"playback_app","route":"auto_handle"},
+    {"tweet_id":"2728389","intent":"account_access_security","route":"escalate"},
+    {"tweet_id":"2313472","intent":"account_access_security","route":"auto_handle"},
+    {"tweet_id":"2251335","intent":"playback_app","route":"auto_handle"},
+    {"tweet_id":"57576","intent":"playback_app","route":"auto_handle"},
+    {"tweet_id":"2076929","intent":"social_acknowledgement","route":"auto_handle"},
+    {"tweet_id":"832174","intent":"library_playlists","route":"escalate"},
+    {"tweet_id":"1726752","intent":"social_acknowledgement","route":"auto_handle"},
+    {"tweet_id":"2267527","intent":"social_acknowledgement","route":"auto_handle"},
+    {"tweet_id":"2121321","intent":"other_unclear","route":"auto_handle"}
+  ]
+}

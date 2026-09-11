@@ -1,0 +1,159 @@
+{
+  "parsed": {
+    "results": [
+      {
+        "rating_id": "50db08a56c00",
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "Appropriate escalation response for an account email issue. No private information is requested publicly, and it redirects the customer safely to DMs."
+      },
+      {
+        "rating_id": "5850b7a1d1a8",
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "An excellent escalation message that explicitly warns the user not to post sensitive credentials publicly, ensuring security."
+      },
+      {
+        "rating_id": "5ebfad994557",
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "Appropriate escalation response to an account lockout. It safely handles the routing to private DMs."
+      },
+      {
+        "rating_id": "99d5acaf7bdd",
+        "correctness": 1,
+        "grounding": 2,
+        "usefulness": 1,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "The draft says 'Since the earlier steps didn't resolve it...', but there were no steps provided previously, only conversational feedback. However, escalating the general frustration/inquiry is reasonable."
+      },
+      {
+        "rating_id": "63aeead458df",
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "Acknowledges the customer's DM and lets them know they'll be supported there, which is appropriate routing."
+      },
+      {
+        "rating_id": "51eb14edb5f7",
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "Appropriate response to a user confirming they sent a DM. Keeps interaction secure and sets expectations."
+      },
+      {
+        "rating_id": "ef9a80743279",
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "Excellent friendly acknowledgment confirming that the customer got their issue resolved via the support chat."
+      },
+      {
+        "rating_id": "1f1bf9601cdc",
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "Asks the relevant troubleshooting questions based on historical evidence for this issue type before continuing to resolve."
+      },
+      {
+        "rating_id": "7d9491859c60",
+        "correctness": 1,
+        "grounding": 1,
+        "usefulness": 1,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "The draft claims 'We've just replied to your DM', which might not be true if the agent hasn't actually checked or sent a DM yet, but the routing is appropriate."
+      },
+      {
+        "rating_id": "61b73bc1b7d3",
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "Appropriate invitation to DM to safely share account email and investigate their playlist/shuffle settings."
+      },
+      {
+        "rating_id": "f2a96893ba04",
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "Billing issues require secure, private handling. The draft correctly warns against posting sensitive payment info publicly and directs to DMs."
+      },
+      {
+        "rating_id": "96cb5b5679b4",
+        "correctness": 0,
+        "grounding": 1,
+        "usefulness": 0,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "The draft incorrectly states 'that isn't possible at the moment' regarding student discounts, which is factually wrong because Spotify offers student discounts. The evidence used was for a Time Capsule playlist, not student discounts."
+      },
+      {
+        "rating_id": "5263a469c078",
+        "correctness": 1,
+        "grounding": 2,
+        "usefulness": 1,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "A general product inquiry about an Apple Watch app does not require a private DM or 'closer look' at account details, though escalating is okay."
+      },
+      {
+        "rating_id": "74e6dbcdf16a",
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "For a vague issue ('what's goin on with the app'), escalating to DM to look at account/app details privately is safe and appropriate."
+      },
+      {
+        "rating_id": "715168588561",
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "Premium subscription issues need private account details, making the DM escalation and privacy warning highly appropriate."
+      }
+    ]
+  },
+  "metadata": {
+    "model": "gemini-3.5-flash",
+    "model_version": "gemini-3.5-flash",
+    "usage": {
+      "promptTokenCount": 3247,
+      "candidatesTokenCount": 1570,
+      "totalTokenCount": 4817,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 3247
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "e368b17f6fbaf52ca2bc287919b6db1b0dc754263845b8ee888b0e05ee20a17d",
+    "cache_hit": false
+  }
+}

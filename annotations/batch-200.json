@@ -1,0 +1,3490 @@
+{
+  "packet_id": "e814af31db3c1703f0e30d55360e7693e4d47e9ac12212f7909333260fd945ad",
+  "guide_version": "0.2",
+  "examples": [
+    {
+      "tweet_id": "510478",
+      "component_id": "510477",
+      "split": "dev",
+      "challenge_selection_reason": null,
+      "message": "@115888 would be nice to have playlist specific shuffle settings.",
+      "created_at": "Fri Dec 01 21:13:37 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2081816",
+      "component_id": "2081815",
+      "split": "dev",
+      "challenge_selection_reason": null,
+      "message": "@116130 help I've been charged twice for premium and I need to buy birthday presents!",
+      "created_at": "Tue Oct 10 17:02:10 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1887548",
+      "component_id": "1887547",
+      "split": "dev",
+      "challenge_selection_reason": null,
+      "message": "@SpotifyCares locked out of account. Email address is old (college email expired) and I can’t get in touch with support. Help.",
+      "created_at": "Mon Oct 23 12:21:31 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2414561",
+      "component_id": "2414560",
+      "split": "dev",
+      "challenge_selection_reason": null,
+      "message": "@117153 can you please message me privately",
+      "created_at": "Tue Nov 14 17:11:39 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1339549",
+      "component_id": "1339548",
+      "split": "dev",
+      "challenge_selection_reason": null,
+      "message": "Great support from @SpotifyCares really top-notch customer care!",
+      "created_at": "Thu Nov 30 19:41:39 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2627920",
+      "component_id": "2627917",
+      "split": "dev",
+      "challenge_selection_reason": null,
+      "message": "@SpotifyCares Desktop OS - Windows 7\nDesktop version - 1.0.67.582g19436fa3\nMobile - Galaxy S8 \nMobile version - 8.4.26.770 armV7",
+      "created_at": "Fri Nov 17 16:50:21 +0000 2017",
+      "context": [
+        {
+          "tweet_id": "2627922",
+          "role": "customer",
+          "text": "@115888 @SpotifyCares hey, what gives? I can't play any songs at all https://t.co/ZRx9TVdDuL",
+          "created_at": "Fri Nov 17 16:14:18 +0000 2017"
+        },
+        {
+          "tweet_id": "2627921",
+          "role": "support",
+          "text": "@742221 Hey Cole! We're here to help. Can you let us know your device, OS, and Spotify version? We'll see what we can suggest /KL",
+          "created_at": "Fri Nov 17 16:43:51 +0000 2017"
+        }
+      ],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2141762",
+      "component_id": "2141759",
+      "split": "dev",
+      "challenge_selection_reason": null,
+      "message": "@SpotifyCares 2nd mo. in a row after my payment comes out my playlist disappear. Only 1 or 2 left. &amp; a new crap on shows up. #sickofit",
+      "created_at": "Wed Nov 08 22:18:09 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2560544",
+      "component_id": "2560543",
+      "split": "dev",
+      "challenge_selection_reason": null,
+      "message": "Unable to add a family member. Getting undefined problem when submitting    @SpotifyCares",
+      "created_at": "Thu Nov 16 17:25:17 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2609463",
+      "component_id": "2609461",
+      "split": "dev",
+      "challenge_selection_reason": null,
+      "message": "Excuse me @115888, why is my desktop version not also Premium? I pay for Premium, so I expect Premium across all platforms - not just mobile. What can you do please?",
+      "created_at": "Fri Nov 17 09:43:40 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2948927",
+      "component_id": "2948926",
+      "split": "dev",
+      "challenge_selection_reason": null,
+      "message": "@125633 @115888 truly thank you “community is everything” ❤️ can I get help moving my most recent releases onto @115888 please? tried to set up an artist profile in past but failed 😓 - lets talk via dm 📨 :)",
+      "created_at": "Wed Nov 29 16:23:22 +0000 2017",
+      "context": [
+        {
+          "tweet_id": "2948929",
+          "role": "customer",
+          "text": "2am here in real life crying my eyes out (somebody died) only to look online and find out @125633 followed me 😢❤️ thank you, this small support came when needed.. think the time to put #TheFuturesYellow EP &amp; #HappyBirthdayEverybody Playlist on @115888 is now 🎶",
+          "created_at": "Wed Nov 29 02:21:59 +0000 2017"
+        },
+        {
+          "tweet_id": "2948928",
+          "role": "customer",
+          "text": "@814428 @115888 We're so sorry for your loss 😢 but glad we were able to provide a bit of support. Community is everything. 💚",
+          "created_at": "Wed Nov 29 16:15:55 +0000 2017"
+        }
+      ],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2043856",
+      "component_id": "2043854",
+      "split": "dev",
+      "challenge_selection_reason": null,
+      "message": "@spotifycares Spotify just cost me €30 by downloading tracks over cellular even though I have that setting turned off :\\",
+      "created_at": "Wed Oct 04 11:52:40 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1838290",
+      "component_id": "1838289",
+      "split": "dev",
+      "challenge_selection_reason": null,
+      "message": "@SpotifyCares Hi! It's working today, thanks anyways :)",
+      "created_at": "Thu Oct 19 20:50:00 +0000 2017",
+      "context": [
+        {
+          "tweet_id": "1838291",
+          "role": "customer",
+          "text": "@SpotifyCares I got the premium trial on your site but my app won't update from free, help!",
+          "created_at": "Wed Oct 18 17:44:23 +0000 2017"
+        },
+        {
+          "tweet_id": "1838289",
+          "role": "support",
+          "text": "@551022 Hey Julia, help's here! Can you DM us your account's email address and username? We'll take a look backstage 🙂 /CG https://t.co/ldFdZRiNAt",
+          "created_at": "Wed Oct 18 18:41:31 +0000 2017"
+        }
+      ],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "562453",
+      "component_id": "562452",
+      "split": "dev",
+      "challenge_selection_reason": null,
+      "message": "@115888 @117168 please direct me to a place where I can explore different individual/family packages. I already used a promotional offer before, a while back. Thanks",
+      "created_at": "Sat Dec 02 14:05:38 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2065606",
+      "component_id": "2065605",
+      "split": "dev",
+      "challenge_selection_reason": null,
+      "message": "@SpotifyCares Any update on this?",
+      "created_at": "Thu Oct 19 01:08:31 +0000 2017",
+      "context": [
+        {
+          "tweet_id": "2065610",
+          "role": "customer",
+          "text": "@SpotifyCares Are there any plans to write a functioning app for the Roku media player?",
+          "created_at": "Tue Aug 22 01:43:04 +0000 2017"
+        },
+        {
+          "tweet_id": "2065609",
+          "role": "support",
+          "text": "@610845 Hi! We don't have any info on this right now, but rest assured your feedback will be passed on to the right folks /RE",
+          "created_at": "Tue Aug 22 02:00:40 +0000 2017"
+        },
+        {
+          "tweet_id": "2065607",
+          "role": "customer",
+          "text": "@SpotifyCares Thanks for the reply. People are starting to get fed up with this answer. A little communication would go a long way. It's been over a year",
+          "created_at": "Tue Aug 22 19:56:12 +0000 2017"
+        },
+        {
+          "tweet_id": "2065605",
+          "role": "support",
+          "text": "@610845 We understand your frustration. Rest assured, your feedback is being heard while we work with Roku on the best path forwards /PB",
+          "created_at": "Tue Aug 22 20:21:51 +0000 2017"
+        }
+      ],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "292967",
+      "component_id": "292964",
+      "split": "dev",
+      "challenge_selection_reason": null,
+      "message": "@SpotifyCares add a feature where we can see our most played songs and artists pleeeasseeeeee",
+      "created_at": "Fri Oct 06 16:02:34 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "439857",
+      "component_id": "439855",
+      "split": "dev",
+      "challenge_selection_reason": null,
+      "message": "Hello @SpotifyCares - currently writing a chapter on algorithmic curation, is there anyone at Spotify I could ask a few Qs to?",
+      "created_at": "Tue Oct 10 23:58:12 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "111990",
+      "component_id": "111988",
+      "split": "dev",
+      "challenge_selection_reason": null,
+      "message": "@SpotifyCares omg even better https://t.co/IOTQIWr3vW",
+      "created_at": "Thu Nov 23 19:57:16 +0000 2017",
+      "context": [
+        {
+          "tweet_id": "111993",
+          "role": "customer",
+          "text": "Shout out to VK at @SpotifyCares  for gr8 customer service, a da best love u xoxoxoxox https://t.co/Z3Och0MaIa",
+          "created_at": "Thu Nov 23 19:49:09 +0000 2017"
+        }
+      ],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1804308",
+      "component_id": "1084313",
+      "split": "dev",
+      "challenge_selection_reason": null,
+      "message": "@SpotifyCares It's been an active request for almost 6 years and should only take a matter of days, if that, to develop and implement.",
+      "created_at": "Fri Oct 13 19:34:30 +0000 2017",
+      "context": [
+        {
+          "tweet_id": "1084317",
+          "role": "customer",
+          "text": "@SpotifyCares How much money would I have to pay to actually get this feature implemented? https://t.co/8f1E8EA1nL",
+          "created_at": "Fri Oct 13 15:12:05 +0000 2017"
+        },
+        {
+          "tweet_id": "1084316",
+          "role": "customer",
+          "text": "@SpotifyCares It's a basic feature that any prominent audio app has.",
+          "created_at": "Fri Oct 13 15:13:16 +0000 2017"
+        },
+        {
+          "tweet_id": "1084314",
+          "role": "customer",
+          "text": "@SpotifyCares Are you hiring? Do I have to apply for a software developer position and quit after a day or 2 to get this done?",
+          "created_at": "Fri Oct 13 15:14:09 +0000 2017"
+        },
+        {
+          "tweet_id": "1084315",
+          "role": "support",
+          "text": "@375771 1: Hey there! We're sorry you feel that way. We suggest adding your vote to the idea to help make it happen. We'll also let our devs...",
+          "created_at": "Fri Oct 13 17:23:32 +0000 2017"
+        },
+        {
+          "tweet_id": "1804307",
+          "role": "customer",
+          "text": "@SpotifyCares I have voted for it and so have many others. It's the 10th top idea that hasn't been implemented and the 3rd that is marked as \"Good idea\".",
+          "created_at": "Fri Oct 13 19:31:33 +0000 2017"
+        }
+      ],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1545286",
+      "component_id": "1545285",
+      "split": "dev",
+      "challenge_selection_reason": null,
+      "message": "@SpotifyCares Y'all need to work on ad targeting. I'm in MI and a few weeks ago got a Verizon add for NY and just got a CA Dunkin Donuts ad",
+      "created_at": "Sat Nov 04 04:58:55 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "629915",
+      "component_id": "629914",
+      "split": "dev",
+      "challenge_selection_reason": null,
+      "message": "@269247 @SpotifyCares i sent a dm as well! thank u",
+      "created_at": "Wed Nov 22 11:26:33 +0000 2017",
+      "context": [
+        {
+          "tweet_id": "629916",
+          "role": "customer",
+          "text": "I sent a DM @SpotifyCares thank u!!",
+          "created_at": "Wed Nov 22 10:00:27 +0000 2017"
+        }
+      ],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2081798",
+      "component_id": "2081797",
+      "split": "dev",
+      "challenge_selection_reason": null,
+      "message": "@115888 can u fucktards tell me why does it take 5 or more minutes to load an artist's page on my pc? it's been an issue for months now",
+      "created_at": "Tue Oct 10 16:12:04 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1988845",
+      "component_id": "1988844",
+      "split": "dev",
+      "challenge_selection_reason": null,
+      "message": "@spotifycares Hello spotify, why is my premium family account just swapped back to Free? Whole family lost their playlists etc. Please help.",
+      "created_at": "Wed Oct 04 17:12:02 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "203126",
+      "component_id": "203125",
+      "split": "dev",
+      "challenge_selection_reason": null,
+      "message": "@SpotifyCares I had a university subscription, the payment was canceled last week for lack of money.\n—",
+      "created_at": "Wed Oct 04 19:04:11 +0000 2017",
+      "context": [
+        {
+          "tweet_id": "203129",
+          "role": "customer",
+          "text": "@115888 what's wrong with you?? your service it`s so bad, I need talk with a real person, really this situation it`s pathetic. 🤬🤬😡😡",
+          "created_at": "Wed Oct 04 16:54:05 +0000 2017"
+        },
+        {
+          "tweet_id": "203127",
+          "role": "support",
+          "text": "@164067 Hey, help's here! Can you let us know a little more about what's going on? We'll be here /ND",
+          "created_at": "Wed Oct 04 18:27:31 +0000 2017"
+        }
+      ],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "712178",
+      "component_id": "712177",
+      "split": "dev",
+      "challenge_selection_reason": null,
+      "message": "@SpotifyCares It's all good, Patrisha G on spotify help chat has got me in. 👍 Thanks",
+      "created_at": "Tue Oct 10 21:59:39 +0000 2017",
+      "context": [
+        {
+          "tweet_id": "712180",
+          "role": "customer",
+          "text": "@115888 Please help me get into my account. I have premium paid for by PayPal but can't find what email I used. I tried them all.",
+          "created_at": "Tue Oct 10 21:38:45 +0000 2017"
+        },
+        {
+          "tweet_id": "712179",
+          "role": "support",
+          "text": "@290316 Hey Ryan, help's here! Could you DM us any usernames and email addresses you could've used to create an account? We'll do some digging 🔍 /DQ https://t.co/ldFdZRiNAt",
+          "created_at": "Tue Oct 10 21:57:18 +0000 2017"
+        }
+      ],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2125245",
+      "component_id": "2125244",
+      "split": "dev",
+      "challenge_selection_reason": null,
+      "message": "Waiting impatiently for @84624's \"Shall We Dance\" to be on @115888 already 😭",
+      "created_at": "Wed Nov 08 17:59:51 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "163747",
+      "component_id": "163746",
+      "split": "dev",
+      "challenge_selection_reason": null,
+      "message": "I'M GOING TO FUCKING KILL MYSELF CAN SPOTIFY STOP REMOVING MY DOWNLOADED MUSIC @115888 @SpotifyCares YOU FUCKING BITCHES",
+      "created_at": "Fri Nov 24 19:06:49 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1779504",
+      "component_id": "1779503",
+      "split": "dev",
+      "challenge_selection_reason": null,
+      "message": "@SpotifyCares my family member got kicked off my plan, and we're getting errors when we type in our address to get him back on.Can you help?",
+      "created_at": "Wed Oct 11 18:22:14 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2637138",
+      "component_id": "2637136",
+      "split": "dev",
+      "challenge_selection_reason": null,
+      "message": "@115888 @SpotifyCares can we possibly get DMX in the studio to record his version of \"Rudolf the red nosed reindeer\" and then have it as a Spotify exclusive???",
+      "created_at": "Fri Nov 17 20:16:03 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1097428",
+      "component_id": "1097426",
+      "split": "dev",
+      "challenge_selection_reason": null,
+      "message": "@SpotifyCares No it doesn't unfortunately, happened sometime after a recent update on Android",
+      "created_at": "Fri Oct 13 21:51:20 +0000 2017",
+      "context": [
+        {
+          "tweet_id": "1097433",
+          "role": "customer",
+          "text": "@115888 why can't i listen to all songs, in a playlist folder, on mobile anymore?",
+          "created_at": "Fri Oct 13 18:59:43 +0000 2017"
+        },
+        {
+          "tweet_id": "1097432",
+          "role": "support",
+          "text": "@378966 Hey there! Does logging out, restarting your device, and logging back in help? Let us know /TF",
+          "created_at": "Fri Oct 13 21:49:09 +0000 2017"
+        }
+      ],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2042082",
+      "component_id": "2042081",
+      "split": "dev",
+      "challenge_selection_reason": null,
+      "message": "@SpotifyCares weird, currently playing pinball wizzard, lower bar says Clair https://t.co/EvFisVfKtN",
+      "created_at": "Wed Oct 04 06:22:32 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "834634",
+      "component_id": "834633",
+      "split": "dev",
+      "challenge_selection_reason": null,
+      "message": "hey @115888 i wanna check who’s following one of my playlists thnx",
+      "created_at": "Mon Oct 09 02:19:48 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2580777",
+      "component_id": "2580776",
+      "split": "dev",
+      "challenge_selection_reason": null,
+      "message": "@115888 why are you suggesting Taylor Swift in my Jojo's Bizzare Adventure OST playlist",
+      "created_at": "Thu Nov 16 20:18:03 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1874716",
+      "component_id": "1874715",
+      "split": "dev",
+      "challenge_selection_reason": null,
+      "message": "@SpotifyCares Hi, I was charged £9.99 for this months subscription, even though I've got a student account? I want to be refunded!",
+      "created_at": "Sat Oct 21 19:22:00 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "586361",
+      "component_id": "586360",
+      "split": "dev",
+      "challenge_selection_reason": null,
+      "message": "@115888 you need to bring back RBD’S albums fr ☹️",
+      "created_at": "Sun Dec 03 06:51:22 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1134238",
+      "component_id": "1134237",
+      "split": "dev",
+      "challenge_selection_reason": null,
+      "message": "@SpotifyCares how do we make a playlist on a artist page?",
+      "created_at": "Tue Oct 24 10:35:16 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "674457",
+      "component_id": "674455",
+      "split": "dev",
+      "challenge_selection_reason": null,
+      "message": "@125633 hi, already several times I requested access to various artists on my label, but still I can't see them in my spotify for artists account. Can you please help me? It is with the name Sietse van Erve (at gmail with some dots) and info @ movingfurniturerecords . com",
+      "created_at": "Thu Nov 23 10:21:05 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1983910",
+      "component_id": "1983909",
+      "split": "dev",
+      "challenge_selection_reason": null,
+      "message": "@SpotifyCares i cannot log into my account via web, the app works just fine but again, i am having issues through the website",
+      "created_at": "Wed Nov 01 23:52:06 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1769558",
+      "component_id": "1769555",
+      "split": "dev",
+      "challenge_selection_reason": null,
+      "message": "@SpotifyCares I Know About You Don’t Support Video Anymore But I Have Movies That I Would Like To Watch Can You Help Me?",
+      "created_at": "Tue Nov 07 22:17:27 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1760761",
+      "component_id": "1760760",
+      "split": "dev",
+      "challenge_selection_reason": null,
+      "message": "@115888 apparently I'm on holiday and can't log in 😭",
+      "created_at": "Tue Nov 07 19:19:05 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2915267",
+      "component_id": "2915265",
+      "split": "dev",
+      "challenge_selection_reason": null,
+      "message": "@SpotifyCares Spotify app on my iPhone and iPad aren’t working. Looks like other users are reporting problems. Please post an update.",
+      "created_at": "Tue Nov 28 20:47:29 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "184170",
+      "component_id": "184169",
+      "split": "dev",
+      "challenge_selection_reason": null,
+      "message": "@SpotifyCares No internet when connected to wifi? https://t.co/hfm5rBa3OZ",
+      "created_at": "Wed Nov 01 21:44:22 +0000 2017",
+      "context": [
+        {
+          "tweet_id": "184176",
+          "role": "customer",
+          "text": "FFS 10 minutes and @116130  still won't play! THIS is why I wont pay £9.99 a month 😠😠😠",
+          "created_at": "Sat Oct 14 22:27:47 +0000 2017"
+        },
+        {
+          "tweet_id": "184175",
+          "role": "customer",
+          "text": "@116130 23.36....still waiting",
+          "created_at": "Sat Oct 14 22:37:05 +0000 2017"
+        },
+        {
+          "tweet_id": "184171",
+          "role": "customer",
+          "text": "@116130 I give (23.40), audible on instead 🖒",
+          "created_at": "Sat Oct 14 22:40:38 +0000 2017"
+        },
+        {
+          "tweet_id": "184169",
+          "role": "support",
+          "text": "@159340 Hey Linsey! Don't worry, we can help. Could you fire over the make/model, operating system, and Spotify version you're using? /KB",
+          "created_at": "Sat Oct 14 23:44:22 +0000 2017"
+        }
+      ],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "792874",
+      "component_id": "792873",
+      "split": "dev",
+      "challenge_selection_reason": null,
+      "message": "I have a @115888 premium account but I cant play @35179 new album. How come @SpotifyCares ? Can you help on this query please.",
+      "created_at": "Thu Oct 12 13:16:18 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1783957",
+      "component_id": "1783956",
+      "split": "dev",
+      "challenge_selection_reason": null,
+      "message": "spotify on my laptop is stuck on an ad so i cant use it rip",
+      "created_at": "Sun Oct 29 03:17:37 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "739920",
+      "component_id": "739914",
+      "split": "dev",
+      "challenge_selection_reason": null,
+      "message": "@SpotifyCares Okay thanks so much for the help!!",
+      "created_at": "Wed Oct 11 14:02:30 +0000 2017",
+      "context": [
+        {
+          "tweet_id": "739916",
+          "role": "customer",
+          "text": "Hey @115888 I guess yesterday on my work computer I set my account to play from queue but now on my phone I’m stuck there? Help?",
+          "created_at": "Wed Oct 11 12:32:50 +0000 2017"
+        },
+        {
+          "tweet_id": "739914",
+          "role": "support",
+          "text": "@296951 Hey! Can you give us a bit more info on what's going on? Does logging out of all devices and back in help at all? Let us know /CB",
+          "created_at": "Wed Oct 11 13:24:40 +0000 2017"
+        },
+        {
+          "tweet_id": "739915",
+          "role": "customer",
+          "text": "@SpotifyCares I’m not really sure how to explain, I can’t even find the button on my desktop anymore! I guess can you tell me how 2 manage queue playback?",
+          "created_at": "Wed Oct 11 13:48:11 +0000 2017"
+        },
+        {
+          "tweet_id": "739917",
+          "role": "support",
+          "text": "@296951 You can find more info on the Play Queue at https://t.co/0VQv09JNwS. Did logging out and back in make a difference? /CB",
+          "created_at": "Wed Oct 11 13:53:03 +0000 2017"
+        },
+        {
+          "tweet_id": "739918",
+          "role": "customer",
+          "text": "@SpotifyCares So should I remove tracks to empty the queue then?",
+          "created_at": "Wed Oct 11 13:55:42 +0000 2017"
+        },
+        {
+          "tweet_id": "739919",
+          "role": "support",
+          "text": "@296951 You can give it a try. If that doesn't work, just log out and back in to see if it fixes it. Be sure to keep us posted! /CB",
+          "created_at": "Wed Oct 11 13:57:47 +0000 2017"
+        }
+      ],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "514141",
+      "component_id": "514140",
+      "split": "dev",
+      "challenge_selection_reason": null,
+      "message": "@115888 i'll be here waiting for my 2017 stats thanks :)",
+      "created_at": "Fri Dec 01 22:20:51 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "149381",
+      "component_id": "149380",
+      "split": "dev",
+      "challenge_selection_reason": null,
+      "message": "Wtf... Why does spotify change song by itself?? keeps changing to the freaking russian anthem 🤔 @115888",
+      "created_at": "Fri Nov 24 10:19:37 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1825708",
+      "component_id": "1825707",
+      "split": "dev",
+      "challenge_selection_reason": null,
+      "message": "@SpotifyCares hello I need to talk privately my description charge me twice and I'm confused plz contact",
+      "created_at": "Tue Oct 17 03:30:48 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2794515",
+      "component_id": "2794514",
+      "split": "dev",
+      "challenge_selection_reason": null,
+      "message": "@115888 I’ve just realised I was paying £9.99 from two of my accounts for over a year, cancelled one standing debit and have had my account closed? What am I paying the other £9.99 for??",
+      "created_at": "Tue Nov 21 20:54:14 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2183184",
+      "component_id": "2183183",
+      "split": "dev",
+      "challenge_selection_reason": null,
+      "message": "@115888 my 2 week premium has expired and it won’t let me upgrade to premium again how can resolve this problem ?",
+      "created_at": "Thu Nov 09 15:12:00 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "89512",
+      "component_id": "89511",
+      "split": "dev",
+      "challenge_selection_reason": null,
+      "message": "@SpotifyCares I have an account question. Is there an email address I can write to? Thank you",
+      "created_at": "Thu Nov 30 14:44:54 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "7011",
+      "component_id": "7010",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@117153 y'all charged my account 8 times ..... uhhh",
+      "created_at": "Tue Oct 31 23:21:21 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2025874",
+      "component_id": "2025873",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@SpotifyCares I'm getting a \"400 Illegal character 0x1B\" error from https://t.co/ShdHDc7dpU according to chrome, something on my end?",
+      "created_at": "Mon Nov 06 15:24:46 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2118692",
+      "component_id": "2118691",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "THANK YOU FOR LISTENING @SpotifyCares ☺️❄️🎅🏼☃️ https://t.co/ky30zyQZjW",
+      "created_at": "Wed Nov 08 14:12:31 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2912350",
+      "component_id": "2912349",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "get your shit together @spotifycares",
+      "created_at": "Tue Nov 28 20:30:15 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1521346",
+      "component_id": "1521345",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@SpotifyCares If only.",
+      "created_at": "Fri Nov 03 17:23:12 +0000 2017",
+      "context": [
+        {
+          "tweet_id": "1521349",
+          "role": "customer",
+          "text": "Today @115888 lost me as a customer after 3 years paying for premium and seeing how everyone but us regular customers get discounts Im done",
+          "created_at": "Fri Nov 03 14:54:03 +0000 2017"
+        },
+        {
+          "tweet_id": "1521347",
+          "role": "customer",
+          "text": "@115888 Students, new users, family plans. What about the people that have been paying for years for your service? Don’t we deserve something too?",
+          "created_at": "Fri Nov 03 14:55:43 +0000 2017"
+        },
+        {
+          "tweet_id": "1521345",
+          "role": "support",
+          "text": "@472887 Hi there! We understand how you feel, and we'll make sure to pass it on to the right team. Thanks for reaching out /HR",
+          "created_at": "Fri Nov 03 17:22:41 +0000 2017"
+        }
+      ],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1659439",
+      "component_id": "1659438",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@115888 should bring back the lyrics mode.... I've been waiting for it to come back for soooo long!",
+      "created_at": "Mon Nov 06 03:40:41 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2902798",
+      "component_id": "2902797",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@SpotifyCares I have the Student discount. I wanted to update my payment method but it shows the full price of 9.99. What should I do?",
+      "created_at": "Tue Nov 28 17:12:02 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "438426",
+      "component_id": "438425",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@SpotifyCares having issues with premium not working for my account on mobile device",
+      "created_at": "Sat Nov 25 02:14:08 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "31593",
+      "component_id": "31592",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@115888 really needs to get a dislike/block but I cannot listen to anymore goddam kasabian 😒",
+      "created_at": "Wed Nov 01 10:19:30 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1938400",
+      "component_id": "1938399",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@SpotifyCares so I recently just joined my sisters Spotify family so what do I need to do about my old subscription under my name only?",
+      "created_at": "Sat Oct 28 02:19:12 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "567991",
+      "component_id": "567990",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@SpotifyCares Latest version of Spotify. When the updates come in, that message pops up. I'm using Windows 7.",
+      "created_at": "Sun Dec 03 02:07:25 +0000 2017",
+      "context": [
+        {
+          "tweet_id": "567992",
+          "role": "customer",
+          "text": "Hey @SpotifyCares, I got this message. Uninstalled, re-downloaded and re-installed and it happened it again. https://t.co/RBRdDUf2qf",
+          "created_at": "Sun Dec 03 00:43:31 +0000 2017"
+        },
+        {
+          "tweet_id": "567990",
+          "role": "support",
+          "text": "@253243 Hey there! The cavalry's here. Does restarting your PC make any difference? Can you let us know the Windows and Spotify version you're using? We'll see what we can suggest /KB",
+          "created_at": "Sun Dec 03 02:01:45 +0000 2017"
+        }
+      ],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1853470",
+      "component_id": "1853469",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "spotify updated itself and the app is so laggy and full of bugs how do i cancel my premium n switch to apple music",
+      "created_at": "Thu Oct 19 02:18:44 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2251534",
+      "component_id": "2251533",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@115888 help me out",
+      "created_at": "Fri Nov 10 16:00:42 +0000 2017",
+      "context": [
+        {
+          "tweet_id": "2251536",
+          "role": "customer",
+          "text": "why isn’t taylor’s album on spotify",
+          "created_at": "Fri Nov 10 15:10:19 +0000 2017"
+        },
+        {
+          "tweet_id": "2251535",
+          "role": "customer",
+          "text": "i just wanna listen to that ed and future song but it’s not on spotify WHY",
+          "created_at": "Fri Nov 10 15:12:32 +0000 2017"
+        }
+      ],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1265642",
+      "component_id": "1265641",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@SpotifyCares just tried logging out and back in and it didn’t fix it, but have safe booted/restarted and it fixes it for like one song haha",
+      "created_at": "Mon Oct 16 05:57:57 +0000 2017",
+      "context": [
+        {
+          "tweet_id": "1265652",
+          "role": "customer",
+          "text": "w h y don’t my play/pause/skip buttons work on @115888 @spotifycares anymore 😩 thx, high sierra",
+          "created_at": "Mon Oct 16 03:29:46 +0000 2017"
+        },
+        {
+          "tweet_id": "1265651",
+          "role": "support",
+          "text": "@400362 Hey there! Can you let us know what device, operating system, and Spotify version you're using? We'll see what we can suggest /NS",
+          "created_at": "Mon Oct 16 05:42:46 +0000 2017"
+        },
+        {
+          "tweet_id": "1265650",
+          "role": "customer",
+          "text": "@SpotifyCares yeah! mac, high sierra, and spotify 1.0.65.320.gac7a8e02??",
+          "created_at": "Mon Oct 16 05:45:43 +0000 2017"
+        },
+        {
+          "tweet_id": "1265649",
+          "role": "support",
+          "text": "@400362 Thanks. Are you getting any specific error messages? A screenshot would come in handy /NS",
+          "created_at": "Mon Oct 16 05:50:46 +0000 2017"
+        },
+        {
+          "tweet_id": "1265643",
+          "role": "customer",
+          "text": "@SpotifyCares nah, no error messages. the play/pause/skip hotkeys on my keyboard just aren’t working anymore https://t.co/hnx8Zwn7RE",
+          "created_at": "Mon Oct 16 05:52:52 +0000 2017"
+        },
+        {
+          "tweet_id": "1265641",
+          "role": "support",
+          "text": "@400362 Got it. Have you tried logging out and back in to your account? Also, does restarting your device help at all? /NS",
+          "created_at": "Mon Oct 16 05:55:04 +0000 2017"
+        }
+      ],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2951506",
+      "component_id": "2951505",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@115888 UWP Spotify client? 🤷‍♂️  Soon would be nice.  Thank you.",
+      "created_at": "Wed Nov 29 16:07:51 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2305413",
+      "component_id": "2305412",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "Does anybody know if @115888 plan on releasing an app for the Apple Watch?",
+      "created_at": "Sun Nov 12 20:29:44 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2138988",
+      "component_id": "2138987",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@SpotifyCares i just purchased Family premium and when i entered the code into the redeem section it simply said it was wrong and so family members could not access it? help - i just cancelled family",
+      "created_at": "Wed Nov 08 21:55:33 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1989580",
+      "component_id": "1989579",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@115888 @SpotifyCares... What happened?, this last year, this CD exists, now Empty CD Here’s an album for you… Pa'l Mundo \nhttps://t.co/hjUzD3g5sx",
+      "created_at": "Thu Nov 02 13:04:04 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2268730",
+      "component_id": "2268729",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "hello @SpotifyCares , would mind to check and reply my DM please thank you",
+      "created_at": "Sat Nov 11 08:10:43 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1198674",
+      "component_id": "1198670",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@SpotifyCares 1. Doesn't load up past the splash screen, so can't log out, etc. 2. I've restarted, and reinstalled, without success.",
+      "created_at": "Wed Oct 25 05:19:04 +0000 2017",
+      "context": [
+        {
+          "tweet_id": "1198672",
+          "role": "customer",
+          "text": "@spotifycares Your Windows Phone app stopped working for me today. Gives error: \"The audio could not be started.\" Reinstalling doesn't help.",
+          "created_at": "Wed Oct 25 03:31:10 +0000 2017"
+        },
+        {
+          "tweet_id": "1198670",
+          "role": "support",
+          "text": "@401644 Hey Lloyd, help's here! Can you let us know what exact device and Spotify version you're using? We'll see what we can suggest /CH",
+          "created_at": "Wed Oct 25 04:06:25 +0000 2017"
+        },
+        {
+          "tweet_id": "1198671",
+          "role": "customer",
+          "text": "@SpotifyCares I'm using a Lumia 950 running Windows 10 Mobile (latest version) and the latest Spotify app for Windows Phone / 10 Mobile.",
+          "created_at": "Wed Oct 25 04:41:29 +0000 2017"
+        },
+        {
+          "tweet_id": "1198673",
+          "role": "support",
+          "text": "@401644 Thanks! Can you try logging out and back in to the app? Does restarting your device help? /CH",
+          "created_at": "Wed Oct 25 05:17:40 +0000 2017"
+        }
+      ],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1476019",
+      "component_id": "1476018",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@115888 @115940, I'm a student of life—Can I get the 5$ a month deal? https://t.co/PTgkbUUqRD",
+      "created_at": "Thu Nov 02 21:32:24 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1761839",
+      "component_id": "1761838",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@SpotifyCares need some help switching the country on my account",
+      "created_at": "Tue Oct 17 21:04:30 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2442061",
+      "component_id": "2442060",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@SpotifyCares Some of the songs I have on a playlist are just playing random instrumental ripoff versions on the web/desktop app, but my mobile app plays the actual song?",
+      "created_at": "Tue Nov 14 23:02:14 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "663087",
+      "component_id": "663086",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "Yo @115888 why the heck is the student discount only for 12 months??",
+      "created_at": "Sat Nov 25 03:22:53 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2504254",
+      "component_id": "2504253",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@115888 I wish I could arrange my saved playlists into categories. So a playlist category of holiday music, work lists, exercise lists, etc.",
+      "created_at": "Wed Nov 15 18:28:35 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "207212",
+      "component_id": "207204",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "What’s wrong with Spotify’s volume? It’s gone all the way down @SpotifyCares",
+      "created_at": "Fri Oct 06 22:11:05 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1845723",
+      "component_id": "1845722",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@SpotifyCares hi, I can't login to my acc. Try reset password got nothing in my email.",
+      "created_at": "Mon Nov 06 13:19:19 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2105361",
+      "component_id": "2105360",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "It would be nice if @115888 would let me log into my new phone but nope it’s frozen.",
+      "created_at": "Wed Nov 08 11:03:53 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2036310",
+      "component_id": "2036309",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@115888 Parents need a little more control over explicit content to fully enjoy your services. What y'all going to do about that?",
+      "created_at": "Mon Nov 06 21:48:09 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1112623",
+      "component_id": "1112621",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@SpotifyCares I purchased spotify premium for 12 months last october 11, 2017 and my 12 months premiun isn’t working?",
+      "created_at": "Sat Oct 14 03:06:39 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2045366",
+      "component_id": "2045365",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@SpotifyCares all. My downloaded albums are no longer on my device",
+      "created_at": "Wed Oct 04 18:53:13 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2878327",
+      "component_id": "2878326",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "This is the most annoying thing of all time @115888 https://t.co/LYSQOjUYAN",
+      "created_at": "Tue Nov 28 06:06:42 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1862655",
+      "component_id": "1862654",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@SpotifyCares Hi, I am part of a family subscription plan, although I am still being charged through my Paypal. Can you help please?",
+      "created_at": "Fri Oct 20 08:02:13 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2063233",
+      "component_id": "2063232",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@115888 I just upgraded to a family account. Can we share playlists?",
+      "created_at": "Fri Oct 06 14:48:06 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2712664",
+      "component_id": "2712663",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "Hey @115888 can I get a playlist of Christmas music based on my listening preferences? That would be really cool. Thanks.",
+      "created_at": "Mon Nov 20 01:58:13 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "758530",
+      "component_id": "758528",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@SpotifyCares I just submitted my idea. I hope it gets taken into consideration. I love using my Spotify and getting my playlists out there. Thank you.",
+      "created_at": "Wed Oct 11 19:24:23 +0000 2017",
+      "context": [
+        {
+          "tweet_id": "758538",
+          "role": "customer",
+          "text": "I'd love for @115888 to start having gamer sponsors/partners. I use it in my stream and use it almost everyday. 🎧🎶🎵🎶",
+          "created_at": "Wed Oct 11 16:09:24 +0000 2017"
+        },
+        {
+          "tweet_id": "758537",
+          "role": "support",
+          "text": "@301256 Hey there, this sounds like a great idea! Suggest it in our Community at https://t.co/rtDvYZx3Es and get support from other users /TF",
+          "created_at": "Wed Oct 11 16:40:50 +0000 2017"
+        },
+        {
+          "tweet_id": "758536",
+          "role": "customer",
+          "text": "@SpotifyCares It keeps saying there's errors when trying to submit it. It looks like it's forcing me to use an attatchment.",
+          "created_at": "Wed Oct 11 17:45:46 +0000 2017"
+        },
+        {
+          "tweet_id": "758535",
+          "role": "support",
+          "text": "@301256 Thanks for the update. Have you tried submitting an idea using an incognito window? Let us know how that goes /TF",
+          "created_at": "Wed Oct 11 18:07:42 +0000 2017"
+        },
+        {
+          "tweet_id": "758534",
+          "role": "customer",
+          "text": "@SpotifyCares I was using mobile so that could be it.",
+          "created_at": "Wed Oct 11 18:39:40 +0000 2017"
+        },
+        {
+          "tweet_id": "758533",
+          "role": "support",
+          "text": "@301256 Got it. Let us know if the issue persists. We'll be right here /TF",
+          "created_at": "Wed Oct 11 18:59:46 +0000 2017"
+        }
+      ],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2272752",
+      "component_id": "2272750",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@115888 looks like you updated the app recently and because mine was set to offline mode it wants me to set it to online but how to do it without loging on, oxymoron! https://t.co/sONM1A94NS old problem, commonnfix it for your paying users!",
+      "created_at": "Sat Nov 11 10:18:29 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2165543",
+      "component_id": "2165542",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@SpotifyCares Is this a common issue? I've noticed that there have been a few people on the feed complaining of this",
+      "created_at": "Thu Nov 09 08:30:50 +0000 2017",
+      "context": [
+        {
+          "tweet_id": "2165545",
+          "role": "customer",
+          "text": "@SpotifyCares Hi Spotify, I have recently had an email saying that my email account has been changed, and when I try to log on to spotify all my playlists and info are gone!",
+          "created_at": "Thu Nov 09 08:21:16 +0000 2017"
+        },
+        {
+          "tweet_id": "2165544",
+          "role": "support",
+          "text": "@635610 Hi Michael, we’re sorry to hear that. Check out https://t.co/QHn3ok8y2n for what to do next /JN",
+          "created_at": "Thu Nov 09 08:23:53 +0000 2017"
+        }
+      ],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1145862",
+      "component_id": "1145861",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@SpotifyCares I did. There's a plethora of users having problems with you app in Windows 10 Phone. Check the comments. Thanks you.",
+      "created_at": "Sat Oct 14 23:05:35 +0000 2017",
+      "context": [
+        {
+          "tweet_id": "1145863",
+          "role": "customer",
+          "text": "@115888 I switched from Groove Music to Spotify (Windows 10 Mobile). I can hardly play music. It's \"Loading...\" messages riddle the app.",
+          "created_at": "Sat Oct 14 17:10:12 +0000 2017"
+        },
+        {
+          "tweet_id": "1145861",
+          "role": "support",
+          "text": "@294602 Hey there! Can you try using a different internet connection, and see if it makes a difference? /LM",
+          "created_at": "Sat Oct 14 22:03:26 +0000 2017"
+        }
+      ],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1587579",
+      "component_id": "1587578",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@453754 @116130 @SpotifyCares You’d think the big boys like Spotify would’ve been ready for the release",
+      "created_at": "Sat Nov 04 21:55:59 +0000 2017",
+      "context": [
+        {
+          "tweet_id": "1587581",
+          "role": "customer",
+          "text": "So @116130 @SpotifyCares iPhone app ain’t been updated for the X yet smh",
+          "created_at": "Sat Nov 04 21:50:42 +0000 2017"
+        },
+        {
+          "tweet_id": "1587580",
+          "role": "customer",
+          "text": "@488324 @116130 @SpotifyCares Mate Its so annoying the screen with the apps that aint updated yet are so small on the screen going from an iPhone plus 😩",
+          "created_at": "Sat Nov 04 21:53:49 +0000 2017"
+        }
+      ],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "230264",
+      "component_id": "230263",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@SpotifyCares Hi, I have Premium. But suddenly it dropped to free, I still have my playlists... This month no money went off... why?",
+      "created_at": "Thu Oct 05 09:16:37 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1377519",
+      "component_id": "1377518",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@115888 I was charged 3 times for Spotify premium and I still don’t have premium and it’s been a day and my money hasn’t been refunded",
+      "created_at": "Sat Oct 28 02:31:04 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1982963",
+      "component_id": "1982962",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@115888 We need a feature that allows you to play songs in a backwards order so newest songs play first. 😘",
+      "created_at": "Wed Nov 01 20:51:04 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "260045",
+      "component_id": "260044",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@SpotifyCares Galaxy S7 and 8.4.21.508 for spotify version. It's up to date and does not need any updates.",
+      "created_at": "Thu Oct 05 20:56:06 +0000 2017",
+      "context": [
+        {
+          "tweet_id": "260046",
+          "role": "customer",
+          "text": "Really wish @115888 would stop freezing on my phone and not take 5 minutes for a song to start playing.",
+          "created_at": "Thu Oct 05 19:41:58 +0000 2017"
+        },
+        {
+          "tweet_id": "260044",
+          "role": "support",
+          "text": "@177868 Hi there. We're sorry you feel that way. Can you let us know what device, OS, and Spotify version you're running? /LM",
+          "created_at": "Thu Oct 05 20:43:56 +0000 2017"
+        }
+      ],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1939073",
+      "component_id": "1939072",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@116130 my account page always said my premium trial ends on 11/11/17 but I have already been charged?",
+      "created_at": "Sat Oct 28 05:38:51 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1780586",
+      "component_id": "1780585",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@SpotifyCares Just paid for a year of premium after switching banks but I'm still getting emails saying Spotify Payment Failure. Any help?",
+      "created_at": "Wed Oct 11 20:56:56 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "335343",
+      "component_id": "335342",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@115888 Hi, When is Spotify going to be Roku friendly or are you going to be @127972 friendly?",
+      "created_at": "Sat Oct 07 16:46:35 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1897161",
+      "component_id": "1897160",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@SpotifyCares Curious why All Kinds of Kinds by Miranda Lambert is no longer on Spotify...",
+      "created_at": "Tue Oct 24 15:58:46 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1992091",
+      "component_id": "1992089",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "Hey @115888!  Why’d you remove all the early @496847 albums?!",
+      "created_at": "Fri Nov 03 07:18:58 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2259710",
+      "component_id": "2259709",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@spotifycares Why did you remove the lyrics on Spotify? Love from a Norwegian who loves you but is disappointed with this",
+      "created_at": "Fri Nov 10 23:28:11 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1143737",
+      "component_id": "1143736",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@SpotifyCares why can't I listen to anything anymore? I get \"suggested songs\" everytime I shuffle an whole album. An whole artist.",
+      "created_at": "Tue Oct 24 10:52:30 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1103674",
+      "component_id": "1103673",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": ".@115888 app is terrible; it's lagging more than half the time. Cancelling my subscription.",
+      "created_at": "Fri Oct 13 23:07:45 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1830851",
+      "component_id": "1830850",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@SpotifyCares is there seriously no apple watch app? Is it in the works??",
+      "created_at": "Tue Oct 17 16:12:26 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2456259",
+      "component_id": "2456258",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "Hey, @SpotifyCares I accidentally purchased two student discount accounts and I was wondering if I could get my money back",
+      "created_at": "Wed Nov 15 04:22:50 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "895201",
+      "component_id": "895199",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@SpotifyCares \nHello, someone entered my account and changed the email with which I am registered. I need to recover my account",
+      "created_at": "Fri Oct 20 21:25:41 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1720287",
+      "component_id": "1720284",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "When is @115888 going to fix @127153 ‘s album on Spotify? 😭",
+      "created_at": "Sat Oct 28 20:38:53 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1807589",
+      "component_id": "1807587",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@SpotifyCares heklo",
+      "created_at": "Wed Oct 18 01:55:33 +0000 2017",
+      "context": [
+        {
+          "tweet_id": "1807590",
+          "role": "customer",
+          "text": "@SpotifyCares dm me I’m fucking furious",
+          "created_at": "Wed Oct 18 01:52:11 +0000 2017"
+        }
+      ],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1676599",
+      "component_id": "1676598",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@SpotifyCares YO. Update the App for iPhone X cause I might change to Apple Music.......",
+      "created_at": "Mon Nov 06 13:43:58 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2216049",
+      "component_id": "2216048",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "hello @115888 is it possible to add all of takada kenta's osts on spotify?",
+      "created_at": "Fri Nov 10 03:31:19 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1934280",
+      "component_id": "1934279",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "I don't pay for @115888 premium yet, lately the free service is starting to feel like an FM station. Way Too many commercials..., upgrade?",
+      "created_at": "Sun Oct 29 00:12:17 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2821996",
+      "component_id": "2821995",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@SpotifyCares Yo I appreciate it. This is a recommendation of a push notification feature for playlist updates.",
+      "created_at": "Mon Nov 27 08:01:18 +0000 2017",
+      "context": [
+        {
+          "tweet_id": "2821997",
+          "role": "customer",
+          "text": "Dear @115888 ,\n\nPls notify me when my discover weekly changes.",
+          "created_at": "Sun Nov 26 22:14:58 +0000 2017"
+        },
+        {
+          "tweet_id": "2821995",
+          "role": "support",
+          "text": "@786435 Hey, sorry for the delay in response. Can you check if Discover Weekly has updated on your account? If it's still not updated, just fire over your account's email address or username via DM, so we can take a look /AY https://t.co/ldFdZRiNAt",
+          "created_at": "Mon Nov 27 07:54:41 +0000 2017"
+        }
+      ],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1996450",
+      "component_id": "1996449",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "But when can I block Ch*** B***n (or artists in general) on @115888 from showing up in my rec'd list?",
+      "created_at": "Fri Nov 03 14:50:25 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2394406",
+      "component_id": "2394405",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@SpotifyCares Hi, can you help me to log in my account on account? because right now i`m in china, my account made in Indonesia. Thanks before",
+      "created_at": "Sun Nov 26 16:55:12 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2861287",
+      "component_id": "2861286",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@SpotifyCares Hey! Can I still get the 0.99 euros for 3 months discount if I already used my free 7 days of premium?",
+      "created_at": "Mon Nov 27 18:37:53 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1991700",
+      "component_id": "1991699",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "Hey @SpotifyCares , just received an email writing I need to update my student status. Link took me here. Is it updated? https://t.co/c87KirXjaS",
+      "created_at": "Fri Nov 03 04:03:51 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2457268",
+      "component_id": "2457267",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@115888 please bring back the option to private message someone THIS COULD BE THE START OF SOMETHING MAGICAL",
+      "created_at": "Wed Nov 15 04:45:41 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2746365",
+      "component_id": "2746364",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "why spotify on ios is acting weird?? 🤬",
+      "created_at": "Mon Nov 20 21:36:10 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2749457",
+      "component_id": "2749456",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@SpotifyCares Yes I have tried that this has been going on for months",
+      "created_at": "Mon Nov 20 21:54:45 +0000 2017",
+      "context": [
+        {
+          "tweet_id": "2749459",
+          "role": "customer",
+          "text": "@SpotifyCares please help every time I press shuffle my music just plays in the order it was saved in",
+          "created_at": "Mon Nov 20 21:01:13 +0000 2017"
+        },
+        {
+          "tweet_id": "2749458",
+          "role": "support",
+          "text": "@769805 Hey Jaimie, helps here! Could you try logging out and back in again? Let us know how it goes /ZO",
+          "created_at": "Mon Nov 20 21:41:12 +0000 2017"
+        }
+      ],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "163713",
+      "component_id": "163712",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@115888 any plans to improve queue functionality? (queuing on web player, clearing queue on Android)",
+      "created_at": "Fri Nov 24 18:07:13 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2363327",
+      "component_id": "2363326",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@115888 Just having some trouble with my spotify account email, can I get some help please!",
+      "created_at": "Mon Nov 13 20:45:29 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1145281",
+      "component_id": "1145280",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "I cannot log into my Spotify account because I’m being told my Facebook credentials are invalid, but I have updated them. @115888 #helpme",
+      "created_at": "Sat Oct 14 17:02:05 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1749860",
+      "component_id": "1749858",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@115888 please fix the name of this song from @69732 iconic album please :) \n@SpotifyCares https://t.co/YEsRoEgmTl",
+      "created_at": "Tue Nov 07 17:22:09 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "925390",
+      "component_id": "925388",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "Why the hell am I paying for @115888  if there's a track limit on downloads?",
+      "created_at": "Sat Oct 21 11:07:22 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2852990",
+      "component_id": "2852989",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@SpotifyCares Managed to find it, but thanks for getting back to me.",
+      "created_at": "Mon Nov 27 20:35:21 +0000 2017",
+      "context": [
+        {
+          "tweet_id": "2852991",
+          "role": "customer",
+          "text": "@SpotifyCares Hello - how do I find out which playlist / station I'm listening to?",
+          "created_at": "Mon Nov 27 14:50:14 +0000 2017"
+        },
+        {
+          "tweet_id": "2852989",
+          "role": "support",
+          "text": "@793149 Hey Ian, we'd love to help! Can you let us know your device, operating system, and Spotify version? We'll see what we can suggest /JP",
+          "created_at": "Mon Nov 27 20:27:05 +0000 2017"
+        }
+      ],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2583310",
+      "component_id": "2583309",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "Will #Reputation be available to stream tomorrow? @115888",
+      "created_at": "Thu Nov 16 23:37:31 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "689585",
+      "component_id": "689584",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@115888 I am paying the full amount each month but I am a student with a NUS card, am I able to have this applied please? #student#music",
+      "created_at": "Thu Nov 23 10:22:50 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2555577",
+      "component_id": "2555576",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@SpotifyCares \n\nYou charged me three times of 2.45 on a prepaid master card that I wasn't able to buy an other subscription from you. Please in all fairness I expect that back to me on the card. __credit_card__.",
+      "created_at": "Thu Nov 16 15:28:19 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1198657",
+      "component_id": "1198656",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@117153 Hi, I bought a premium subscription but when I log in to the app I still have a free account and i close the sesion,",
+      "created_at": "Wed Oct 25 03:48:27 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1517639",
+      "component_id": "1517636",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "A @115888 feature request: a filter to remove all songs with auto tune vocals",
+      "created_at": "Mon Oct 16 23:44:33 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1103029",
+      "component_id": "1103028",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "Today is a special day, after months of submitting to Spotify, I finally have access to Problem’s page and all the data....FINALLY!!",
+      "created_at": "Mon Oct 23 23:11:21 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1695256",
+      "component_id": "1695251",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "I just got 30 minutes of ad free music on @115888 and i listened to 1 song, changed the playlist, AND GOT AN AD. This is the reason i have trust issues",
+      "created_at": "Mon Nov 06 12:46:54 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1778471",
+      "component_id": "1778470",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@SpotifyCares if Spotify is 9.99 a month why is there payments of almost 11 dollars being taken out monthly..",
+      "created_at": "Sun Nov 26 06:07:41 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1286621",
+      "component_id": "1286620",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "Hey @SpotifyCares I didn't get my presale code for Brent Faiyaz &amp; he's on my list 😦",
+      "created_at": "Thu Oct 26 18:38:08 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2279523",
+      "component_id": "2279522",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": ".@Spotifycares for fuck's sake stop emailing me every time anyone puts out a new song i use the goddamn app every day i'll figure it out myself. i've clicked unsubscribe for this bullshit 4 times now let me fuckin live",
+      "created_at": "Sat Nov 11 16:46:17 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "576784",
+      "component_id": "576783",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "I should be able to control @115888 volume on my @125607 @26758 Sport Watch when playing through my @26759 bluetooth boom box.\n#SoftwareUpdateNeeded Please. https://t.co/MnlVeQAnD6",
+      "created_at": "Sun Dec 03 00:16:29 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "450860",
+      "component_id": "450859",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "Hey @SpotifyCares - is this email real or is it a phishing email? https://t.co/PQhv55UQ2D",
+      "created_at": "Thu Nov 30 21:29:56 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "619707",
+      "component_id": "619706",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "Hey @115888.\n\nCool new slick thing you're doing with the tiny player, but imagine how much cooler if it would be if I could actually see whose track I'm playing and what the track is called... \n\nJust a suggestion from somebody who likes music.",
+      "created_at": "Wed Nov 22 10:44:13 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "652030",
+      "component_id": "652029",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@SpotifyCares My husband pays a monthly fee but when we log in his Facebook shows not premium Mine says not premium we have premium service. https://t.co/2J3BoRkaEr",
+      "created_at": "Thu Oct 05 09:26:22 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2276904",
+      "component_id": "2276903",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@115888 can we please get all of @89341 mixtapez on Spotify. Thank you. 👍🏾",
+      "created_at": "Sat Nov 11 16:08:07 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "648648",
+      "component_id": "648647",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "Oye @115888 ever think of adding production credits on albums so we can see who produced a track when streaming? #WhoProducedIt",
+      "created_at": "Wed Nov 22 16:31:13 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2560565",
+      "component_id": "2560564",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "Where did my @115888 music go? Some of my music disappeared.",
+      "created_at": "Thu Nov 16 17:06:58 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2629114",
+      "component_id": "2629113",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@115888 I closed your app today and switched to @129941 because you played a tampon commercial while I was listening to  @351169",
+      "created_at": "Fri Nov 17 17:12:10 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2246028",
+      "component_id": "2246027",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@SpotifyCares Clicked on casting option for my Alpine Headunit and now can’t get Spotify to play thru my lightning cable...only Bluetooth pliability with App. IOS 11.2\nThoughts?",
+      "created_at": "Fri Nov 10 22:46:47 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2504234",
+      "component_id": "2504233",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@115888 how come you don’t have any albums from the rock band Tool available.",
+      "created_at": "Wed Nov 15 19:57:54 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "789815",
+      "component_id": "789811",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@SpotifyCares I've had premium for years!! Just wanted to pay annually instead of monthly. Sad there is no loyalty bonus, thats all!",
+      "created_at": "Thu Oct 12 12:13:57 +0000 2017",
+      "context": [
+        {
+          "tweet_id": "789813",
+          "role": "customer",
+          "text": "@116130 - I want to pay annually, thought I'd get a better price for doing so, but, err, no? Surely some kind of loyalty benefit needed?",
+          "created_at": "Thu Oct 12 10:39:29 +0000 2017"
+        },
+        {
+          "tweet_id": "789811",
+          "role": "support",
+          "text": "@308353 We hear you loud and clear, Mark! We can’t make any promises, but we’ll pass your feedback onto the right folks /RE",
+          "created_at": "Thu Oct 12 11:56:24 +0000 2017"
+        },
+        {
+          "tweet_id": "789812",
+          "role": "customer",
+          "text": "@SpotifyCares cool, thanks...I've been using Spotify for years now, any chance of a cheeky discount code? ;-)",
+          "created_at": "Thu Oct 12 12:01:34 +0000 2017"
+        },
+        {
+          "tweet_id": "789814",
+          "role": "support",
+          "text": "@308353 We'd love to do more, but our hands are tied right now. Check out https://t.co/zgnxs5kPEu if you haven't had Premium before /RE",
+          "created_at": "Thu Oct 12 12:11:31 +0000 2017"
+        }
+      ],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1470934",
+      "component_id": "1470932",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "SOS my @115888 doesn’t show up on my lock screen any more and it’s driving me nuts help",
+      "created_at": "Thu Nov 02 23:03:30 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1993001",
+      "component_id": "1993000",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@SpotifyCares Sounds too spoopy for me",
+      "created_at": "Fri Nov 03 13:01:41 +0000 2017",
+      "context": [
+        {
+          "tweet_id": "1993002",
+          "role": "customer",
+          "text": "What is this on Spotify? https://t.co/ZBEmP57QF2",
+          "created_at": "Fri Nov 03 11:19:40 +0000 2017"
+        },
+        {
+          "tweet_id": "1993000",
+          "role": "support",
+          "text": "@589822 Hey! This mode allows you to take your playlists to the Upside Down - an alternate dimension in the famous Netflix show, Stranger Things /MA",
+          "created_at": "Fri Nov 03 12:25:57 +0000 2017"
+        }
+      ],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2190782",
+      "component_id": "2190781",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@SpotifyCares my Spotify won't link to my unidays cause it says it's already in use but this is my only account?",
+      "created_at": "Thu Nov 09 19:28:39 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1298576",
+      "component_id": "1298575",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "Someone tell me if they can listen to this cos every time I click on it it just keeps loading https://t.co/NZsHFLJQED",
+      "created_at": "Thu Oct 26 22:38:46 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "823260",
+      "component_id": "823259",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@SpotifyCares would be cool if Spotify included production details of music. Label. Producer. Engineer. These people deserve recognition 2",
+      "created_at": "Thu Oct 12 23:29:34 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1998290",
+      "component_id": "1998289",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@115888 I'm having trouble logging into my Hulu account that is connected to my Spotify account. It says it can't authorize.",
+      "created_at": "Fri Nov 03 18:40:00 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1851438",
+      "component_id": "1851437",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@SpotifyCares hi guys. i need help with my account. my fb is connected to spotify but my fb is disabled now i cant log in.",
+      "created_at": "Wed Oct 18 23:24:59 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1794771",
+      "component_id": "1794770",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@117153 i've paid for premium but spotify app is not recognizing this. have already restarted, still cannot use service. help!",
+      "created_at": "Thu Oct 12 10:54:24 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "876815",
+      "component_id": "876814",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "When is this going to be available on @115888? https://t.co/YJuqGQsnli",
+      "created_at": "Mon Oct 09 21:35:15 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "813542",
+      "component_id": "813539",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@313865 That seems to have worked, thanks mate. Didn't know Spotify could get hacked ffs!",
+      "created_at": "Sun Oct 08 15:35:42 +0000 2017",
+      "context": [
+        {
+          "tweet_id": "813545",
+          "role": "customer",
+          "text": "My Spotify keeps turning off my tunes by itself &amp; playing the same absolute trash by Imagine Dragons, Becky G &amp; Robin Schulz ffs. Piss take.",
+          "created_at": "Sun Oct 08 15:04:29 +0000 2017"
+        },
+        {
+          "tweet_id": "813544",
+          "role": "customer",
+          "text": "@127172 Happened to me when mine had been hacked. There's a \"sign out from all devices\" option. Use that then change password, mate.",
+          "created_at": "Sun Oct 08 15:27:21 +0000 2017"
+        }
+      ],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1034901",
+      "component_id": "1034899",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@SpotifyCares Thanks. What about on Premium?",
+      "created_at": "Sat Nov 25 11:06:55 +0000 2017",
+      "context": [
+        {
+          "tweet_id": "1034904",
+          "role": "customer",
+          "text": "Anyone know how to use @115888 abroad? (Outside of downloads) #Spotify",
+          "created_at": "Sat Nov 25 05:30:50 +0000 2017"
+        },
+        {
+          "tweet_id": "1034903",
+          "role": "support",
+          "text": "@364806 Hi Rob! Help's here. If you're on Free, you can use Spotify for up to 14 days abroad (due to various licensing reasons). More info here: https://t.co/waV1uGtmEH /MU",
+          "created_at": "Sat Nov 25 11:01:05 +0000 2017"
+        }
+      ],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2183001",
+      "component_id": "2182999",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@115888 someone's using my card to purchase your premium account please help me",
+      "created_at": "Thu Nov 09 16:31:32 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "91667",
+      "component_id": "91666",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@SpotifyCares Trying to recover password, but getting \"CSRF token is invalid\" - help? Previously signed up through FB but want to avoid using moving forward",
+      "created_at": "Thu Nov 30 15:07:35 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1871599",
+      "component_id": "1871598",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@SpotifyCares I upgraded my Spotify back to the family plan &amp; my account is back to the \"free\" version. I'm in a road trip right now. Help",
+      "created_at": "Fri Oct 20 01:06:06 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1215738",
+      "component_id": "1215736",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@115888 love what you're doing, but when can we play all playlists in a folder on mobile and Xbox? Love that feature on desktop.",
+      "created_at": "Wed Oct 25 16:31:23 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "548698",
+      "component_id": "548697",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "I.CANT.REGISTER!!! 😭 @SpotifyCares https://t.co/6mdOBPMhBJ",
+      "created_at": "Sat Dec 02 07:42:11 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1098085",
+      "component_id": "1098084",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "Hey @115888 you should really do that whole 2FA thing, cause you know, security? And don't point me to the support forums. Just enable it.",
+      "created_at": "Mon Oct 23 19:07:50 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2036355",
+      "component_id": "2036354",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@117153 \nGood evening, folks changed my premium plan for family plan. My wife received an invitation but nothing happens.",
+      "created_at": "Mon Nov 06 22:14:25 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2264840",
+      "component_id": "2264839",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@115888.... thank you for turning off my service during my chat help. It logged me out and now to get support I have to log back in.....? how do I log back in if I am locked out???",
+      "created_at": "Sat Nov 11 01:46:26 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1871992",
+      "component_id": "1871991",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@SpotifyCares\nI can't manage my Family member list, could you please verify ?\nThanks",
+      "created_at": "Fri Oct 20 01:38:16 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "48085",
+      "component_id": "48079",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@SpotifyCares Hello #Spotify. 26 Sept I reported a bug, wha'ts the status ? I still can't drag playing #songs to #playlists :((((\n isn't this a big issue?",
+      "created_at": "Thu Nov 02 11:06:34 +0000 2017",
+      "context": [
+        {
+          "tweet_id": "48091",
+          "role": "customer",
+          "text": "Why the heck can I drag a 'next up' song but not a current #song to a #playlist @115888 @SpotifyCares ? really weird #ux https://t.co/XcjSEisFYQ",
+          "created_at": "Thu Sep 21 17:40:41 +0000 2017"
+        },
+        {
+          "tweet_id": "48090",
+          "role": "support",
+          "text": "@126752 Hey Michael, that doesn't look right! What device, operating system, and Spotify version are you using? We'll see what we can suggest /JE",
+          "created_at": "Thu Sep 21 20:04:39 +0000 2017"
+        },
+        {
+          "tweet_id": "48089",
+          "role": "customer",
+          "text": "@SpotifyCares Mac / OSX 10.11 + 1.0.63.617.g5aca9a2a and IOS 11 + spotify 8.4.18.632 https://t.co/mdW5xnhS3T",
+          "created_at": "Thu Sep 21 20:36:09 +0000 2017"
+        },
+        {
+          "tweet_id": "48088",
+          "role": "support",
+          "text": "@126752 Got it. Can you try logging out, restarting your devices, then logging back in? Let us know how it goes /JE",
+          "created_at": "Thu Sep 21 20:45:47 +0000 2017"
+        },
+        {
+          "tweet_id": "48087",
+          "role": "customer",
+          "text": "@SpotifyCares Tried that, totes doesn't work. When I play from mobile OR desktop, I can't drag the currently playing song...",
+          "created_at": "Tue Sep 26 09:06:29 +0000 2017"
+        },
+        {
+          "tweet_id": "48086",
+          "role": "support",
+          "text": "@126752 Thanks for giving it a shot. We're afraid it's not currently possible on Mac. Don't worry, we'll pass on your feedback to our devs /AY",
+          "created_at": "Tue Sep 26 09:37:39 +0000 2017"
+        }
+      ],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2789384",
+      "component_id": "2789381",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@SpotifyCares I try to open the system of a down album but it stays loading forever and never opens. https://t.co/mbZbFPmxtM",
+      "created_at": "Tue Nov 21 19:39:49 +0000 2017",
+      "context": [
+        {
+          "tweet_id": "2789390",
+          "role": "customer",
+          "text": "I cannot load a system of a down album. Help @SpotifyCares",
+          "created_at": "Tue Nov 21 18:10:32 +0000 2017"
+        },
+        {
+          "tweet_id": "2789388",
+          "role": "support",
+          "text": "@206191 Hey, help's here! What device, operating system, and Spotify version are you rocking? We'll see what we can suggest /TM",
+          "created_at": "Tue Nov 21 19:29:33 +0000 2017"
+        },
+        {
+          "tweet_id": "2789387",
+          "role": "customer",
+          "text": "@SpotifyCares Samsung 8+",
+          "created_at": "Tue Nov 21 19:34:00 +0000 2017"
+        },
+        {
+          "tweet_id": "2789386",
+          "role": "support",
+          "text": "@206191 Hmm. Are you getting any specific error messages? If so, can you send over a screenshot? /TM",
+          "created_at": "Tue Nov 21 19:38:21 +0000 2017"
+        }
+      ],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "238023",
+      "component_id": "238017",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@115888 trying to share awesome music. When I hit share the app restarts. What's up?? Android 8.0",
+      "created_at": "Wed Oct 04 04:00:44 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "852668",
+      "component_id": "852667",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@spotifycares I have signed up for family premium and the family members invited cannot access premium",
+      "created_at": "Mon Oct 09 13:50:55 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2913904",
+      "component_id": "2913903",
+      "split": "test_representative",
+      "challenge_selection_reason": null,
+      "message": "@115888 what's goin on with the app yo?",
+      "created_at": "Tue Nov 28 20:39:30 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "863686",
+      "component_id": "863674",
+      "split": "test_challenge",
+      "challenge_selection_reason": "short_followup",
+      "message": "@SpotifyCares Still nothing! 😪😟",
+      "created_at": "Tue Nov 21 14:54:48 +0000 2017",
+      "context": [
+        {
+          "tweet_id": "863676",
+          "role": "customer",
+          "text": "@SpotifyCares My Stranger things mode is on, but nothing strange happens!! 😭😭",
+          "created_at": "Tue Nov 21 05:34:04 +0000 2017"
+        },
+        {
+          "tweet_id": "863674",
+          "role": "support",
+          "text": "@325107 Hey! You'll need to listen to specific playlists to see this feature. Check out: https://t.co/WuGioi0WUV. Let us know how it goes /JS",
+          "created_at": "Tue Nov 21 05:55:57 +0000 2017"
+        },
+        {
+          "tweet_id": "863675",
+          "role": "customer",
+          "text": "@SpotifyCares It's still not working! 😭😭 https://t.co/nImAbapA3u",
+          "created_at": "Tue Nov 21 11:00:51 +0000 2017"
+        },
+        {
+          "tweet_id": "863677",
+          "role": "support",
+          "text": "@325107 Can you let us know the Android and Spotify versions you're running? We'll check it out /RC",
+          "created_at": "Tue Nov 21 13:07:55 +0000 2017"
+        },
+        {
+          "tweet_id": "863678",
+          "role": "customer",
+          "text": "@SpotifyCares Android 7.0\nSpotify 8.4.26.770",
+          "created_at": "Tue Nov 21 14:23:21 +0000 2017"
+        },
+        {
+          "tweet_id": "863679",
+          "role": "support",
+          "text": "@325107 Got it. Does logging out and restarting your device help? Let us know how it goes /RC",
+          "created_at": "Tue Nov 21 14:25:21 +0000 2017"
+        },
+        {
+          "tweet_id": "863680",
+          "role": "customer",
+          "text": "@SpotifyCares Will do! ☺",
+          "created_at": "Tue Nov 21 14:26:30 +0000 2017"
+        },
+        {
+          "tweet_id": "863681",
+          "role": "support",
+          "text": "@325107 No worries! Take your time. We'll keep an eye out for your update /RC",
+          "created_at": "Tue Nov 21 14:29:11 +0000 2017"
+        },
+        {
+          "tweet_id": "863682",
+          "role": "customer",
+          "text": "@SpotifyCares Still nothing..😪 https://t.co/F5juPQami6",
+          "created_at": "Tue Nov 21 14:33:20 +0000 2017"
+        },
+        {
+          "tweet_id": "863683",
+          "role": "support",
+          "text": "@325107 Best thing to try here is a reinstall. Just follow the steps at https://t.co/grEcQYYFVS. Let us know how you get on /RC",
+          "created_at": "Tue Nov 21 14:45:11 +0000 2017"
+        },
+        {
+          "tweet_id": "863684",
+          "role": "customer",
+          "text": "@SpotifyCares Okay",
+          "created_at": "Tue Nov 21 14:47:02 +0000 2017"
+        },
+        {
+          "tweet_id": "863685",
+          "role": "support",
+          "text": "@325107 Cool. Let us know how it pans out /RC",
+          "created_at": "Tue Nov 21 14:52:46 +0000 2017"
+        }
+      ],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2287370",
+      "component_id": "2287369",
+      "split": "test_challenge",
+      "challenge_selection_reason": "security_privacy_or_sensitive_terms",
+      "message": "@SpotifyCares hey can someone please contact me, i am paying for priemum and not able to us it i want to cancel but i can't sign in eather email me at this email asap __email__",
+      "created_at": "Sun Nov 12 01:48:05 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2405263",
+      "component_id": "2405262",
+      "split": "test_challenge",
+      "challenge_selection_reason": "repeated_issue_terms",
+      "message": "Spotify for iOS got updated again today and it still doesn’t support the iPhone X didusndjeijhshdbdndn https://t.co/HTQqReTTTu",
+      "created_at": "Tue Nov 14 14:40:46 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1783692",
+      "component_id": "1783691",
+      "split": "test_challenge",
+      "challenge_selection_reason": "repeated_issue_terms",
+      "message": "@SpotifyCares I'm trying to sign up but you already have my email registered but with the username of someone else. Pls help",
+      "created_at": "Wed Oct 11 07:18:46 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2052018",
+      "component_id": "2052017",
+      "split": "test_challenge",
+      "challenge_selection_reason": "repeated_issue_terms",
+      "message": "@SpotifyCares Daughter purchased 1 yr sub to premium for a friend. Didn’t think 1st one went through &amp; did it again, now I have2 charges!???",
+      "created_at": "Thu Oct 05 22:22:14 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2848318",
+      "component_id": "2848316",
+      "split": "test_challenge",
+      "challenge_selection_reason": "repeated_issue_terms",
+      "message": "Still no response from @SpotifyCares @115888. Said realize situation isn't ideal. Uh ok. Privacy violation not a big deal. At all. https://t.co/LMNIURNNta",
+      "created_at": "Tue Nov 21 23:44:27 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2070762",
+      "component_id": "2070761",
+      "split": "test_challenge",
+      "challenge_selection_reason": "repeated_issue_terms",
+      "message": "@SpotifyCares I tried making a Spotify account with student and it charged me 2 times and I wanna get it fixed please",
+      "created_at": "Sun Oct 08 23:05:59 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "106327",
+      "component_id": "106326",
+      "split": "test_challenge",
+      "challenge_selection_reason": "short_followup",
+      "message": "@SpotifyCares Done! Thanks",
+      "created_at": "Thu Nov 30 19:19:09 +0000 2017",
+      "context": [
+        {
+          "tweet_id": "106328",
+          "role": "customer",
+          "text": "@SpotifyCares heeeeelp! Someone has changed my email and hacked my Spotify, now I can’t get back in 😕",
+          "created_at": "Thu Nov 30 18:34:21 +0000 2017"
+        },
+        {
+          "tweet_id": "106326",
+          "role": "support",
+          "text": "@139559 Hey Polly, help's here! Can you DM us your account's username and email address? We'll help out backstage /JX https://t.co/ldFdZRiNAt",
+          "created_at": "Thu Nov 30 18:42:26 +0000 2017"
+        }
+      ],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "623005",
+      "component_id": "623004",
+      "split": "test_challenge",
+      "challenge_selection_reason": "repeated_issue_terms",
+      "message": "How do you change your artist photo on @115888 ? Mines still the 12 year old debutant🕺🏽",
+      "created_at": "Sat Nov 25 06:23:44 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2691957",
+      "component_id": "2691956",
+      "split": "test_challenge",
+      "challenge_selection_reason": "short_followup",
+      "message": "@SpotifyCares Yooo!!! You rock 🤘 https://t.co/KrNfhqGQWw",
+      "created_at": "Sun Nov 19 20:40:32 +0000 2017",
+      "context": [
+        {
+          "tweet_id": "2691958",
+          "role": "customer",
+          "text": "Hey @115888, hows the #iphoneX update coming?",
+          "created_at": "Sun Nov 19 15:17:21 +0000 2017"
+        },
+        {
+          "tweet_id": "2691956",
+          "role": "support",
+          "text": "@382883 Hey! What Spotify version are you currently using? We’re working on it as we speak /BD",
+          "created_at": "Sun Nov 19 16:53:31 +0000 2017"
+        }
+      ],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "462665",
+      "component_id": "462664",
+      "split": "test_challenge",
+      "challenge_selection_reason": "security_privacy_or_sensitive_terms",
+      "message": "@SpotifyCares my Spotify account has been hacked, I am very unhappy and would like a reply please.",
+      "created_at": "Fri Dec 01 01:42:49 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2084662",
+      "component_id": "2084661",
+      "split": "test_challenge",
+      "challenge_selection_reason": "security_privacy_or_sensitive_terms",
+      "message": "@SpotifyCares my acct was hacked. Was talking to someone at Spotify in chat, they locked me out. Went to get a screenshot they asked for…",
+      "created_at": "Wed Nov 08 04:26:42 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2968468",
+      "component_id": "2968467",
+      "split": "test_challenge",
+      "challenge_selection_reason": "repeated_issue_terms",
+      "message": "@117153 i am still having the free account even though i already paid for 3 months subscription!!!!!!",
+      "created_at": "Wed Nov 29 23:35:41 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1306144",
+      "component_id": "1306143",
+      "split": "test_challenge",
+      "challenge_selection_reason": "security_privacy_or_sensitive_terms",
+      "message": "@SpotifyCares  I need to close my sons account. __email__. He used a facebook account that no longer exists.",
+      "created_at": "Fri Oct 27 02:14:06 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2817500",
+      "component_id": "2817499",
+      "split": "test_challenge",
+      "challenge_selection_reason": "repeated_issue_terms",
+      "message": "Don’t leave meh @SpotifyCares I still can’t pay! Brother still needs help. 🙃 #ijustwanttogiveyoumoney",
+      "created_at": "Mon Nov 27 02:26:40 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2921971",
+      "component_id": "2921969",
+      "split": "test_challenge",
+      "challenge_selection_reason": "repeated_issue_terms",
+      "message": "I still wish the @115888 iPad app was more like the desktop version and not the phone version. It just looks and feels really bad to use. Not how you make a tablet app at all.",
+      "created_at": "Wed Nov 29 00:52:16 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1876204",
+      "component_id": "1876203",
+      "split": "test_challenge",
+      "challenge_selection_reason": "repeated_issue_terms",
+      "message": "@SpotifyCares Still cant get anything to play on Firefox browser. Hit the play button and nothing responds.",
+      "created_at": "Sun Oct 22 06:20:26 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1897423",
+      "component_id": "1897422",
+      "split": "test_challenge",
+      "challenge_selection_reason": "repeated_issue_terms",
+      "message": "@SpotifyCares - Can't log in with my facebook account nor sign up again with my email. Please help.",
+      "created_at": "Tue Oct 24 16:21:40 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1451706",
+      "component_id": "1451705",
+      "split": "test_challenge",
+      "challenge_selection_reason": "repeated_issue_terms",
+      "message": "@115888 @SpotifyCares second month in a row I’ve been charged for premium but my account is still “free”",
+      "created_at": "Thu Nov 02 17:31:24 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1337494",
+      "component_id": "1337492",
+      "split": "test_challenge",
+      "challenge_selection_reason": "repeated_issue_terms",
+      "message": "Good morning, @SpotifyCares! Having trouble changing my Country to US (moved from Spain). Already updated my payment to a US debit card.",
+      "created_at": "Fri Oct 27 13:46:50 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1964114",
+      "component_id": "1964113",
+      "split": "test_challenge",
+      "challenge_selection_reason": "repeated_issue_terms",
+      "message": "Ok I need yall again, Can yall re-new my 3 month free trial? Trial said I already used it when I never did 💔 https://t.co/NtaboVVU9I",
+      "created_at": "Tue Oct 31 03:53:44 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2030150",
+      "component_id": "2030149",
+      "split": "test_challenge",
+      "challenge_selection_reason": "repeated_issue_terms",
+      "message": "@SpotifyCares i already paid my spotify premium but it can't be used. why should i do?",
+      "created_at": "Tue Nov 07 07:08:39 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "568941",
+      "component_id": "568940",
+      "split": "test_challenge",
+      "challenge_selection_reason": "repeated_issue_terms",
+      "message": "@SpotifyCares I find the policy of not allowing members to view family plan information they set up to be extremely frustrating. There is no mention when entering the information to set up the account that you will never be able to view this info again. Total lack of transparency",
+      "created_at": "Sat Dec 02 20:09:27 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1812153",
+      "component_id": "1812152",
+      "split": "test_challenge",
+      "challenge_selection_reason": "repeated_issue_terms",
+      "message": "@SpotifyCares i've already paid premium in 9 october, why i still get the payment notification to pay?",
+      "created_at": "Sun Oct 15 02:15:46 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "454701",
+      "component_id": "454700",
+      "split": "test_challenge",
+      "challenge_selection_reason": "repeated_issue_terms",
+      "message": "Tried my email address, says CRsf token invalid.  Tried to setup a new account, says my email is taken.  HELP @SpotifyCares",
+      "created_at": "Thu Nov 30 22:52:12 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1883295",
+      "component_id": "1883294",
+      "split": "test_challenge",
+      "challenge_selection_reason": "security_privacy_or_sensitive_terms",
+      "message": "@SpotifyCares __email__\nmy family plan ends in November.",
+      "created_at": "Mon Oct 23 00:13:03 +0000 2017",
+      "context": [
+        {
+          "tweet_id": "1883296",
+          "role": "customer",
+          "text": "@SpotifyCares , I  really would prefer a one time payment and not the monthly payment. Is there a way to do this ?",
+          "created_at": "Sun Oct 22 14:29:42 +0000 2017"
+        }
+      ],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "645130",
+      "component_id": "645129",
+      "split": "test_challenge",
+      "challenge_selection_reason": "repeated_issue_terms",
+      "message": "@SpotifyCares okkk, so you guys charged me last night but never made my account premium again. What gives?",
+      "created_at": "Wed Nov 22 16:13:10 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1882482",
+      "component_id": "1882481",
+      "split": "test_challenge",
+      "challenge_selection_reason": "repeated_issue_terms",
+      "message": "@SpotifyCares my acc is following the same person and his playlist over and over again. whats the problem ?",
+      "created_at": "Sat Oct 21 15:50:04 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2394579",
+      "component_id": "2394578",
+      "split": "test_challenge",
+      "challenge_selection_reason": "repeated_issue_terms",
+      "message": "Come on @115888 - 2 app updates since the iPhone X release and still no support?",
+      "created_at": "Tue Nov 14 10:57:05 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2069240",
+      "component_id": "2069239",
+      "split": "test_challenge",
+      "challenge_selection_reason": "repeated_issue_terms",
+      "message": "@117153 having issues with my payment every month. Already checked the credit card with my bank and everything is OK. What can I do?",
+      "created_at": "Sun Oct 08 16:26:51 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    }
+  ]
+}

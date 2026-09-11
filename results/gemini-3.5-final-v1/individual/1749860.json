@@ -1,0 +1,42 @@
+{
+  "intent": "catalog_availability",
+  "route": "escalate",
+  "reason": "unverified_policy",
+  "draft": "Hey! We'd love to look into this metadata/song name issue for you. Can you send us a DM with the details, or let us know the artist and track name here? We'll see what we can do.",
+  "evidence_ids": [],
+  "reply_kind": "handoff",
+  "tweet_id": "1749860",
+  "output_check_violations": [],
+  "split": "test_representative",
+  "system": "gemini",
+  "raw_prediction": {
+    "intent": "catalog_availability",
+    "route": "escalate",
+    "reason": "unverified_policy",
+    "draft": "Hey! We'd love to look into this metadata/song name issue for you. Can you send us a DM with the details, or let us know the artist and track name here? We'll see what we can do.",
+    "evidence_ids": [],
+    "reply_kind": "handoff",
+    "tweet_id": "1749860"
+  },
+  "api_error": null,
+  "api_metadata": {
+    "model": "gemini-3.5-flash",
+    "model_version": "gemini-3.5-flash",
+    "request_sha256": "bdeac386b7d1a77ee04f938134441c0531921fa739e9a68d151b30a02cf797f8",
+    "usage": {
+      "promptTokenCount": 7976,
+      "candidatesTokenCount": 1229,
+      "totalTokenCount": 9205,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 7976
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "latency_ms": 23383.085800000117,
+    "cache_hit": false
+  },
+  "latency_ms": 2338.3085800000117
+}

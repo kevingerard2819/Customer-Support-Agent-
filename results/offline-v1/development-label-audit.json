@@ -1,0 +1,50 @@
+[
+  {
+    "tweet_id": "2081816",
+    "issue": "Routing reason conflicts with selected route",
+    "label": {
+      "intent": "billing_subscription",
+      "route": "escalate",
+      "reason": "supported_general_help",
+      "flag": "",
+      "notes": "its a billing isssue ",
+      "updated_at": "2026-09-10T08:06:00.106656+00:00"
+    }
+  },
+  {
+    "tweet_id": "2414561",
+    "issue": "Routing reason conflicts with selected route",
+    "label": {
+      "intent": "other_unclear",
+      "route": "escalate",
+      "reason": "supported_general_help",
+      "flag": "",
+      "notes": "cutomer wants to talk\n",
+      "updated_at": "2026-09-10T08:07:24.933182+00:00"
+    }
+  },
+  {
+    "tweet_id": "2948927",
+    "issue": "Routing reason conflicts with selected route",
+    "label": {
+      "intent": "library_playlists",
+      "route": "escalate",
+      "reason": "supported_general_help",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T08:10:15.456241+00:00"
+    }
+  },
+  {
+    "tweet_id": "2125245",
+    "issue": "Routing reason conflicts with selected route",
+    "label": {
+      "intent": "catalog_availability",
+      "route": "auto_handle",
+      "reason": "account_action",
+      "flag": "",
+      "notes": "",
+      "updated_at": "2026-09-10T08:17:10.880280+00:00"
+    }
+  }
+]

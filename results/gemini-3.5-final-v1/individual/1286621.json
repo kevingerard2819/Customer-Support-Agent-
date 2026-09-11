@@ -1,0 +1,50 @@
+{
+  "intent": "catalog_availability",
+  "route": "auto_handle",
+  "reason": "supported_general_help",
+  "draft": "Hey there! Pre-sale codes are sent out by email to some of the artist's biggest fans on Spotify. Hopefully you're one of them!",
+  "evidence_ids": [
+    "2203839",
+    "39760",
+    "1430546"
+  ],
+  "reply_kind": "answer",
+  "tweet_id": "1286621",
+  "output_check_violations": [],
+  "split": "test_representative",
+  "system": "gemini",
+  "raw_prediction": {
+    "intent": "catalog_availability",
+    "route": "auto_handle",
+    "reason": "supported_general_help",
+    "draft": "Hey there! Pre-sale codes are sent out by email to some of the artist's biggest fans on Spotify. Hopefully you're one of them!",
+    "evidence_ids": [
+      "2203839",
+      "39760",
+      "1430546"
+    ],
+    "reply_kind": "answer",
+    "tweet_id": "1286621"
+  },
+  "api_error": null,
+  "api_metadata": {
+    "model": "gemini-3.5-flash",
+    "model_version": "gemini-3.5-flash",
+    "request_sha256": "14597f77f528feb7a5a5d16564a5aa07a5b02ff6974e4602fc226c62dbff415a",
+    "usage": {
+      "promptTokenCount": 7941,
+      "candidatesTokenCount": 1226,
+      "totalTokenCount": 9167,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 7941
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "latency_ms": 24567.763099999866,
+    "cache_hit": false
+  },
+  "latency_ms": 2456.7763099999866
+}

@@ -1,0 +1,48 @@
+{
+  "intent": "catalog_availability",
+  "route": "auto_handle",
+  "reason": "supported_general_help",
+  "draft": "Hey! We'd love to have everything available, but licensing and availability can sometimes vary. For more info on how content gets on Spotify, check out our guide.",
+  "evidence_ids": [
+    "2087804",
+    "840268"
+  ],
+  "reply_kind": "answer",
+  "tweet_id": "2276904",
+  "output_check_violations": [],
+  "split": "test_representative",
+  "system": "gemini",
+  "raw_prediction": {
+    "intent": "catalog_availability",
+    "route": "auto_handle",
+    "reason": "supported_general_help",
+    "draft": "Hey! We'd love to have everything available, but licensing and availability can sometimes vary. For more info on how content gets on Spotify, check out our guide.",
+    "evidence_ids": [
+      "2087804",
+      "840268"
+    ],
+    "reply_kind": "answer",
+    "tweet_id": "2276904"
+  },
+  "api_error": null,
+  "api_metadata": {
+    "model": "gemini-3.5-flash",
+    "model_version": "gemini-3.5-flash",
+    "request_sha256": "14597f77f528feb7a5a5d16564a5aa07a5b02ff6974e4602fc226c62dbff415a",
+    "usage": {
+      "promptTokenCount": 7941,
+      "candidatesTokenCount": 1226,
+      "totalTokenCount": 9167,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 7941
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "latency_ms": 24567.763099999866,
+    "cache_hit": false
+  },
+  "latency_ms": 2456.7763099999866
+}

@@ -1,0 +1,46 @@
+{
+  "intent": "account_access_security",
+  "route": "escalate",
+  "reason": "security_privacy",
+  "draft": "Hey! We take security very seriously. Please send us a DM with your account's username or email address and we'll check the legitimacy of this email backstage.",
+  "evidence_ids": [
+    "1716829"
+  ],
+  "reply_kind": "handoff",
+  "tweet_id": "450860",
+  "output_check_violations": [],
+  "split": "test_representative",
+  "system": "gemini",
+  "raw_prediction": {
+    "intent": "account_access_security",
+    "route": "escalate",
+    "reason": "security_privacy",
+    "draft": "Hey! We take security very seriously. Please send us a DM with your account's username or email address and we'll check the legitimacy of this email backstage.",
+    "evidence_ids": [
+      "1716829"
+    ],
+    "reply_kind": "handoff",
+    "tweet_id": "450860"
+  },
+  "api_error": null,
+  "api_metadata": {
+    "model": "gemini-3.5-flash",
+    "model_version": "gemini-3.5-flash",
+    "request_sha256": "14597f77f528feb7a5a5d16564a5aa07a5b02ff6974e4602fc226c62dbff415a",
+    "usage": {
+      "promptTokenCount": 7941,
+      "candidatesTokenCount": 1226,
+      "totalTokenCount": 9167,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 7941
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "latency_ms": 24567.763099999866,
+    "cache_hit": false
+  },
+  "latency_ms": 2456.7763099999866
+}

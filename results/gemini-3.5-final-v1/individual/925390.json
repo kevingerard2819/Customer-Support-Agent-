@@ -1,0 +1,44 @@
+{
+  "intent": "playback_app",
+  "route": "escalate",
+  "reason": "Output check: Unsupported action, link or credential request",
+  "draft": "This needs a human support review. Please use a private support channel for account-specific details and do not post passwords or payment information here.",
+  "evidence_ids": [],
+  "reply_kind": "handoff",
+  "tweet_id": "925390",
+  "output_check_violations": [
+    "Unsupported action, link or credential request"
+  ],
+  "split": "test_representative",
+  "system": "gemini",
+  "raw_prediction": {
+    "intent": "playback_app",
+    "route": "escalate",
+    "reason": "unverified_policy",
+    "draft": "Hey! We can clear things up. There is a track limit on offline downloads per device. To learn more about how download limits work, check out the details here: https://support.spotify.com",
+    "evidence_ids": [],
+    "reply_kind": "handoff",
+    "tweet_id": "925390"
+  },
+  "api_error": null,
+  "api_metadata": {
+    "model": "gemini-3.5-flash",
+    "model_version": "gemini-3.5-flash",
+    "request_sha256": "bdeac386b7d1a77ee04f938134441c0531921fa739e9a68d151b30a02cf797f8",
+    "usage": {
+      "promptTokenCount": 7976,
+      "candidatesTokenCount": 1229,
+      "totalTokenCount": 9205,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 7976
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "latency_ms": 23383.085800000117,
+    "cache_hit": false
+  },
+  "latency_ms": 2338.3085800000117
+}

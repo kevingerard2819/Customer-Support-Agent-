@@ -1,0 +1,42 @@
+{
+  "intent": "other_unclear",
+  "route": "escalate",
+  "reason": "unsupported_language_scope",
+  "draft": "Hey there! To manage your artist profile and update your photo, please reach out to our team at Spotify for Artists for assistance. We'll hand you off to their support team.",
+  "evidence_ids": [],
+  "reply_kind": "handoff",
+  "tweet_id": "623005",
+  "output_check_violations": [],
+  "split": "test_challenge",
+  "system": "gemini",
+  "raw_prediction": {
+    "intent": "other_unclear",
+    "route": "escalate",
+    "reason": "unsupported_language_scope",
+    "draft": "Hey there! To manage your artist profile and update your photo, please reach out to our team at Spotify for Artists for assistance. We'll hand you off to their support team.",
+    "evidence_ids": [],
+    "reply_kind": "handoff",
+    "tweet_id": "623005"
+  },
+  "api_error": null,
+  "api_metadata": {
+    "model": "gemini-3.5-flash",
+    "model_version": "gemini-3.5-flash",
+    "request_sha256": "1c0704b28224277ed9865653b143ac759f989f43ec804577cacebe5cc823e0a5",
+    "usage": {
+      "promptTokenCount": 8239,
+      "candidatesTokenCount": 1153,
+      "totalTokenCount": 9392,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 8239
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "latency_ms": 22480.18989999764,
+    "cache_hit": false
+  },
+  "latency_ms": 2248.018989999764
+}

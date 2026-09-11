@@ -1,0 +1,2382 @@
+[
+  {
+    "customer": {
+      "tweet_id": "649750",
+      "author_id": "274451",
+      "inbound": "True",
+      "created_at": "Wed Nov 22 21:03:44 +0000 2017",
+      "text": "@AppleSupport When I unlock my phone with Face ID my Mail notifications disappear. Any idea why this would be happening?",
+      "response_tweet_id": "649749",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "649749",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Wed Nov 22 21:22:29 +0000 2017",
+      "text": "@274451 Let's look into that. Send us a DM and we'll go from there. https://t.co/GDrqU22YpT",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "649750"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "817264",
+      "author_id": "314649",
+      "inbound": "True",
+      "created_at": "Sun Oct 08 16:11:41 +0000 2017",
+      "text": "@AppleSupport hi...I can’t add my credit card in my payment information...why?and do I have to use specific bank?",
+      "response_tweet_id": "817263",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "817263",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Sun Oct 08 18:19:28 +0000 2017",
+      "text": "@314649 Let's take a look into this together. DM us and we'll get started. https://t.co/GDrqU22YpT",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "817264"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1059788",
+      "author_id": "370237",
+      "inbound": "True",
+      "created_at": "Mon Oct 23 04:35:35 +0000 2017",
+      "text": "@115948 @AppleSupport the new public beta for iOS 11 just signed me out of Apple Music and deleted all my songs and playlists....",
+      "response_tweet_id": "1059789,1059787",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1059787",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Mon Oct 23 12:44:27 +0000 2017",
+      "text": "@370237 Send us a DM with the country that you are located in to continue. https://t.co/GDrqU22YpT",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1059788"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1817762",
+      "author_id": "546014",
+      "inbound": "True",
+      "created_at": "Mon Oct 16 04:23:17 +0000 2017",
+      "text": "@546013 @AppleSupport BRO I'M FUCKING LOCKED OUT OF MY OWN FUCKING PHONE! EVEN AFTER A RESTORE! I'm beyond pissed rn and I need my phone for tomorrow",
+      "response_tweet_id": "1817776",
+      "in_response_to_tweet_id": "1817761"
+    },
+    "support": {
+      "tweet_id": "1817776",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Mon Oct 16 12:34:52 +0000 2017",
+      "text": "@546014 Let's look into this together. Please DM us and let us know exactly what occurred, and any steps you've tried so far. https://t.co/GDrqU22YpT",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1817762"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1747396",
+      "author_id": "526769",
+      "inbound": "True",
+      "created_at": "Tue Nov 07 09:21:21 +0000 2017",
+      "text": "I️ haven’t updated to 11.1 yet and my phone started yesterday autocorrecting with the square question box in a lot of my text. @AppleSupport",
+      "response_tweet_id": "1747395",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1747395",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Tue Nov 07 15:51:39 +0000 2017",
+      "text": "@526769 Here’s what you can do to work around the issue until it’s fixed in a future software update: https://t.co/xXaXeeSRt9",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1747396"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1707677",
+      "author_id": "517494",
+      "inbound": "True",
+      "created_at": "Mon Nov 06 22:16:35 +0000 2017",
+      "text": "Hate @115858 update for #iPhone Battery low, apps freezing, debating on getting #Android  its 2017, why?!?",
+      "response_tweet_id": "1707675",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1707675",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Mon Nov 06 23:23:53 +0000 2017",
+      "text": "@517494 We want to help with your iPhone. DM us details on these issues and we'll work with you there. https://t.co/GDrqU22YpT",
+      "response_tweet_id": "1707676",
+      "in_response_to_tweet_id": "1707677"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1641902",
+      "author_id": "501907",
+      "inbound": "True",
+      "created_at": "Sun Nov 05 21:49:47 +0000 2017",
+      "text": "Why is my phone turning the letter “eye” into this weird A w/a box around it?! Wtf?! Is this a conspiracy 2make me get the X? @AppleSupport",
+      "response_tweet_id": "1641900,1641903",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1641903",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Sun Nov 05 23:19:30 +0000 2017",
+      "text": "@501907 Here’s what you can do to work around the issue until it’s fixed in a future software update: https://t.co/xXaXeeSRt9 https://t.co/GDrqU22YpT",
+      "response_tweet_id": "1656610",
+      "in_response_to_tweet_id": "1641902"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2229448",
+      "author_id": "650615",
+      "inbound": "True",
+      "created_at": "Fri Nov 10 09:04:34 +0000 2017",
+      "text": "I️ can’t even look at my OWN tweets without seeing this shit now? Fix this @115858 https://t.co/qJozCY6OeU",
+      "response_tweet_id": "2229447",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2229447",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Fri Nov 10 15:55:02 +0000 2017",
+      "text": "@650615 Thank you for your patience. We've recently released an update to address these issues. Please back up your device and update. Here's how to back up: https://t.co/tHicJHB57O",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "2229448"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2278817",
+      "author_id": "400975",
+      "inbound": "True",
+      "created_at": "Sat Nov 11 15:29:07 +0000 2017",
+      "text": "@AppleSupport i want a macbook air but i only want this one model how do i know im getting the model i want?",
+      "response_tweet_id": "2278816",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2278816",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Sat Nov 11 19:05:36 +0000 2017",
+      "text": "@400975 When purchasing an Apple product, the packaging and the paperwork included will indicate the model. It will also be listed in the software and on the product itself.",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "2278817"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2605265",
+      "author_id": "737124",
+      "inbound": "True",
+      "created_at": "Mon Oct 30 20:09:11 +0000 2017",
+      "text": "@AppleSupport why do ALL of my photos have the exclamation mark in the corner n in low quality? I’m connected to WiFi :(((",
+      "response_tweet_id": "2605264",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2605264",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Mon Oct 30 20:21:00 +0000 2017",
+      "text": "@737124 Let's make sure your photos are showing up as you expected! What device is this on?",
+      "response_tweet_id": "2605262",
+      "in_response_to_tweet_id": "2605265"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2562296",
+      "author_id": "727151",
+      "inbound": "True",
+      "created_at": "Thu Nov 16 17:13:09 +0000 2017",
+      "text": "@115858 need to hurry up and bring out an update that will stop my phone from feeezing every two minutes. It’s really starting to piss me off now. The phone has its own mind mothers.",
+      "response_tweet_id": "2562295",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2562295",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Thu Nov 16 18:11:34 +0000 2017",
+      "text": "@727151 We want to help. What model iPhone do you have and what iOS is it on? Does it become completely unresponsive or just very slow? Does it happen with any app or just certain ones? Let us know and we'll continue to work with you on this.",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "2562296"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "793996",
+      "author_id": "309317",
+      "inbound": "True",
+      "created_at": "Thu Oct 12 07:29:41 +0000 2017",
+      "text": "@AppleSupport have had a text from you saying my purchase will be delivered by 16/10 then an email saying it will be on 20/10-not the best?",
+      "response_tweet_id": "793995",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "793995",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Thu Oct 12 13:46:56 +0000 2017",
+      "text": "@309317 Our Sales Support is in the best position to assist and can be contacted from here: https://t.co/8yjRd2eYRQ",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "793996"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "284910",
+      "author_id": "183877",
+      "inbound": "True",
+      "created_at": "Fri Oct 06 06:49:51 +0000 2017",
+      "text": "@AppleSupport uhmmm I need help with my iPhone 8+....",
+      "response_tweet_id": "284909",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "284909",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Fri Oct 06 13:48:55 +0000 2017",
+      "text": "@183877 We've got your DM, and we look forward to working with you there.",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "284910"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2973455",
+      "author_id": "820060",
+      "inbound": "True",
+      "created_at": "Thu Nov 30 01:47:03 +0000 2017",
+      "text": "@AppleSupport looks like someone is trying to fish inormation from me! Please crush this MF! https://t.co/mKRuM5NCoH",
+      "response_tweet_id": "2973454",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2973454",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Thu Nov 30 01:53:00 +0000 2017",
+      "text": "@820060 Thanks for bringing this to our attention. Your security is our number one priority. Check out this article that shows you some steps on how to avoid fake/phishing emails and how to report them: https://t.co/LNMCdqt6fD",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "2973455"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1467824",
+      "author_id": "460706",
+      "inbound": "True",
+      "created_at": "Thu Nov 02 22:04:51 +0000 2017",
+      "text": "@AppleSupport why is my iPhone 8 Siri having so much trouble listening to me? Tried setting it up like 6 times just now and doesn’t respond.",
+      "response_tweet_id": "1467823",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1467823",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Thu Nov 02 23:44:58 +0000 2017",
+      "text": "@460706 We want to help. Please try the troubleshooting steps here &amp; report back: https://t.co/uQ2iN69dmS",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1467824"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2065220",
+      "author_id": "610733",
+      "inbound": "True",
+      "created_at": "Sat Oct 07 20:56:56 +0000 2017",
+      "text": "@AppleSupport @115858 Could you guys please fix this, it’s not just me with the problem. There are multiple people. https://t.co/20o8GHM2u9",
+      "response_tweet_id": "2065219",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2065219",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Sat Oct 07 22:18:30 +0000 2017",
+      "text": "@610733 We would like to see what's going on. Are you using the iPhone 7 Plus as well? Provide us more details in DM. https://t.co/GDrqU22YpT",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "2065220"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2010100",
+      "author_id": "594390",
+      "inbound": "True",
+      "created_at": "Sat Nov 04 16:30:10 +0000 2017",
+      "text": "@115858 @AppleSupport JUST LIKE THAT! Freaking ridiculous.",
+      "response_tweet_id": "2010099",
+      "in_response_to_tweet_id": "2010101"
+    },
+    "support": {
+      "tweet_id": "2010099",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Sat Nov 04 20:33:00 +0000 2017",
+      "text": "@594390 We know how important battery life is! Let’s look into this further together. DM us and let us know, how often are you charging? https://t.co/GDrqU22YpT",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "2010100"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1849605",
+      "author_id": "265037",
+      "inbound": "True",
+      "created_at": "Wed Oct 18 20:49:01 +0000 2017",
+      "text": "when you brought a macbook when they had the @118845 promotion and they didnt give you the free headphones...",
+      "response_tweet_id": "1849604",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1849604",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Wed Oct 18 21:01:00 +0000 2017",
+      "text": "@265037 We'd be happy to look into this with you more in detail.  Please reach out to us via DM and we'll get started. https://t.co/GDrqU22YpT",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1849605"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "999214",
+      "author_id": "356596",
+      "inbound": "True",
+      "created_at": "Sun Oct 22 12:07:34 +0000 2017",
+      "text": "@AppleSupport My OEM Volvo head unit does’t read my iPhone after updating to iOS 11. I tried multiple MFi cables. How to fix? It does charge",
+      "response_tweet_id": "999213",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "999213",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Sun Oct 22 15:26:00 +0000 2017",
+      "text": "@356596 Your car stereo may need a firmware update. You'll find more steps to take here: https://t.co/tqjOBvBgl0",
+      "response_tweet_id": "999211",
+      "in_response_to_tweet_id": "999214"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2278422",
+      "author_id": "662474",
+      "inbound": "True",
+      "created_at": "Sat Nov 11 22:29:58 +0000 2017",
+      "text": "@AppleSupport 11.2",
+      "response_tweet_id": "2278423",
+      "in_response_to_tweet_id": "2278420"
+    },
+    "support": {
+      "tweet_id": "2278423",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Sat Nov 11 23:54:27 +0000 2017",
+      "text": "@662474 Got it. Let’s look into this in a bit more detail. Reach out to us in DM and let us know when you first noticed this happening please as well as if it happens on both Wi-Fi and cellular. https://t.co/GDrqU22YpT",
+      "response_tweet_id": "2278424",
+      "in_response_to_tweet_id": "2278422"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2652584",
+      "author_id": "747421",
+      "inbound": "True",
+      "created_at": "Sat Nov 18 21:02:00 +0000 2017",
+      "text": "@AppleSupport I have the iPhone 7, iOS 11.1 and I was on safari trying to log into my @115937 account",
+      "response_tweet_id": "2652583",
+      "in_response_to_tweet_id": "2652585"
+    },
+    "support": {
+      "tweet_id": "2652583",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Sat Nov 18 21:40:55 +0000 2017",
+      "text": "@747421  We'll be glad to help you get to the bottom of this issue. First lets back up your device and update to the recent iOS version 11.1.2. Let us know if that helps.",
+      "response_tweet_id": "2652582",
+      "in_response_to_tweet_id": "2652584"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1446466",
+      "author_id": "455644",
+      "inbound": "True",
+      "created_at": "Thu Nov 02 14:12:56 +0000 2017",
+      "text": "Dear @115858 \nCan y’all fix this shit? https://t.co/Qdy87B9OCz",
+      "response_tweet_id": "1446465",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1446465",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Thu Nov 02 16:07:30 +0000 2017",
+      "text": "@455644 Hi there! We've received your DM and will be replying there shortly.",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1446466"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2516040",
+      "author_id": "716741",
+      "inbound": "True",
+      "created_at": "Wed Nov 15 22:16:13 +0000 2017",
+      "text": "My phone won’t let me make calls and people are having trouble getting a hold of me. 😩 @ATT @115858 https://t.co/DNap6V1qIw",
+      "response_tweet_id": "2516039",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2516039",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Wed Nov 15 23:27:30 +0000 2017",
+      "text": "@716741 We'd be more than happy to look into this with you. Let us know which version of iOS you're phone is running via DM to get started. https://t.co/GDrqU22YpT",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "2516040"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "602397",
+      "author_id": "262995",
+      "inbound": "True",
+      "created_at": "Sun Dec 03 21:44:55 +0000 2017",
+      "text": "@AppleSupport iPhone x on 11.2. I can only take calls on speaker phone???",
+      "response_tweet_id": "602395",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "602395",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Sun Dec 03 21:54:00 +0000 2017",
+      "text": "@262995 That's unexpected. We'd be happy to help. Have you restarted your iPhone since you noticed this happening?",
+      "response_tweet_id": "602396",
+      "in_response_to_tweet_id": "602397"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "32398",
+      "author_id": "123180",
+      "inbound": "True",
+      "created_at": "Wed Nov 01 06:15:59 +0000 2017",
+      "text": "@AppleSupport I’m late to the complaining party, but y’all I keep having to restart my phone just to make a call 🙄",
+      "response_tweet_id": "32397",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "32397",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Wed Nov 01 12:53:08 +0000 2017",
+      "text": "@123180 Thanks for reaching out; we'd like to help. When did you first encounter this issue?",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "32398"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1986592",
+      "author_id": "588056",
+      "inbound": "True",
+      "created_at": "Wed Oct 18 18:41:47 +0000 2017",
+      "text": "Dis @AppleSupport, y aurait pas 1 petit prob avec #IOS11 et le wifi ? iPad et IPhone se déconnectent pas mal du wifi. 1 mise à jour prévue?",
+      "response_tweet_id": "1986591",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1986591",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Wed Oct 18 18:54:18 +0000 2017",
+      "text": "@588056 We offer support via Twitter in English. Contact us for help in your preferred language here: https://t.co/IBIY3vMgPj",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1986592"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "430167",
+      "author_id": "225120",
+      "inbound": "True",
+      "created_at": "Sat Oct 14 20:10:13 +0000 2017",
+      "text": "@115858 Thanks for the Apple update that makes my 7s screen do stupid things.",
+      "response_tweet_id": "1141777",
+      "in_response_to_tweet_id": "430165"
+    },
+    "support": {
+      "tweet_id": "1141777",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Sat Oct 14 20:15:01 +0000 2017",
+      "text": "@225120 We're happy to help. Can you tell us what issues you're experiencing specifically?",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "430167"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "238773",
+      "author_id": "539473",
+      "inbound": "True",
+      "created_at": "Thu Oct 12 06:58:47 +0000 2017",
+      "text": "@115858 Struggling on iPhone 7 after ios11 update. It has slow down my phone and introduced several bugs .",
+      "response_tweet_id": "1795304",
+      "in_response_to_tweet_id": "238762"
+    },
+    "support": {
+      "tweet_id": "1795304",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Thu Oct 12 13:31:00 +0000 2017",
+      "text": "@539473 We want you to be able to enjoy the new update. We can help. Send us a DM and we can look into this with you. https://t.co/GDrqU22YpT",
+      "response_tweet_id": "1795305",
+      "in_response_to_tweet_id": "238773"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "277434",
+      "author_id": "182271",
+      "inbound": "True",
+      "created_at": "Mon Oct 30 14:17:49 +0000 2017",
+      "text": "@AppleSupport Thank it’s the 7+",
+      "response_tweet_id": "277433",
+      "in_response_to_tweet_id": "277435"
+    },
+    "support": {
+      "tweet_id": "277433",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Mon Oct 30 14:49:00 +0000 2017",
+      "text": "@182271 Sure thing. Thanks. To help isolate the issue, which version of iOS software is your iPhone on?",
+      "response_tweet_id": "277432",
+      "in_response_to_tweet_id": "277434"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1516160",
+      "author_id": "471772",
+      "inbound": "True",
+      "created_at": "Fri Nov 03 13:17:04 +0000 2017",
+      "text": "still remain drain battery problem on my #iphone6s with ios 11.1 ( phone has 1 year of life) #apple bad very bad @AppleSupport",
+      "response_tweet_id": "1516159",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1516159",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Fri Nov 03 18:50:30 +0000 2017",
+      "text": "@471772 We'd like to look into this with you. Please meet with us in DM. https://t.co/GDrqU22YpT",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1516160"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1817778",
+      "author_id": "546019",
+      "inbound": "True",
+      "created_at": "Mon Oct 16 04:12:09 +0000 2017",
+      "text": "@AppleSupport I’m on 11.0.3 and my clock keeps disappearing from my lock screen.. please fix soon",
+      "response_tweet_id": "1817777",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1817777",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Mon Oct 16 12:35:03 +0000 2017",
+      "text": "@546019 We'd be more than happy to look into this with you. Let us know which device you're using and when this issues stated via DM. https://t.co/GDrqU22YpT",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1817778"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1641319",
+      "author_id": "501776",
+      "inbound": "True",
+      "created_at": "Sun Nov 05 23:40:34 +0000 2017",
+      "text": "What tf is going on wit these question marks?? @AppleSupport",
+      "response_tweet_id": "1641318",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1641318",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Mon Nov 06 00:02:25 +0000 2017",
+      "text": "@501776 Here’s what you can do to work around the issue until it’s fixed in a future software update: https://t.co/xXaXeeSRt9",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1641319"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2835907",
+      "author_id": "789363",
+      "inbound": "True",
+      "created_at": "Mon Nov 27 16:01:12 +0000 2017",
+      "text": "@AppleSupport I tried and it continues the same message so I add a credit card but I do not have a credit card (I'm from Brazil)",
+      "response_tweet_id": "2835909",
+      "in_response_to_tweet_id": "2835906"
+    },
+    "support": {
+      "tweet_id": "2835909",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Mon Nov 27 16:15:02 +0000 2017",
+      "text": "@789363 What is the message that you're receiving? DM us here: https://t.co/GDrqU22YpT",
+      "response_tweet_id": "2835910",
+      "in_response_to_tweet_id": "2835907"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1654573",
+      "author_id": "504981",
+      "inbound": "True",
+      "created_at": "Mon Nov 06 01:23:35 +0000 2017",
+      "text": "@115858 You guys planning to fix the new bug that’s causing iPhones to automatically put “I️” as \"A[?]\" ios11 has been ridiculous.🐜 #bugcity",
+      "response_tweet_id": "1654572",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1654572",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Mon Nov 06 02:56:29 +0000 2017",
+      "text": "@504981 Thanks for reaching out. We have a workaround for this here: https://t.co/uQeXsrrlXJ DM us if you still need help.",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1654573"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2021852",
+      "author_id": "597958",
+      "inbound": "True",
+      "created_at": "Mon Nov 06 02:57:06 +0000 2017",
+      "text": "@115858 plz fix the I on the iPhone update thanks",
+      "response_tweet_id": "2021851",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2021851",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Mon Nov 06 04:48:40 +0000 2017",
+      "text": "@597958 Thanks for reaching out. We have a workaround for this here: https://t.co/xXaXeeSRt9 DM us if you still need help. https://t.co/GDrqU22YpT",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "2021852"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2630185",
+      "author_id": "742760",
+      "inbound": "True",
+      "created_at": "Fri Nov 17 16:25:34 +0000 2017",
+      "text": "@AppleSupport how do you completely turn off WiFi from control center. It only disconnects you from your connection, but then connects to other open networks.  Only way to do so is if I turn it off in settings... 🤔",
+      "response_tweet_id": "2630183",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2630183",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Fri Nov 17 17:59:27 +0000 2017",
+      "text": "@742760 We can shed some light on that for you.  Please check out this article with the updates  in iOS 11 and Control Center: https://t.co/G7BHuQnDS6",
+      "response_tweet_id": "2630184",
+      "in_response_to_tweet_id": "2630185"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1367643",
+      "author_id": "267198",
+      "inbound": "True",
+      "created_at": "Fri Oct 27 21:00:47 +0000 2017",
+      "text": "@AppleSupport hi this is probably a stupid question would an iphone 5s connect to my apple watch series 1",
+      "response_tweet_id": "1367641",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1367641",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Fri Oct 27 22:17:30 +0000 2017",
+      "text": "@267198 We're here for you. You can find compatibility at the bottom of this page: https://t.co/gPb82OOdhW",
+      "response_tweet_id": "1367642",
+      "in_response_to_tweet_id": "1367643"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2207481",
+      "author_id": "645391",
+      "inbound": "True",
+      "created_at": "Fri Nov 10 01:29:34 +0000 2017",
+      "text": "I don’t get some of the texts in group messages now and it’s pissing me off. @115858 what is you doing??????!!!!!\n\nThrow the whole update away.",
+      "response_tweet_id": "2207480",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2207480",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Fri Nov 10 02:36:34 +0000 2017",
+      "text": "@645391 Let’s investigate this together. Tell us the version of iOS 11 your iPhone is on currently, and we’ll partner with you to get this figured out. Use this link to DM your response: https://t.co/GDrqU22YpT",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "2207481"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1887383",
+      "author_id": "562906",
+      "inbound": "True",
+      "created_at": "Mon Oct 23 13:08:57 +0000 2017",
+      "text": "Hi @AppleSupport \nGlad to have updated ios 11.0.3 this morning: battery emptied in a few hours.👎When will the bug be fixed? Please quickly!",
+      "response_tweet_id": "1887381",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1887381",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Mon Oct 23 14:43:32 +0000 2017",
+      "text": "@562906 Let’s team up to get this addressed. Which device are you using? Let us know via a DM. We’ll keep moving forward from there. https://t.co/GDrqU22YpT",
+      "response_tweet_id": "1887382",
+      "in_response_to_tweet_id": "1887383"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1636544",
+      "author_id": "500559",
+      "inbound": "True",
+      "created_at": "Sun Nov 05 20:19:53 +0000 2017",
+      "text": "if i️ updated my phone then WHY do i️ still see boxes &amp; question marks. @115858 EXPLAIN",
+      "response_tweet_id": "1636543",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1636543",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Sun Nov 05 21:39:00 +0000 2017",
+      "text": "@500559 Here’s what you can do to work around the issue until it’s fixed in a future software update: https://t.co/xXaXeeSRt9",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1636544"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "935908",
+      "author_id": "341877",
+      "inbound": "True",
+      "created_at": "Sat Oct 21 16:18:41 +0000 2017",
+      "text": ".. @AppleSupport gotta fix the queues at your shops. What's the point in an appointment if I'm still waiting 40mins later? 🙄😔",
+      "response_tweet_id": "935907",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "935907",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Sat Oct 21 17:53:00 +0000 2017",
+      "text": "@341877 We apologize for the inconvenience. Tell us more about your experience in a DM and we'll continue there. https://t.co/GDrqU22YpT",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "935908"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "225091",
+      "author_id": "169773",
+      "inbound": "True",
+      "created_at": "Sat Nov 25 02:22:19 +0000 2017",
+      "text": "@AppleSupport hey uhhhh my apps keep freezing and screenshots aren’t working it’s just showing up all black. so uh what going on",
+      "response_tweet_id": "225089",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "225089",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Sat Nov 25 02:27:56 +0000 2017",
+      "text": "@169773 Let us help you get your iPhone working like expected. Can you tell us which iOS version you are currently using?",
+      "response_tweet_id": "225090",
+      "in_response_to_tweet_id": "225091"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "81806",
+      "author_id": "134118",
+      "inbound": "True",
+      "created_at": "Thu Nov 30 05:21:23 +0000 2017",
+      "text": "@AppleSupport WHY THE FUCK AM I STILL SEEING QUESTION MARK BOXES IM UPDATED AF WHY????????",
+      "response_tweet_id": "81805",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "81805",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Thu Nov 30 13:39:02 +0000 2017",
+      "text": "@134118 Hi. We're here to help you. Are you seeing them when you type? If not, this is likely due to others not updating their devices yet. If the update hasn't fixed the issue on your end, let us know in DM and we can take a closer look. https://t.co/GDrqU22YpT",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "81806"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1165718",
+      "author_id": "394197",
+      "inbound": "True",
+      "created_at": "Tue Oct 24 18:23:28 +0000 2017",
+      "text": "@AppleSupport Ios 11.0.3",
+      "response_tweet_id": "1165720",
+      "in_response_to_tweet_id": "1165717"
+    },
+    "support": {
+      "tweet_id": "1165720",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Tue Oct 24 18:41:01 +0000 2017",
+      "text": "@394197 When you say that it is looping, do you mean that the video ends and then restarts or something else?",
+      "response_tweet_id": "1165721",
+      "in_response_to_tweet_id": "1165718"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1857399",
+      "author_id": "289922",
+      "inbound": "True",
+      "created_at": "Thu Oct 19 05:15:39 +0000 2017",
+      "text": "What do you think? @AppleSupport #iPhone6s Battery broken and damaged screen by battery. Warranty? https://t.co/qOg52adUtf",
+      "response_tweet_id": "1857398,1857400",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1857398",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Thu Oct 19 13:00:42 +0000 2017",
+      "text": "@289922 We'd be happy to look into some options for that iPhone. Let us know which country you're located in via DM to get started. https://t.co/GDrqU22YpT",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1857399"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1454597",
+      "author_id": "457609",
+      "inbound": "True",
+      "created_at": "Thu Nov 02 11:39:02 +0000 2017",
+      "text": "@AppleSupport @AppleSupport why haven’t I️ heard anything back in 10+ hours?",
+      "response_tweet_id": "1454595",
+      "in_response_to_tweet_id": "1454598"
+    },
+    "support": {
+      "tweet_id": "1454595",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Thu Nov 02 15:00:36 +0000 2017",
+      "text": "@457609 Hey there. Let's continue our conversation in DM. We'd be happy to talk to you there. https://t.co/GDrqU22YpT",
+      "response_tweet_id": "1454596",
+      "in_response_to_tweet_id": "1454597"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1588233",
+      "author_id": "493564",
+      "inbound": "True",
+      "created_at": "Sat Nov 04 22:51:10 +0000 2017",
+      "text": "@AppleSupport التحديث الجديد (١١.١) يوجد به مشكله . عدم ظهور الاشعارات نرجو منكم تعديله و يوجود به مشكله عدم ظهور الشبكه والتاريخ والوقت 🤗 علماً جهازي iPhone 6 plass https://t.co/wjnJFD96sJ",
+      "response_tweet_id": "1606746",
+      "in_response_to_tweet_id": "1588183"
+    },
+    "support": {
+      "tweet_id": "1606746",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Sun Nov 05 02:35:27 +0000 2017",
+      "text": "@493564 We offer support via Twitter in English. Contact us for help in your preferred language here: https://t.co/IBIY3vMgPj",
+      "response_tweet_id": "1606747",
+      "in_response_to_tweet_id": "1588233"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2743000",
+      "author_id": "768324",
+      "inbound": "True",
+      "created_at": "Mon Nov 20 18:24:56 +0000 2017",
+      "text": "@115858 shitty ios 11 , lagging my games whenever notification popups.why you bother releasing something which is not stable. #apple #iphone7 #ios11 #needtoswitch",
+      "response_tweet_id": "2742999",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2742999",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Mon Nov 20 18:37:53 +0000 2017",
+      "text": "@768324 If your iPhone is performing slower than expected, we'd be happy to help out. Are you only noticing the lag when getting notifications? Does this only occur within games, or are other apps impacted too? Also, which exact version of iOS do you have installed?",
+      "response_tweet_id": "2742997",
+      "in_response_to_tweet_id": "2743000"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "806157",
+      "author_id": "312112",
+      "inbound": "True",
+      "created_at": "Thu Oct 12 16:47:15 +0000 2017",
+      "text": "@AppleSupport @134236 any idea why this is happening when I try to install the Nike+ Run Club app on my Apple Watch? Thanks. https://t.co/q8X5263Awu",
+      "response_tweet_id": "806155,806158",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "806158",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Thu Oct 12 17:36:37 +0000 2017",
+      "text": "@312112 Does the issue remain after a normal restart of your devices? If so, confirm the OS running on both, we'd like to help.",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "806157"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2616590",
+      "author_id": "739559",
+      "inbound": "True",
+      "created_at": "Sun Nov 19 04:34:22 +0000 2017",
+      "text": "@AppleSupport Updates completed.  Still freezes playing back Facebook video, snapchat videos.   My face id scan  icon will just disappear when it gets a bad scan and act frozen.  It will show a lock and the rest of the screen goes blank.",
+      "response_tweet_id": "2616591",
+      "in_response_to_tweet_id": "2616589"
+    },
+    "support": {
+      "tweet_id": "2616591",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Sun Nov 19 13:27:58 +0000 2017",
+      "text": "@739559 DM the country or region were you are currently located to continue. https://t.co/GDrqU22YpT",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "2616590"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1336307",
+      "author_id": "431727",
+      "inbound": "True",
+      "created_at": "Fri Oct 27 07:42:11 +0000 2017",
+      "text": "@AppleSupport I just preordered the iPhone X on the iPhone Upgrade Program, but it’s not showing up in my orders. I have screenshots.",
+      "response_tweet_id": "1336306",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1336306",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Fri Oct 27 14:26:00 +0000 2017",
+      "text": "@431727 Hi there. If you have questions about your pre-order, please get in touch with our Sales team here: https://t.co/8yjRd1Xo0i",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1336307"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1803097",
+      "author_id": "439410",
+      "inbound": "True",
+      "created_at": "Fri Oct 13 13:29:23 +0000 2017",
+      "text": "@115858 iOS 11 is so buggy https://t.co/cD1ttrVbXF",
+      "response_tweet_id": "1803096",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1803096",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Fri Oct 13 14:53:27 +0000 2017",
+      "text": "@439410 Let us help you with this today. DM us the exact iOS version and which iPhone we are working with to get started. https://t.co/GDrqU22YpT",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1803097"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "563020",
+      "author_id": "251794",
+      "inbound": "True",
+      "created_at": "Sat Dec 02 23:35:03 +0000 2017",
+      "text": "@AppleSupport Please reply! How many times did i tweeted and dm you and nothing is going on! @AppleSupport",
+      "response_tweet_id": "563018",
+      "in_response_to_tweet_id": "563021"
+    },
+    "support": {
+      "tweet_id": "563018",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Sat Dec 02 23:42:27 +0000 2017",
+      "text": "@251794 Send us a DM. Please let us know more details regarding what you're seeing. https://t.co/GDrqU22YpT",
+      "response_tweet_id": "563019",
+      "in_response_to_tweet_id": "563020"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2014860",
+      "author_id": "595789",
+      "inbound": "True",
+      "created_at": "Sun Nov 05 13:58:57 +0000 2017",
+      "text": "@AppleSupport I updated my macbook pro 2012 to mac os high sierra and its stuck on this screen after I restarted it, help? https://t.co/140ut2NRRI",
+      "response_tweet_id": "2014859",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2014859",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Sun Nov 05 18:38:30 +0000 2017",
+      "text": "@595789 We'd like to help. If you restart your computer again does this issue persist? If so, please message us back in DM. https://t.co/GDrqU22YpT",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "2014860"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "588008",
+      "author_id": "258945",
+      "inbound": "True",
+      "created_at": "Sun Dec 03 17:52:25 +0000 2017",
+      "text": "@AppleSupport Yes, it vibrates when phone is unlocked but I am talking about when phone is locked and charging and somebody tries chatting at 5am",
+      "response_tweet_id": "588010",
+      "in_response_to_tweet_id": "588007"
+    },
+    "support": {
+      "tweet_id": "588010",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Sun Dec 03 18:43:00 +0000 2017",
+      "text": "@258945 Restart your iPhone and see if that has any impact on the issue. If not, DM us which iOS version you have in Settings &gt; General &gt; About and we'll look further into this with you there. https://t.co/GDrqU22YpT",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "588008"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1550266",
+      "author_id": "479819",
+      "inbound": "True",
+      "created_at": "Fri Nov 03 22:59:12 +0000 2017",
+      "text": "@AppleSupport @479820 Oh, I have the same problem here 😕",
+      "response_tweet_id": "1550265",
+      "in_response_to_tweet_id": "1550267"
+    },
+    "support": {
+      "tweet_id": "1550265",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Sat Nov 04 03:12:30 +0000 2017",
+      "text": "@479819 We’d like to help. Share with us in DM more info about your device to start: https://t.co/GDrqU22YpT",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1550266"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2548637",
+      "author_id": "724201",
+      "inbound": "True",
+      "created_at": "Mon Oct 30 12:08:11 +0000 2017",
+      "text": "@AppleSupport can i unlock this carrier with r-sim? https://t.co/A8a4IlJtCK",
+      "response_tweet_id": "2548636",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2548636",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Mon Oct 30 13:57:33 +0000 2017",
+      "text": "@724201 Thanks for reaching out. Please click here to join us in DM. We'll pick up there: https://t.co/GDrqU22YpT",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "2548637"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1772569",
+      "author_id": "532754",
+      "inbound": "True",
+      "created_at": "Wed Nov 08 01:52:53 +0000 2017",
+      "text": "@AppleSupport there is some problem with the contact app.. Make it clear https://t.co/7Zo6eS5l6X",
+      "response_tweet_id": "1772568",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1772568",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Wed Nov 08 02:08:28 +0000 2017",
+      "text": "@532754 Let's look at this together. Which device and software version are you using? Please DM us. https://t.co/GDrqU22YpT",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1772569"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2145718",
+      "author_id": "630796",
+      "inbound": "True",
+      "created_at": "Thu Nov 09 00:02:08 +0000 2017",
+      "text": "@AppleSupport So annoying",
+      "response_tweet_id": "2145717",
+      "in_response_to_tweet_id": "2145719"
+    },
+    "support": {
+      "tweet_id": "2145717",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Thu Nov 09 00:07:26 +0000 2017",
+      "text": "@630796 Here’s what you can do to work around the issue until it’s fixed in a future software update: https://t.co/xXaXeeSRt9",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "2145718"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1178923",
+      "author_id": "397281",
+      "inbound": "True",
+      "created_at": "Tue Oct 24 21:28:08 +0000 2017",
+      "text": "@AppleSupport thank you for completely ruining my iPhone 6 with your latest updates #ios11 made my phone almost unusable",
+      "response_tweet_id": "1178922",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1178922",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Tue Oct 24 21:42:26 +0000 2017",
+      "text": "@397281 We'd be happy to help. Send us a DM and we can start there. https://t.co/GDrqU22YpT",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1178923"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2280929",
+      "author_id": "663037",
+      "inbound": "True",
+      "created_at": "Sat Nov 11 17:42:00 +0000 2017",
+      "text": "Until @AppleSupport fixes this stupid glitch, Chris is refraining from speaking in the first person.",
+      "response_tweet_id": "2280930,2280928,2280931",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2280928",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Sat Nov 11 20:34:01 +0000 2017",
+      "text": "@663037 We recently released an iOS update, 11.1.1, that contains a fix for autocorrect issues. Let’s be sure to back up your device prior to updating. How to back up: https://t.co/4f8hwT5to6",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "2280929"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "26691",
+      "author_id": "121844",
+      "inbound": "True",
+      "created_at": "Wed Nov 08 20:16:09 +0000 2017",
+      "text": "@AppleSupport my iphone is still glitchy, keeps swapping screens when I try to type.",
+      "response_tweet_id": "26690",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "26690",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Wed Nov 08 23:14:25 +0000 2017",
+      "text": "@121844 Thank you for reaching out. We want to help. To start, can you tell us which iPhone and iOS you’re using?",
+      "response_tweet_id": "26689",
+      "in_response_to_tweet_id": "26691"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2436445",
+      "author_id": "667404",
+      "inbound": "True",
+      "created_at": "Sun Oct 29 14:29:51 +0000 2017",
+      "text": "Theres not a single thing I like about the new @115858 iPhone update. I feel like there’s a ghost in my phone working it without me 🤦🏻‍♀️",
+      "response_tweet_id": "2436441",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2436441",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Sun Oct 29 15:06:33 +0000 2017",
+      "text": "@667404 We want you to have a smooth experience with the update. Could you explain exactly what is happening?",
+      "response_tweet_id": "2436442,2436443,2436444",
+      "in_response_to_tweet_id": "2436445"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1901023",
+      "author_id": "566525",
+      "inbound": "True",
+      "created_at": "Tue Oct 24 00:58:00 +0000 2017",
+      "text": "@115858 why do ur software updates always fuck up our iPhones!! This is BS! Don’t make me go get a fuckn android next time!!! 😡 u trying it!",
+      "response_tweet_id": "1901022",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1901022",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Tue Oct 24 01:04:24 +0000 2017",
+      "text": "@566525 We'd love to assist you with any issues you're experiencing. Meet us in DM so we may gather information, and better assist. https://t.co/GDrqU22YpT",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1901023"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2730373",
+      "author_id": "765479",
+      "inbound": "True",
+      "created_at": "Mon Nov 20 14:06:24 +0000 2017",
+      "text": "My phone is lagging so bad after the update and iPhone 8 came out. @115858 do something about this",
+      "response_tweet_id": "2730371",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2730371",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Mon Nov 20 15:16:00 +0000 2017",
+      "text": "@765479 Hi. We definitely know how important your iPhone performance is and will be glad to help. To get started, what is your iOS version? Go to Settings &gt; General &gt; About for that. Also, do you recall which version iOS you had prior to updating?",
+      "response_tweet_id": "2730372",
+      "in_response_to_tweet_id": "2730373"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1025595",
+      "author_id": "362687",
+      "inbound": "True",
+      "created_at": "Mon Oct 23 00:10:42 +0000 2017",
+      "text": "@AppleSupport I’ve only npticed it happening on one",
+      "response_tweet_id": "1025597",
+      "in_response_to_tweet_id": "1025594"
+    },
+    "support": {
+      "tweet_id": "1025597",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Mon Oct 23 00:27:27 +0000 2017",
+      "text": "@362687 Thanks for the info. Send us a DM and we will continue from there. https://t.co/GDrqU22YpT",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1025595"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1746795",
+      "author_id": "526611",
+      "inbound": "True",
+      "created_at": "Tue Nov 07 10:19:32 +0000 2017",
+      "text": "Hey @115858, it’s about high time we fix the #I️  software glitch, don’t you think?",
+      "response_tweet_id": "1746794",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1746794",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Tue Nov 07 15:42:38 +0000 2017",
+      "text": "@526611 Here’s what you can do to work around the issue until it’s fixed in a future software update: https://t.co/xXaXeeSRt9",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1746795"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "354589",
+      "author_id": "200281",
+      "inbound": "True",
+      "created_at": "Thu Oct 12 00:53:21 +0000 2017",
+      "text": "@AppleSupport what password is this referring to? It will not accept my iCloud, computer, or phone password https://t.co/tcZVKRuynn",
+      "response_tweet_id": "354588",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "354588",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Thu Oct 12 01:02:00 +0000 2017",
+      "text": "@200281 Let's help.  Do you know if your iTunes backups are encrypted as shown here? https://t.co/s6tdVStcb2",
+      "response_tweet_id": "354587",
+      "in_response_to_tweet_id": "354589"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1877149",
+      "author_id": "506507",
+      "inbound": "True",
+      "created_at": "Sun Oct 22 06:07:04 +0000 2017",
+      "text": "I have a 128 gb iPhone 7 that I bought this year and I’m considering buying another phone. @115858 your new update is that horrible",
+      "response_tweet_id": "1877148",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1877148",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Sun Oct 22 13:40:00 +0000 2017",
+      "text": "@506507 We'd like to further look into this with you. Send us a DM by clicking on the link below. We'll continue there. https://t.co/GDrqU22YpT",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1877149"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2033127",
+      "author_id": "161904",
+      "inbound": "True",
+      "created_at": "Tue Nov 07 14:10:20 +0000 2017",
+      "text": "@AppleSupport my iPhone x battery is getting drained even when its kept at home in box. Pls help",
+      "response_tweet_id": "2033125",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2033125",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Tue Nov 07 16:54:01 +0000 2017",
+      "text": "@161904 We want to be sure you get the most out of your iPhone battery life. Send us a DM so we can look into this further with you. https://t.co/GDrqU22YpT",
+      "response_tweet_id": "2033126",
+      "in_response_to_tweet_id": "2033127"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1924586",
+      "author_id": "572866",
+      "inbound": "True",
+      "created_at": "Thu Nov 16 12:13:48 +0000 2017",
+      "text": "@AppleSupport yo fix your dumb ass shit every time I️ say “I️” it says that dumb question mark shit",
+      "response_tweet_id": "1924585",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1924585",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Thu Nov 16 15:35:00 +0000 2017",
+      "text": "@572866 The issue is resolved in the iOS 11.1.1 update. If you haven't yet, backup, update, and see if that helps. Check out this article for the steps: https://t.co/ahjigcvFRG",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1924586"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2293078",
+      "author_id": "603421",
+      "inbound": "True",
+      "created_at": "Sat Nov 11 20:49:57 +0000 2017",
+      "text": "Can you please fix your fucking software @AppleSupport why does my camera not work ever now?",
+      "response_tweet_id": "2293076",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2293076",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Sat Nov 11 22:42:31 +0000 2017",
+      "text": "@603421 The camera is an essential part of your iPhone; we'll do all we can to help. To get started, can you describe for us exactly how it's not working? Does it work for some apps and not others? When opened, does it appear as a blank screen, or blurred out?",
+      "response_tweet_id": "2293077",
+      "in_response_to_tweet_id": "2293078"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "215785",
+      "author_id": "167313",
+      "inbound": "True",
+      "created_at": "Wed Oct 04 21:29:13 +0000 2017",
+      "text": "@AppleSupport All most all apps, it almost looks like they slow down all the old devices so everybody buy new phones",
+      "response_tweet_id": "215784",
+      "in_response_to_tweet_id": "215786"
+    },
+    "support": {
+      "tweet_id": "215784",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Wed Oct 04 21:51:28 +0000 2017",
+      "text": "@167313 Does it show any updates available for the apps in the App Store? DM the answer below. https://t.co/GDrqU22YpT",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "215785"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "321784",
+      "author_id": "192657",
+      "inbound": "True",
+      "created_at": "Sat Oct 07 04:11:54 +0000 2017",
+      "text": "Hey @AppleSupport iOS11.0.2 is awful, full of bugs — friends do yourself a solid and DO NOT update your phone until #Apple fixes",
+      "response_tweet_id": "321786,321782,321787",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "321782",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Sat Oct 07 13:20:00 +0000 2017",
+      "text": "@192657 We're here to help. DM us more details about the issue and we'll do our best to provide assistance. https://t.co/GDrqU22YpT",
+      "response_tweet_id": "321783",
+      "in_response_to_tweet_id": "321784"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1144206",
+      "author_id": "283603",
+      "inbound": "True",
+      "created_at": "Tue Oct 24 08:17:53 +0000 2017",
+      "text": "@115858 offers an update that doesn't even correct the bug of the calculator... #iOS",
+      "response_tweet_id": "1144205",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1144205",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Tue Oct 24 13:25:27 +0000 2017",
+      "text": "@283603 We'd love to look into this with you. Please join us in DM here: https://t.co/GDrqU22YpT",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1144206"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2747355",
+      "author_id": "469033",
+      "inbound": "True",
+      "created_at": "Tue Nov 21 01:03:12 +0000 2017",
+      "text": "@AppleSupport I got it to work till it came across a picture with the file name IMG_E#### then it said the device was unreachable, and now can’t find photos again...",
+      "response_tweet_id": "2747357",
+      "in_response_to_tweet_id": "2747354"
+    },
+    "support": {
+      "tweet_id": "2747357",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Tue Nov 21 01:17:00 +0000 2017",
+      "text": "@469033 Okay. Have you tried repeating the steps again from the article to see if it works?",
+      "response_tweet_id": "2747358",
+      "in_response_to_tweet_id": "2747355"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "103248",
+      "author_id": "138721",
+      "inbound": "True",
+      "created_at": "Thu Nov 30 17:15:32 +0000 2017",
+      "text": "Hey @AppleSupport is this a known bug that will be fixed soon? My dock on iPad continues to not stay centered and only a reboot will reset it.  See attached picture. https://t.co/d0U1mmK6C1",
+      "response_tweet_id": "103246",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "103246",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Thu Nov 30 17:47:00 +0000 2017",
+      "text": "@138721 We'd love to look into this with you. Which exact version of the operating system is your iPad running? Let us know in DM and we'll team up to get this resolved. https://t.co/GDrqU22YpT",
+      "response_tweet_id": "103247",
+      "in_response_to_tweet_id": "103248"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "174130",
+      "author_id": "156804",
+      "inbound": "True",
+      "created_at": "Fri Nov 24 22:50:21 +0000 2017",
+      "text": "ok this is a joke how slow my phone has been going since i updated it what The fuck is wrong with you @115858",
+      "response_tweet_id": "174129",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "174129",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Fri Nov 24 23:06:25 +0000 2017",
+      "text": "@156804 We don't like to see your iPhone struggling and we'll be glad to look into this with you. What iPhone do you have? And do you notice the device running slowly moreso during any particular apps or tasks?",
+      "response_tweet_id": "174128",
+      "in_response_to_tweet_id": "174130"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1352969",
+      "author_id": "435536",
+      "inbound": "True",
+      "created_at": "Fri Oct 27 15:46:19 +0000 2017",
+      "text": "@115858 @AppleSupport Please I want your help\nIt has been a year I can't make a call because microphone problem and\nMy SIM card is out of service most of time",
+      "response_tweet_id": "1352968",
+      "in_response_to_tweet_id": "1352970"
+    },
+    "support": {
+      "tweet_id": "1352968",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Fri Oct 27 18:16:00 +0000 2017",
+      "text": "@435536 We’ve received your DM and will continue there shortly. Thank you for your patience.",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1352969"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2037357",
+      "author_id": "602396",
+      "inbound": "True",
+      "created_at": "Tue Nov 07 00:56:09 +0000 2017",
+      "text": "@115858 Fix I.T until 2044....",
+      "response_tweet_id": "2037356",
+      "in_response_to_tweet_id": "2037358"
+    },
+    "support": {
+      "tweet_id": "2037356",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Tue Nov 07 01:35:29 +0000 2017",
+      "text": "@602396 We want to look into that with you. What device and OS version are you using? DM us back, we'll continue there. https://t.co/GDrqU22YpT",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "2037357"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1141074",
+      "author_id": "388596",
+      "inbound": "True",
+      "created_at": "Tue Oct 24 15:08:35 +0000 2017",
+      "text": "I hate @115858 new update it kills my battery faster I can’t use my fucking phone for a hour without it dying fix your mistake 😡😡😡😡😡😡😡😡😡😡😡😡😡😡",
+      "response_tweet_id": "1141072",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1141072",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Tue Oct 24 15:34:40 +0000 2017",
+      "text": "@388596 Battery life is important, and we’ll do our best to help it.  Which iPhone and exact iOS version are you using?",
+      "response_tweet_id": "1141073",
+      "in_response_to_tweet_id": "1141074"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1349509",
+      "author_id": "434694",
+      "inbound": "True",
+      "created_at": "Mon Oct 16 12:54:04 +0000 2017",
+      "text": "iOS11 makes my already terrible iPhone 7 somehow function even more terribly.... 🙄🙄@AppleSupport",
+      "response_tweet_id": "1349510,1349511,1349508,1349512",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1349508",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Mon Oct 16 14:12:00 +0000 2017",
+      "text": "@434694 Have you updated to iOS 11.0.3 yet? https://t.co/80YRnjDFDk Send us a DM and let us know more details. https://t.co/GDrqU22YpT",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1349509"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1446454",
+      "author_id": "455640",
+      "inbound": "True",
+      "created_at": "Thu Nov 02 14:18:15 +0000 2017",
+      "text": "My phone still on iOS 10.3.3 and I'm not understanding why @AppleSupport y'all wanna give me a reason?",
+      "response_tweet_id": "1446453",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1446453",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Thu Nov 02 16:10:36 +0000 2017",
+      "text": "@455640 We're here to help. DM us which iPhone model you are using and we'll go from there. https://t.co/GDrqU22YpT",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1446454"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1973633",
+      "author_id": "584497",
+      "inbound": "True",
+      "created_at": "Wed Oct 18 21:53:01 +0000 2017",
+      "text": "@AppleSupport Keyboard on all apps. Sound issues only when trying loud speaker (doesn’t work) during phone call despite button being pressed.",
+      "response_tweet_id": "1973634",
+      "in_response_to_tweet_id": "1973632"
+    },
+    "support": {
+      "tweet_id": "1973634",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Wed Oct 18 22:12:46 +0000 2017",
+      "text": "@584497 In DM, could you share a few more details about the typing issue you're experiencing? https://t.co/GDrqU22YpT",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1973633"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1712471",
+      "author_id": "518696",
+      "inbound": "True",
+      "created_at": "Tue Nov 07 01:36:31 +0000 2017",
+      "text": "@AppleSupport I want to know why my Apple ID has been locked for the past 5 months after 3 resets and multiple password changes",
+      "response_tweet_id": "1712470",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1712470",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Tue Nov 07 02:21:00 +0000 2017",
+      "text": "@518696 The best way for us to assist with your Apple ID, is for us to get in touch with you via this link: https://t.co/UJm15vmMM2",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1712471"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "947812",
+      "author_id": "344773",
+      "inbound": "True",
+      "created_at": "Sat Oct 21 16:41:33 +0000 2017",
+      "text": "@AppleSupport why do you keep disturbing me with a do not disturb while driving pop up only when im driving? 🤔",
+      "response_tweet_id": "947811",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "947811",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Sat Oct 21 19:35:31 +0000 2017",
+      "text": "@344773 We can help. Let's start by making sure that Do Not Disturb While Driving is set up properly. https://t.co/BdISLrN866",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "947812"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "427828",
+      "author_id": "216739",
+      "inbound": "True",
+      "created_at": "Tue Oct 10 06:17:00 +0000 2017",
+      "text": "#ios11 glitch! No clock on lockscreen 👇 @115858 @AppleSupport need updates soon to get rid of the glitches 😓 https://t.co/ipaw24Y1f2",
+      "response_tweet_id": "427826",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "427826",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Tue Oct 10 13:25:00 +0000 2017",
+      "text": "@216739 We're here to help. Have you performed any troubleshooting steps such as restarting your device?",
+      "response_tweet_id": "427827",
+      "in_response_to_tweet_id": "427828"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2296305",
+      "author_id": "666706",
+      "inbound": "True",
+      "created_at": "Sun Nov 12 20:00:45 +0000 2017",
+      "text": "When you have an @115858 issue that no one else has ever heard of and there's no information online",
+      "response_tweet_id": "2296303",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2296303",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Sun Nov 12 21:15:30 +0000 2017",
+      "text": "@666706 What's the issue, exactly? We'd be happy to look into it with you.",
+      "response_tweet_id": "2296304",
+      "in_response_to_tweet_id": "2296305"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1343639",
+      "author_id": "339384",
+      "inbound": "True",
+      "created_at": "Fri Oct 27 13:19:23 +0000 2017",
+      "text": "@AppleSupport Did a double order for iPhoneX by accident &amp; cant get thru on phones.",
+      "response_tweet_id": "1343638",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1343638",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Fri Oct 27 16:19:38 +0000 2017",
+      "text": "@339384 We're happy to help! So we're clear on the issue, are you receiving an error when calling or the wait time is high?",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1343639"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2889485",
+      "author_id": "801135",
+      "inbound": "True",
+      "created_at": "Tue Nov 28 07:26:34 +0000 2017",
+      "text": "@AppleSupport Is it a design feature for #iOS11 to turn my once trusty iPad battery to scrap? Used to have power all day - full charge to 17% has taken 40 minutes this morning. #batterydepletion #anychanceofapatch",
+      "response_tweet_id": "2889483",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2889483",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Tue Nov 28 13:53:30 +0000 2017",
+      "text": "@801135 Let’s look into this together. Reach out to us in DM and let us know when you completed the most recent update and when you first noticed the battery issue please. https://t.co/GDrqU22YpT",
+      "response_tweet_id": "2889484",
+      "in_response_to_tweet_id": "2889485"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1512163",
+      "author_id": "470973",
+      "inbound": "True",
+      "created_at": "Fri Nov 03 12:29:04 +0000 2017",
+      "text": "I just got my new iPhone 7 Plus less than 2 weeks ago and my phone barely works @AppleSupport",
+      "response_tweet_id": "1512161",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1512161",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Fri Nov 03 17:49:28 +0000 2017",
+      "text": "@470973 What's going on with your new iPhone? We'll help you get things sorted and back up and running.",
+      "response_tweet_id": "1512162",
+      "in_response_to_tweet_id": "1512163"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2639724",
+      "author_id": "306728",
+      "inbound": "True",
+      "created_at": "Fri Nov 17 20:13:57 +0000 2017",
+      "text": "@AppleSupport my download for @101952 EP won’t download on my phone or iTunes, just get a message like this 😩 https://t.co/luB7YGIPT5",
+      "response_tweet_id": "2639723",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2639723",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Fri Nov 17 21:16:27 +0000 2017",
+      "text": "@306728 It looks like you may have a connection issue with the iTunes Store. Let's start by seeing if this article helps you get your album downloaded: https://t.co/yoNhV7Et2A",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "2639724"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "795795",
+      "author_id": "309742",
+      "inbound": "True",
+      "created_at": "Thu Oct 12 11:47:32 +0000 2017",
+      "text": "The frequency at which I sometimes have to delete and reinstall @AppleSupport Watch apps to restore complication functionality is unsettling",
+      "response_tweet_id": "795792",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "795792",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Thu Oct 12 14:39:32 +0000 2017",
+      "text": "@309742 Sounds like it. We want to help! Which Apple Watch and watchOS are you using? Which apps are causing issues?",
+      "response_tweet_id": "795793,795794",
+      "in_response_to_tweet_id": "795795"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1982847",
+      "author_id": "586921",
+      "inbound": "True",
+      "created_at": "Wed Nov 01 20:29:14 +0000 2017",
+      "text": "Dear @115858 @AppleSupport are you aware your IOS 11.1 really really suck. It slows down the phone down to @221616 speed. Come on man #Fixit",
+      "response_tweet_id": "1982848,1982846",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1982846",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Wed Nov 01 21:11:31 +0000 2017",
+      "text": "@586921 We'd love to see how we can assist! To start, DM us the iOS device model, and details about the issue(s) you're experiencing. https://t.co/GDrqU22YpT",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1982847"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "435189",
+      "author_id": "218374",
+      "inbound": "True",
+      "created_at": "Tue Oct 10 15:20:33 +0000 2017",
+      "text": "#iOS11 sucks with my SE , any how do i get back to #iOs10 ? @AppleSupport #apple #ios11update",
+      "response_tweet_id": "435188,435190",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "435188",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Tue Oct 10 16:35:00 +0000 2017",
+      "text": "@218374 We're here for you. What seems to be going on with your iPhone?",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "435189"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2304367",
+      "author_id": "668612",
+      "inbound": "True",
+      "created_at": "Thu Oct 19 20:33:54 +0000 2017",
+      "text": "@AppleSupport I've got this e-mail and I think it's not from Apple really. Isnt it? https://t.co/sL2JuRQu3Y",
+      "response_tweet_id": "2304365",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2304365",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Thu Oct 19 21:01:40 +0000 2017",
+      "text": "@668612 We completely understand the concern. Are you able to see the email address it was sent from? https://t.co/Nc4IoQinVz",
+      "response_tweet_id": "2304366",
+      "in_response_to_tweet_id": "2304367"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "513623",
+      "author_id": "238219",
+      "inbound": "True",
+      "created_at": "Sat Dec 02 00:49:40 +0000 2017",
+      "text": "@238218 @AppleSupport My iPhone was in this spinning loop, until I set the date to 30 Nov. Seems that iPhone will be in trouble if the date is 2 Dec.",
+      "response_tweet_id": "513624",
+      "in_response_to_tweet_id": "513620"
+    },
+    "support": {
+      "tweet_id": "513624",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Sat Dec 02 01:44:30 +0000 2017",
+      "text": "@238219 Great work taking steps to narrow down the cause of the behavior. Send us a Direct Message where we can work together to investigate further. https://t.co/GDrqU2kzhr",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "513623"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1650211",
+      "author_id": "504055",
+      "inbound": "True",
+      "created_at": "Sun Nov 05 21:31:57 +0000 2017",
+      "text": "@AppleSupport hey... fix the “A and the boxed question mark” thing. Plz.",
+      "response_tweet_id": "1650209",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1650209",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Sun Nov 05 23:16:03 +0000 2017",
+      "text": "@504055 Here’s what you can do to work around the issue until it’s fixed in a future software update: https://t.co/xXaXeeSRt9",
+      "response_tweet_id": "1650210",
+      "in_response_to_tweet_id": "1650211"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2451337",
+      "author_id": "702456",
+      "inbound": "True",
+      "created_at": "Sun Oct 29 17:17:25 +0000 2017",
+      "text": "@AppleSupport tried everything on support page. Can't unlock apple id as can't access my registered email account anymore",
+      "response_tweet_id": "2451336",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2451336",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Sun Oct 29 17:27:00 +0000 2017",
+      "text": "@702456 We know how important it is to access your Apple ID. Did you try the steps in this article as well? https://t.co/HH37urdbz9",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "2451337"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1643343",
+      "author_id": "254693",
+      "inbound": "True",
+      "created_at": "Sun Nov 05 22:43:09 +0000 2017",
+      "text": "@502259 @AppleSupport seriously when will y’all fix this",
+      "response_tweet_id": "1643342",
+      "in_response_to_tweet_id": "1643344"
+    },
+    "support": {
+      "tweet_id": "1643342",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Mon Nov 06 00:48:27 +0000 2017",
+      "text": "@254693 Here’s what you can do to work around the issue until it’s fixed in a future software update: https://t.co/xXaXeeSRt9",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1643343"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2353594",
+      "author_id": "509370",
+      "inbound": "True",
+      "created_at": "Mon Nov 13 17:54:09 +0000 2017",
+      "text": "@AppleSupport the new iOS fucking sucks. Turns my music off randomly and I️ hate I️t. Wtf I miss Steve.",
+      "response_tweet_id": "2353593",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2353593",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Mon Nov 13 18:52:00 +0000 2017",
+      "text": "@509370 We recently released an iOS update, 11.1.1, that contains a fix for autocorrect issues. Let’s be sure to back up your device prior to updating. How to back up: https://t.co/4f8hwT5to6\nMeet us in DM and we can work on the music issue as well. https://t.co/GDrqU22YpT",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "2353594"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1645913",
+      "author_id": "364722",
+      "inbound": "True",
+      "created_at": "Tue Oct 17 20:08:15 +0000 2017",
+      "text": "@AppleSupport add the album by itunes did it with 3. with the previous ios it went well!",
+      "response_tweet_id": "1645914",
+      "in_response_to_tweet_id": "1645912"
+    },
+    "support": {
+      "tweet_id": "1645914",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Tue Oct 17 20:33:00 +0000 2017",
+      "text": "@364722 Take a look here to see if these steps resolve the issue: https://t.co/mZI2lwDo8o",
+      "response_tweet_id": "1645915",
+      "in_response_to_tweet_id": "1645913"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1630189",
+      "author_id": "498962",
+      "inbound": "True",
+      "created_at": "Sun Nov 05 15:51:09 +0000 2017",
+      "text": "@AppleSupport how do I️ fix the I️ thing....",
+      "response_tweet_id": "1630188",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1630188",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Sun Nov 05 19:30:01 +0000 2017",
+      "text": "@498962 We're here to help. Please join us in DM and let us know more about what you're experiencing. https://t.co/GDrqU22YpT",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1630189"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2048524",
+      "author_id": "605820",
+      "inbound": "True",
+      "created_at": "Thu Oct 05 14:01:59 +0000 2017",
+      "text": "IOS 11 is a fucking annoying software i have to restart my phone every single damn day now wtf !! It’s irritating 😠 @AppleSupport",
+      "response_tweet_id": "2048523",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2048523",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Thu Oct 05 15:33:36 +0000 2017",
+      "text": "@605820 That's definitely not the experience we want you to have with iOS 11. Let's look into it closer in DM: https://t.co/GDrqU22YpT",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "2048524"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1268401",
+      "author_id": "416990",
+      "inbound": "True",
+      "created_at": "Thu Oct 26 08:48:59 +0000 2017",
+      "text": "So I can't hear anything on my iPhone unless I have my earphones in wassup with that @AppleSupport",
+      "response_tweet_id": "1268400",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1268400",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Thu Oct 26 13:35:32 +0000 2017",
+      "text": "@416990 That's unexpected. Let us help. Tell us more about what's happening via DM. https://t.co/GDrqU22YpT",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1268401"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1289773",
+      "author_id": "421632",
+      "inbound": "True",
+      "created_at": "Thu Oct 26 19:12:42 +0000 2017",
+      "text": "@AppleSupport tried to download plotagraph via apple store app for free but didn’t succeed. Now I can’t download it anymore. What to do?",
+      "response_tweet_id": "1289771",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1289771",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Thu Oct 26 20:01:34 +0000 2017",
+      "text": "@421632 Thanks for reaching out! So we can look closer into this, can you let us know which device and software version you're using?",
+      "response_tweet_id": "1289772",
+      "in_response_to_tweet_id": "1289773"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1869305",
+      "author_id": "558335",
+      "inbound": "True",
+      "created_at": "Thu Oct 19 21:11:12 +0000 2017",
+      "text": "@558336 @115858 that tweet was legitimately an accident because of my phone being slow. Id switch if it weren’t for the music industry all being Apple",
+      "response_tweet_id": "1869304",
+      "in_response_to_tweet_id": "1869306"
+    },
+    "support": {
+      "tweet_id": "1869304",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Thu Oct 19 21:45:30 +0000 2017",
+      "text": "@558335 Hi there! Sounds like your iPhone is not an asset right now and we want it to be. Let's team up in DM and figure things out. https://t.co/GDrqU22YpT",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1869305"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "431299",
+      "author_id": "217545",
+      "inbound": "True",
+      "created_at": "Tue Oct 10 12:39:45 +0000 2017",
+      "text": "Yo @AppleSupport what’s going on with this new iPhone update? Keeps turning my WiFi/Bluetooth on throughout the day, randomly. Not cool. 👎🏻",
+      "response_tweet_id": "431300,431301,431302,431303,431304,431305,431306,431307,431308,431309,431310,431311,431312,431313,431314,431315,431316,431317,431318,431319,431320,431321,431322,431323,431324,431325,431326,431327,431328,431329,431330,431331,431332,431333,431334,431335,431336,431337,431338,431339,431340,431341,431342,431343,431344,431345,431346,431347,431348,431349,431350,431297,431351,431352,431353,431354,431355,431356,431357,431358",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "431346",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Tue Oct 10 14:32:32 +0000 2017",
+      "text": "@217545 Hey Jaimie, we'd like to look into this with you. Send us a DM, and we'll continue there. https://t.co/GDrqU22YpT",
+      "response_tweet_id": "907354",
+      "in_response_to_tweet_id": "431299"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1750439",
+      "author_id": "527516",
+      "inbound": "True",
+      "created_at": "Tue Nov 07 15:00:30 +0000 2017",
+      "text": "My phone loses its charge SO freaking fast now...haven’t even had it for a year. Wtf. Thanks, iPhone X... @AppleSupport @115858",
+      "response_tweet_id": "1750437,1750440",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1750440",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Tue Nov 07 17:43:28 +0000 2017",
+      "text": "@527516 We're happy to assist you. DM us at the link below for further assistance. https://t.co/GDrqU22YpT",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1750439"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "947762",
+      "author_id": "344758",
+      "inbound": "True",
+      "created_at": "Sat Oct 21 16:11:11 +0000 2017",
+      "text": ".@AppleSupport phone randomly turned off today. Only way to turn it on was to force a reset. This is a joke now.",
+      "response_tweet_id": "947761",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "947761",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Sat Oct 21 19:42:29 +0000 2017",
+      "text": "@344758 We're here to help. DM us what iOS version you're on. https://t.co/GDrqU22YpT",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "947762"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "854547",
+      "author_id": "322953",
+      "inbound": "True",
+      "created_at": "Fri Oct 20 16:55:51 +0000 2017",
+      "text": "@AppleSupport  https://t.co/8tS1A4U9fn",
+      "response_tweet_id": "854550",
+      "in_response_to_tweet_id": "854546"
+    },
+    "support": {
+      "tweet_id": "854550",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Fri Oct 20 18:08:25 +0000 2017",
+      "text": "@322953 We want to get you in the right direction. Reach out to our iTunes department at this link:  https://t.co/SDIe7UiyJN",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "854547"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2467251",
+      "author_id": "705948",
+      "inbound": "True",
+      "created_at": "Sun Oct 29 22:03:34 +0000 2017",
+      "text": "@AppleSupport Yes, I have active family subscription.",
+      "response_tweet_id": "2467255",
+      "in_response_to_tweet_id": "2467249"
+    },
+    "support": {
+      "tweet_id": "2467255",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Sun Oct 29 22:11:00 +0000 2017",
+      "text": "@705948 Let us know in DM if you are the organizer. https://t.co/GDrqU22YpT",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "2467251"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2616604",
+      "author_id": "739562",
+      "inbound": "True",
+      "created_at": "Fri Nov 17 07:01:06 +0000 2017",
+      "text": "Where is their no keyboard option for degrees? What the fuck? @115858",
+      "response_tweet_id": "2616603",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2616603",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Fri Nov 17 14:26:00 +0000 2017",
+      "text": "@739562 It's a little hidden but it's there. You can press and hold the 0 key and you'll see the degree symbol as an option come up.",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "2616604"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "811414",
+      "author_id": "313315",
+      "inbound": "True",
+      "created_at": "Sun Oct 08 12:16:53 +0000 2017",
+      "text": "@115858 @AppleSupport",
+      "response_tweet_id": "811413",
+      "in_response_to_tweet_id": "811415"
+    },
+    "support": {
+      "tweet_id": "811413",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Sun Oct 08 16:10:36 +0000 2017",
+      "text": "@313315 Since our Twitter support is available in English, get help at https://t.co/IBIY3vMgPj or join https://t.co/pvaOFfPbjt",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "811414"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "1736118",
+      "author_id": "524173",
+      "inbound": "True",
+      "created_at": "Tue Nov 07 04:27:32 +0000 2017",
+      "text": "Can @115858 please fix the iPhone bug with the keyboard already",
+      "response_tweet_id": "1736117",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "1736117",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Tue Nov 07 14:00:00 +0000 2017",
+      "text": "@524173 Here’s what you can do to work around the issue until it’s fixed in a future software update: https://t.co/xXaXeeSRt9",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "1736118"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2123821",
+      "author_id": "625597",
+      "inbound": "True",
+      "created_at": "Wed Nov 08 16:43:25 +0000 2017",
+      "text": "Can’t enjoy my podcasts on #PodcastWednesday bc the headphones that came with my iPhone 8 don’t work @AppleSupport",
+      "response_tweet_id": "2123820",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2123820",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Wed Nov 08 18:19:00 +0000 2017",
+      "text": "@625597 We want to help. DM us what happens when you attempt to use your headphones with your iPhone 8. We'll look into this with you. https://t.co/GDrqU22YpT",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "2123821"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "936759",
+      "author_id": "342067",
+      "inbound": "True",
+      "created_at": "Sat Oct 21 13:05:32 +0000 2017",
+      "text": "@AppleSupport plus the phone is now slower than a Windows 95 PC. Come on guys..",
+      "response_tweet_id": "936758",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "936758",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Sat Oct 21 18:12:35 +0000 2017",
+      "text": "@342067 We want to look further into this with you. Tell us more about what's going on with your iPhone in DM. https://t.co/GDrqU22YpT",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "936759"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "2980854",
+      "author_id": "822159",
+      "inbound": "True",
+      "created_at": "Sun Nov 19 17:45:20 +0000 2017",
+      "text": "Had the most HORRIBLE experience buying/picking up my @115858 iPhone X yesterday really thinking about @115858 alternative products from now on #neverwannagothroughthatagain #apple #applefailedme",
+      "response_tweet_id": "2980853",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "2980853",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Sun Nov 19 18:20:28 +0000 2017",
+      "text": "@822159 Congratulations on your new iPhone X! We know how important the experience is when you get your iPhone as well, and we'd like to help. To get started, please DM us with details about what happened. We look forward to hearing back from you. https://t.co/GDrqU22YpT",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "2980854"
+    }
+  },
+  {
+    "customer": {
+      "tweet_id": "810861",
+      "author_id": "313204",
+      "inbound": "True",
+      "created_at": "Sun Oct 08 11:49:09 +0000 2017",
+      "text": "@AppleSupport I had update to ios 11.1, then I have a big problem The Battery Drawning. How to fix this problem?\nHelp me please ...!",
+      "response_tweet_id": "810860",
+      "in_response_to_tweet_id": ""
+    },
+    "support": {
+      "tweet_id": "810860",
+      "author_id": "AppleSupport",
+      "inbound": "False",
+      "created_at": "Sun Oct 08 15:57:00 +0000 2017",
+      "text": "@313204 We're here for you! Send us a DM &amp; we'll continue there. https://t.co/GDrqU22YpT",
+      "response_tweet_id": "",
+      "in_response_to_tweet_id": "810861"
+    }
+  }
+]

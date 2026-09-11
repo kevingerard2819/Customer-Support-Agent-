@@ -1,0 +1,7 @@
+{
+  "packet_id": "f7f2c644b1e1e24d8205cb0f56b45dfe264b56140e3b248e43eba6319acf8ab0",
+  "model": "gemini-3.5-flash",
+  "signature": "377680f6479f57c502a2bf6fca58c523ed00faac3bc095babf75a82716332ef0",
+  "batch_size": 15,
+  "independence_limitation": "Judge and agent use Gemini 3.5 Flash. Human validation is essential; shared-model bias is possible."
+}

@@ -1,0 +1,131 @@
+{
+  "parsed": {
+    "results": [
+      {
+        "intent": "library_playlists",
+        "route": "auto_handle",
+        "reason": "supported_general_help",
+        "draft": "Sorry to hear that! Check out the steps under “Downloads unexpectedly removed” at https://t.co/38J7tFlIBF. They should help with this.",
+        "evidence_ids": [
+          "2019301"
+        ],
+        "reply_kind": "answer",
+        "tweet_id": "2560565"
+      },
+      {
+        "intent": "playback_app",
+        "route": "escalate",
+        "reason": "insufficient_context",
+        "draft": "Hey there! We'd love to help out. Can you tell us what device you're using, and whether you're on a Free or Premium account? We'll see what we can suggest.",
+        "evidence_ids": [],
+        "reply_kind": "handoff",
+        "tweet_id": "2629114"
+      },
+      {
+        "intent": "playback_app",
+        "route": "auto_handle",
+        "reason": "safe_clarification",
+        "draft": "Thanks for sharing those details. Does this casting and lightning cable issue occur on the Spotify app only, or does it happen on other media players as well?",
+        "evidence_ids": [
+          "2516168"
+        ],
+        "reply_kind": "clarification",
+        "tweet_id": "2246028"
+      },
+      {
+        "intent": "catalog_availability",
+        "route": "auto_handle",
+        "reason": "supported_general_help",
+        "draft": "Hey! Fingers crossed we'll be able to have Tool's music soon, but there's more info about how Spotify content availability works here: https://t.co/0i8GpimuDa",
+        "evidence_ids": [
+          "2074118"
+        ],
+        "reply_kind": "answer",
+        "tweet_id": "2504234"
+      },
+      {
+        "intent": "billing_subscription",
+        "route": "auto_handle",
+        "reason": "supported_general_help",
+        "draft": "We recommend checking out our Spotify Yearly discount - 12 months for the price of 10: https://t.co/LHTUu8url7. Let us know how it goes!",
+        "evidence_ids": [
+          "557250"
+        ],
+        "reply_kind": "answer",
+        "tweet_id": "789815"
+      },
+      {
+        "intent": "playback_app",
+        "route": "auto_handle",
+        "reason": "supported_general_help",
+        "draft": "Hey there, we're here to help! Does logging out, restarting your device, and logging back in help bring back the lock screen controls? Keep us posted.",
+        "evidence_ids": [
+          "1177827"
+        ],
+        "reply_kind": "answer",
+        "tweet_id": "1470934"
+      },
+      {
+        "intent": "social_acknowledgement",
+        "route": "auto_handle",
+        "reason": "safe_acknowledgement",
+        "draft": "Haha, the Upside Down can definitely get a bit spooky! Let us know if you have any questions about it.",
+        "evidence_ids": [
+          "2141738"
+        ],
+        "reply_kind": "acknowledgement",
+        "tweet_id": "1993001"
+      },
+      {
+        "intent": "account_access_security",
+        "route": "escalate",
+        "reason": "account_action",
+        "draft": "Hey! We'd love to help sort this student discount issue out. Can you send us a DM with your account's email address so we can take a closer look?",
+        "evidence_ids": [
+          "2407028"
+        ],
+        "reply_kind": "handoff",
+        "tweet_id": "2190782"
+      },
+      {
+        "intent": "playback_app",
+        "route": "escalate",
+        "reason": "insufficient_context",
+        "draft": "Hey there! We want to help get this playing. Could you tell us what device you're using and if you see any error messages when it loads?",
+        "evidence_ids": [],
+        "reply_kind": "handoff",
+        "tweet_id": "1298576"
+      },
+      {
+        "intent": "feedback_feature_request",
+        "route": "auto_handle",
+        "reason": "supported_general_help",
+        "draft": "This sounds like a great idea! Suggest it in our Community at https://t.co/rtDvYZOF32 so it can get support and votes from other users.",
+        "evidence_ids": [
+          "22237"
+        ],
+        "reply_kind": "answer",
+        "tweet_id": "823260"
+      }
+    ]
+  },
+  "metadata": {
+    "model": "gemini-3.5-flash",
+    "model_version": "gemini-3.5-flash",
+    "request_sha256": "3b41f140500e5275f7deab46b432cd384f38d7f5b275c64c25d11b49561999d6",
+    "usage": {
+      "promptTokenCount": 8436,
+      "candidatesTokenCount": 1259,
+      "totalTokenCount": 9695,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 8436
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "latency_ms": 23737.858399999823,
+    "cache_hit": false
+  }
+}

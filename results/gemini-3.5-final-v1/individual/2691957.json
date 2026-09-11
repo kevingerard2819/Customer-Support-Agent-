@@ -1,0 +1,44 @@
+{
+  "intent": "social_acknowledgement",
+  "route": "escalate",
+  "reason": "Output check: Automatic reply has no cited evidence",
+  "draft": "This needs a human support review. Please use a private support channel for account-specific details and do not post passwords or payment information here.",
+  "evidence_ids": [],
+  "reply_kind": "handoff",
+  "tweet_id": "2691957",
+  "output_check_violations": [
+    "Automatic reply has no cited evidence"
+  ],
+  "split": "test_challenge",
+  "system": "gemini",
+  "raw_prediction": {
+    "intent": "social_acknowledgement",
+    "route": "auto_handle",
+    "reason": "safe_acknowledgement",
+    "draft": "Awesome! Glad to hear that. If you need anything else, we're always here to help. Rock on! 🤘",
+    "evidence_ids": [],
+    "reply_kind": "acknowledgement",
+    "tweet_id": "2691957"
+  },
+  "api_error": null,
+  "api_metadata": {
+    "model": "gemini-3.5-flash",
+    "model_version": "gemini-3.5-flash",
+    "request_sha256": "1c0704b28224277ed9865653b143ac759f989f43ec804577cacebe5cc823e0a5",
+    "usage": {
+      "promptTokenCount": 8239,
+      "candidatesTokenCount": 1153,
+      "totalTokenCount": 9392,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 8239
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "latency_ms": 22480.18989999764,
+    "cache_hit": false
+  },
+  "latency_ms": 2248.018989999764
+}

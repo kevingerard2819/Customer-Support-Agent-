@@ -1,0 +1,160 @@
+{
+  "parsed": {
+    "results": [
+      {
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "This draft is a standard safe fallback acknowledgement for a customer asking for help with account email details.",
+        "rating_id": "7896e456fafb"
+      },
+      {
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "This escalation draft provides the customer with actionable advice about privacy.",
+        "rating_id": "14eead9b73e9"
+      },
+      {
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "This is a safe fallback acknowledgement for a customer locked out of their account.",
+        "rating_id": "04f0bf730aba"
+      },
+      {
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "Escalating this issue to human review is correct as the user is expressing frustration over a long-standing product feature request.",
+        "rating_id": "b608d3c614ed"
+      },
+      {
+        "correctness": 1,
+        "grounding": 2,
+        "usefulness": 1,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "The draft assumes that a DM has already been received and sent back, which might not yet be verified in real time, but the response is a standard way of shifting to a private channel.",
+        "rating_id": "5b50150af94f"
+      },
+      {
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "Escalating a notification of a DM sent to a human queue is safe and correct.",
+        "rating_id": "0b5df1438228"
+      },
+      {
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "Acknowledging the resolution and wrapping up the conversation is highly appropriate and supported by historical evidence.",
+        "rating_id": "bef247d99044"
+      },
+      {
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "The draft correctly asks for device and version details to troubleshoot, which is fully supported by the historical evidence for this issue.",
+        "rating_id": "b0e2369ff0c1"
+      },
+      {
+        "correctness": 1,
+        "grounding": 1,
+        "usefulness": 1,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "The draft falsely claims \"We've just replied to your DM\" when this is a fresh inbound tweet from a user who says they can't get in touch with support. A general escalation or DM prompt is better.",
+        "rating_id": "19801c758fa5"
+      },
+      {
+        "correctness": 1,
+        "grounding": 1,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "The draft asks the customer to send a DM with their email address. While this is helpful for account lookup, asking for account emails should be handled carefully, but directing them to DM is acceptable.",
+        "rating_id": "e9d5c2d0693c"
+      },
+      {
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "Billing issues involving multiple charges must be escalated to a human agent.",
+        "rating_id": "3470ce9ed963"
+      },
+      {
+        "correctness": 0,
+        "grounding": 0,
+        "usefulness": 0,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "The draft says \"We're afraid that isn't possible at the moment,\" which is false/unsupported because student discounts are a standard Spotify feature. The matched evidence was about playlist curation, which is completely irrelevant to student billing.",
+        "rating_id": "c62d37cef0f4"
+      },
+      {
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "Escalating a product inquiry about an Apple Watch app to a human support review is safe and appropriate.",
+        "rating_id": "baca58fa1442"
+      },
+      {
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "Vague inquiries about app issues are best escalated or handled via human triage to request clarification.",
+        "rating_id": "ae1c26d4321c"
+      },
+      {
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "Subscription access issues should be escalated to a human agent who can access account records safely.",
+        "rating_id": "1af7ded53d6e"
+      }
+    ]
+  },
+  "metadata": {
+    "model": "gemini-3.5-flash",
+    "model_version": "gemini-3.5-flash",
+    "request_sha256": "bc9ef09f429e972bed7a7c53826ae4236d89c51dbcb54c9aad9e5de8cfcff62c",
+    "usage": {
+      "promptTokenCount": 3537,
+      "candidatesTokenCount": 1558,
+      "totalTokenCount": 5095,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 3537
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "latency_ms": 16534.056899999996,
+    "cache_hit": false
+  }
+}

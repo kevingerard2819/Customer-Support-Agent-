@@ -1,0 +1,160 @@
+{
+  "parsed": {
+    "results": [
+      {
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "The draft is polite, acknowledges that the user was helped, and matches the historical reply template perfectly.",
+        "rating_id": "57d4bfbdffe0"
+      },
+      {
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "The draft is a standard escalation placeholder which is appropriate for a human support review since the user is asking how to cancel and expressing intent to switch.",
+        "rating_id": "59cbf4130cb1"
+      },
+      {
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "The draft matches the supported evidence template for handling the \"CSRF token is invalid\" issue, offering to take a look backstage via DM.",
+        "rating_id": "76fb0d4f3cbd"
+      },
+      {
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "The draft escalates the technical specifications provided by the user to human support.",
+        "rating_id": "78be1a5884a1"
+      },
+      {
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "The draft is appropriate, addresses unauthorized card usage, and requests a DM to protect user details safely.",
+        "rating_id": "7c27d5c08820"
+      },
+      {
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "The draft escalates the user's frustration regarding unsubscribe issues to human support.",
+        "rating_id": "83075212c7ae"
+      },
+      {
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "The draft is grounded in historical evidence for multiple charge issues and requests a DM safely.",
+        "rating_id": "5963c9f8ddf0"
+      },
+      {
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "The draft is highly useful and appropriate, apologizing for the frustration and asking for a DM to look into the unsubscribe failures.",
+        "rating_id": "f5645ac66bb0"
+      },
+      {
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "The draft correctly escalates the CSRF issue to human support.",
+        "rating_id": "843c6efded99"
+      },
+      {
+        "correctness": 1,
+        "grounding": 1,
+        "usefulness": 1,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "The draft addresses the user as 'Mauricio' based on historical evidence that belonged to a completely different user conversation, which is inaccurate for this customer's message.",
+        "rating_id": "31e85197bd1a"
+      },
+      {
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "The draft correctly offers to help with the song metadata/name issue and asks for details via DM.",
+        "rating_id": "55d49fe7c4ef"
+      },
+      {
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "The draft appropriately offers to help change the country and asks for account details in DM.",
+        "rating_id": "4b3f6a7d2c24"
+      },
+      {
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "The draft matches the supported response structure for subscription issues, asking for the username/email via DM.",
+        "rating_id": "d4d9e72d31d5"
+      },
+      {
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "The draft is appropriate, asking for more details about the app issue via DM.",
+        "rating_id": "deee6fa600d3"
+      },
+      {
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "rationale": "The draft escalates the user's feature/playlist following inquiry to human support.",
+        "rating_id": "5aed64ea6d71"
+      }
+    ]
+  },
+  "metadata": {
+    "model": "gemini-3.5-flash",
+    "model_version": "gemini-3.5-flash",
+    "request_sha256": "c7e5900fb2fc66c7c0f6be2c22e9ddb96ab6aa8fdde0e0e58e7008c0a447d470",
+    "usage": {
+      "promptTokenCount": 3311,
+      "candidatesTokenCount": 1492,
+      "totalTokenCount": 4803,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 3311
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "latency_ms": 48519.71880000201,
+    "cache_hit": false
+  }
+}

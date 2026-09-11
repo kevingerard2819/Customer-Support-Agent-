@@ -1,0 +1,45 @@
+{
+  "intent": "other_unclear",
+  "route": "escalate",
+  "reason": "Output check: Automatic reply has no cited evidence; Intent or scope is unclear.",
+  "draft": "This needs a human support review. Please use a private support channel for account-specific details and do not post passwords or payment information here.",
+  "evidence_ids": [],
+  "reply_kind": "handoff",
+  "tweet_id": "1103029",
+  "output_check_violations": [
+    "Automatic reply has no cited evidence",
+    "Intent or scope is unclear."
+  ],
+  "split": "test_representative",
+  "system": "gemini",
+  "raw_prediction": {
+    "intent": "other_unclear",
+    "route": "auto_handle",
+    "reason": "safe_acknowledgement",
+    "draft": "That's fantastic news! We're glad to hear you have access now. Let us know if we can help you with anything else.",
+    "evidence_ids": [],
+    "reply_kind": "acknowledgement",
+    "tweet_id": "1103029"
+  },
+  "api_error": null,
+  "api_metadata": {
+    "model": "gemini-3.5-flash",
+    "model_version": "gemini-3.5-flash",
+    "request_sha256": "bdeac386b7d1a77ee04f938134441c0531921fa739e9a68d151b30a02cf797f8",
+    "usage": {
+      "promptTokenCount": 7976,
+      "candidatesTokenCount": 1229,
+      "totalTokenCount": 9205,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 7976
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "latency_ms": 23383.085800000117,
+    "cache_hit": false
+  },
+  "latency_ms": 2338.3085800000117
+}

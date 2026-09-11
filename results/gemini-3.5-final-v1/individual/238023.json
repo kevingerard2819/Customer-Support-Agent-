@@ -1,0 +1,46 @@
+{
+  "intent": "playback_app",
+  "route": "auto_handle",
+  "reason": "safe_clarification",
+  "draft": "We'd love to help get this sorted out. Can you tell us the exact version of the Spotify app you're running on Android 8.0? We'll see what we can suggest.",
+  "evidence_ids": [
+    "769719"
+  ],
+  "reply_kind": "clarification",
+  "tweet_id": "238023",
+  "output_check_violations": [],
+  "split": "test_representative",
+  "system": "gemini",
+  "raw_prediction": {
+    "intent": "playback_app",
+    "route": "auto_handle",
+    "reason": "safe_clarification",
+    "draft": "We'd love to help get this sorted out. Can you tell us the exact version of the Spotify app you're running on Android 8.0? We'll see what we can suggest.",
+    "evidence_ids": [
+      "769719"
+    ],
+    "reply_kind": "clarification",
+    "tweet_id": "238023"
+  },
+  "api_error": null,
+  "api_metadata": {
+    "model": "gemini-3.5-flash",
+    "model_version": "gemini-3.5-flash",
+    "request_sha256": "b5cde36d5e6d6459885c6cdc71c7846ca0b45049d3603c4024cfad8335abfb75",
+    "usage": {
+      "promptTokenCount": 8414,
+      "candidatesTokenCount": 1192,
+      "totalTokenCount": 9606,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 8414
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "latency_ms": 23677.850600000966,
+    "cache_hit": false
+  },
+  "latency_ms": 2367.7850600000966
+}

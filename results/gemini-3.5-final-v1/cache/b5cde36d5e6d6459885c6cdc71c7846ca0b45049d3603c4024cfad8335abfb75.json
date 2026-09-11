@@ -1,0 +1,127 @@
+{
+  "parsed": {
+    "results": [
+      {
+        "intent": "account_access_security",
+        "route": "escalate",
+        "reason": "account_action",
+        "draft": "We'd love to help you get registered and listening! Since this involves signing up and potential account details, could you join us in a DM? We'll check this out backstage with you.",
+        "evidence_ids": [],
+        "reply_kind": "handoff",
+        "tweet_id": "548698"
+      },
+      {
+        "intent": "feedback_feature_request",
+        "route": "escalate",
+        "reason": "unverified_policy",
+        "draft": "We appreciate you sharing your thoughts on two-factor authentication (2FA) with us. We've noted your feedback regarding this security feature request.",
+        "evidence_ids": [],
+        "reply_kind": "handoff",
+        "tweet_id": "1098085"
+      },
+      {
+        "intent": "billing_subscription",
+        "route": "escalate",
+        "reason": "account_action",
+        "draft": "Let's check this out for you. Could you send us a DM with the email addresses or usernames of your account and your wife's? We'll investigate backstage.",
+        "evidence_ids": [
+          "2943763"
+        ],
+        "reply_kind": "handoff",
+        "tweet_id": "2036355"
+      },
+      {
+        "intent": "account_access_security",
+        "route": "escalate",
+        "reason": "account_action",
+        "draft": "We're sorry to hear you're locked out of your account after support. Can you send us a DM with your username and the email address associated with your account? We'll look into this.",
+        "evidence_ids": [
+          "2028090"
+        ],
+        "reply_kind": "handoff",
+        "tweet_id": "2264840"
+      },
+      {
+        "intent": "billing_subscription",
+        "route": "escalate",
+        "reason": "account_action",
+        "draft": "Let's help manage your Family plan. Could you send us a DM with your account's email address? We'll take a look under the hood for you.",
+        "evidence_ids": [
+          "2389837"
+        ],
+        "reply_kind": "handoff",
+        "tweet_id": "1871992"
+      },
+      {
+        "intent": "library_playlists",
+        "route": "escalate",
+        "reason": "repeated_failure",
+        "draft": "We hear you, and we'd like to look into this further. Could you send us a DM with your account's email address so we can check on your case?",
+        "evidence_ids": [
+          "2311123"
+        ],
+        "reply_kind": "handoff",
+        "tweet_id": "48085"
+      },
+      {
+        "intent": "playback_app",
+        "route": "escalate",
+        "reason": "repeated_failure",
+        "draft": "That sounds frustrating. Since we've tried a few troubleshooting steps already, could you send us a DM with your account's email address so we can take a closer look?",
+        "evidence_ids": [],
+        "reply_kind": "handoff",
+        "tweet_id": "2789384"
+      },
+      {
+        "intent": "playback_app",
+        "route": "auto_handle",
+        "reason": "safe_clarification",
+        "draft": "We'd love to help get this sorted out. Can you tell us the exact version of the Spotify app you're running on Android 8.0? We'll see what we can suggest.",
+        "evidence_ids": [
+          "769719"
+        ],
+        "reply_kind": "clarification",
+        "tweet_id": "238023"
+      },
+      {
+        "intent": "billing_subscription",
+        "route": "escalate",
+        "reason": "account_action",
+        "draft": "Let's help your family members get their Premium access sorted out. Could you send us a DM with your account's email address so we can take a look under the hood?",
+        "evidence_ids": [
+          "1871704"
+        ],
+        "reply_kind": "handoff",
+        "tweet_id": "852668"
+      },
+      {
+        "intent": "other_unclear",
+        "route": "escalate",
+        "reason": "insufficient_context",
+        "draft": "We're here to help. Could you send us a DM with more details about what's happening with the app, along with your username or email address?",
+        "evidence_ids": [],
+        "reply_kind": "handoff",
+        "tweet_id": "2913904"
+      }
+    ]
+  },
+  "metadata": {
+    "model": "gemini-3.5-flash",
+    "model_version": "gemini-3.5-flash",
+    "request_sha256": "b5cde36d5e6d6459885c6cdc71c7846ca0b45049d3603c4024cfad8335abfb75",
+    "usage": {
+      "promptTokenCount": 8414,
+      "candidatesTokenCount": 1192,
+      "totalTokenCount": 9606,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 8414
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "latency_ms": 23677.850600000966,
+    "cache_hit": false
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "intent": "feedback_feature_request",
+  "route": "escalate",
+  "reason": "Output check: Unsupported action, link or credential request",
+  "draft": "This needs a human support review. Please use a private support channel for account-specific details and do not post passwords or payment information here.",
+  "evidence_ids": [],
+  "reply_kind": "handoff",
+  "tweet_id": "823260",
+  "output_check_violations": [
+    "Unsupported action, link or credential request"
+  ],
+  "split": "test_representative",
+  "system": "gemini",
+  "raw_prediction": {
+    "intent": "feedback_feature_request",
+    "route": "auto_handle",
+    "reason": "supported_general_help",
+    "draft": "This sounds like a great idea! Suggest it in our Community at https://t.co/rtDvYZOF32 so it can get support and votes from other users.",
+    "evidence_ids": [
+      "22237"
+    ],
+    "reply_kind": "answer",
+    "tweet_id": "823260"
+  },
+  "api_error": null,
+  "api_metadata": {
+    "model": "gemini-3.5-flash",
+    "model_version": "gemini-3.5-flash",
+    "request_sha256": "3b41f140500e5275f7deab46b432cd384f38d7f5b275c64c25d11b49561999d6",
+    "usage": {
+      "promptTokenCount": 8436,
+      "candidatesTokenCount": 1259,
+      "totalTokenCount": 9695,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 8436
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "latency_ms": 23737.858399999823,
+    "cache_hit": false
+  },
+  "latency_ms": 2373.7858399999823
+}

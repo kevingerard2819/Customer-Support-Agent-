@@ -1,0 +1,115 @@
+{
+  "status": "reviewed_pilot",
+  "provenance": "Original labels entered by the user; six changes proposed by the assistant and accepted by the user in chat on 2026-09-10. Original labels remain in pilot-human-labels.json and pilot-batch.xlsx.",
+  "limitations": "Guideline calibration only. This is not independent human agreement with an LLM judge, not a held-out golden set, and not model performance evidence.",
+  "examples": [
+    {
+      "tweet_id": "1500094",
+      "intent": "billing_subscription",
+      "route": "escalate",
+      "original_intent": "billing_subscription",
+      "original_route": "escalate",
+      "review_status": "original_human_label_retained",
+      "review_reason": "No change proposed in pilot review."
+    },
+    {
+      "tweet_id": "602845",
+      "intent": "playback_app",
+      "route": "escalate",
+      "original_intent": "playback_app",
+      "original_route": "escalate",
+      "review_status": "original_human_label_retained",
+      "review_reason": "No change proposed in pilot review."
+    },
+    {
+      "tweet_id": "1909997",
+      "intent": "playback_app",
+      "route": "auto_handle",
+      "original_intent": "playback_app",
+      "original_route": "auto_handle",
+      "review_status": "original_human_label_retained",
+      "review_reason": "No change proposed in pilot review."
+    },
+    {
+      "tweet_id": "2728389",
+      "intent": "account_access_security",
+      "route": "escalate",
+      "original_intent": "account_access_security",
+      "original_route": "escalate",
+      "review_status": "original_human_label_retained",
+      "review_reason": "No change proposed in pilot review."
+    },
+    {
+      "tweet_id": "2313472",
+      "intent": "billing_subscription",
+      "route": "escalate",
+      "original_intent": "account_access_security",
+      "original_route": "auto_handle",
+      "review_reason": "Family invitations fall under subscription entitlement; account-specific checking requires a human.",
+      "review_status": "assistant_proposed_change_accepted_by_user"
+    },
+    {
+      "tweet_id": "2251335",
+      "intent": "library_playlists",
+      "route": "auto_handle",
+      "original_intent": "playback_app",
+      "original_route": "auto_handle",
+      "review_reason": "Sorting is playlist management. Auto-handling requires supported instructions or safe clarification.",
+      "review_status": "assistant_proposed_change_accepted_by_user"
+    },
+    {
+      "tweet_id": "57576",
+      "intent": "other_unclear",
+      "route": "escalate",
+      "original_intent": "playback_app",
+      "original_route": "auto_handle",
+      "review_reason": "The taxonomy lacks a clear category for this account-feature question; historical replies cannot establish current blocking capabilities.",
+      "review_status": "assistant_proposed_change_accepted_by_user"
+    },
+    {
+      "tweet_id": "2076929",
+      "intent": "other_unclear",
+      "route": "escalate",
+      "original_intent": "social_acknowledgement",
+      "original_route": "auto_handle",
+      "review_reason": "The user initially interpreted bump as a friendly fist bump. It can also be a follow-up on an unanswered request. Missing context prevents a confident interpretation; the user agreed to the proposed conservative label.",
+      "review_status": "assistant_proposed_change_accepted_by_user"
+    },
+    {
+      "tweet_id": "832174",
+      "intent": "catalog_availability",
+      "route": "escalate",
+      "original_intent": "library_playlists",
+      "original_route": "escalate",
+      "review_reason": "The request concerns availability of an artist, not saved playlist management. Retain escalation for sensitive content.",
+      "review_status": "assistant_proposed_change_accepted_by_user"
+    },
+    {
+      "tweet_id": "1726752",
+      "intent": "social_acknowledgement",
+      "route": "auto_handle",
+      "original_intent": "social_acknowledgement",
+      "original_route": "auto_handle",
+      "review_status": "original_human_label_retained",
+      "review_reason": "No change proposed in pilot review."
+    },
+    {
+      "tweet_id": "2267527",
+      "intent": "social_acknowledgement",
+      "route": "auto_handle",
+      "original_intent": "social_acknowledgement",
+      "original_route": "auto_handle",
+      "review_status": "original_human_label_retained",
+      "review_reason": "No change proposed in pilot review."
+    },
+    {
+      "tweet_id": "2121321",
+      "intent": "other_unclear",
+      "route": "escalate",
+      "original_intent": "other_unclear",
+      "original_route": "auto_handle",
+      "review_reason": "Unsupported language under the declared English-only scope.",
+      "review_status": "assistant_proposed_change_accepted_by_user"
+    }
+  ]
+}

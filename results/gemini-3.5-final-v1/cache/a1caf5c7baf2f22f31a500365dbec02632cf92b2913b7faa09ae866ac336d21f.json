@@ -1,0 +1,129 @@
+{
+  "parsed": {
+    "results": [
+      {
+        "intent": "account_access_security",
+        "route": "escalate",
+        "reason": "account_action",
+        "draft": "Hey there! We'd love to look into this Hulu connection error for you. Could you send us a DM with your account's email address and username? We'll check things out backstage.",
+        "evidence_ids": [
+          "1973013"
+        ],
+        "reply_kind": "handoff",
+        "tweet_id": "1998290"
+      },
+      {
+        "intent": "account_access_security",
+        "route": "escalate",
+        "reason": "account_action",
+        "draft": "Hey there! We can certainly help you regain access to your account now that your Facebook is disabled. Please send us a DM with your account details, and we'll carry on helping you privately.",
+        "evidence_ids": [],
+        "reply_kind": "handoff",
+        "tweet_id": "1851438"
+      },
+      {
+        "intent": "billing_subscription",
+        "route": "escalate",
+        "reason": "account_action",
+        "draft": "Hi there! Let's get this sorted out. Could you send us a DM with your account's email address or username? We'll take a look backstage to see why your Premium isn't showing up.",
+        "evidence_ids": [
+          "284091"
+        ],
+        "reply_kind": "handoff",
+        "tweet_id": "1794771"
+      },
+      {
+        "intent": "catalog_availability",
+        "route": "escalate",
+        "reason": "unverified_policy",
+        "draft": "Hey there! We'd love to help you find out more about availability. Since catalog and regional availability can change, could you DM us with details or check the link in our profile for general release info?",
+        "evidence_ids": [],
+        "reply_kind": "handoff",
+        "tweet_id": "876815"
+      },
+      {
+        "intent": "social_acknowledgement",
+        "route": "auto_handle",
+        "reason": "safe_acknowledgement",
+        "draft": "No worries! We're glad that did the trick. If you ever need anything else, just let us know. Happy listening!",
+        "evidence_ids": [
+          "1335511",
+          "1849988"
+        ],
+        "reply_kind": "acknowledgement",
+        "tweet_id": "813542"
+      },
+      {
+        "intent": "billing_subscription",
+        "route": "escalate",
+        "reason": "unverified_policy",
+        "draft": "Hey Rob! With Premium, you can use Spotify abroad anywhere for as long as you like without the 14-day limit. Let us know if you have other questions!",
+        "evidence_ids": [],
+        "reply_kind": "handoff",
+        "tweet_id": "1034901"
+      },
+      {
+        "intent": "billing_subscription",
+        "route": "escalate",
+        "reason": "security_privacy",
+        "draft": "Hi there, we take unauthorized charges very seriously. Please send us a private message right away so we can help secure your account details and investigate this safely.",
+        "evidence_ids": [],
+        "reply_kind": "handoff",
+        "tweet_id": "2183001"
+      },
+      {
+        "intent": "account_access_security",
+        "route": "escalate",
+        "reason": "account_action",
+        "draft": "Hey there, we'd love to help you with this login error. Please send us a DM with your username and the email address associated with your account, and we'll look into this backstage.",
+        "evidence_ids": [
+          "468951",
+          "2963375"
+        ],
+        "reply_kind": "handoff",
+        "tweet_id": "91667"
+      },
+      {
+        "intent": "billing_subscription",
+        "route": "escalate",
+        "reason": "account_action",
+        "draft": "Hey! We want to get you back to your Premium tunes for your road trip. Could you send us a DM with your account's email address or username? We'll look backstage right away.",
+        "evidence_ids": [
+          "2210950"
+        ],
+        "reply_kind": "handoff",
+        "tweet_id": "1871599"
+      },
+      {
+        "intent": "feedback_feature_request",
+        "route": "auto_handle",
+        "reason": "supported_general_help",
+        "draft": "Hey! We appreciate the feedback. We're always working on improving the experience across all devices. We'll be sure to share this request with the right team.",
+        "evidence_ids": [
+          "2280531"
+        ],
+        "reply_kind": "answer",
+        "tweet_id": "1215738"
+      }
+    ]
+  },
+  "metadata": {
+    "model": "gemini-3.5-flash",
+    "model_version": "gemini-3.5-flash",
+    "request_sha256": "a1caf5c7baf2f22f31a500365dbec02632cf92b2913b7faa09ae866ac336d21f",
+    "usage": {
+      "promptTokenCount": 8051,
+      "candidatesTokenCount": 1225,
+      "totalTokenCount": 9276,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 8051
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "latency_ms": 23729.404099998646,
+    "cache_hit": false
+  }
+}

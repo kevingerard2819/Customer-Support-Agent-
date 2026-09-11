@@ -1,0 +1,693 @@
+{
+  "packet_id": "78e4fe219a31e688ad2b4feb909dbf706d04d97109ee7a7ed1c02dc6c121898d",
+  "source_packet_id": "f7f2c644b1e1e24d8205cb0f56b45dfe264b56140e3b248e43eba6319acf8ab0",
+  "style_version": "human-tone-v2",
+  "item_count": 90,
+  "changed_draft_count": 83,
+  "changes": [
+    {
+      "rating_id": "50db08a56c00",
+      "system": "trivial",
+      "tweet_id": "2363327",
+      "adjustments": [
+        "generic baseline handoff"
+      ]
+    },
+    {
+      "rating_id": "5850b7a1d1a8",
+      "system": "gemini",
+      "tweet_id": "2363327",
+      "adjustments": [
+        "human-tone cleanup",
+        "v2 safety gate"
+      ]
+    },
+    {
+      "rating_id": "5ebfad994557",
+      "system": "trivial",
+      "tweet_id": "1887548",
+      "adjustments": [
+        "generic baseline handoff"
+      ]
+    },
+    {
+      "rating_id": "99d5acaf7bdd",
+      "system": "gemini",
+      "tweet_id": "2065606",
+      "adjustments": [
+        "human-tone cleanup",
+        "v2 safety gate"
+      ]
+    },
+    {
+      "rating_id": "63aeead458df",
+      "system": "gemini",
+      "tweet_id": "629915",
+      "adjustments": [
+        "human-tone cleanup",
+        "human-tone cleanup",
+        "v2 safety gate"
+      ]
+    },
+    {
+      "rating_id": "51eb14edb5f7",
+      "system": "trivial",
+      "tweet_id": "629915",
+      "adjustments": [
+        "generic baseline handoff"
+      ]
+    },
+    {
+      "rating_id": "ef9a80743279",
+      "system": "simple",
+      "tweet_id": "712178",
+      "adjustments": [
+        "human-tone cleanup"
+      ]
+    },
+    {
+      "rating_id": "1f1bf9601cdc",
+      "system": "simple",
+      "tweet_id": "1783957",
+      "adjustments": [
+        "human-tone cleanup"
+      ]
+    },
+    {
+      "rating_id": "7d9491859c60",
+      "system": "simple",
+      "tweet_id": "1887548",
+      "adjustments": [
+        "human-tone cleanup"
+      ]
+    },
+    {
+      "rating_id": "61b73bc1b7d3",
+      "system": "simple",
+      "tweet_id": "1143737",
+      "adjustments": [
+        "human-tone cleanup"
+      ]
+    },
+    {
+      "rating_id": "f2a96893ba04",
+      "system": "trivial",
+      "tweet_id": "7011",
+      "adjustments": [
+        "generic baseline handoff"
+      ]
+    },
+    {
+      "rating_id": "96cb5b5679b4",
+      "system": "simple",
+      "tweet_id": "689585",
+      "adjustments": [
+        "human-tone cleanup"
+      ]
+    },
+    {
+      "rating_id": "5263a469c078",
+      "system": "trivial",
+      "tweet_id": "2305413",
+      "adjustments": [
+        "generic baseline handoff"
+      ]
+    },
+    {
+      "rating_id": "74e6dbcdf16a",
+      "system": "trivial",
+      "tweet_id": "2913904",
+      "adjustments": [
+        "generic baseline handoff"
+      ]
+    },
+    {
+      "rating_id": "715168588561",
+      "system": "trivial",
+      "tweet_id": "1112623",
+      "adjustments": [
+        "generic baseline handoff"
+      ]
+    },
+    {
+      "rating_id": "e7c8a92cfb94",
+      "system": "simple",
+      "tweet_id": "203126",
+      "adjustments": [
+        "human-tone cleanup"
+      ]
+    },
+    {
+      "rating_id": "b794d1eea75b",
+      "system": "gemini",
+      "tweet_id": "2036310",
+      "adjustments": [
+        "human-tone cleanup",
+        "v2 safety gate"
+      ]
+    },
+    {
+      "rating_id": "fc2c5a00e976",
+      "system": "gemini",
+      "tweet_id": "2305413",
+      "adjustments": [
+        "human-tone cleanup",
+        "v2 safety gate"
+      ]
+    },
+    {
+      "rating_id": "44cc0030a492",
+      "system": "trivial",
+      "tweet_id": "1103029",
+      "adjustments": [
+        "generic baseline handoff"
+      ]
+    },
+    {
+      "rating_id": "f0927050304f",
+      "system": "gemini",
+      "tweet_id": "576784",
+      "adjustments": [
+        "v2 safety gate"
+      ]
+    },
+    {
+      "rating_id": "d24fff989514",
+      "system": "gemini",
+      "tweet_id": "1779504",
+      "adjustments": [
+        "human-tone cleanup",
+        "human-tone cleanup"
+      ]
+    },
+    {
+      "rating_id": "1002441dd3bb",
+      "system": "trivial",
+      "tweet_id": "876815",
+      "adjustments": [
+        "generic baseline handoff"
+      ]
+    },
+    {
+      "rating_id": "a65574f4248f",
+      "system": "trivial",
+      "tweet_id": "1659439",
+      "adjustments": [
+        "generic baseline handoff"
+      ]
+    },
+    {
+      "rating_id": "f1780f1caf87",
+      "system": "simple",
+      "tweet_id": "1112623",
+      "adjustments": [
+        "human-tone cleanup"
+      ]
+    },
+    {
+      "rating_id": "1a2698153671",
+      "system": "simple",
+      "tweet_id": "2913904",
+      "adjustments": [
+        "human-tone cleanup"
+      ]
+    },
+    {
+      "rating_id": "aa0ed1ef299b",
+      "system": "gemini",
+      "tweet_id": "1887548",
+      "adjustments": [
+        "human-tone cleanup",
+        "human-tone cleanup"
+      ]
+    },
+    {
+      "rating_id": "119324216fd5",
+      "system": "trivial",
+      "tweet_id": "2609463",
+      "adjustments": [
+        "generic baseline handoff"
+      ]
+    },
+    {
+      "rating_id": "82f5c73c8c7b",
+      "system": "gemini",
+      "tweet_id": "1103029",
+      "adjustments": [
+        "v2 safety gate"
+      ]
+    },
+    {
+      "rating_id": "741c5b3155ae",
+      "system": "trivial",
+      "tweet_id": "1853470",
+      "adjustments": [
+        "generic baseline handoff"
+      ]
+    },
+    {
+      "rating_id": "68ac243d18b3",
+      "system": "simple",
+      "tweet_id": "91667",
+      "adjustments": [
+        "human-tone cleanup"
+      ]
+    },
+    {
+      "rating_id": "eb16f98daec4",
+      "system": "gemini",
+      "tweet_id": "260045",
+      "adjustments": [
+        "human-tone cleanup",
+        "v2 safety gate"
+      ]
+    },
+    {
+      "rating_id": "cf5466be15a7",
+      "system": "trivial",
+      "tweet_id": "2279523",
+      "adjustments": [
+        "generic baseline handoff"
+      ]
+    },
+    {
+      "rating_id": "b00bcf59b3f0",
+      "system": "simple",
+      "tweet_id": "7011",
+      "adjustments": [
+        "human-tone cleanup"
+      ]
+    },
+    {
+      "rating_id": "96dd17c9ddab",
+      "system": "trivial",
+      "tweet_id": "91667",
+      "adjustments": [
+        "generic baseline handoff"
+      ]
+    },
+    {
+      "rating_id": "b6f3740771dd",
+      "system": "simple",
+      "tweet_id": "2183001",
+      "adjustments": [
+        "human-tone cleanup"
+      ]
+    },
+    {
+      "rating_id": "313dba1f3be3",
+      "system": "gemini",
+      "tweet_id": "1761839",
+      "adjustments": [
+        "human-tone cleanup",
+        "human-tone cleanup"
+      ]
+    },
+    {
+      "rating_id": "b4a2ca1ceb52",
+      "system": "gemini",
+      "tweet_id": "1112623",
+      "adjustments": [
+        "human-tone cleanup",
+        "human-tone cleanup"
+      ]
+    },
+    {
+      "rating_id": "f0148f47095a",
+      "system": "gemini",
+      "tweet_id": "834634",
+      "adjustments": [
+        "v2 safety gate"
+      ]
+    },
+    {
+      "rating_id": "1aef6f3cd327",
+      "system": "gemini",
+      "tweet_id": "1853470",
+      "adjustments": [
+        "human-tone cleanup",
+        "human-tone cleanup"
+      ]
+    },
+    {
+      "rating_id": "61cb7256b9fa",
+      "system": "trivial",
+      "tweet_id": "576784",
+      "adjustments": [
+        "generic baseline handoff"
+      ]
+    },
+    {
+      "rating_id": "3b315a4da59f",
+      "system": "simple",
+      "tweet_id": "1761839",
+      "adjustments": [
+        "human-tone cleanup"
+      ]
+    },
+    {
+      "rating_id": "963e175709e3",
+      "system": "simple",
+      "tweet_id": "2065606",
+      "adjustments": [
+        "human-tone cleanup"
+      ]
+    },
+    {
+      "rating_id": "68dcd4e050b6",
+      "system": "trivial",
+      "tweet_id": "1807589",
+      "adjustments": [
+        "generic baseline handoff"
+      ]
+    },
+    {
+      "rating_id": "fe56bd1abac5",
+      "system": "gemini",
+      "tweet_id": "1783957",
+      "adjustments": [
+        "v2 safety gate"
+      ]
+    },
+    {
+      "rating_id": "a47e3d9ad8bb",
+      "system": "simple",
+      "tweet_id": "1853470",
+      "adjustments": [
+        "human-tone cleanup"
+      ]
+    },
+    {
+      "rating_id": "822ac38df478",
+      "system": "gemini",
+      "tweet_id": "1807589",
+      "adjustments": [
+        "human-tone cleanup",
+        "v2 safety gate"
+      ]
+    },
+    {
+      "rating_id": "8abb69e074d3",
+      "system": "simple",
+      "tweet_id": "184170",
+      "adjustments": [
+        "human-tone cleanup"
+      ]
+    },
+    {
+      "rating_id": "7d98a4b480e6",
+      "system": "simple",
+      "tweet_id": "2036310",
+      "adjustments": [
+        "human-tone cleanup"
+      ]
+    },
+    {
+      "rating_id": "059f0c92e8ae",
+      "system": "simple",
+      "tweet_id": "576784",
+      "adjustments": [
+        "human-tone cleanup"
+      ]
+    },
+    {
+      "rating_id": "0dfc60934f55",
+      "system": "trivial",
+      "tweet_id": "834634",
+      "adjustments": [
+        "generic baseline handoff"
+      ]
+    },
+    {
+      "rating_id": "519a095bebc6",
+      "system": "gemini",
+      "tweet_id": "91667",
+      "adjustments": [
+        "human-tone cleanup",
+        "human-tone cleanup"
+      ]
+    },
+    {
+      "rating_id": "7545f153a088",
+      "system": "trivial",
+      "tweet_id": "689585",
+      "adjustments": [
+        "generic baseline handoff"
+      ]
+    },
+    {
+      "rating_id": "95c1e695feab",
+      "system": "simple",
+      "tweet_id": "1807589",
+      "adjustments": [
+        "human-tone cleanup"
+      ]
+    },
+    {
+      "rating_id": "a8f795be3437",
+      "system": "trivial",
+      "tweet_id": "1749860",
+      "adjustments": [
+        "generic baseline handoff"
+      ]
+    },
+    {
+      "rating_id": "82640143e515",
+      "system": "simple",
+      "tweet_id": "260045",
+      "adjustments": [
+        "human-tone cleanup"
+      ]
+    },
+    {
+      "rating_id": "970d2467a502",
+      "system": "trivial",
+      "tweet_id": "1779504",
+      "adjustments": [
+        "generic baseline handoff"
+      ]
+    },
+    {
+      "rating_id": "c19ad302bb2d",
+      "system": "simple",
+      "tweet_id": "876815",
+      "adjustments": [
+        "human-tone cleanup"
+      ]
+    },
+    {
+      "rating_id": "a2b5d40a1ca3",
+      "system": "gemini",
+      "tweet_id": "2609463",
+      "adjustments": [
+        "human-tone cleanup",
+        "human-tone cleanup"
+      ]
+    },
+    {
+      "rating_id": "534a4c2d7304",
+      "system": "simple",
+      "tweet_id": "2363327",
+      "adjustments": [
+        "human-tone cleanup"
+      ]
+    },
+    {
+      "rating_id": "451556d5488c",
+      "system": "trivial",
+      "tweet_id": "1761839",
+      "adjustments": [
+        "generic baseline handoff"
+      ]
+    },
+    {
+      "rating_id": "f62e7ec227f4",
+      "system": "trivial",
+      "tweet_id": "712178",
+      "adjustments": [
+        "generic baseline handoff"
+      ]
+    },
+    {
+      "rating_id": "7e27afc6a0b5",
+      "system": "gemini",
+      "tweet_id": "1659439",
+      "adjustments": [
+        "v2 safety gate"
+      ]
+    },
+    {
+      "rating_id": "feb374a4a9e3",
+      "system": "gemini",
+      "tweet_id": "7011",
+      "adjustments": [
+        "human-tone cleanup",
+        "v2 safety gate"
+      ]
+    },
+    {
+      "rating_id": "be1bf172dc3d",
+      "system": "simple",
+      "tweet_id": "1659439",
+      "adjustments": [
+        "human-tone cleanup"
+      ]
+    },
+    {
+      "rating_id": "587163e139bd",
+      "system": "simple",
+      "tweet_id": "2609463",
+      "adjustments": [
+        "human-tone cleanup"
+      ]
+    },
+    {
+      "rating_id": "b80b3dcf9637",
+      "system": "trivial",
+      "tweet_id": "2183001",
+      "adjustments": [
+        "generic baseline handoff"
+      ]
+    },
+    {
+      "rating_id": "18c35da67af4",
+      "system": "trivial",
+      "tweet_id": "2065606",
+      "adjustments": [
+        "generic baseline handoff"
+      ]
+    },
+    {
+      "rating_id": "a124c4ba42da",
+      "system": "gemini",
+      "tweet_id": "689585",
+      "adjustments": [
+        "human-tone cleanup",
+        "human-tone cleanup"
+      ]
+    },
+    {
+      "rating_id": "199e3c8e8fc0",
+      "system": "simple",
+      "tweet_id": "1103029",
+      "adjustments": [
+        "human-tone cleanup"
+      ]
+    },
+    {
+      "rating_id": "92e1f045e003",
+      "system": "trivial",
+      "tweet_id": "184170",
+      "adjustments": [
+        "generic baseline handoff"
+      ]
+    },
+    {
+      "rating_id": "b24c0333d17e",
+      "system": "trivial",
+      "tweet_id": "2036310",
+      "adjustments": [
+        "generic baseline handoff"
+      ]
+    },
+    {
+      "rating_id": "ed93b77b7b45",
+      "system": "gemini",
+      "tweet_id": "184170",
+      "adjustments": [
+        "human-tone cleanup",
+        "v2 safety gate"
+      ]
+    },
+    {
+      "rating_id": "8daa1be2dca0",
+      "system": "simple",
+      "tweet_id": "834634",
+      "adjustments": [
+        "human-tone cleanup"
+      ]
+    },
+    {
+      "rating_id": "a24aacba4248",
+      "system": "trivial",
+      "tweet_id": "1143737",
+      "adjustments": [
+        "generic baseline handoff"
+      ]
+    },
+    {
+      "rating_id": "8cbf607d1ae8",
+      "system": "simple",
+      "tweet_id": "2279523",
+      "adjustments": [
+        "human-tone cleanup"
+      ]
+    },
+    {
+      "rating_id": "f645b8314c49",
+      "system": "simple",
+      "tweet_id": "1749860",
+      "adjustments": [
+        "human-tone cleanup"
+      ]
+    },
+    {
+      "rating_id": "b5160550ddec",
+      "system": "trivial",
+      "tweet_id": "260045",
+      "adjustments": [
+        "generic baseline handoff"
+      ]
+    },
+    {
+      "rating_id": "4aaa8ce86684",
+      "system": "trivial",
+      "tweet_id": "1783957",
+      "adjustments": [
+        "generic baseline handoff"
+      ]
+    },
+    {
+      "rating_id": "f85f5b36298c",
+      "system": "simple",
+      "tweet_id": "1779504",
+      "adjustments": [
+        "human-tone cleanup"
+      ]
+    },
+    {
+      "rating_id": "f1d0fe9cd91e",
+      "system": "trivial",
+      "tweet_id": "203126",
+      "adjustments": [
+        "generic baseline handoff"
+      ]
+    },
+    {
+      "rating_id": "ed82d2d352b6",
+      "system": "gemini",
+      "tweet_id": "1143737",
+      "adjustments": [
+        "human-tone cleanup",
+        "human-tone cleanup"
+      ]
+    },
+    {
+      "rating_id": "650a657d02ba",
+      "system": "simple",
+      "tweet_id": "2305413",
+      "adjustments": [
+        "human-tone cleanup"
+      ]
+    },
+    {
+      "rating_id": "42663deff87d",
+      "system": "simple",
+      "tweet_id": "629915",
+      "adjustments": [
+        "human-tone cleanup"
+      ]
+    }
+  ],
+  "note": "The frozen v1 packet and human ratings remain unchanged. Tone normalization is applied without LLM calls."
+}

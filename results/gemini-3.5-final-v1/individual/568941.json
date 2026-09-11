@@ -1,0 +1,42 @@
+{
+  "intent": "billing_subscription",
+  "route": "escalate",
+  "reason": "unverified_policy",
+  "draft": "We appreciate you sharing your thoughts on this with us. To look closer at how your family plan is set up and discuss this, please DM us your account's username or email address.",
+  "evidence_ids": [],
+  "reply_kind": "handoff",
+  "tweet_id": "568941",
+  "output_check_violations": [],
+  "split": "test_challenge",
+  "system": "gemini",
+  "raw_prediction": {
+    "intent": "billing_subscription",
+    "route": "escalate",
+    "reason": "unverified_policy",
+    "draft": "We appreciate you sharing your thoughts on this with us. To look closer at how your family plan is set up and discuss this, please DM us your account's username or email address.",
+    "evidence_ids": [],
+    "reply_kind": "handoff",
+    "tweet_id": "568941"
+  },
+  "api_error": null,
+  "api_metadata": {
+    "model": "gemini-3.5-flash",
+    "model_version": "gemini-3.5-flash",
+    "request_sha256": "3691ad3885aa33f41543c99d1deb1296ef34027bf851be72d053a6587cec4707",
+    "usage": {
+      "promptTokenCount": 8105,
+      "candidatesTokenCount": 1172,
+      "totalTokenCount": 9277,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 8105
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "latency_ms": 33800.030599999445,
+    "cache_hit": false
+  },
+  "latency_ms": 3380.0030599999445
+}
