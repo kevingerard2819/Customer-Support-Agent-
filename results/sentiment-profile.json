@@ -9,9 +9,9 @@
     },
     "test_representative": {
       "neutral": 83,
-      "negative": 19,
+      "negative": 18,
       "positive": 16,
-      "mixed": 2
+      "mixed": 3
     },
     "test_challenge": {
       "neutral": 22,
@@ -44,7 +44,7 @@
     "social_acknowledgement": {
       "positive": 9,
       "neutral": 3,
-      "negative": 1
+      "mixed": 1
     },
     "library_playlists": {
       "positive": 1,
@@ -1487,10 +1487,10 @@
       "tweet_id": "1103029",
       "split": "test_representative",
       "sentiment": {
-        "label": "negative",
-        "score": -1.0,
+        "label": "mixed",
+        "score": 0.333,
         "intensity": "high",
-        "positive_hits": 0,
+        "positive_hits": 2,
         "negative_hits": 1
       }
     },

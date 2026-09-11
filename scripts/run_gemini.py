@@ -33,7 +33,7 @@ Do not merely repeat already-failed steps. Do not pretend an unavailable image o
 Return a human-readable routing reason. If evidence is insufficient, use a modest handoff draft and escalate. Evidence_ids may be empty for a handoff, but auto-handled replies require evidence.
 '''
 
-STYLE_VERSION='human-tone-v2-sentiment-v1'
+STYLE_VERSION='human-tone-v3-intent-fallbacks-sentiment-v1'
 
 UNSUPPORTED_ACTION_RE=re.compile(
     r"(?:we|i)(?:'ve| have)? (?:sent|issued|refunded|cancelled|canceled|verified|passed|forwarded)"
@@ -66,11 +66,24 @@ def handoff_draft(example,intent,reason=''):
     if intent in ('billing_subscription','account_access_security') or any(word in lowered for word in ('account','payment','security','subscription')):
         return "Sorry you're dealing with this. We need to check the account privately, so a member of our support team can continue with you in DMs. Please don't post your email address, password, or payment details here."
     if any(word in lowered for word in ('prior attempts','follow-up','unresolved','earlier context')):
-        return "Sorry this is still happening. Since the earlier steps didn't resolve it, a member of our support team needs to take a closer look in DMs. Please keep account details private."
+        return "Sorry this is still happening. A support team member should review the earlier steps and reply with the next useful action."
+    if intent=='feedback_feature_request':
+        return "Thanks for sharing this suggestion. We can't confirm future releases or feature changes, but you've made the use case clear."
+    if intent=='catalog_availability':
+        return "Thanks for flagging this. Which title is missing, and what country or region are you listening from?"
+    if intent=='playback_app':
+        return "Sorry the app isn't working as expected. Which device, operating system, and Spotify app version are you using, and what happens when the issue occurs?"
+    if intent=='library_playlists':
+        return "Sorry you're having trouble with your library or playlist. Which device are you using, and what happens when you try it?"
+    if intent=='social_acknowledgement':
+        return "Thanks for letting us know."
+    resolved_update=bool(re.search(r'\b(?:finally (?:have|got) access|got access|works now|is fixed|fixed now)\b',example['message'],re.I))
+    if intent=='other_unclear' and (sentiment['label']=='positive' or resolved_update):
+        return "Thanks for sharing the update. Glad to hear you finally got access."
     if intent=='other_unclear' or 'unclear' in lowered:
-        return "Thanks for reaching out. We need a little more context to understand what happened. A member of our support team can continue with you in DMs; please keep account details private."
+        return "Thanks for reaching out. Could you tell us what you're trying to do and what happens? Please don't include account or payment details."
     opening="Sorry this has been frustrating." if sentiment['label'] in ('negative','mixed') else "Thanks for flagging this."
-    return opening+" A member of our support team needs to take a closer look and can continue with you in DMs. Please keep any account details private."
+    return opening+" A support team member should review the details before replying."
 
 
 def gate(value,example,evidence):

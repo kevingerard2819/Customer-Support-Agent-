@@ -78,9 +78,9 @@ The five inspected modes are documented with tweet IDs, messages and hypotheses 
 
 The last mode remained visible after the tone rewrite. Four of 20 Gemini validation replies were marked critical failures by the human reviewer. Requests for an Apple Watch app, watch volume controls and lyrics were all replaced with account-style DM handoffs, discarding the user’s actual request.
 
-The live runner contains a `human-tone-v2` postprocessor that removes dataset placeholders, internal jargon and signatures, and substitutes reason-specific handoff copy. This post-v1 change is excluded from the classification/routing headline but is the version tested in the 90-output blinded reply review above.
+The blinded review tested `human-tone-v2`. Its generic gate fallback caused four Gemini critical failures. The live runner now uses `human-tone-v3-intent-fallbacks-sentiment-v1`: account and billing cases retain a private DM handoff, while feature, catalogue, playback, library, acknowledgement, and unclear cases receive separate safe replies. Reapplying v3 to frozen raw outputs changed 7/20 Gemini validation drafts, including all four previously critical examples. This is a post-evaluation diagnostic on inspected data, not a new quality score; `results/posteval-v3-diagnostic.json` records every before/after example and requires fresh held-out review before a performance claim.
 
-The live runner now identifies its postprocessor as `human-tone-v2-sentiment-v1`. This sentiment addition was made after the v2 review packet was frozen, so it is not included in that packet's quality scores. Its dataset profile is reproducible with `python scripts/summarize_sentiment.py`. It is not presented as a validated sentiment-accuracy result and does not change routing merely because a user sounds negative.
+The deterministic sentiment signal was also added after the v2 review packet was frozen. Its dataset profile is reproducible with `python scripts/summarize_sentiment.py`. It is not presented as validated sentiment accuracy and does not change routing merely because a user sounds negative. The complete suite now contains 21 tests, including account privacy, feature fallback, playback clarification, and positive-update cases.
 
 ## What is misleading about my headline number?
 
@@ -106,6 +106,7 @@ Run the live agent only when a Gemini key is available locally; never commit it:
 
 ```sh
 python scripts/run_gemini.py --model gemini-3.5-flash --key-file path/to/key.txt --output results/new-run
+python scripts/build_posteval_v3.py
 ```
 
 Open the autosaving label and reply-review tools on Windows with `open-labels.ps1` and `open-reply-review.ps1`. Dataset preparation commands and archive checksum are documented in `docs/batch-sampling.md` and `docs/discovery.md`.

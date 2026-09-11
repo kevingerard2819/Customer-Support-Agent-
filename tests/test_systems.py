@@ -24,7 +24,6 @@ class SystemTests(unittest.TestCase):
         self.assertEqual(result['route'],'escalate')
         self.assertTrue(result['output_check_violations'])
         self.assertNotIn('issued',result['draft'])
-        self.assertIn('DMs',result['draft'])
         self.assertNotIn('This needs a human support review',result['draft'])
 
     def test_tone_cleanup_removes_placeholders_jargon_and_signatures(self):
@@ -39,6 +38,26 @@ class SystemTests(unittest.TestCase):
         self.assertIn("don't post",text)
         self.assertNotIn('issued',text)
 
+    def test_feature_handoff_does_not_invent_an_account_issue(self):
+        text=handoff_draft({'message':'Please bring back lyrics'},'feedback_feature_request','unsupported action')
+        self.assertIn('suggestion',text)
+        self.assertNotIn('DMs',text)
+        self.assertNotIn('account details',text)
+
+    def test_playback_handoff_asks_human_to_check_relevant_details(self):
+        text=handoff_draft({'message':'The app keeps crashing'},'playback_app','unsupported evidence')
+        self.assertIn('device',text)
+        self.assertIn('app version',text)
+        self.assertNotIn('payment',text)
+
+    def test_positive_unclear_update_gets_acknowledgement(self):
+        text=handoff_draft({'message':'I finally got access, thank you!'},'other_unclear','unsupported evidence')
+        self.assertIn('Glad to hear',text)
+        self.assertNotIn('what happens',text)
+        self.assertNotIn('DMs',text)
+        mixed=handoff_draft({'message':"After months, I finally have access to Problem's page"},'other_unclear','unsupported evidence')
+        self.assertIn('Glad to hear',mixed)
+
     def test_dm_and_internal_forwarding_claims_are_blocked(self):
         self.assertTrue(has_unsupported_action("We've received your message and sent a DM back."))
         self.assertTrue(has_unsupported_action("We'll pass this to the relevant team."))
@@ -48,6 +67,7 @@ class SystemTests(unittest.TestCase):
         self.assertEqual(analyze_sentiment('This app is broken and frustrating')['label'],'negative')
         self.assertEqual(analyze_sentiment('Thanks, but it is still broken')['label'],'mixed')
         self.assertEqual(analyze_sentiment('I want to kill myself')['label'],'distressed')
+        self.assertEqual(analyze_sentiment('I finally have access')['label'],'positive')
         self.assertEqual(analyze_sentiment('How do I sort a playlist?')['label'],'neutral')
         self.assertIn('frustration',tone_guidance(analyze_sentiment('This is awful')))
 

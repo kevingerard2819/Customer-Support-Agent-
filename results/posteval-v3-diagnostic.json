@@ -1,0 +1,413 @@
+{
+  "style_version": "human-tone-v3-intent-fallbacks-sentiment-v1",
+  "status": "post_evaluation_diagnostic_not_held_out",
+  "warning": "These examples were used to design v3. Do not treat them as a new quality score; evaluate v3 on fresh untouched messages.",
+  "summary": {
+    "validation_examples": 20,
+    "drafts_changed": 7,
+    "previously_critical_examples": 4,
+    "previously_critical_drafts_changed": 4
+  },
+  "examples": [
+    {
+      "rating_id": "5850b7a1d1a8",
+      "tweet_id": "2363327",
+      "message": "@115888 Just having some trouble with my spotify account email, can I get some help please!",
+      "intent": "account_access_security",
+      "old_draft": "Sorry you're dealing with this. We need to check the account privately, so a member of our support team can continue with you in DMs. Please don't post your email address, password, or payment details here.",
+      "new_draft": "Sorry you're dealing with this. We need to check the account privately, so a member of our support team can continue with you in DMs. Please don't post your email address, password, or payment details here.",
+      "new_route": "escalate",
+      "draft_changed": false,
+      "old_human_rating": {
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "notes": "",
+        "updated_at": "2026-09-10T19:40:16.200405+00:00"
+      },
+      "new_human_rating": null
+    },
+    {
+      "rating_id": "b794d1eea75b",
+      "tweet_id": "2036310",
+      "message": "@115888 Parents need a little more control over explicit content to fully enjoy your services. What y'all going to do about that?",
+      "intent": "feedback_feature_request",
+      "old_draft": "Thanks for flagging this. A member of our support team needs to take a closer look and can continue with you in DMs. Please keep any account details private.",
+      "new_draft": "Thanks for sharing this suggestion. We can't confirm future releases or feature changes, but you've made the use case clear.",
+      "new_route": "escalate",
+      "draft_changed": true,
+      "old_human_rating": {
+        "correctness": 1,
+        "grounding": 0,
+        "usefulness": 1,
+        "routing_privacy": 1,
+        "critical_failure": false,
+        "notes": "",
+        "updated_at": "2026-09-10T19:50:56.829000+00:00"
+      },
+      "new_human_rating": null
+    },
+    {
+      "rating_id": "fc2c5a00e976",
+      "tweet_id": "2305413",
+      "message": "Does anybody know if @115888 plan on releasing an app for the Apple Watch?",
+      "intent": "feedback_feature_request",
+      "old_draft": "Thanks for flagging this. A member of our support team needs to take a closer look and can continue with you in DMs. Please keep any account details private.",
+      "new_draft": "Thanks for sharing this suggestion. We can't confirm future releases or feature changes, but you've made the use case clear.",
+      "new_route": "escalate",
+      "draft_changed": true,
+      "old_human_rating": {
+        "correctness": 0,
+        "grounding": 0,
+        "usefulness": 0,
+        "routing_privacy": 1,
+        "critical_failure": true,
+        "notes": "",
+        "updated_at": "2026-09-10T19:51:11.149221+00:00"
+      },
+      "new_human_rating": null
+    },
+    {
+      "rating_id": "f0927050304f",
+      "tweet_id": "576784",
+      "message": "I should be able to control @115888 volume on my @125607 @26758 Sport Watch when playing through my @26759 bluetooth boom box.\n#SoftwareUpdateNeeded Please. https://t.co/MnlVeQAnD6",
+      "intent": "feedback_feature_request",
+      "old_draft": "Thanks for flagging this. A member of our support team needs to take a closer look and can continue with you in DMs. Please keep any account details private.",
+      "new_draft": "Thanks for sharing this suggestion. We can't confirm future releases or feature changes, but you've made the use case clear.",
+      "new_route": "escalate",
+      "draft_changed": true,
+      "old_human_rating": {
+        "correctness": 0,
+        "grounding": 0,
+        "usefulness": 0,
+        "routing_privacy": 1,
+        "critical_failure": true,
+        "notes": "",
+        "updated_at": "2026-09-10T19:52:23.147644+00:00"
+      },
+      "new_human_rating": null
+    },
+    {
+      "rating_id": "53f37300c237",
+      "tweet_id": "876815",
+      "message": "When is this going to be available on @115888? https://t.co/YJuqGQsnli",
+      "intent": "catalog_availability",
+      "old_draft": "Hey there! We'd love to help you find out more about availability. Since catalog and regional availability can change, could you DM us with details or check the link in our profile for general release info?",
+      "new_draft": "Hey there! We'd love to help you find out more about availability. Since catalog and regional availability can change, could you DM us with details or check the link in our profile for general release info?",
+      "new_route": "escalate",
+      "draft_changed": false,
+      "old_human_rating": {
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "notes": "",
+        "updated_at": "2026-09-10T19:54:31.056628+00:00"
+      },
+      "new_human_rating": null
+    },
+    {
+      "rating_id": "82f5c73c8c7b",
+      "tweet_id": "1103029",
+      "message": "Today is a special day, after months of submitting to Spotify, I finally have access to Problem’s page and all the data....FINALLY!!",
+      "intent": "other_unclear",
+      "old_draft": "Thanks for reaching out. We need a little more context to understand what happened. A member of our support team can continue with you in DMs; please keep account details private.",
+      "new_draft": "Thanks for sharing the update. Glad to hear you finally got access.",
+      "new_route": "escalate",
+      "draft_changed": true,
+      "old_human_rating": {
+        "correctness": 0,
+        "grounding": 0,
+        "usefulness": 0,
+        "routing_privacy": 1,
+        "critical_failure": true,
+        "notes": "",
+        "updated_at": "2026-09-10T19:55:17.738574+00:00"
+      },
+      "new_human_rating": null
+    },
+    {
+      "rating_id": "eb16f98daec4",
+      "tweet_id": "260045",
+      "message": "@SpotifyCares Galaxy S7 and 8.4.21.508 for spotify version. It's up to date and does not need any updates.",
+      "intent": "playback_app",
+      "old_draft": "Thanks for flagging this. A member of our support team needs to take a closer look and can continue with you in DMs. Please keep any account details private.",
+      "new_draft": "Sorry the app isn't working as expected. Which device, operating system, and Spotify app version are you using, and what happens when the issue occurs?",
+      "new_route": "escalate",
+      "draft_changed": true,
+      "old_human_rating": {
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "notes": "",
+        "updated_at": "2026-09-10T19:58:08.913263+00:00"
+      },
+      "new_human_rating": null
+    },
+    {
+      "rating_id": "77f405f1d13f",
+      "tweet_id": "2183001",
+      "message": "@115888 someone's using my card to purchase your premium account please help me",
+      "intent": "billing_subscription",
+      "old_draft": "Hi there, we take unauthorized charges very seriously. Please send us a private message right away so we can help secure your account details and investigate this safely.",
+      "new_draft": "Hi there, we take unauthorized charges very seriously. Please send us a private message right away so we can help secure your account details and investigate this safely.",
+      "new_route": "escalate",
+      "draft_changed": false,
+      "old_human_rating": {
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "notes": "",
+        "updated_at": "2026-09-10T19:58:47.127185+00:00"
+      },
+      "new_human_rating": null
+    },
+    {
+      "rating_id": "6bfc7b20c0e8",
+      "tweet_id": "2279523",
+      "message": ".@Spotifycares for fuck's sake stop emailing me every time anyone puts out a new song i use the goddamn app every day i'll figure it out myself. i've clicked unsubscribe for this bullshit 4 times now let me fuckin live",
+      "intent": "other_unclear",
+      "old_draft": "We hear you, and we're sorry for the frustration. Since unsubscribe has failed multiple times, please send us a DM with your email address so we can take a closer look at your notification settings.",
+      "new_draft": "We hear you, and we're sorry for the frustration. Since unsubscribe has failed multiple times, please send us a DM with your email address so we can take a closer look at your notification settings.",
+      "new_route": "escalate",
+      "draft_changed": false,
+      "old_human_rating": {
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 1,
+        "critical_failure": false,
+        "notes": "",
+        "updated_at": "2026-09-10T20:00:51.820844+00:00"
+      },
+      "new_human_rating": null
+    },
+    {
+      "rating_id": "f389af0ef67b",
+      "tweet_id": "1749860",
+      "message": "@115888 please fix the name of this song from @69732 iconic album please :) \n@SpotifyCares https://t.co/YEsRoEgmTl",
+      "intent": "catalog_availability",
+      "old_draft": "Hey! We'd love to look into this metadata/song name issue for you. Can you send us a DM with the details, or let us know the artist and track name here? We'll see what we can do.",
+      "new_draft": "Hey! We'd love to look into this metadata/song name issue for you. Can you send us a DM with the details, or let us know the artist and track name here? We'll see what we can do.",
+      "new_route": "escalate",
+      "draft_changed": false,
+      "old_human_rating": {
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "notes": "",
+        "updated_at": "2026-09-10T20:01:28.556310+00:00"
+      },
+      "new_human_rating": null
+    },
+    {
+      "rating_id": "313dba1f3be3",
+      "tweet_id": "1761839",
+      "message": "@SpotifyCares need some help switching the country on my account",
+      "intent": "account_access_security",
+      "old_draft": "We can definitely help you out with that! Could you send us a DM with your account's username or email address so we can take a closer look privately?",
+      "new_draft": "We can definitely help you out with that! Could you send us a DM with your account's username or email address so we can take a closer look privately?",
+      "new_route": "escalate",
+      "draft_changed": false,
+      "old_human_rating": {
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "notes": "",
+        "updated_at": "2026-09-10T20:02:19.915709+00:00"
+      },
+      "new_human_rating": null
+    },
+    {
+      "rating_id": "b4a2ca1ceb52",
+      "tweet_id": "1112623",
+      "message": "@SpotifyCares I purchased spotify premium for 12 months last october 11, 2017 and my 12 months premiun isn’t working?",
+      "intent": "billing_subscription",
+      "old_draft": "Hi there! Let's check what's going on with your subscription. Can you DM us your account's email address or username? We'll take a closer look privately.",
+      "new_draft": "Hi there! Let's check what's going on with your subscription. Can you DM us your account's email address or username? We'll take a closer look privately.",
+      "new_route": "escalate",
+      "draft_changed": false,
+      "old_human_rating": {
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "notes": "",
+        "updated_at": "2026-09-10T20:02:34.489099+00:00"
+      },
+      "new_human_rating": null
+    },
+    {
+      "rating_id": "746413710507",
+      "tweet_id": "2913904",
+      "message": "@115888 what's goin on with the app yo?",
+      "intent": "other_unclear",
+      "old_draft": "We're here to help. Could you send us a DM with more details about what's happening with the app, along with your username or email address?",
+      "new_draft": "We're here to help. Could you send us a DM with more details about what's happening with the app, along with your username or email address?",
+      "new_route": "escalate",
+      "draft_changed": false,
+      "old_human_rating": {
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "notes": "",
+        "updated_at": "2026-09-10T20:02:46.628203+00:00"
+      },
+      "new_human_rating": null
+    },
+    {
+      "rating_id": "1aef6f3cd327",
+      "tweet_id": "1853470",
+      "message": "spotify updated itself and the app is so laggy and full of bugs how do i cancel my premium n switch to apple music",
+      "intent": "billing_subscription",
+      "old_draft": "We're sorry to hear you're experiencing lag and bugs. If you still want to cancel your Premium subscription, please send us a DM with your account's email address or username and we'll help you privately.",
+      "new_draft": "We're sorry to hear you're experiencing lag and bugs. If you still want to cancel your Premium subscription, please send us a DM with your account's email address or username and we'll help you privately.",
+      "new_route": "escalate",
+      "draft_changed": false,
+      "old_human_rating": {
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "notes": "",
+        "updated_at": "2026-09-10T20:03:27.395389+00:00"
+      },
+      "new_human_rating": null
+    },
+    {
+      "rating_id": "822ac38df478",
+      "tweet_id": "1807589",
+      "message": "@SpotifyCares heklo",
+      "intent": "other_unclear",
+      "old_draft": "Thanks for reaching out. We need a little more context to understand what happened. A member of our support team can continue with you in DMs; please keep account details private.",
+      "new_draft": "Thanks for reaching out. Could you tell us what you're trying to do and what happens? Please don't include account or payment details.",
+      "new_route": "escalate",
+      "draft_changed": true,
+      "old_human_rating": {
+        "correctness": 1,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "notes": "",
+        "updated_at": "2026-09-10T20:05:59.075512+00:00"
+      },
+      "new_human_rating": null
+    },
+    {
+      "rating_id": "519a095bebc6",
+      "tweet_id": "91667",
+      "message": "@SpotifyCares Trying to recover password, but getting \"CSRF token is invalid\" - help? Previously signed up through FB but want to avoid using moving forward",
+      "intent": "account_access_security",
+      "old_draft": "Hey there, we'd love to help you with this login error. Please send us a DM with your username and the email address associated with your account, and we'll look into this privately.",
+      "new_draft": "Hey there, we'd love to help you with this login error. Please send us a DM with your username and the email address associated with your account, and we'll look into this privately.",
+      "new_route": "escalate",
+      "draft_changed": false,
+      "old_human_rating": {
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "notes": "",
+        "updated_at": "2026-09-10T20:13:07.574Z"
+      },
+      "new_human_rating": null
+    },
+    {
+      "rating_id": "7e27afc6a0b5",
+      "tweet_id": "1659439",
+      "message": "@115888 should bring back the lyrics mode.... I've been waiting for it to come back for soooo long!",
+      "intent": "feedback_feature_request",
+      "old_draft": "Thanks for flagging this. A member of our support team needs to take a closer look and can continue with you in DMs. Please keep any account details private.",
+      "new_draft": "Thanks for sharing this suggestion. We can't confirm future releases or feature changes, but you've made the use case clear.",
+      "new_route": "escalate",
+      "draft_changed": true,
+      "old_human_rating": {
+        "correctness": 0,
+        "grounding": 0,
+        "usefulness": 0,
+        "routing_privacy": 1,
+        "critical_failure": true,
+        "notes": "",
+        "updated_at": "2026-09-10T20:16:10.966Z"
+      },
+      "new_human_rating": null
+    },
+    {
+      "rating_id": "feb374a4a9e3",
+      "tweet_id": "7011",
+      "message": "@117153 y'all charged my account 8 times ..... uhhh",
+      "intent": "billing_subscription",
+      "old_draft": "Sorry you're dealing with this. We need to check the account privately, so a member of our support team can continue with you in DMs. Please don't post your email address, password, or payment details here.",
+      "new_draft": "Sorry you're dealing with this. We need to check the account privately, so a member of our support team can continue with you in DMs. Please don't post your email address, password, or payment details here.",
+      "new_route": "escalate",
+      "draft_changed": false,
+      "old_human_rating": {
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "notes": "",
+        "updated_at": "2026-09-10T20:16:20.150Z"
+      },
+      "new_human_rating": null
+    },
+    {
+      "rating_id": "a124c4ba42da",
+      "tweet_id": "689585",
+      "message": "@115888 I am paying the full amount each month but I am a student with a NUS card, am I able to have this applied please? #student#music",
+      "intent": "billing_subscription",
+      "old_draft": "Hey there! We'd love to help with your student discount. Can you DM us your account's email address or username? We'll take a closer look privately to see what we can suggest.",
+      "new_draft": "Hey there! We'd love to help with your student discount. Can you DM us your account's email address or username? We'll take a closer look privately to see what we can suggest.",
+      "new_route": "escalate",
+      "draft_changed": false,
+      "old_human_rating": {
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "notes": "",
+        "updated_at": "2026-09-10T20:17:55.982Z"
+      },
+      "new_human_rating": null
+    },
+    {
+      "rating_id": "ed82d2d352b6",
+      "tweet_id": "1143737",
+      "message": "@SpotifyCares why can't I listen to anything anymore? I get \"suggested songs\" everytime I shuffle an whole album. An whole artist.",
+      "intent": "playback_app",
+      "old_draft": "Hey! We'd like to help clarify what's happening. To help us get to the bottom of this, could you let us know if you are using Spotify Free or Premium, and what device you are on?",
+      "new_draft": "Hey! We'd like to help clarify what's happening. To help us get to the bottom of this, could you let us know if you are using Spotify Free or Premium, and what device you are on?",
+      "new_route": "escalate",
+      "draft_changed": false,
+      "old_human_rating": {
+        "correctness": 2,
+        "grounding": 2,
+        "usefulness": 2,
+        "routing_privacy": 2,
+        "critical_failure": false,
+        "notes": "this best reply for this kind",
+        "updated_at": "2026-09-10T20:21:46.645Z"
+      },
+      "new_human_rating": null
+    }
+  ]
+}

@@ -10,6 +10,7 @@ import re
 POSITIVE=(
     'thank you','thanks','love','awesome','amazing','great','excellent','happy',
     'helpful','perfect','fixed','works now','appreciate','nice','glad','wonderful',
+    'got access','have access','finally have access',
 )
 NEGATIVE=(
     'hate','awful','terrible','horrible','frustrating','frustrated','disappointed',

@@ -32,6 +32,8 @@ For tweet `510478`, a harmless playlist-shuffle feature request triggered the li
 
 **Hypothesis:** a generic handoff optimizes against fabricated promises at the cost of relevance and brand voice. Route product requests to an acknowledgement/feedback template and reserve private account language for cases that actually involve account data. For account-email issues, a better draft is: “Sorry you're having trouble with your account email. We'll need to handle this privately, so a member of our support team can continue with you in DMs. Please don't share your email address publicly.”
 
+**Post-evaluation fix:** v3 implements those intent-specific fallbacks. On the 20 already-inspected Gemini validation examples, it changes seven drafts and changes all four previously critical drafts into relevant feature acknowledgements or a resolved-update acknowledgement. This is diagnostic evidence only because the failures directly informed the fix; `results/posteval-v3-diagnostic.json` explicitly leaves every new human rating null.
+
 ## Practical consequence
 
 The system is suitable as a conservative drafting aid, with every escalated or gate-rewritten draft reviewed before sending. The current evidence does not justify unattended handling of account issues, promotions, refunds, security concerns, product requests, or ambiguous follow-ups. Automatic handling should remain limited to well-grounded acknowledgements and general answers until a larger human-rated set narrows the safety interval.

@@ -16,4 +16,4 @@ Status: frozen for the reported v1 experiment.
 12. Group and deduplicate before splitting: prevent later responses and paraphrased repeats leaking into retrieval.
 13. Retain difficult messages in evaluation: missing context and safety/privacy are part of the task, not cleanup noise.
 14. Provide a cached reproduction path separate from live inference: reproducible metrics should not depend on API drift or network latency.
-15. Keep v1 results frozen after failure review, but version human-tone and deterministic sentiment postprocessing for future runs: improve tone without pretending the new behavior earned the old scores or escalating frustration by itself.
+15. Keep v1 and v2 results frozen after failure review, but version the v3 intent-specific fallback and deterministic sentiment postprocessing: improve the observed failures while marking replay on inspected examples as diagnostic rather than assigning the old scores to new behavior.
