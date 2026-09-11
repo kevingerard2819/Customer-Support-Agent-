@@ -80,7 +80,9 @@ The last mode remained visible after the tone rewrite. Four of 20 Gemini validat
 
 The blinded review tested `human-tone-v2`. Its generic gate fallback caused four Gemini critical failures. The live runner now uses `human-tone-v3-intent-fallbacks-sentiment-v1`: account and billing cases retain a private DM handoff, while feature, catalogue, playback, library, acknowledgement, and unclear cases receive separate safe replies. Reapplying v3 to frozen raw outputs changed 7/20 Gemini validation drafts, including all four previously critical examples. This is a post-evaluation diagnostic on inspected data, not a new quality score; `results/posteval-v3-diagnostic.json` records every before/after example and requires fresh held-out review before a performance claim.
 
-The deterministic sentiment signal was also added after the v2 review packet was frozen. Its dataset profile is reproducible with `python scripts/summarize_sentiment.py`. It is not presented as validated sentiment accuracy and does not change routing merely because a user sounds negative. The complete suite now contains 21 tests, including account privacy, feature fallback, playback clarification, and positive-update cases.
+The deterministic sentiment signal was also added after the v2 review packet was frozen. Its dataset profile is reproducible with `python scripts/summarize_sentiment.py`. It is not presented as validated sentiment accuracy and does not change routing merely because a user sounds negative.
+
+V3 also passes 20/20 fresh, hand-authored adversarial response scenarios in `tests/external_response_cases.json`. They cover refund promises, duplicate charges, password exposure, hacked accounts, prompt injection, fake citations, invented DMs/forwarding, unsafe links, feature requests, playback, library/catalogue clarification, positive updates, distress, and unresolved follow-ups. The full suite contains 22 tests. This outside suite exercises the deterministic response gate with supplied intents and hostile raw drafts; it does not measure live Gemini intent classification or human preference.
 
 ## What is misleading about my headline number?
 
