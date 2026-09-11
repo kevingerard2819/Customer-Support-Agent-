@@ -111,6 +111,8 @@ python scripts/run_gemini.py --model gemini-3.5-flash --key-file path/to/key.txt
 python scripts/build_posteval_v3.py
 ```
 
+For manual end-to-end testing, run `python scripts/try_live_agent.py --key-file path/to/key.txt --model gemini-3.5-flash` and open `http://127.0.0.1:8766`. The page runs actual retrieval, Gemini classification/drafting, and the deterministic output gate. Test messages and retrieved historical snippets are sent to Gemini; the key stays in the local file and is never displayed or committed.
+
 Open the autosaving label and reply-review tools on Windows with `open-labels.ps1` and `open-reply-review.ps1`. Dataset preparation commands and archive checksum are documented in `docs/batch-sampling.md` and `docs/discovery.md`.
 
 ## Attribution
