@@ -11,12 +11,15 @@ import urllib.request
 
 
 class Gemini:
-    def __init__(self, model='gemini-3.8-flash', key_file=None, cache=None, min_interval=13, api_key=None):
+    def __init__(self, model='gemini-3.8-flash', key_file=None, cache=None, min_interval=13, api_key=None,
+                 request_timeout=90, max_attempts=6):
         if not re.fullmatch(r'gemini-[a-zA-Z0-9.\-]+',model): raise ValueError('Invalid model ID')
         self.model=model
         self.key=(api_key or '').strip() or (Path(key_file).read_text(encoding='utf-8').strip() if key_file else os.environ.get('GEMINI_API_KEY','').strip())
         self.cache=Path(cache) if cache else None
         self.min_interval=min_interval
+        self.request_timeout=request_timeout
+        self.max_attempts=max_attempts
         self.lock=threading.Lock()
         self.last_request=0
 
@@ -34,17 +37,16 @@ class Gemini:
         url=f'https://generativelanguage.googleapis.com/v1beta/models/{self.model}:generateContent'
         request=urllib.request.Request(url,data=json.dumps(body).encode(),headers={'Content-Type':'application/json','x-goog-api-key':self.key},method='POST')
         start=time.perf_counter()
-        max_attempts=6
-        for attempt in range(max_attempts):
+        for attempt in range(self.max_attempts):
             with self.lock:
                 delay=self.min_interval-(time.monotonic()-self.last_request)
                 if delay>0: time.sleep(delay)
                 self.last_request=time.monotonic()
             try:
-                with urllib.request.urlopen(request,timeout=90) as response: raw=json.load(response)
+                with urllib.request.urlopen(request,timeout=self.request_timeout) as response: raw=json.load(response)
                 break
             except urllib.error.HTTPError as error:
-                if error.code in (429,500,502,503,504) and attempt<max_attempts-1:
+                if error.code in (429,500,502,503,504) and attempt<self.max_attempts-1:
                     if error.code==429:
                         details=error.read().decode('utf-8','replace')
                         match=re.search(r'(?:retry in|retryDelay[^0-9]*)([0-9.]+)',details,re.I)
