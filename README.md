@@ -42,6 +42,8 @@ The simple system narrowly beat Gemini on this small reply sample. This does not
 
 The Gemini judge completed 60/90 calls before provider quota/capacity failures, leaving 42 held-out validation pairs. Exact agreement on validation was 54.8% for correctness, 64.3% for grounding, 61.9% for usefulness, and 69.0% for routing/privacy; linear-weighted kappa was only 0.142–0.222. More seriously, it caught 0/9 human critical failures in the paired validation subset. The judge is therefore useful only as a diagnostic here and cannot replace human review. Run `node scripts/report_reply_review.mjs` to reproduce these calculations.
 
+A separate post-fix review then sampled 30 new conversation components excluded from discovery, the full 200-example golden packet, and retrieval. V3 passed 30/30 replies under the same human rubric with zero critical failures. Twenty-seven replies received 8/8 and three received 7/8; mean correctness, grounding, usefulness, and routing/privacy were 1.93, 2.00, 1.97, and 2.00. This is encouraging evidence that the known generic-handoff failures did not recur, but it is a small, single-reviewer sample containing only the candidate system. Gemini 3.5 generated 19 items and Gemini 3.8 generated 11 after quota was reached, and this packet has no independent intent labels or new judge scores.
+
 ## What “good” means
 
 For this brand, a useful agent must classify recurring issues well enough to retrieve relevant precedent, never imply it accessed an account or completed a refund, protect private information, and escalate security, payment, account-specific, distress and unresolved cases. Auto-handling means the next public reply is safe; it does not mean the underlying case is resolved.
@@ -78,7 +80,9 @@ The five inspected modes are documented with tweet IDs, messages and hypotheses 
 
 The last mode remained visible after the tone rewrite. Four of 20 Gemini validation replies were marked critical failures by the human reviewer. Requests for an Apple Watch app, watch volume controls and lyrics were all replaced with account-style DM handoffs, discarding the user’s actual request.
 
-The blinded review tested `human-tone-v2`. Its generic gate fallback caused four Gemini critical failures. The live runner now uses `human-tone-v3-intent-fallbacks-sentiment-v1`: account and billing cases retain a private DM handoff, while feature, catalogue, playback, library, acknowledgement, and unclear cases receive separate safe replies. Reapplying v3 to frozen raw outputs changed 7/20 Gemini validation drafts, including all four previously critical examples. This is a post-evaluation diagnostic on inspected data, not a new quality score; `results/posteval-v3-diagnostic.json` records every before/after example and requires fresh held-out review before a performance claim.
+The blinded comparative review tested `human-tone-v2`. Its generic gate fallback caused four Gemini critical failures. V3 added intent-specific fallbacks: account and billing cases retained a private DM handoff, while feature, catalogue, playback, library, acknowledgement, and unclear cases received separate safe replies. Reapplying v3 to frozen raw outputs changed 7/20 Gemini validation drafts, including all four previously critical examples. V3 was then assessed in the separate 30-item review above.
+
+Three v3 replies lost one point: a five-year feature wait needed more empathy, a catalogue request was arguably over-escalated, and a catalogue clarification asked for a title already present in the message. After ratings were frozen, v4 improved wait-aware empathy, stopped repeating the title question, and blocked promises to monitor or make content available. Replaying v4 changed 7/30 drafts. `results/posteval-v4-diagnostic.json` is explicitly unscored; the v3 ratings are not transferred to it.
 
 The deterministic sentiment signal was also added after the v2 review packet was frozen. Its dataset profile is reproducible with `python scripts/summarize_sentiment.py`. It is not presented as validated sentiment accuracy and does not change routing merely because a user sounds negative.
 
@@ -97,6 +101,7 @@ V3 also passes 20/20 fresh, hand-authored adversarial response scenarios in `tes
 - **The gate trades usefulness for safety.** It rewrote 74/200 raw responses; final coverage partly reflects conservative regex rules rather than model judgment.
 - **The LLM did not win reply quality.** On only 20 held-out replies per system, Gemini passed 75% versus 80% for the simple templates. The sample is too small for a stable ranking, while the four Gemini critical failures rule out unattended use.
 - **The automated judge is not a substitute for a human.** Only 42/60 validation outputs were paired because of provider limits, its weighted kappas were 0.142–0.222, and it missed all nine human critical failures in that subset.
+- **30/30 post-fix reply passes is not a production guarantee.** It is one reviewer rating 30 candidate-only outputs, with no contemporaneous baselines, independent intent labels, or automated-judge comparison. The run also mixes 19 Gemini 3.5 and 11 Gemini 3.8 outputs after quota exhaustion.
 
 ## With one more week
 
@@ -113,7 +118,7 @@ python scripts/build_posteval_v3.py
 
 For manual end-to-end testing, run `python scripts/try_live_agent.py --key-file path/to/key.txt --model gemini-3.5-flash` and open `http://127.0.0.1:8766`. The page runs actual retrieval, Gemini classification/drafting, and the deterministic output gate. Test messages and retrieved historical snippets are sent to Gemini; the key stays in the local file and is never displayed or committed.
 
-The post-fix v3 reply review uses 30 newly sampled conversation components excluded from discovery, the 200-example golden packet, and retrieval. Its source packet and model outputs are frozen in `annotations/fresh-reply-eval-v3-source.json` and `results/gemini-v3-fresh`. Gemini 3.5 produced the first 19 replies; after its quota was reached, Gemini 3.8 produced the remaining 11, as recorded in the run manifest. Rate the blinded packet with `node scripts/rate_replies_server.mjs --packet annotations/fresh-reply-review-v3.json --ratings annotations/fresh-reply-ratings-human-v3.json --port 8768 --title "Fresh v3 reply review"`, then run `python scripts/report_fresh_reply_review.py`.
+The post-fix v3 reply review uses 30 newly sampled conversation components excluded from discovery, the 200-example golden packet, and retrieval. Its source packet and model outputs are frozen in `annotations/fresh-reply-eval-v3-source.json` and `results/gemini-v3-fresh`. Gemini 3.5 produced the first 19 replies; after its quota was reached, Gemini 3.8 produced the remaining 11, as recorded in the run manifest. Reproduce its completed human report with `python scripts/report_fresh_reply_review.py`. The current live runner contains the later, unscored v4 wording guardrails.
 
 Open the autosaving label and reply-review tools on Windows with `open-labels.ps1` and `open-reply-review.ps1`. Dataset preparation commands and archive checksum are documented in `docs/batch-sampling.md` and `docs/discovery.md`.
 

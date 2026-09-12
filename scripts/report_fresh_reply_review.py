@@ -27,6 +27,8 @@ def main():
         "packet_id": packet["packet_id"], "n": len(complete),
         "pass_count": sum(passed.values()), "pass_rate": sum(passed.values()) / len(passed),
         "critical_failure_count": sum(value["critical_failure"] for value in complete.values()),
+        "nonperfect_count": sum(sum(value[dim] for dim in DIMS) < 8 for value in complete.values()),
+        "nonperfect_rating_ids": [key for key, value in complete.items() if sum(value[dim] for dim in DIMS) < 8],
         "dimension_means": {dim: sum(value[dim] for value in complete.values()) / len(complete) for dim in DIMS},
         "failed_rating_ids": [key for key, value in passed.items() if not value],
         "definition": "Pass requires no critical failure, no zero dimension, and at least 6/8 total.",

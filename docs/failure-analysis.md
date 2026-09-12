@@ -34,6 +34,12 @@ For tweet `510478`, a harmless playlist-shuffle feature request triggered the li
 
 **Post-evaluation fix:** v3 implements those intent-specific fallbacks. On the 20 already-inspected Gemini validation examples, it changes seven drafts and changes all four previously critical drafts into relevant feature acknowledgements or a resolved-update acknowledgement. This is diagnostic evidence only because the failures directly informed the fix; `results/posteval-v3-diagnostic.json` explicitly leaves every new human rating null.
 
+## Fresh v3 follow-up
+
+Thirty newly sampled, component-disjoint candidate replies were rated after v3 was frozen. All 30 passed and none was marked critical; 27 received 8/8 and three received 7/8. The partial scores exposed narrower issues: a long wait deserved more empathy, a catalogue request was arguably over-escalated, and one fallback asked for a title already included in the message.
+
+V4 was created only after these ratings were complete. It adds wait-aware empathy, avoids repeating a catalogue-title question when a title is already supplied, and blocks promises to monitor a case or make content available. Its replay changes 7/30 frozen drafts. `results/posteval-v4-diagnostic.json` is unscored and does not reuse the v3 ratings. The 30/30 result is limited by one reviewer, a small candidate-only sample, mixed Gemini 3.5/3.8 generation, and the absence of new intent labels or judge scores.
+
 ## Practical consequence
 
 The system is suitable as a conservative drafting aid, with every escalated or gate-rewritten draft reviewed before sending. The current evidence does not justify unattended handling of account issues, promotions, refunds, security concerns, product requests, or ambiguous follow-ups. Automatic handling should remain limited to well-grounded acknowledgements and general answers until a larger human-rated set narrows the safety interval.

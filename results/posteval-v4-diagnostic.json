@@ -1,0 +1,86 @@
+{
+  "source_packet_id": "d797322d6dd221afc172be83f8d75c19835bff9951133a6646d88f2632a8a55f",
+  "style_version": "human-tone-v4-posteval-wording-v1",
+  "changed_count": 7,
+  "changes": [
+    {
+      "tweet_id": "2899864",
+      "message": "@SpotifyCares Only been waiting 5 years!!!",
+      "old_route": "escalate",
+      "old_draft": "Thanks for sharing this suggestion. We can't confirm future releases or feature changes, but you've made the use case clear.",
+      "new_route": "escalate",
+      "new_draft": "Sorry you've been waiting so long. We can't confirm future releases or feature changes, but you've made the use case clear.",
+      "new_violations": [
+        "Unsupported action, link or credential request"
+      ]
+    },
+    {
+      "tweet_id": "2005767",
+      "message": "@115888 put truly, madly, deeply &amp; irresistible on Spotify https://t.co/vez1zL9Sbs",
+      "old_route": "escalate",
+      "old_draft": "We'd love to have these tracks on Spotify! While we can't promise if or when they will be available, we hope to have them in the future.",
+      "new_route": "escalate",
+      "new_draft": "We can't confirm when a title will become available. Availability can vary by country or region; which country are you listening from?",
+      "new_violations": [
+        "Unsupported action, link or credential request"
+      ]
+    },
+    {
+      "tweet_id": "2866635",
+      "message": "@SpotifyCares when will it be available ??",
+      "old_route": "auto_handle",
+      "old_draft": "We don't have an exact release date just yet, but we'll make it available as soon as it's provided to us. Keep an eye out!",
+      "new_route": "escalate",
+      "new_draft": "We can't confirm when a title will become available. Availability can vary by country or region; which country are you listening from?",
+      "new_violations": [
+        "Unsupported action, link or credential request"
+      ]
+    },
+    {
+      "tweet_id": "2865512",
+      "message": "@SpotifyCares thanks for responding,  just sent another one :)",
+      "old_route": "auto_handle",
+      "old_draft": "No problem! We'll keep an eye out for it. Give us a shout if you need anything else.",
+      "new_route": "escalate",
+      "new_draft": "Thanks for letting us know.",
+      "new_violations": [
+        "Unsupported action, link or credential request"
+      ]
+    },
+    {
+      "tweet_id": "2404061",
+      "message": "I wonder when would Taylor Swift's Reputation album be on @115888 coz I've been waiting for days already.",
+      "old_route": "escalate",
+      "old_draft": "Thanks for flagging this. Which title is missing, and what country or region are you listening from?",
+      "new_route": "escalate",
+      "new_draft": "We can't confirm when a title will become available. Availability can vary by country or region; which country are you listening from?",
+      "new_violations": [
+        "Unsupported action, link or credential request"
+      ]
+    },
+    {
+      "tweet_id": "1733259",
+      "message": "@115888  PLEASE PUT @44235 THE CODE ALBUM on spotify.  Coz monbebes are waitinggggg.",
+      "old_route": "auto_handle",
+      "old_draft": "We'd love to have every album available, and we hope to have this on Spotify soon. Music availability depends on agreements with rights holders and artists.",
+      "new_route": "escalate",
+      "new_draft": "We can't confirm when a title will become available. Availability can vary by country or region; which country are you listening from?",
+      "new_violations": [
+        "Unsupported action, link or credential request"
+      ]
+    },
+    {
+      "tweet_id": "2047806",
+      "message": "@115888 please update your podcasts. I need my @12743 fix!",
+      "old_route": "escalate",
+      "old_draft": "Thanks for flagging this. Which title is missing, and what country or region are you listening from?",
+      "new_route": "escalate",
+      "new_draft": "We can't confirm when a title will become available. Availability can vary by country or region; which country are you listening from?",
+      "new_violations": [
+        "Automatic reply has no cited evidence"
+      ]
+    }
+  ],
+  "evaluation_status": "post-evaluation diagnostic only",
+  "note": "The v3 human ratings were completed before these changes. Old ratings are not transferred to v4."
+}

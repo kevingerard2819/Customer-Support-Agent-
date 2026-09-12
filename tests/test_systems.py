@@ -62,6 +62,11 @@ class SystemTests(unittest.TestCase):
         self.assertTrue(has_unsupported_action("We've received your message and sent a DM back."))
         self.assertTrue(has_unsupported_action("We'll pass this to the relevant team."))
 
+    def test_future_catalog_and_monitoring_promises_are_blocked(self):
+        self.assertTrue(has_unsupported_action("We'll make it available as soon as we get it."))
+        self.assertTrue(has_unsupported_action("We'll keep an eye out for it."))
+        self.assertTrue(has_unsupported_action("We hope to have this album on Spotify soon."))
+
     def test_sentiment_signal_handles_support_tone(self):
         self.assertEqual(analyze_sentiment('Thank you, I love it 😊')['label'],'positive')
         self.assertEqual(analyze_sentiment('This app is broken and frustrating')['label'],'negative')

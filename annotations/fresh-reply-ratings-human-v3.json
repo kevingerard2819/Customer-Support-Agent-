@@ -1,0 +1,277 @@
+{
+  "packet_id": "0391d49d3b25c34ddf78f12b9f53fb04659d2932dab53624109fc504726df422",
+  "rubric_version": "v1",
+  "source": "human_entries_in_local_browser_tool",
+  "ratings": {
+    "4721eb09f18f": {
+      "correctness": 2,
+      "grounding": 2,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "notes": "",
+      "updated_at": "2026-09-12T05:54:40.556Z"
+    },
+    "d57cab25d3cb": {
+      "correctness": 2,
+      "grounding": 2,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "notes": "",
+      "updated_at": "2026-09-12T05:55:38.379Z"
+    },
+    "933856eafbf5": {
+      "correctness": 2,
+      "grounding": 2,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "notes": "",
+      "updated_at": "2026-09-12T05:56:05.165Z"
+    },
+    "24fac3ee3bec": {
+      "correctness": 2,
+      "grounding": 2,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "notes": "",
+      "updated_at": "2026-09-12T05:56:31.831Z"
+    },
+    "213d15140517": {
+      "correctness": 2,
+      "grounding": 2,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "notes": "",
+      "updated_at": "2026-09-12T05:57:04.673Z"
+    },
+    "23d20ed8a3bf": {
+      "correctness": 2,
+      "grounding": 2,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "notes": "",
+      "updated_at": "2026-09-12T05:57:28.591Z"
+    },
+    "47c0123e153a": {
+      "correctness": 2,
+      "grounding": 2,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "notes": "",
+      "updated_at": "2026-09-12T05:57:50.074Z"
+    },
+    "940bb327470f": {
+      "correctness": 2,
+      "grounding": 2,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "notes": "",
+      "updated_at": "2026-09-12T05:58:30.123Z"
+    },
+    "1720fc4ee0d5": {
+      "correctness": 2,
+      "grounding": 2,
+      "usefulness": 1,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "notes": "you can make this more empathetic we understand safety",
+      "updated_at": "2026-09-12T06:00:05.675Z"
+    },
+    "dc2ee5c8a76a": {
+      "correctness": 2,
+      "grounding": 2,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "notes": "",
+      "updated_at": "2026-09-12T06:00:47.348Z"
+    },
+    "b2b243266a2f": {
+      "correctness": 2,
+      "grounding": 2,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "notes": "",
+      "updated_at": "2026-09-12T06:01:10.098Z"
+    },
+    "57e2ec58ad10": {
+      "correctness": 2,
+      "grounding": 2,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "notes": "",
+      "updated_at": "2026-09-12T06:02:02.355Z"
+    },
+    "886388c88d23": {
+      "correctness": 2,
+      "grounding": 2,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "notes": "",
+      "updated_at": "2026-09-12T06:02:20.737Z"
+    },
+    "0704af2390fa": {
+      "correctness": 2,
+      "grounding": 2,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "notes": "",
+      "updated_at": "2026-09-12T06:02:40.619Z"
+    },
+    "1a646d52f6d6": {
+      "correctness": 1,
+      "grounding": 2,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "notes": "why escalate",
+      "updated_at": "2026-09-12T06:03:18.442Z"
+    },
+    "f62cd232fbce": {
+      "correctness": 2,
+      "grounding": 2,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "notes": "",
+      "updated_at": "2026-09-12T06:03:37.515Z"
+    },
+    "e368e7720c64": {
+      "correctness": 2,
+      "grounding": 2,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "notes": "",
+      "updated_at": "2026-09-12T06:03:48.385Z"
+    },
+    "f5c9dbd102d4": {
+      "correctness": 2,
+      "grounding": 2,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "notes": "",
+      "updated_at": "2026-09-12T06:04:33.606Z"
+    },
+    "cda8d1376ef2": {
+      "correctness": 2,
+      "grounding": 2,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "notes": "",
+      "updated_at": "2026-09-12T06:05:42.578Z"
+    },
+    "66fd1a6a4c87": {
+      "correctness": 2,
+      "grounding": 2,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "notes": "",
+      "updated_at": "2026-09-12T06:05:57.596Z"
+    },
+    "7cb10d73acf3": {
+      "correctness": 2,
+      "grounding": 2,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "notes": "",
+      "updated_at": "2026-09-12T06:06:08.385Z"
+    },
+    "9a7253a15ef9": {
+      "correctness": 2,
+      "grounding": 2,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "notes": "",
+      "updated_at": "2026-09-12T06:06:35.883Z"
+    },
+    "9b9d75ea418c": {
+      "correctness": 2,
+      "grounding": 2,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "notes": "",
+      "updated_at": "2026-09-12T06:06:55.851Z"
+    },
+    "08e4c0a0d792": {
+      "correctness": 1,
+      "grounding": 2,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "notes": "it could be better response",
+      "updated_at": "2026-09-12T06:07:49.380Z"
+    },
+    "42b4d4c4891a": {
+      "correctness": 2,
+      "grounding": 2,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "notes": "",
+      "updated_at": "2026-09-12T06:08:04.648Z"
+    },
+    "c2d9768a8ee9": {
+      "correctness": 2,
+      "grounding": 2,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "notes": "",
+      "updated_at": "2026-09-12T06:08:24.227Z"
+    },
+    "7da53eaf243b": {
+      "correctness": 2,
+      "grounding": 2,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "notes": "",
+      "updated_at": "2026-09-12T06:11:11.014Z"
+    },
+    "44cf50b95efa": {
+      "correctness": 2,
+      "grounding": 2,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "notes": "",
+      "updated_at": "2026-09-12T06:11:33.380Z"
+    },
+    "d01c9019225d": {
+      "correctness": 2,
+      "grounding": 2,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "notes": "",
+      "updated_at": "2026-09-12T06:11:50.579Z"
+    },
+    "65ef6c5ca930": {
+      "correctness": 2,
+      "grounding": 2,
+      "usefulness": 2,
+      "routing_privacy": 2,
+      "critical_failure": false,
+      "notes": "",
+      "updated_at": "2026-09-12T06:12:18.861Z"
+    }
+  }
+}

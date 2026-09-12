@@ -1,0 +1,22 @@
+{
+  "packet_id": "0391d49d3b25c34ddf78f12b9f53fb04659d2932dab53624109fc504726df422",
+  "n": 30,
+  "pass_count": 30,
+  "pass_rate": 1.0,
+  "critical_failure_count": 0,
+  "nonperfect_count": 3,
+  "nonperfect_rating_ids": [
+    "1720fc4ee0d5",
+    "1a646d52f6d6",
+    "08e4c0a0d792"
+  ],
+  "dimension_means": {
+    "correctness": 1.9333333333333333,
+    "grounding": 2.0,
+    "usefulness": 1.9666666666666666,
+    "routing_privacy": 2.0
+  },
+  "failed_rating_ids": [],
+  "definition": "Pass requires no critical failure, no zero dimension, and at least 6/8 total.",
+  "limitation": "Post-fix reply-quality sample only; it has no independently labelled intent ground truth. The run used Gemini 3.5 for 19 items and Gemini 3.8 for 11 after provider quota was reached."
+}

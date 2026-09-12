@@ -33,12 +33,14 @@ Do not merely repeat already-failed steps. Do not pretend an unavailable image o
 Return a human-readable routing reason. If evidence is insufficient, use a modest handoff draft and escalate. Evidence_ids may be empty for a handoff, but auto-handled replies require evidence.
 '''
 
-STYLE_VERSION='human-tone-v3-intent-fallbacks-sentiment-v1'
+STYLE_VERSION='human-tone-v4-posteval-wording-v1'
 
 UNSUPPORTED_ACTION_RE=re.compile(
     r"(?:we|i)(?:'ve| have)? (?:sent|issued|refunded|cancelled|canceled|verified|passed|forwarded)"
     r"|your refund (?:is|has)|https?://|send (?:us |me )?your password"
-    r"|(?:sent|replied to)[^.]{0,40}\bdm\b|(?:pass|forward)[^.]{0,50}\b(?:team|folks)\b",
+    r"|(?:sent|replied to)[^.]{0,40}\bdm\b|(?:pass|forward)[^.]{0,50}\b(?:team|folks)\b"
+    r"|we(?:'ll| will) (?:keep an eye|make (?:it|this) available)"
+    r"|we hope to have [^.]{0,80}(?:soon|in the future)",
     re.I,
 )
 
@@ -68,9 +70,13 @@ def handoff_draft(example,intent,reason=''):
     if any(word in lowered for word in ('prior attempts','follow-up','unresolved','earlier context')):
         return "Sorry this is still happening. A support team member should review the earlier steps and reply with the next useful action."
     if intent=='feedback_feature_request':
-        return "Thanks for sharing this suggestion. We can't confirm future releases or feature changes, but you've made the use case clear."
+        waited=bool(re.search(r'\b(?:waiting|years?|months?|still)\b',example['message'],re.I))
+        opening="Sorry you've been waiting so long." if sentiment['label'] in ('negative','mixed') or waited else "Thanks for sharing this suggestion."
+        return opening+" We can't confirm future releases or feature changes, but you've made the use case clear."
     if intent=='catalog_availability':
-        return "Thanks for flagging this. Which title is missing, and what country or region are you listening from?"
+        if re.search(r'\b(?:this|that|the)\s+(?:album|song|track|podcast|title)\b',example['message'],re.I):
+            return "We can't confirm when it will become available. Which title is missing, and what country or region are you listening from?"
+        return "We can't confirm when a title will become available. Availability can vary by country or region; which country are you listening from?"
     if intent=='playback_app':
         return "Sorry the app isn't working as expected. Which device, operating system, and Spotify app version are you using, and what happens when the issue occurs?"
     if intent=='library_playlists':
