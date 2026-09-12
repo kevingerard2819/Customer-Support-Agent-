@@ -1,0 +1,32 @@
+{
+  "parsed": {
+    "intent": "social_acknowledgement",
+    "route": "auto_handle",
+    "reason": "safe_acknowledgement",
+    "draft": "No problem! We'll keep an eye out for it. Give us a shout if you need anything else.",
+    "evidence_ids": [
+      "846792",
+      "2795586"
+    ],
+    "reply_kind": "acknowledgement"
+  },
+  "metadata": {
+    "model": "gemini-3.8-flash",
+    "model_version": "gemini-3.8-flash",
+    "request_sha256": "8ee4c76d0def37751ccadf5c0211e602ef3dd31abd3c95c54eb5a6eb3e937fbc",
+    "usage": {
+      "promptTokenCount": 2344,
+      "candidatesTokenCount": 107,
+      "totalTokenCount": 2451,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2344
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "latency_ms": 15175.741600018227,
+    "cache_hit": false
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "parsed": {
+    "intent": "playback_app",
+    "route": "auto_handle",
+    "reason": "safe_clarification",
+    "draft": "Sorry to hear about the playback pauses on Chrome. Does this still happen if you test in an incognito window or clear your browser cache?",
+    "evidence_ids": [
+      "2910983"
+    ],
+    "reply_kind": "clarification"
+  },
+  "metadata": {
+    "model": "gemini-3.8-flash",
+    "model_version": "gemini-3.8-flash",
+    "request_sha256": "a2d2c422da7f25c638767e176234b862bed6b018897c228d134383abc399a38c",
+    "usage": {
+      "promptTokenCount": 2345,
+      "candidatesTokenCount": 102,
+      "totalTokenCount": 2447,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2345
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "latency_ms": 1661.965000006603,
+    "cache_hit": false
+  }
+}

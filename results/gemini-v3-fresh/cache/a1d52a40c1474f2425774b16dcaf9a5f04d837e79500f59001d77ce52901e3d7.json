@@ -1,0 +1,30 @@
+{
+  "parsed": {
+    "intent": "feedback_feature_request",
+    "route": "escalate",
+    "reason": "unverified_policy",
+    "draft": "We understand it's frustrating to wait for features you want. While we don't have any updates on this right now, we'll make sure your feedback is passed along to the team.",
+    "evidence_ids": [],
+    "reply_kind": "handoff"
+  },
+  "metadata": {
+    "model": "gemini-3.5-flash",
+    "model_version": "gemini-3.5-flash",
+    "request_sha256": "a1d52a40c1474f2425774b16dcaf9a5f04d837e79500f59001d77ce52901e3d7",
+    "usage": {
+      "promptTokenCount": 2574,
+      "candidatesTokenCount": 100,
+      "totalTokenCount": 2874,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2574
+        }
+      ],
+      "thoughtsTokenCount": 200,
+      "serviceTier": "standard"
+    },
+    "latency_ms": 26484.100599976955,
+    "cache_hit": false
+  }
+}

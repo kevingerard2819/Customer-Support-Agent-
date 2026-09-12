@@ -1,0 +1,2173 @@
+[
+  {
+    "intent": "playback_app",
+    "route": "escalate",
+    "reason": "insufficient_context",
+    "draft": "We'd love to help get this sorted. What browser are you using, and are you seeing any specific error messages?",
+    "evidence_ids": [],
+    "reply_kind": "handoff",
+    "output_check_violations": [],
+    "style_adjustments": [],
+    "style_version": "human-tone-v3-intent-fallbacks-sentiment-v1",
+    "sentiment": {
+      "label": "neutral",
+      "score": 0.0,
+      "intensity": "low",
+      "positive_hits": 0,
+      "negative_hits": 0
+    },
+    "tweet_id": "2913802",
+    "api_metadata": {
+      "model": "gemini-3.5-flash",
+      "model_version": "gemini-3.5-flash",
+      "request_sha256": "bdc1e351fb150445501c3c4557ddfb8e468dcfc0019df9fe918ceccddee935a1",
+      "usage": {
+        "promptTokenCount": 2335,
+        "candidatesTokenCount": 83,
+        "totalTokenCount": 2827,
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 2335
+          }
+        ],
+        "thoughtsTokenCount": 409,
+        "serviceTier": "standard"
+      },
+      "latency_ms": 3617.7033999993,
+      "cache_hit": true
+    },
+    "api_error": null,
+    "evidence": [
+      {
+        "component_id": "795080",
+        "customer_tweet_id": "795081",
+        "support_tweet_id": "795080",
+        "customer_message": "@SpotifyCares why don't you have this available on the app? 👀",
+        "historical_reply": "@309573 The option is only available on the desktop app right now, but we'll let the right team know it's something you'd like to see /NQ",
+        "created_at": "Sun Oct 08 04:03:52 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.29678496403946514
+      },
+      {
+        "component_id": "739449",
+        "customer_tweet_id": "739453",
+        "support_tweet_id": "739452",
+        "customer_message": "@SpotifyCares the app is working on my phone but not on my PS4... why?",
+        "historical_reply": "@296853 Hey, that's not cool! Can you tell us what's happening exactly? Do you have the most recent version of the app version on your PS4? /JM",
+        "created_at": "Fri Oct 06 21:52:27 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.23963067904316057
+      },
+      {
+        "component_id": "1403646",
+        "customer_tweet_id": "1403647",
+        "support_tweet_id": "1403646",
+        "customer_message": "@115888 Why don't you include a \"sort by play count\" option.",
+        "historical_reply": "@446333 We can see how that’d be handy. Thanks for taking the time to reach out – your feedback's been noted 📝 /DF",
+        "created_at": "Sun Nov 12 22:37:20 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.21244131937452126
+      }
+    ]
+  },
+  {
+    "intent": "billing_subscription",
+    "route": "escalate",
+    "reason": "account_action",
+    "draft": "Hey there! Getting a new phone won't automatically cancel your Spotify Premium subscription. We can help you check on this, so please send us a DM with your account's email address or username.",
+    "evidence_ids": [],
+    "reply_kind": "handoff",
+    "output_check_violations": [],
+    "style_adjustments": [],
+    "style_version": "human-tone-v3-intent-fallbacks-sentiment-v1",
+    "sentiment": {
+      "label": "neutral",
+      "score": 0.0,
+      "intensity": "low",
+      "positive_hits": 0,
+      "negative_hits": 0
+    },
+    "tweet_id": "700400",
+    "api_metadata": {
+      "model": "gemini-3.5-flash",
+      "model_version": "gemini-3.5-flash",
+      "request_sha256": "c6210b76feff44376eff3b0d10eb91b712c3a3ebc04fc2b9ecba88a1e82fc448",
+      "usage": {
+        "promptTokenCount": 2449,
+        "candidatesTokenCount": 74,
+        "totalTokenCount": 2523,
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 2449
+          }
+        ],
+        "serviceTier": "standard"
+      },
+      "latency_ms": 14562.93079999159,
+      "cache_hit": true
+    },
+    "api_error": null,
+    "evidence": [
+      {
+        "component_id": "2026126",
+        "customer_tweet_id": "2026128",
+        "support_tweet_id": "2026126",
+        "customer_message": "@3072  i have a new premium account, but had no email confirmation, my phone does not recognize my premium account, any ideas.",
+        "historical_reply": "@599161 Hey Charles, that doesn't sound right. Can you DM us your account's email address or username? We'll take a look under the hood /JE https://t.co/ldFdZRiNAt",
+        "created_at": "Mon Nov 06 17:23:36 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.18200131411330056
+      },
+      {
+        "component_id": "2132002",
+        "customer_tweet_id": "2132003",
+        "support_tweet_id": "2132002",
+        "customer_message": "@115888 Hi, my account is blocked because i deleted Facebook. How can i cancel the account and make a new one or reactivate this one?",
+        "historical_reply": "@627415 Hey there! Could you DM us your account's username or email address? We'll see what we can suggest /RE https://t.co/ldFdZRiNAt",
+        "created_at": "Thu Oct 19 07:50:44 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.16809660486687492
+      },
+      {
+        "component_id": "2023470",
+        "customer_tweet_id": "2023471",
+        "support_tweet_id": "2023470",
+        "customer_message": "@SpotifyCares I want to cancel my premium subscription so I can change my email for new Spotify acc. I hope you can help w/ my issue. Thank you!",
+        "historical_reply": "@598440 Hey, help's here! Can you DM us your account's username or email address? We'll take a look backstage /PL https://t.co/ldFdZRiNAt",
+        "created_at": "Mon Nov 06 11:18:42 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.15686288529821785
+      }
+    ]
+  },
+  {
+    "intent": "catalog_availability",
+    "route": "escalate",
+    "reason": "unverified_policy",
+    "draft": "We don't have news about specific release dates right now, but we'd love to help you find out more. Could you head over to our Help Community or send us a DM so we can look into this?",
+    "evidence_ids": [],
+    "reply_kind": "handoff",
+    "output_check_violations": [],
+    "style_adjustments": [],
+    "style_version": "human-tone-v3-intent-fallbacks-sentiment-v1",
+    "sentiment": {
+      "label": "neutral",
+      "score": 0.0,
+      "intensity": "low",
+      "positive_hits": 0,
+      "negative_hits": 0
+    },
+    "tweet_id": "2647474",
+    "api_metadata": {
+      "model": "gemini-3.5-flash",
+      "model_version": "gemini-3.5-flash",
+      "request_sha256": "79dd69f8b733dd0acdeb9acecf01c93cea2f3bb526bb9c02c80f4e1317d76b04",
+      "usage": {
+        "promptTokenCount": 2387,
+        "candidatesTokenCount": 103,
+        "totalTokenCount": 2490,
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 2387
+          }
+        ],
+        "serviceTier": "standard"
+      },
+      "latency_ms": 24147.52880000742,
+      "cache_hit": true
+    },
+    "api_error": null,
+    "evidence": [
+      {
+        "component_id": "1597194",
+        "customer_tweet_id": "1597196",
+        "support_tweet_id": "1597194",
+        "customer_message": "@SpotifyCares can you tell me why i am not able to listen to King Krule on any device? 💔",
+        "historical_reply": "@490650 Hi there, help's here. Can you let us know the device/OS and Spotify version you're using? We'll see what we can suggest /NY",
+        "created_at": "Tue Oct 17 09:23:29 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.2738207162635576
+      },
+      {
+        "component_id": "1698035",
+        "customer_tweet_id": "1698036",
+        "support_tweet_id": "1698035",
+        "customer_message": "@115888 Please tell me how?? https://t.co/WHeCJ6uZhO",
+        "historical_reply": "@266435 Hey Macy, help's here! Could you send us a DM with your account's email address? We'll take a look backstage /CH https://t.co/ldFdZRiNAt",
+        "created_at": "Sun Nov 26 05:05:31 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.2101507311690421
+      },
+      {
+        "component_id": "1802304",
+        "customer_tweet_id": "1802305",
+        "support_tweet_id": "1802304",
+        "customer_message": "@SpotifyCares Hi, can you tell me how we can remove an album that has been incorrectly tagged to us on @115888 ?",
+        "historical_reply": "@541549 Hi there! We’d recommend reaching out to your distributor. They'll work with our team to make sure your artist page gets fixed up /NY",
+        "created_at": "Fri Oct 13 12:32:36 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.20086004195442508
+      }
+    ]
+  },
+  {
+    "intent": "other_unclear",
+    "route": "escalate",
+    "reason": "unsupported_language_scope",
+    "draft": "We understand you're eager to get this sorted, but we can't manually speed up the ingestion process from our end. We recommend keeping in touch with your distributor or reaching out to the Spotify for Artists team for specialized help.",
+    "evidence_ids": [],
+    "reply_kind": "handoff",
+    "output_check_violations": [],
+    "style_adjustments": [],
+    "style_version": "human-tone-v3-intent-fallbacks-sentiment-v1",
+    "sentiment": {
+      "label": "neutral",
+      "score": 0.0,
+      "intensity": "low",
+      "positive_hits": 0,
+      "negative_hits": 0
+    },
+    "tweet_id": "1974577",
+    "api_metadata": {
+      "model": "gemini-3.5-flash",
+      "model_version": "gemini-3.5-flash",
+      "request_sha256": "8d8329a49661be01fc11a06663ac14d7c0731fafc6ce7c80357de7628dd883fc",
+      "usage": {
+        "promptTokenCount": 2534,
+        "candidatesTokenCount": 108,
+        "totalTokenCount": 2944,
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 2534
+          }
+        ],
+        "thoughtsTokenCount": 302,
+        "serviceTier": "standard"
+      },
+      "latency_ms": 27386.316799995257,
+      "cache_hit": true
+    },
+    "api_error": null,
+    "evidence": [
+      {
+        "component_id": "1828821",
+        "customer_tweet_id": "1828822",
+        "support_tweet_id": "1828821",
+        "customer_message": "Does anyone know if there is a way to copy a playlist on @115888 so you can remember the songs if it disappears? @67027 @496607",
+        "historical_reply": "@548834 1: Hi there! Right now, it's currently not possible to save the playlist tracks in a file. We'd suggest heading to the app's Settings and...",
+        "created_at": "Tue Oct 17 14:17:52 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.17782456800887778
+      },
+      {
+        "component_id": "1828821",
+        "customer_tweet_id": "1828822",
+        "support_tweet_id": "1828823",
+        "customer_message": "Does anyone know if there is a way to copy a playlist on @115888 so you can remember the songs if it disappears? @67027 @496607",
+        "historical_reply": "@548834 2: enable \"Show unavailable songs in playlists\". This way, you could still see the unavailable track, as it'll just be grayed out /MU",
+        "created_at": "Tue Oct 17 14:18:20 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.17782456800887778
+      },
+      {
+        "component_id": "6484",
+        "customer_tweet_id": "6538",
+        "support_tweet_id": "1869098",
+        "customer_message": "@117153 @SpotifyCares I have a problem with my account. Can you help me?",
+        "historical_reply": "@558285 Hey there! Can you let us know what's happening exactly? We'll see what we can suggest /MA",
+        "created_at": "Wed Oct 18 08:55:04 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.17220113623443334
+      }
+    ]
+  },
+  {
+    "intent": "playback_app",
+    "route": "auto_handle",
+    "reason": "safe_clarification",
+    "draft": "That sounds frustrating. Can you let us know what device, operating system, and Spotify version you're using? We'll see what we can suggest.",
+    "evidence_ids": [
+      "1283795"
+    ],
+    "reply_kind": "clarification",
+    "output_check_violations": [],
+    "style_adjustments": [],
+    "style_version": "human-tone-v3-intent-fallbacks-sentiment-v1",
+    "sentiment": {
+      "label": "neutral",
+      "score": 0.0,
+      "intensity": "low",
+      "positive_hits": 0,
+      "negative_hits": 0
+    },
+    "tweet_id": "1739418",
+    "api_metadata": {
+      "model": "gemini-3.5-flash",
+      "model_version": "gemini-3.5-flash",
+      "request_sha256": "92c901e533e210f88ea85af97b2b8c35738dc2c4cbe6d1703c2b383bdd35fbfa",
+      "usage": {
+        "promptTokenCount": 2412,
+        "candidatesTokenCount": 84,
+        "totalTokenCount": 2496,
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 2412
+          }
+        ],
+        "serviceTier": "standard"
+      },
+      "latency_ms": 25995.076499995776,
+      "cache_hit": true
+    },
+    "api_error": null,
+    "evidence": [
+      {
+        "component_id": "1189838",
+        "customer_tweet_id": "1189843",
+        "support_tweet_id": "1189842",
+        "customer_message": "@SpotifyCares I can’t login. When I press the login button it just doesn’t do anything. - iOS App",
+        "historical_reply": "@399662 Hi there! Help's here. Can you try restarting your device to see if it makes a difference? Keep us posted /MU",
+        "created_at": "Wed Oct 25 06:49:01 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.3563986748302077
+      },
+      {
+        "component_id": "257839",
+        "customer_tweet_id": "257841",
+        "support_tweet_id": "257839",
+        "customer_message": "@SpotifyCares When I press the button \"Create similar playlist\" on desktop it doesn't do anything.",
+        "historical_reply": "@165995 Hey there! What operating system and version of Spotify is this happening on? We'll lend a hand /SY",
+        "created_at": "Thu Oct 05 20:08:48 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.2954894617512682
+      },
+      {
+        "component_id": "1283795",
+        "customer_tweet_id": "1283796",
+        "support_tweet_id": "1283795",
+        "customer_message": "@115888 my playlist won't play!!!!!!!",
+        "historical_reply": "@420310 Hey Brit, help's here! Can you let us know the device, OS, and Spotify version you're using? We'll see what we can suggest /RV",
+        "created_at": "Tue Oct 17 18:42:40 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.20019702579282866
+      }
+    ]
+  },
+  {
+    "intent": "account_access_security",
+    "route": "escalate",
+    "reason": "account_action",
+    "draft": "Hey! We'd love to help you with this. To keep your details safe, could you send us a private message with your account's email address or username?",
+    "evidence_ids": [
+      "885036"
+    ],
+    "reply_kind": "handoff",
+    "output_check_violations": [],
+    "style_adjustments": [],
+    "style_version": "human-tone-v3-intent-fallbacks-sentiment-v1",
+    "sentiment": {
+      "label": "positive",
+      "score": 1.0,
+      "intensity": "medium",
+      "positive_hits": 1,
+      "negative_hits": 0
+    },
+    "tweet_id": "956463",
+    "api_metadata": {
+      "model": "gemini-3.5-flash",
+      "model_version": "gemini-3.5-flash",
+      "request_sha256": "d97099fbc5beb6edbe040712623d6c95ffa2da057d39b890ea54a89fed8ca0d4",
+      "usage": {
+        "promptTokenCount": 2398,
+        "candidatesTokenCount": 107,
+        "totalTokenCount": 2735,
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 2398
+          }
+        ],
+        "thoughtsTokenCount": 230,
+        "serviceTier": "standard"
+      },
+      "latency_ms": 26045.77649998828,
+      "cache_hit": true
+    },
+    "api_error": null,
+    "evidence": [
+      {
+        "component_id": "6484",
+        "customer_tweet_id": "6537",
+        "support_tweet_id": "1860534",
+        "customer_message": "@117153 @SpotifyCares Help! still having issues with my Spotify Premium. Everything checked out ok but am getting commercials... Can you help??",
+        "historical_reply": "@556161 Hey Steve, help's here! Can you DM us your account's email address and username? We'll take a look backstage /MQ https://t.co/ldFdZRiNAt",
+        "created_at": "Thu Oct 19 16:45:42 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.19202952916676286
+      },
+      {
+        "component_id": "866293",
+        "customer_tweet_id": "866295",
+        "support_tweet_id": "866293",
+        "customer_message": "Hi @SpotifyCares I'm having problems with my music it's not playing and it's randomly skipping. I use iOS",
+        "historical_reply": "@325696 Hey, help's here. Can you let us know the OS and Spotify version you're using? We'll see what we can suggest /KL",
+        "created_at": "Fri Oct 20 17:58:39 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.19018723764880446
+      },
+      {
+        "component_id": "885036",
+        "customer_tweet_id": "885037",
+        "support_tweet_id": "885036",
+        "customer_message": "I’m having serious issues with @115888 where random devices show up and take over my listening. Anyone else having issues?",
+        "historical_reply": "@330159 Hey Kyle, we'd love to help! Can you DM us your account's username or email address? We'll have a look /AG https://t.co/ldFdZRiNAt",
+        "created_at": "Fri Oct 20 22:42:03 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.17932512175930868
+      }
+    ]
+  },
+  {
+    "intent": "billing_subscription",
+    "route": "escalate",
+    "reason": "account_action",
+    "draft": "We can help you get onto the subscription you wanted. Since we'll need some account details, let's head over to DMs to sort this out securely.",
+    "evidence_ids": [],
+    "reply_kind": "handoff",
+    "output_check_violations": [],
+    "style_adjustments": [],
+    "style_version": "human-tone-v3-intent-fallbacks-sentiment-v1",
+    "sentiment": {
+      "label": "neutral",
+      "score": 0.0,
+      "intensity": "low",
+      "positive_hits": 0,
+      "negative_hits": 0
+    },
+    "tweet_id": "2890062",
+    "api_metadata": {
+      "model": "gemini-3.5-flash",
+      "model_version": "gemini-3.5-flash",
+      "request_sha256": "b57df3003a41342a212feb1b635a15f439b743fe5d539bb70347b91910163ac3",
+      "usage": {
+        "promptTokenCount": 2302,
+        "candidatesTokenCount": 91,
+        "totalTokenCount": 2393,
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 2302
+          }
+        ],
+        "serviceTier": "standard"
+      },
+      "latency_ms": 26394.70540001639,
+      "cache_hit": true
+    },
+    "api_error": null,
+    "evidence": [
+      {
+        "component_id": "2165456",
+        "customer_tweet_id": "2165457",
+        "support_tweet_id": "2165456",
+        "customer_message": "@SpotifyCares Can I dm you ?",
+        "historical_reply": "@635590 Sure thing! We'll be on the lookout /JN https://t.co/ldFdZRiNAt",
+        "created_at": "Thu Nov 09 10:05:37 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.30698246905967336
+      },
+      {
+        "component_id": "560993",
+        "customer_tweet_id": "560994",
+        "support_tweet_id": "560993",
+        "customer_message": "@SpotifyCares, Hi I've DM'd you hours ago and you haven't replied. Is there any chance you could?",
+        "historical_reply": "@251270 Hey, sorry to keep your waiting! We've already replied to your DM. Let's continue chatting there /GT",
+        "created_at": "Sat Dec 02 22:37:16 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.21642563529119963
+      },
+      {
+        "component_id": "903306",
+        "customer_tweet_id": "903308",
+        "support_tweet_id": "903306",
+        "customer_message": "@SpotifyCares Dm",
+        "historical_reply": "@334448 Hi! We've replied to your DM. We'll continue helping you there 🙂 /BX",
+        "created_at": "Fri Oct 13 19:09:34 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.21299492817410742
+      }
+    ]
+  },
+  {
+    "intent": "playback_app",
+    "route": "escalate",
+    "reason": "repeated_failure",
+    "draft": "Thanks for trying those steps. Since restarting and reinstalling didn't help, please send us a DM with your account's email address so we can take a closer look.",
+    "evidence_ids": [],
+    "reply_kind": "handoff",
+    "output_check_violations": [],
+    "style_adjustments": [],
+    "style_version": "human-tone-v3-intent-fallbacks-sentiment-v1",
+    "sentiment": {
+      "label": "neutral",
+      "score": 0.0,
+      "intensity": "low",
+      "positive_hits": 0,
+      "negative_hits": 0
+    },
+    "tweet_id": "1567370",
+    "api_metadata": {
+      "model": "gemini-3.5-flash",
+      "model_version": "gemini-3.5-flash",
+      "request_sha256": "2e1b2c2197b66191eeaca091d4456930ffe3b96cde02fbb67374f30a0d3a4cf1",
+      "usage": {
+        "promptTokenCount": 2658,
+        "candidatesTokenCount": 93,
+        "totalTokenCount": 3011,
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 2658
+          }
+        ],
+        "thoughtsTokenCount": 260,
+        "serviceTier": "standard"
+      },
+      "latency_ms": 25894.49910001713,
+      "cache_hit": true
+    },
+    "api_error": null,
+    "evidence": [
+      {
+        "component_id": "44403",
+        "customer_tweet_id": "44407",
+        "support_tweet_id": "44408",
+        "customer_message": "@SpotifyCares I tried that multiple times",
+        "historical_reply": "@125853 Just to make sure, have you tried steps laid out here: https://t.co/SgMwFS1ONz? Keep us posted /MT",
+        "created_at": "Sun Nov 26 01:14:33 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.32345194393054
+      },
+      {
+        "component_id": "2070032",
+        "customer_tweet_id": "2070034",
+        "support_tweet_id": "2070032",
+        "customer_message": "I've already tried reinstalling on my Mac and my iPhone :( https://t.co/PU3obilISr",
+        "historical_reply": "@607821 Thanks for letting us know. Our best tech folks are on the case as we speak. Hopefully we'll have a fix soon! /RH",
+        "created_at": "Thu Oct 19 01:51:35 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.20696577090306845
+      },
+      {
+        "component_id": "44403",
+        "customer_tweet_id": "44405",
+        "support_tweet_id": "44403",
+        "customer_message": "@SpotifyCares I have a Samsung S7, Android 7.0 and the latest version of the Spotify app",
+        "historical_reply": "@125853 Got it. Could you also get back to us with the OS and Spotify version you're using on your computer? /MT",
+        "created_at": "Sun Nov 26 00:41:56 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.15800192115519554
+      }
+    ]
+  },
+  {
+    "intent": "feedback_feature_request",
+    "route": "escalate",
+    "reason": "Output check: Unsupported action, link or credential request",
+    "draft": "Thanks for sharing this suggestion. We can't confirm future releases or feature changes, but you've made the use case clear.",
+    "evidence_ids": [],
+    "reply_kind": "handoff",
+    "output_check_violations": [
+      "Unsupported action, link or credential request"
+    ],
+    "style_adjustments": [],
+    "style_version": "human-tone-v3-intent-fallbacks-sentiment-v1",
+    "sentiment": {
+      "label": "neutral",
+      "score": 0.0,
+      "intensity": "high",
+      "positive_hits": 0,
+      "negative_hits": 0
+    },
+    "tweet_id": "2899864",
+    "api_metadata": {
+      "model": "gemini-3.5-flash",
+      "model_version": "gemini-3.5-flash",
+      "request_sha256": "a1d52a40c1474f2425774b16dcaf9a5f04d837e79500f59001d77ce52901e3d7",
+      "usage": {
+        "promptTokenCount": 2574,
+        "candidatesTokenCount": 100,
+        "totalTokenCount": 2874,
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 2574
+          }
+        ],
+        "thoughtsTokenCount": 200,
+        "serviceTier": "standard"
+      },
+      "latency_ms": 26484.100599976955,
+      "cache_hit": true
+    },
+    "api_error": null,
+    "evidence": [
+      {
+        "component_id": "482512",
+        "customer_tweet_id": "482513",
+        "support_tweet_id": "482512",
+        "customer_message": "@147836 Please advise when we can protect our own children from explicit lyrics #ExplicitButton #SpotifyDoesNotCare https://t.co/aMODofKNiA",
+        "historical_reply": "@129061 @147836 Hey Mark! We don't have any new info on this at the moment. We'll make sure your thoughts on the feature reach the right team 🙂 /L",
+        "created_at": "Fri Dec 01 14:04:14 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.6114092668339225
+      },
+      {
+        "component_id": "2319500",
+        "customer_tweet_id": "2319502",
+        "support_tweet_id": "2319500",
+        "customer_message": "@115888 - Please advise when we can protect our own children from explicit lyrics #ExplicitButton #SpotifyDoesNotCare \nhttps://t.co/7zufNKzS0G",
+        "historical_reply": "@246927 Hey Rita, we hear you! To help make it happen, we’d recommend showing your support for the idea here: https://t.co/CdI1SY9KZE /GK",
+        "created_at": "Mon Nov 13 12:34:54 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.6114092668339225
+      },
+      {
+        "component_id": "1872638",
+        "customer_tweet_id": "1872639",
+        "support_tweet_id": "1872641",
+        "customer_message": "@SpotifyCares fingers crossed!!! what’s Halloween without coraline ya know? x",
+        "historical_reply": "@559184 We understand. Don't worry, we’ll have it available to you as soon as it’s available to us /NS",
+        "created_at": "Fri Oct 20 05:00:45 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.13114533034142137
+      }
+    ]
+  },
+  {
+    "intent": "feedback_feature_request",
+    "route": "auto_handle",
+    "reason": "supported_general_help",
+    "draft": "We think a wake-up alarm is a great idea too! You can share your feedback and support this feature request on our Community Ideas Exchange.",
+    "evidence_ids": [
+      "708300"
+    ],
+    "reply_kind": "answer",
+    "output_check_violations": [],
+    "style_adjustments": [],
+    "style_version": "human-tone-v3-intent-fallbacks-sentiment-v1",
+    "sentiment": {
+      "label": "neutral",
+      "score": 0.0,
+      "intensity": "low",
+      "positive_hits": 0,
+      "negative_hits": 0
+    },
+    "tweet_id": "787542",
+    "api_metadata": {
+      "model": "gemini-3.5-flash",
+      "model_version": "gemini-3.5-flash",
+      "request_sha256": "12b1cf0a057af1febffa60167cf32265c530c6eb9fa93f7133aa7e948e64be01",
+      "usage": {
+        "promptTokenCount": 2367,
+        "candidatesTokenCount": 103,
+        "totalTokenCount": 2470,
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 2367
+          }
+        ],
+        "serviceTier": "standard"
+      },
+      "latency_ms": 25599.423799983924,
+      "cache_hit": true
+    },
+    "api_error": null,
+    "evidence": [
+      {
+        "component_id": "2913881",
+        "customer_tweet_id": "2913882",
+        "support_tweet_id": "2913881",
+        "customer_message": "@115888 🙄👋🏻 come on...",
+        "historical_reply": "@806626 Hey Timothy! We had a little hiccup earlier, but everything should be running as smooth as Smooth Jazz now /JE",
+        "created_at": "Tue Nov 28 22:48:17 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.28213187614822954
+      },
+      {
+        "component_id": "708300",
+        "customer_tweet_id": "708301",
+        "support_tweet_id": "708300",
+        "customer_message": "Please @115888 make an alarm feature. Is like to wake up to music ready to go. #spotifyalarmclock https://t.co/hAsYqKqRT5",
+        "historical_reply": "@289309 Hi there, we think this is a good feature too! With your support, it can happen: https://t.co/YSHYSPDR4z /RA",
+        "created_at": "Fri Oct 06 05:37:06 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.2318084189528466
+      },
+      {
+        "component_id": "1152019",
+        "customer_tweet_id": "1152020",
+        "support_tweet_id": "1152022",
+        "customer_message": "@SpotifyCares Thanks! It's set to the UK.",
+        "historical_reply": "@391109 Got it, thanks! Fingers crossed we'll be able to have it soon, but there's info about Spotify content here: https://t.co/0i8GpimuDa /TB",
+        "created_at": "Sun Oct 15 20:48:32 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.1628504735116842
+      }
+    ]
+  },
+  {
+    "intent": "account_access_security",
+    "route": "escalate",
+    "reason": "repeated_failure",
+    "draft": "We hear you, and we want to get this login issue sorted out. Since it's still not working, please send us a DM so we can look closer at your account.",
+    "evidence_ids": [],
+    "reply_kind": "handoff",
+    "output_check_violations": [],
+    "style_adjustments": [],
+    "style_version": "human-tone-v3-intent-fallbacks-sentiment-v1",
+    "sentiment": {
+      "label": "negative",
+      "score": -1.0,
+      "intensity": "medium",
+      "positive_hits": 0,
+      "negative_hits": 1
+    },
+    "tweet_id": "272512",
+    "api_metadata": {
+      "model": "gemini-3.5-flash",
+      "model_version": "gemini-3.5-flash",
+      "request_sha256": "36b436c8c51e02e3071efbd106b294f02f85898c071eb971a0bea8a0b1639147",
+      "usage": {
+        "promptTokenCount": 2597,
+        "candidatesTokenCount": 81,
+        "totalTokenCount": 2830,
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 2597
+          }
+        ],
+        "thoughtsTokenCount": 152,
+        "serviceTier": "standard"
+      },
+      "latency_ms": 25920.125800010283,
+      "cache_hit": true
+    },
+    "api_error": null,
+    "evidence": [
+      {
+        "component_id": "206617",
+        "customer_tweet_id": "206619",
+        "support_tweet_id": "206617",
+        "customer_message": "@115888 umm you won't let me log into my account.... I have to use @129941 and I don't really like them. (No offense)",
+        "historical_reply": "@164938 Hey Shelby! Can you DM us your account's username and email address? We'll lend a hand /SY https://t.co/ldFdZRiNAt",
+        "created_at": "Wed Oct 04 23:48:51 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.21122149860081263
+      },
+      {
+        "component_id": "1796592",
+        "customer_tweet_id": "1796593",
+        "support_tweet_id": "1796592",
+        "customer_message": "@115888 how can I keep my Spotify acct current if I move my acct from Rogers to Spotify?",
+        "historical_reply": "@539832 Hi Shari, help has arrived. Can you DM us your account's email address or username? We'll see what we can suggest /ME https://t.co/ldFdZRiNAt",
+        "created_at": "Fri Oct 13 19:48:58 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.1824127383011368
+      },
+      {
+        "component_id": "1811665",
+        "customer_tweet_id": "1811666",
+        "support_tweet_id": "1811665",
+        "customer_message": "It's driving me crazy the fact that I can't log into my Spotify account @115888",
+        "historical_reply": "@544292 Hi there. Don't worry, help's here. Can you DM us your username or email address so we can take a look? /JU https://t.co/ldFdZRiNAt",
+        "created_at": "Sun Oct 15 01:54:17 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.18093166317698817
+      }
+    ]
+  },
+  {
+    "intent": "billing_subscription",
+    "route": "escalate",
+    "reason": "account_action",
+    "draft": "We want to help secure your account and look into these charges. Please send us a DM so we can safely chat in a private space.",
+    "evidence_ids": [],
+    "reply_kind": "handoff",
+    "output_check_violations": [],
+    "style_adjustments": [],
+    "style_version": "human-tone-v3-intent-fallbacks-sentiment-v1",
+    "sentiment": {
+      "label": "neutral",
+      "score": 0.0,
+      "intensity": "low",
+      "positive_hits": 0,
+      "negative_hits": 0
+    },
+    "tweet_id": "2905914",
+    "api_metadata": {
+      "model": "gemini-3.5-flash",
+      "model_version": "gemini-3.5-flash",
+      "request_sha256": "cf122f62af2cbcc65069e25fd0dfda49b7d428151b19862b5874a6e83d2a6dc6",
+      "usage": {
+        "promptTokenCount": 2364,
+        "candidatesTokenCount": 70,
+        "totalTokenCount": 2523,
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 2364
+          }
+        ],
+        "thoughtsTokenCount": 89,
+        "serviceTier": "standard"
+      },
+      "latency_ms": 25585.69659999921,
+      "cache_hit": true
+    },
+    "api_error": null,
+    "evidence": [
+      {
+        "component_id": "1344868",
+        "customer_tweet_id": "1344869",
+        "support_tweet_id": "1344868",
+        "customer_message": "@115888 Why are you still charging my card when I cancelled my subscription months ago? Do I need to contact the authorities?",
+        "historical_reply": "@433609 @115888 We've just sent you a bit more info over DM. We'll carry on helping out there 🙂 /CG",
+        "created_at": "Fri Oct 27 16:36:44 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.28973378149324047
+      },
+      {
+        "component_id": "1130696",
+        "customer_tweet_id": "1130697",
+        "support_tweet_id": "1130696",
+        "customer_message": "@115888 I need support with set up.  Live chat option appears to have disappeared",
+        "historical_reply": "@386469 Hi there! How can we help? Are you having some issues with the app? We'll see what we can do for you /NY",
+        "created_at": "Tue Oct 24 11:44:42 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.12672840651310757
+      },
+      {
+        "component_id": "1809145",
+        "customer_tweet_id": "1809146",
+        "support_tweet_id": "1809145",
+        "customer_message": "@SpotifyCares hi, I have Spotify charges on my credit card. Although, I never signed up for it...",
+        "historical_reply": "@543509 Hey there! Can you DM us any email addresses or usernames you may have signed up with? We'll take a look backstage /SU https://t.co/ldFdZRiNAt",
+        "created_at": "Sat Oct 14 17:09:26 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.12143279896793635
+      }
+    ]
+  },
+  {
+    "intent": "catalog_availability",
+    "route": "escalate",
+    "reason": "unverified_policy",
+    "draft": "We don't have details on specific album licensing right now. Music availability can change over time due to agreements with artists and labels.",
+    "evidence_ids": [],
+    "reply_kind": "handoff",
+    "output_check_violations": [],
+    "style_adjustments": [],
+    "style_version": "human-tone-v3-intent-fallbacks-sentiment-v1",
+    "sentiment": {
+      "label": "neutral",
+      "score": 0.0,
+      "intensity": "low",
+      "positive_hits": 0,
+      "negative_hits": 0
+    },
+    "tweet_id": "1487764",
+    "api_metadata": {
+      "model": "gemini-3.5-flash",
+      "model_version": "gemini-3.5-flash",
+      "request_sha256": "f229a691baf3f1ed1ec469e6e181ad4cf2e8b7ef6d27ae6ed9c68c9722212a6b",
+      "usage": {
+        "promptTokenCount": 2375,
+        "candidatesTokenCount": 61,
+        "totalTokenCount": 2623,
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 2375
+          }
+        ],
+        "thoughtsTokenCount": 187,
+        "serviceTier": "standard"
+      },
+      "latency_ms": 25989.752399997087,
+      "cache_hit": true
+    },
+    "api_error": null,
+    "evidence": [
+      {
+        "component_id": "1865946",
+        "customer_tweet_id": "1865947",
+        "support_tweet_id": "1865946",
+        "customer_message": "anyone else have their @115888 downloads randomly disappear? 😒😒😒 @SpotifyCares",
+        "historical_reply": "@557464 Sorry to hear that! Check out the steps under “Downloads unexpectedly removed” at https://t.co/38J7tFlIBF. They should help with this /CO",
+        "created_at": "Fri Oct 20 18:08:02 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.22595264756639838
+      },
+      {
+        "component_id": "1866056",
+        "customer_tweet_id": "1866057",
+        "support_tweet_id": "1866056",
+        "customer_message": "@115888 Nvm, it's coming back now as it all is redownloading, but still, why did it disappear?",
+        "historical_reply": "@557499 Hi Jake! Sorry to hear that. We'd suggest checking out the steps under “Downloads unexpectedly removed” at https://t.co/38J7tFlIBF /LP",
+        "created_at": "Fri Oct 20 18:24:12 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.19584296353544217
+      },
+      {
+        "component_id": "1002345",
+        "customer_tweet_id": "1002346",
+        "support_tweet_id": "1002345",
+        "customer_message": "@SpotifyCares Album: https://t.co/T9tW4LkDXE\nArtist:\nhttps://t.co/ztrG6VtUMN",
+        "historical_reply": "@357277 Got it. We'll get this reported. Great detective work! https://t.co/LpsmyUtme0 /DV",
+        "created_at": "Sun Oct 22 14:49:06 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.1869622250979605
+      }
+    ]
+  },
+  {
+    "intent": "playback_app",
+    "route": "auto_handle",
+    "reason": "supported_general_help",
+    "draft": "Hey there! Let's see if we can get those controls back. Does logging out, restarting your device, and logging back in help?",
+    "evidence_ids": [
+      "1177827"
+    ],
+    "reply_kind": "answer",
+    "output_check_violations": [],
+    "style_adjustments": [],
+    "style_version": "human-tone-v3-intent-fallbacks-sentiment-v1",
+    "sentiment": {
+      "label": "positive",
+      "score": 1.0,
+      "intensity": "medium",
+      "positive_hits": 1,
+      "negative_hits": 0
+    },
+    "tweet_id": "633768",
+    "api_metadata": {
+      "model": "gemini-3.5-flash",
+      "model_version": "gemini-3.5-flash",
+      "request_sha256": "7e539bb21a57a1054939fdcd8629fbfa0afa77f9d6a4731ad984bbbe8b4307ea",
+      "usage": {
+        "promptTokenCount": 2409,
+        "candidatesTokenCount": 71,
+        "totalTokenCount": 2480,
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 2409
+          }
+        ],
+        "serviceTier": "standard"
+      },
+      "latency_ms": 25588.240299985046,
+      "cache_hit": true
+    },
+    "api_error": null,
+    "evidence": [
+      {
+        "component_id": "1177827",
+        "customer_tweet_id": "1177829",
+        "support_tweet_id": "1177827",
+        "customer_message": "@SpotifyCares I'm running the newest iOS &amp; your app but now, I cannot control my music from the lock screen. Any ideas why?",
+        "historical_reply": "@397017 Hey there, we're here to help! Does logging out &gt; restarting the device &gt; logging back in help? Keep us posted /TB",
+        "created_at": "Sun Oct 15 17:53:43 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.24618376138163886
+      },
+      {
+        "component_id": "2426244",
+        "customer_tweet_id": "2426255",
+        "support_tweet_id": "2426256",
+        "customer_message": "@SpotifyCares iOS 11.2, iPhone X.",
+        "historical_reply": "@696713 We're afraid we don't officially support beta iOS versions at this time, but don't worry, we'll still help you out. Can you DM us your account's email address? We'll take a look under the hood /KB https://t.co/ldFdZRiNAt",
+        "created_at": "Mon Nov 27 22:45:16 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.19535344672150134
+      },
+      {
+        "component_id": "1335511",
+        "customer_tweet_id": "1335513",
+        "support_tweet_id": "1335511",
+        "customer_message": "Why does @115888 not show up on the lock screen after the latest iOS update? @115858 @AppleSupport",
+        "historical_reply": "@296044 Hi there! Can you let us know the iOS and Spotify version you're running? We'll see what we can suggest /NY",
+        "created_at": "Fri Oct 27 14:03:02 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.17238062731581952
+      }
+    ]
+  },
+  {
+    "intent": "catalog_availability",
+    "route": "escalate",
+    "reason": "unverified_policy",
+    "draft": "We'd love to have these tracks on Spotify! While we can't promise if or when they will be available, we hope to have them in the future.",
+    "evidence_ids": [],
+    "reply_kind": "handoff",
+    "output_check_violations": [],
+    "style_adjustments": [],
+    "style_version": "human-tone-v3-intent-fallbacks-sentiment-v1",
+    "sentiment": {
+      "label": "neutral",
+      "score": 0.0,
+      "intensity": "low",
+      "positive_hits": 0,
+      "negative_hits": 0
+    },
+    "tweet_id": "2005767",
+    "api_metadata": {
+      "model": "gemini-3.5-flash",
+      "model_version": "gemini-3.5-flash",
+      "request_sha256": "df05dbfe48241870c35ef213119a5f10ac1b956d1fef5bd49807ae4cf2cb20ef",
+      "usage": {
+        "promptTokenCount": 2339,
+        "candidatesTokenCount": 77,
+        "totalTokenCount": 2722,
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 2339
+          }
+        ],
+        "thoughtsTokenCount": 306,
+        "serviceTier": "standard"
+      },
+      "latency_ms": 26828.381100000115,
+      "cache_hit": true
+    },
+    "api_error": null,
+    "evidence": [
+      {
+        "component_id": "468961",
+        "customer_tweet_id": "468962",
+        "support_tweet_id": "468961",
+        "customer_message": "@115888 put @146300 on spotify already",
+        "historical_reply": "@226662 Hey There. We'd love to have him on Spotify! Hopefully we will in the future. Check this out: https://t.co/GGCDZEXji9 /NS",
+        "created_at": "Fri Dec 01 06:40:00 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.3570712375773343
+      },
+      {
+        "component_id": "1297567",
+        "customer_tweet_id": "1297569",
+        "support_tweet_id": "1297567",
+        "customer_message": "@115888 put TWICE on spotify",
+        "historical_reply": "@423225 Hey there! Can you let us know the country your account is set to? We'll look into it /GS",
+        "created_at": "Thu Oct 26 22:19:58 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.3406084792666254
+      },
+      {
+        "component_id": "1002345",
+        "customer_tweet_id": "1002348",
+        "support_tweet_id": "1002347",
+        "customer_message": "@355579 Spotify put it in the wrong artist. Cc @SpotifyCares https://t.co/nHqEzEmt0E",
+        "historical_reply": "@357277 Hi Rio, thanks for reporting! Can you send over the links of the artist pages and the albums that should be on a separate page? /DV",
+        "created_at": "Sun Oct 22 14:24:17 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.2592652052405614
+      }
+    ]
+  },
+  {
+    "intent": "account_access_security",
+    "route": "escalate",
+    "reason": "account_action",
+    "draft": "We'd love to help sort out your subscription and secure your account. Since we'll need to look at your account details, could you reach out to us via direct message?",
+    "evidence_ids": [],
+    "reply_kind": "handoff",
+    "output_check_violations": [],
+    "style_adjustments": [],
+    "style_version": "human-tone-v3-intent-fallbacks-sentiment-v1",
+    "sentiment": {
+      "label": "neutral",
+      "score": 0.0,
+      "intensity": "low",
+      "positive_hits": 0,
+      "negative_hits": 0
+    },
+    "tweet_id": "2855899",
+    "api_metadata": {
+      "model": "gemini-3.5-flash",
+      "model_version": "gemini-3.5-flash",
+      "request_sha256": "bca3b9abaddac47dc5d7c6e0952a1e7e425b96ecf17b617374b4b00164553d20",
+      "usage": {
+        "promptTokenCount": 2440,
+        "candidatesTokenCount": 81,
+        "totalTokenCount": 2521,
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 2440
+          }
+        ],
+        "serviceTier": "standard"
+      },
+      "latency_ms": 25893.929899990326,
+      "cache_hit": true
+    },
+    "api_error": null,
+    "evidence": [
+      {
+        "component_id": "784867",
+        "customer_tweet_id": "784868",
+        "support_tweet_id": "784867",
+        "customer_message": "@SpotifyCares My account got shut off after I corrected the fact that I was being over-charged for Premium. Supposed to get half off",
+        "historical_reply": "@307286 Hey! Help's here. Can you DM us your account's email address? We'll take a look backstage /RA https://t.co/ldFdZRiNAt",
+        "created_at": "Sat Oct 07 22:34:46 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.16062009772196306
+      },
+      {
+        "component_id": "2202370",
+        "customer_tweet_id": "2202372",
+        "support_tweet_id": "2202370",
+        "customer_message": "@SpotifyCares It may have something to do with Airdrop but I’m not sure. I definitely didn’t give this random HTC Desire permission to use my account",
+        "historical_reply": "@644022 Hey Brandon, help's here! Can you DM us your account's email address? We'll take a look backstage /SJ https://t.co/ldFdZRiNAt",
+        "created_at": "Thu Oct 19 14:24:45 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.1503040473112933
+      },
+      {
+        "component_id": "1811665",
+        "customer_tweet_id": "1811666",
+        "support_tweet_id": "1811665",
+        "customer_message": "It's driving me crazy the fact that I can't log into my Spotify account @115888",
+        "historical_reply": "@544292 Hi there. Don't worry, help's here. Can you DM us your username or email address so we can take a look? /JU https://t.co/ldFdZRiNAt",
+        "created_at": "Sun Oct 15 01:54:17 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.14602094155208986
+      }
+    ]
+  },
+  {
+    "intent": "social_acknowledgement",
+    "route": "auto_handle",
+    "reason": "safe_acknowledgement",
+    "draft": "Thanks for the shout-out! We really appreciate the kind words.",
+    "evidence_ids": [
+      "1989927"
+    ],
+    "reply_kind": "acknowledgement",
+    "output_check_violations": [],
+    "style_adjustments": [],
+    "style_version": "human-tone-v3-intent-fallbacks-sentiment-v1",
+    "sentiment": {
+      "label": "positive",
+      "score": 1.0,
+      "intensity": "high",
+      "positive_hits": 2,
+      "negative_hits": 0
+    },
+    "tweet_id": "1739273",
+    "api_metadata": {
+      "model": "gemini-3.5-flash",
+      "model_version": "gemini-3.5-flash",
+      "request_sha256": "6b22b8040afd770161398f0a3cc7798e84d5b861c76c2f4bdbc1d816654a3b80",
+      "usage": {
+        "promptTokenCount": 2344,
+        "candidatesTokenCount": 88,
+        "totalTokenCount": 2432,
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 2344
+          }
+        ],
+        "serviceTier": "standard"
+      },
+      "latency_ms": 24357.553399982862,
+      "cache_hit": true
+    },
+    "api_error": null,
+    "evidence": [
+      {
+        "component_id": "1133677",
+        "customer_tweet_id": "1133679",
+        "support_tweet_id": "1133677",
+        "customer_message": "@SpotifyCares Awesome!",
+        "historical_reply": "@387128 Glad we could help! If you need us again, just... https://t.co/AUc7DGJpgF /RV",
+        "created_at": "Sat Oct 14 17:33:59 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.442072808650388
+      },
+      {
+        "component_id": "694036",
+        "customer_tweet_id": "694037",
+        "support_tweet_id": "694036",
+        "customer_message": "@121907 Hey guys! Do you have a contact e-mail for me? :-)",
+        "historical_reply": "@285493 @121907 Hey R3HAB! Can you DM us a little more info on what you'd like help with? We'll see what we can suggest /K https://t.co/ldFdZRiNAt",
+        "created_at": "Thu Nov 23 15:01:31 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.33217691346547384
+      },
+      {
+        "component_id": "1989927",
+        "customer_tweet_id": "1989928",
+        "support_tweet_id": "1989927",
+        "customer_message": "@125633 @60016 U guys are awesome",
+        "historical_reply": "@588912 Hey there, we appreciate that. We're always happy to help. Just know, https://t.co/Lnv41OKQ2y! We'll be here if you need anything else /SP",
+        "created_at": "Thu Nov 02 15:26:20 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.2907089857895011
+      }
+    ]
+  },
+  {
+    "intent": "catalog_availability",
+    "route": "auto_handle",
+    "reason": "supported_general_help",
+    "draft": "We don't have an exact release date just yet, but we'll make it available as soon as it's provided to us. Keep an eye out!",
+    "evidence_ids": [
+      "2225728"
+    ],
+    "reply_kind": "answer",
+    "output_check_violations": [],
+    "style_adjustments": [],
+    "style_version": "human-tone-v3-intent-fallbacks-sentiment-v1",
+    "sentiment": {
+      "label": "neutral",
+      "score": 0.0,
+      "intensity": "low",
+      "positive_hits": 0,
+      "negative_hits": 0
+    },
+    "tweet_id": "2866635",
+    "api_metadata": {
+      "model": "gemini-3.5-flash",
+      "model_version": "gemini-3.5-flash",
+      "request_sha256": "c5778c582be2650dde8dd52c496cc473eff0040f1bb56256238bc39804a8fb60",
+      "usage": {
+        "promptTokenCount": 2499,
+        "candidatesTokenCount": 86,
+        "totalTokenCount": 2725,
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 2499
+          }
+        ],
+        "thoughtsTokenCount": 140,
+        "serviceTier": "standard"
+      },
+      "latency_ms": 26874.663700000383,
+      "cache_hit": true
+    },
+    "api_error": null,
+    "evidence": [
+      {
+        "component_id": "2251321",
+        "customer_tweet_id": "2251325",
+        "support_tweet_id": "2251324",
+        "customer_message": "@SpotifyCares when will reputation be available to stream??",
+        "historical_reply": "@655857 Hi! Taylor Swift's 'Reputation' isn't available to stream just yet – stay tuned. For now, check out the singles: https://t.co/3h0TnPWP0c /AU",
+        "created_at": "Fri Nov 10 20:55:09 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.5010486803007875
+      },
+      {
+        "component_id": "2225728",
+        "customer_tweet_id": "2225729",
+        "support_tweet_id": "2225728",
+        "customer_message": "@SpotifyCares when will reputation be available?",
+        "historical_reply": "@649736 Hey there! We’ll have it available to you as soon as it’s available to us https://t.co/0i8GpimuDa 🙂 /M",
+        "created_at": "Fri Nov 10 08:35:59 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.4115521542841181
+      },
+      {
+        "component_id": "2296880",
+        "customer_tweet_id": "2296881",
+        "support_tweet_id": "2296880",
+        "customer_message": "@115888 where is reputation",
+        "historical_reply": "@666816 Hi! Taylor Swift's 'Reputation' isn't available to stream just yet – stay tuned! For now, check out the singles: https://t.co/3h0TnPWP0c /DR",
+        "created_at": "Sun Nov 12 13:09:28 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.3386466265236495
+      }
+    ]
+  },
+  {
+    "intent": "playback_app",
+    "route": "escalate",
+    "reason": "repeated_failure",
+    "draft": "We're really sorry to hear you've been dealing with this offline issue for so long and that previous steps didn't work. Let's get this sorted out in a private message. Can you send us a DM with the email linked to your account?",
+    "evidence_ids": [],
+    "reply_kind": "handoff",
+    "output_check_violations": [],
+    "style_adjustments": [],
+    "style_version": "human-tone-v3-intent-fallbacks-sentiment-v1",
+    "sentiment": {
+      "label": "neutral",
+      "score": 0.0,
+      "intensity": "low",
+      "positive_hits": 0,
+      "negative_hits": 0
+    },
+    "tweet_id": "100116",
+    "api_metadata": {
+      "model": "gemini-3.5-flash",
+      "model_version": "gemini-3.5-flash",
+      "request_sha256": "ebb565e51a0e2c48b2126de9126056488d852fa52a38859c3970d1dd26f87b60",
+      "usage": {
+        "promptTokenCount": 2523,
+        "candidatesTokenCount": 97,
+        "totalTokenCount": 2771,
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 2523
+          }
+        ],
+        "thoughtsTokenCount": 151,
+        "serviceTier": "standard"
+      },
+      "latency_ms": 52827.09969999269,
+      "cache_hit": true
+    },
+    "api_error": null,
+    "evidence": [
+      {
+        "component_id": "1999688",
+        "customer_tweet_id": "1999689",
+        "support_tweet_id": "1999688",
+        "customer_message": "@SpotifyCares great customer service #Spotify",
+        "historical_reply": "@591269 Thanks for the kind words! If you need help with anything else, just give us a shout. Otherwise, have a... https://t.co/FQulrDtFky 😉 /GU",
+        "created_at": "Thu Nov 02 22:00:17 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.1724408364736046
+      },
+      {
+        "component_id": "2067994",
+        "customer_tweet_id": "2067995",
+        "support_tweet_id": "2067994",
+        "customer_message": "@115888 your customer service is non existent",
+        "historical_reply": "@202312 Hey Spencer! We're sorry to hear that. Can you DM us your account's email address or username? We'll check this out backstage /CE https://t.co/ldFdZRiNAt",
+        "created_at": "Sun Oct 08 14:56:10 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.1541663543734512
+      },
+      {
+        "component_id": "1098982",
+        "customer_tweet_id": "1098983",
+        "support_tweet_id": "1098982",
+        "customer_message": "@115888 yo I need customer service",
+        "historical_reply": "@379333 Hey Arthur! We've just sent a DM your way. Let's carry on chatting there /AN",
+        "created_at": "Mon Oct 23 22:17:40 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.15321384775798289
+      }
+    ]
+  },
+  {
+    "intent": "playback_app",
+    "route": "auto_handle",
+    "reason": "safe_clarification",
+    "draft": "Sorry to hear about the playback pauses on Chrome. Does this still happen if you test in an incognito window or clear your browser cache?",
+    "evidence_ids": [
+      "2910983"
+    ],
+    "reply_kind": "clarification",
+    "output_check_violations": [],
+    "style_adjustments": [],
+    "style_version": "human-tone-v3-intent-fallbacks-sentiment-v1",
+    "sentiment": {
+      "label": "neutral",
+      "score": 0.0,
+      "intensity": "low",
+      "positive_hits": 0,
+      "negative_hits": 0
+    },
+    "tweet_id": "856695",
+    "api_metadata": {
+      "model": "gemini-3.8-flash",
+      "model_version": "gemini-3.8-flash",
+      "request_sha256": "a2d2c422da7f25c638767e176234b862bed6b018897c228d134383abc399a38c",
+      "usage": {
+        "promptTokenCount": 2345,
+        "candidatesTokenCount": 102,
+        "totalTokenCount": 2447,
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 2345
+          }
+        ],
+        "serviceTier": "standard"
+      },
+      "latency_ms": 1661.965000006603,
+      "cache_hit": false
+    },
+    "api_error": null,
+    "evidence": [
+      {
+        "component_id": "260885",
+        "customer_tweet_id": "260886",
+        "support_tweet_id": "260885",
+        "customer_message": "@115888 @SpotifyCares and Queue? I have a chromebook and this is fucking terrible",
+        "historical_reply": "@178112 Hey there. We hear you! Not to worry, we'll make sure to get your idea over to the right folks /JP",
+        "created_at": "Thu Oct 05 21:15:21 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.15015762030478938
+      },
+      {
+        "component_id": "2910983",
+        "customer_tweet_id": "2910984",
+        "support_tweet_id": "2910983",
+        "customer_message": "@SpotifyCares web app in chrome isnt working...",
+        "historical_reply": "@805863 Hey there! What's happening exactly? If you're getting any error messages, can you send us a screenshot? /PB",
+        "created_at": "Tue Nov 28 21:33:03 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.138825505777261
+      },
+      {
+        "component_id": "1174978",
+        "customer_tweet_id": "1174981",
+        "support_tweet_id": "1174980",
+        "customer_message": "@SpotifyCares Do you know the best browser to create ads in Ad Studio? I know it's beta, but really having a hard time in chrome.",
+        "historical_reply": "@396373 Hey Leslie! It would be best to contact __email__ so our dedicated team can help you out with this. hope this helps /JP",
+        "created_at": "Tue Oct 24 20:07:31 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.11372696138446141
+      }
+    ]
+  },
+  {
+    "intent": "social_acknowledgement",
+    "route": "auto_handle",
+    "reason": "safe_acknowledgement",
+    "draft": "No problem! We'll keep an eye out for it. Give us a shout if you need anything else.",
+    "evidence_ids": [
+      "846792",
+      "2795586"
+    ],
+    "reply_kind": "acknowledgement",
+    "output_check_violations": [],
+    "style_adjustments": [],
+    "style_version": "human-tone-v3-intent-fallbacks-sentiment-v1",
+    "sentiment": {
+      "label": "positive",
+      "score": 1.0,
+      "intensity": "medium",
+      "positive_hits": 1,
+      "negative_hits": 0
+    },
+    "tweet_id": "2865512",
+    "api_metadata": {
+      "model": "gemini-3.8-flash",
+      "model_version": "gemini-3.8-flash",
+      "request_sha256": "8ee4c76d0def37751ccadf5c0211e602ef3dd31abd3c95c54eb5a6eb3e937fbc",
+      "usage": {
+        "promptTokenCount": 2344,
+        "candidatesTokenCount": 107,
+        "totalTokenCount": 2451,
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 2344
+          }
+        ],
+        "serviceTier": "standard"
+      },
+      "latency_ms": 15175.741600018227,
+      "cache_hit": false
+    },
+    "api_error": null,
+    "evidence": [
+      {
+        "component_id": "846789",
+        "customer_tweet_id": "846790",
+        "support_tweet_id": "846792",
+        "customer_message": "@SpotifyCares Thanks for responding. Definitely having my manager look into this!!",
+        "historical_reply": "@321256 No problem! We've put a little something together for you, using a cool track we came across https://t.co/zEkG6rAsFi. Hope you like it 😉/JW",
+        "created_at": "Thu Aug 03 18:36:13 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.27004304648340066
+      },
+      {
+        "component_id": "211388",
+        "customer_tweet_id": "211394",
+        "support_tweet_id": "211392",
+        "customer_message": "@SpotifyCares @166078 Thanks for the support 👍🏾",
+        "historical_reply": "@166077 Hey there, we;d love to help! Just to check, is it happening with this game only or any game at all? /JP",
+        "created_at": "Wed Oct 04 20:36:00 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.20183097627370733
+      },
+      {
+        "component_id": "2795586",
+        "customer_tweet_id": "2795587",
+        "support_tweet_id": "2795586",
+        "customer_message": "@SpotifyCares It’s all good guys, it’s working now! Thank you for responding anyways👍🏻",
+        "historical_reply": "@780105 Woohoo! This calls for a https://t.co/ArJFNeaqFl. Give us a shout if you need anything else 😁 /AU",
+        "created_at": "Tue Nov 21 22:06:06 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.19753236420761572
+      }
+    ]
+  },
+  {
+    "intent": "feedback_feature_request",
+    "route": "auto_handle",
+    "reason": "safe_acknowledgement",
+    "draft": "We hear you, and that definitely sounds jarring during a chill playlist. Thanks for sharing your feedback about the ads you're hearing.",
+    "evidence_ids": [
+      "1640514"
+    ],
+    "reply_kind": "acknowledgement",
+    "output_check_violations": [],
+    "style_adjustments": [],
+    "style_version": "human-tone-v3-intent-fallbacks-sentiment-v1",
+    "sentiment": {
+      "label": "neutral",
+      "score": 0.0,
+      "intensity": "low",
+      "positive_hits": 0,
+      "negative_hits": 0
+    },
+    "tweet_id": "1090107",
+    "api_metadata": {
+      "model": "gemini-3.8-flash",
+      "model_version": "gemini-3.8-flash",
+      "request_sha256": "f218f893a10c420f1148c291590dfd069e557202af93145a31a37299540b0e14",
+      "usage": {
+        "promptTokenCount": 2342,
+        "candidatesTokenCount": 102,
+        "totalTokenCount": 2444,
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 2342
+          }
+        ],
+        "serviceTier": "standard"
+      },
+      "latency_ms": 10779.269600025145,
+      "cache_hit": false
+    },
+    "api_error": null,
+    "evidence": [
+      {
+        "component_id": "866307",
+        "customer_tweet_id": "866308",
+        "support_tweet_id": "866307",
+        "customer_message": "@115888, why are you serving me Blake Shelton ads in the middle of Savage Mode? smh",
+        "historical_reply": "@325698 Hey Lil! You can show your support for ads that are better suited to you by voting here: https://t.co/K6XELyTf62 /TF",
+        "created_at": "Fri Oct 20 17:55:37 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.25889940749099316
+      },
+      {
+        "component_id": "314305",
+        "customer_tweet_id": "314313",
+        "support_tweet_id": "314312",
+        "customer_message": "Hey @115888 ! Any idea why my music stopped in the middle of my run? #notcool",
+        "historical_reply": "@191037 Hey, that's not cool! Can you let us know the device, operating system, and Spotify version you're using? /RH",
+        "created_at": "Fri Oct 06 05:04:31 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.24023136236786205
+      },
+      {
+        "component_id": "1640514",
+        "customer_tweet_id": "1640515",
+        "support_tweet_id": "1640514",
+        "customer_message": "@115888 update my time capsule playlist pls",
+        "historical_reply": "@501539 Hey! Our Curation team is independent, but we'll be sure to pass your feedback /RA",
+        "created_at": "Sun Nov 05 23:34:39 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.20943181569711394
+      }
+    ]
+  },
+  {
+    "intent": "account_access_security",
+    "route": "escalate",
+    "reason": "security_privacy",
+    "draft": "For security reasons, we recommend deleting your tweet since it includes your private info. Please reach out to our team through a private support channel so we can help you safely recover your account.",
+    "evidence_ids": [
+      "1464488"
+    ],
+    "reply_kind": "handoff",
+    "output_check_violations": [],
+    "style_adjustments": [],
+    "style_version": "human-tone-v3-intent-fallbacks-sentiment-v1",
+    "sentiment": {
+      "label": "neutral",
+      "score": 0.0,
+      "intensity": "low",
+      "positive_hits": 0,
+      "negative_hits": 0
+    },
+    "tweet_id": "507435",
+    "api_metadata": {
+      "model": "gemini-3.8-flash",
+      "model_version": "gemini-3.8-flash",
+      "request_sha256": "483320aba4cc8fd75f4b087c3c828ee110405f661865046a31a393f6d97030c4",
+      "usage": {
+        "promptTokenCount": 2377,
+        "candidatesTokenCount": 104,
+        "totalTokenCount": 2481,
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 2377
+          }
+        ],
+        "serviceTier": "standard"
+      },
+      "latency_ms": 54536.90579999238,
+      "cache_hit": false
+    },
+    "api_error": null,
+    "evidence": [
+      {
+        "component_id": "1403174",
+        "customer_tweet_id": "1403175",
+        "support_tweet_id": "1403174",
+        "customer_message": "@181186 Please have it back, I want it back https://t.co/bDSYzkG5IA",
+        "historical_reply": "@446240 Rest assured that we’ll have it available to you as soon as it’s back available to us. Let us know if we could help with anything else /AR",
+        "created_at": "Fri Oct 06 06:52:37 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.18488961319216088
+      },
+      {
+        "component_id": "1464485",
+        "customer_tweet_id": "1464486",
+        "support_tweet_id": "1464488",
+        "customer_message": "@SpotifyCares __email__ &amp; __email__",
+        "historical_reply": "@459926 For security reasons, we'd suggest deleting your previous tweet, as it contains private info. Can you DM us instead? We'll be waiting /AN https://t.co/ldFdZRiNAt",
+        "created_at": "Wed Nov 08 04:56:11 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.16970033986316893
+      },
+      {
+        "component_id": "2621372",
+        "customer_tweet_id": "2621374",
+        "support_tweet_id": "2621372",
+        "customer_message": "@SpotifyCares My account got hacked. Could you reinstate it please?",
+        "historical_reply": "@740679 Hey Max! The cavalry's here. It looks like our Accounts team was already able to help you with this. Just to check, is everything okay on your end? /PK",
+        "created_at": "Fri Nov 17 15:47:46 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.16487122540307347
+      }
+    ]
+  },
+  {
+    "intent": "catalog_availability",
+    "route": "escalate",
+    "reason": "Output check: Unsupported action, link or credential request",
+    "draft": "Thanks for flagging this. Which title is missing, and what country or region are you listening from?",
+    "evidence_ids": [],
+    "reply_kind": "handoff",
+    "output_check_violations": [
+      "Unsupported action, link or credential request"
+    ],
+    "style_adjustments": [],
+    "style_version": "human-tone-v3-intent-fallbacks-sentiment-v1",
+    "sentiment": {
+      "label": "neutral",
+      "score": 0.0,
+      "intensity": "low",
+      "positive_hits": 0,
+      "negative_hits": 0
+    },
+    "tweet_id": "2404061",
+    "api_metadata": {
+      "model": "gemini-3.8-flash",
+      "model_version": "gemini-3.8-flash",
+      "request_sha256": "f9f8207a28bbd23058329bca3e94b4da9e2949e57a93ec0436a4e5bbc8ad7fe5",
+      "usage": {
+        "promptTokenCount": 2407,
+        "candidatesTokenCount": 89,
+        "totalTokenCount": 2496,
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 2407
+          }
+        ],
+        "serviceTier": "standard"
+      },
+      "latency_ms": 13461.725899978774,
+      "cache_hit": false
+    },
+    "api_error": null,
+    "evidence": [
+      {
+        "component_id": "466836",
+        "customer_tweet_id": "466837",
+        "support_tweet_id": "466836",
+        "customer_message": "@SpotifyCares when can I enjoy Taylor Swift's album \"Reputation\" on @115888 ?",
+        "historical_reply": "@226112 Hey Tomy! Taylor Swift's 'Reputation' isn't available to stream just yet. For now, check out the singles: https://t.co/3h0TnPWP0c /FR",
+        "created_at": "Fri Dec 01 04:59:15 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.26659495729076277
+      },
+      {
+        "component_id": "2439898",
+        "customer_tweet_id": "2439899",
+        "support_tweet_id": "2439898",
+        "customer_message": "waiting for @118062 album to be on @115888 like.. https://t.co/rpcgXuctYy",
+        "historical_reply": "@699799 Hey there! Fingers crossed we'll be able to have it soon, but there's info about Spotify content here: https://t.co/0i8GpimuDa /NS",
+        "created_at": "Tue Nov 14 22:32:34 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.2546200980475699
+      },
+      {
+        "component_id": "2620045",
+        "customer_tweet_id": "2620046",
+        "support_tweet_id": "2620045",
+        "customer_message": "@148611 where's red velvet's new album? I've been waiting for hours",
+        "historical_reply": "@594578 Hi Hannah! We’ll have it available to you as soon as it’s available to us. For now, check out https://t.co/0i8GpimuDa for more info about Spotify content. Let us know if we can help with anything else /MC",
+        "created_at": "Fri Nov 17 15:40:07 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.24489031117105559
+      }
+    ]
+  },
+  {
+    "intent": "billing_subscription",
+    "route": "escalate",
+    "reason": "unverified_policy",
+    "draft": "Offer details and bundle inclusions can vary, so please reach out via direct message or through our support site so an agent can check the current student plan options with you.",
+    "evidence_ids": [],
+    "reply_kind": "handoff",
+    "output_check_violations": [],
+    "style_adjustments": [],
+    "style_version": "human-tone-v3-intent-fallbacks-sentiment-v1",
+    "sentiment": {
+      "label": "neutral",
+      "score": 0.0,
+      "intensity": "low",
+      "positive_hits": 0,
+      "negative_hits": 0
+    },
+    "tweet_id": "1460710",
+    "api_metadata": {
+      "model": "gemini-3.8-flash",
+      "model_version": "gemini-3.8-flash",
+      "request_sha256": "c52a8eb3611fe0878a9691bca4a613b9b772b70de665dd69a17c837a0a3bf9de",
+      "usage": {
+        "promptTokenCount": 2372,
+        "candidatesTokenCount": 91,
+        "totalTokenCount": 2463,
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 2372
+          }
+        ],
+        "serviceTier": "standard"
+      },
+      "latency_ms": 13658.208299981197,
+      "cache_hit": false
+    },
+    "api_error": null,
+    "evidence": [
+      {
+        "component_id": "1942509",
+        "customer_tweet_id": "1942520",
+        "support_tweet_id": "2626781",
+        "customer_message": "@115888 sooo if i already had the student discount last year can i still get hulu?",
+        "historical_reply": "@741939 Hey there! Can you DM us your account's email address or username? We'll take a look /NS https://t.co/ldFdZR1cbT",
+        "created_at": "Tue Oct 31 00:19:44 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.2225754425953162
+      },
+      {
+        "component_id": "630432",
+        "customer_tweet_id": "630433",
+        "support_tweet_id": "630432",
+        "customer_message": "@SpotifyCares if I want to sign up for the student Spotify and Hulu for $4.99 do I need to cancel my premium account first ?",
+        "historical_reply": "@269390 Hi! We've just sent you a bit more info over DM. We'll carry on helping out there /RB",
+        "created_at": "Thu Oct 05 00:20:57 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.1864610121992874
+      },
+      {
+        "component_id": "2322453",
+        "customer_tweet_id": "2322454",
+        "support_tweet_id": "2322453",
+        "customer_message": "@SpotifyCares hi. My regular Premium renewed yesterday. If I upgrade to Family Premium today, will I be charged the £15 today? Thanks",
+        "historical_reply": "@672963 Hi Dom! You won't be charged right away, but your billing date could move forward. There's more info at https://t.co/HLpT9OSzyr /RE",
+        "created_at": "Mon Nov 13 14:30:54 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.18373443176785315
+      }
+    ]
+  },
+  {
+    "intent": "other_unclear",
+    "route": "escalate",
+    "reason": "insufficient_context",
+    "draft": "Could you provide a bit more detail on what you're experiencing? We'd be glad to help once we have more information.",
+    "evidence_ids": [],
+    "reply_kind": "handoff",
+    "output_check_violations": [],
+    "style_adjustments": [],
+    "style_version": "human-tone-v3-intent-fallbacks-sentiment-v1",
+    "sentiment": {
+      "label": "neutral",
+      "score": 0.0,
+      "intensity": "low",
+      "positive_hits": 0,
+      "negative_hits": 0
+    },
+    "tweet_id": "1095347",
+    "api_metadata": {
+      "model": "gemini-3.8-flash",
+      "model_version": "gemini-3.8-flash",
+      "request_sha256": "65bd660b24c96f8279dcbd7aa029b323e2b18b133d118a7b59e5025a23f98089",
+      "usage": {
+        "promptTokenCount": 2397,
+        "candidatesTokenCount": 86,
+        "totalTokenCount": 2483,
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 2397
+          }
+        ],
+        "serviceTier": "standard"
+      },
+      "latency_ms": 12013.415900000837,
+      "cache_hit": false
+    },
+    "api_error": null,
+    "evidence": [
+      {
+        "component_id": "1859627",
+        "customer_tweet_id": "1859628",
+        "support_tweet_id": "1859627",
+        "customer_message": "Why @117168 and @118302 why? https://t.co/R91pD2BckF",
+        "historical_reply": "@555975 Hey! As we look to improve the overall Spotify experience, we're removing the app from LG TVs. More info here: https://t.co/D2p6hgpCoW /JE",
+        "created_at": "Thu Oct 19 15:51:05 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.4000547284842385
+      },
+      {
+        "component_id": "1806153",
+        "customer_tweet_id": "1806154",
+        "support_tweet_id": "1806153",
+        "customer_message": "@115888 and he doesn't remember his log in info! Can someone please help! I want it to stop charging me.",
+        "historical_reply": "@542669 Hey there! We'll help out. Could you DM us any email addresses or usernames your son might've used for Spotify? We'll check backstage /AN https://t.co/ldFdZRiNAt",
+        "created_at": "Sat Oct 14 06:17:18 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.31920900285475384
+      },
+      {
+        "component_id": "1971551",
+        "customer_tweet_id": "1971552",
+        "support_tweet_id": "1971551",
+        "customer_message": "@SpotifyCares We are trying to add a member of the family to our family plan and he keeps getting an oops something went wrong everytime",
+        "historical_reply": "@583993 Hey Anton, help's here! Could you send us a DM with your account's email address or username? We'll take a look backstage /CH https://t.co/ldFdZRiNAt",
+        "created_at": "Wed Nov 01 05:03:01 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.154750493715347
+      }
+    ]
+  },
+  {
+    "intent": "playback_app",
+    "route": "escalate",
+    "reason": "repeated_failure",
+    "draft": "Thanks for providing those device details and letting us know you've already reinstalled. Since that didn't help with the crash when sharing, please reach out to our team privately so we can take a closer look.",
+    "evidence_ids": [],
+    "reply_kind": "handoff",
+    "output_check_violations": [],
+    "style_adjustments": [],
+    "style_version": "human-tone-v3-intent-fallbacks-sentiment-v1",
+    "sentiment": {
+      "label": "negative",
+      "score": -1.0,
+      "intensity": "medium",
+      "positive_hits": 0,
+      "negative_hits": 1
+    },
+    "tweet_id": "789821",
+    "api_metadata": {
+      "model": "gemini-3.8-flash",
+      "model_version": "gemini-3.8-flash",
+      "request_sha256": "6561f0a738fa9ef94d02395f1c3ad2dc351b59d7013a0c76eec87f703ff86c73",
+      "usage": {
+        "promptTokenCount": 2405,
+        "candidatesTokenCount": 102,
+        "totalTokenCount": 2507,
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 2405
+          }
+        ],
+        "serviceTier": "standard"
+      },
+      "latency_ms": 13530.99330002442,
+      "cache_hit": false
+    },
+    "api_error": null,
+    "evidence": [
+      {
+        "component_id": "780941",
+        "customer_tweet_id": "780942",
+        "support_tweet_id": "780944",
+        "customer_message": "@SpotifyCares I'm using Spotify 8.4.22.857 on a Nexus 6p running Android 8.0.0",
+        "historical_reply": "@149953 Got it. Our best tech folks are on the case as we speak. Hopefully we'll have a fix soon! /AY",
+        "created_at": "Thu Oct 12 06:28:39 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.42642648189755444
+      },
+      {
+        "component_id": "683113",
+        "customer_tweet_id": "683114",
+        "support_tweet_id": "683116",
+        "customer_message": "@SpotifyCares Galaxy S8, Android 7.0, Spotify 8.4.22.857 https://t.co/mK4xZmJOe4",
+        "historical_reply": "@283024 Thanks for the screenshot! Can you DM us your account's email address or username? We'll take a look under the hood /ME https://t.co/ldFdZRiNAt",
+        "created_at": "Fri Oct 06 22:02:14 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.2934689837463576
+      },
+      {
+        "component_id": "1310264",
+        "customer_tweet_id": "1310271",
+        "support_tweet_id": "1310270",
+        "customer_message": "@SpotifyCares Nexus 6p running on oreo",
+        "historical_reply": "@426192 By any chance, are you getting any error messages when trying to play those tracks? Can you send a screenshot of the message? /JL",
+        "created_at": "Wed Oct 18 00:48:27 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.23767553649761572
+      }
+    ]
+  },
+  {
+    "intent": "catalog_availability",
+    "route": "auto_handle",
+    "reason": "supported_general_help",
+    "draft": "We'd love to have every album available, and we hope to have this on Spotify soon. Music availability depends on agreements with rights holders and artists.",
+    "evidence_ids": [
+      "1561620",
+      "2982086"
+    ],
+    "reply_kind": "acknowledgement",
+    "output_check_violations": [],
+    "style_adjustments": [],
+    "style_version": "human-tone-v3-intent-fallbacks-sentiment-v1",
+    "sentiment": {
+      "label": "neutral",
+      "score": 0.0,
+      "intensity": "high",
+      "positive_hits": 0,
+      "negative_hits": 0
+    },
+    "tweet_id": "1733259",
+    "api_metadata": {
+      "model": "gemini-3.8-flash",
+      "model_version": "gemini-3.8-flash",
+      "request_sha256": "5d8873e7c8ab299e1c28bea4c4dbe6432f8206f4211f8da8816131dc2b5c713a",
+      "usage": {
+        "promptTokenCount": 2395,
+        "candidatesTokenCount": 108,
+        "totalTokenCount": 2503,
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 2395
+          }
+        ],
+        "serviceTier": "standard"
+      },
+      "latency_ms": 13432.779399998253,
+      "cache_hit": false
+    },
+    "api_error": null,
+    "evidence": [
+      {
+        "component_id": "1797906",
+        "customer_tweet_id": "1797907",
+        "support_tweet_id": "1797906",
+        "customer_message": "@SpotifyCares ok so now I found where to put the code then it comes up with this code is not valid!! Help please",
+        "historical_reply": "@540228 Hey Ali, help's here! Can you DM us your account's email address and username? We'll take a look backstage 🙂 /CG https://t.co/ldFdZRiNAt",
+        "created_at": "Fri Oct 13 23:10:14 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.2498804035105287
+      },
+      {
+        "component_id": "1561620",
+        "customer_tweet_id": "1561621",
+        "support_tweet_id": "1561620",
+        "customer_message": "@SpotifyCares please put the vault/greatest hits album from def leppard on there please do it before apple music can",
+        "historical_reply": "@482411 Hey! We’d love to have all of their stuff available, but we have some info about content here: https://t.co/0i8Gpi4TeA /DR",
+        "created_at": "Sat Nov 04 09:44:29 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.2242518283763843
+      },
+      {
+        "component_id": "2982086",
+        "customer_tweet_id": "2982087",
+        "support_tweet_id": "2982086",
+        "customer_message": ". @115888 why isn’t @5413  christmas album on spotify??? #Santaclauselane",
+        "historical_reply": "@172328 Hey there! Fingers crossed we'll be able to have it soon, but there's info about Spotify content here: https://t.co/1dgftcFtzc /AR",
+        "created_at": "Thu Nov 30 05:13:34 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.2222004927622278
+      }
+    ]
+  },
+  {
+    "intent": "other_unclear",
+    "route": "escalate",
+    "reason": "unsupported_language_scope",
+    "draft": "We handle customer support inquiries here, so we don't have direct contact details for the business development team. You can check the official Spotify website for corporate contact channels.",
+    "evidence_ids": [],
+    "reply_kind": "handoff",
+    "output_check_violations": [],
+    "style_adjustments": [],
+    "style_version": "human-tone-v3-intent-fallbacks-sentiment-v1",
+    "sentiment": {
+      "label": "neutral",
+      "score": 0.0,
+      "intensity": "low",
+      "positive_hits": 0,
+      "negative_hits": 0
+    },
+    "tweet_id": "1887644",
+    "api_metadata": {
+      "model": "gemini-3.8-flash",
+      "model_version": "gemini-3.8-flash",
+      "request_sha256": "25cf505d650edda55356c5d18a5f61b5afde139edf25fccc01184577af4c3515",
+      "usage": {
+        "promptTokenCount": 2366,
+        "candidatesTokenCount": 95,
+        "totalTokenCount": 2461,
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 2366
+          }
+        ],
+        "serviceTier": "standard"
+      },
+      "latency_ms": 12424.012999981642,
+      "cache_hit": false
+    },
+    "api_error": null,
+    "evidence": [
+      {
+        "component_id": "240324",
+        "customer_tweet_id": "240333",
+        "support_tweet_id": "240332",
+        "customer_message": "@SpotifyCares Hi!, i have a big problem with Spotify in the car.. please help... https://t.co/zso4nKxC8M",
+        "historical_reply": "@173081 Hey there! Help's arrived. Can you tell us what's happening exactly? We'll see what we can suggest /CH",
+        "created_at": "Tue Oct 03 02:40:37 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.19064024974600235
+      },
+      {
+        "component_id": "1391751",
+        "customer_tweet_id": "1391753",
+        "support_tweet_id": "1391751",
+        "customer_message": "Am I the only one who can’t use #Spotify on PC? @115888 @SpotifyCares",
+        "historical_reply": "@443691 Hey there! That's not cool. Does logging out &gt; restarting the device &gt; logging back in help? Keep us posted /PX",
+        "created_at": "Mon Oct 16 16:13:07 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.13831056993476237
+      },
+      {
+        "component_id": "2555538",
+        "customer_tweet_id": "2555539",
+        "support_tweet_id": "2555538",
+        "customer_message": "@SpotifyCares @115888 Where is Take Care (Deluxe) by Drake it isn’t on the platform anymore",
+        "historical_reply": "@725672 Hey Gavin, sometimes content gets temporarily removed because of licensing changes. Hopefully we'll have it available again soon! /BX",
+        "created_at": "Thu Nov 16 16:10:28 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.11814620583976543
+      }
+    ]
+  },
+  {
+    "intent": "catalog_availability",
+    "route": "escalate",
+    "reason": "Output check: Automatic reply has no cited evidence",
+    "draft": "Thanks for flagging this. Which title is missing, and what country or region are you listening from?",
+    "evidence_ids": [],
+    "reply_kind": "handoff",
+    "output_check_violations": [
+      "Automatic reply has no cited evidence"
+    ],
+    "style_adjustments": [],
+    "style_version": "human-tone-v3-intent-fallbacks-sentiment-v1",
+    "sentiment": {
+      "label": "neutral",
+      "score": 0.0,
+      "intensity": "low",
+      "positive_hits": 0,
+      "negative_hits": 0
+    },
+    "tweet_id": "2047806",
+    "api_metadata": {
+      "model": "gemini-3.8-flash",
+      "model_version": "gemini-3.8-flash",
+      "request_sha256": "33f342267b8f74ee50cf78908528f8c9c154e74ce103a7f29fe239256e19473b",
+      "usage": {
+        "promptTokenCount": 2348,
+        "candidatesTokenCount": 84,
+        "totalTokenCount": 2432,
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 2348
+          }
+        ],
+        "serviceTier": "standard"
+      },
+      "latency_ms": 20694.189100002404,
+      "cache_hit": false
+    },
+    "api_error": null,
+    "evidence": [
+      {
+        "component_id": "2286068",
+        "customer_tweet_id": "2286069",
+        "support_tweet_id": "2286068",
+        "customer_message": "@SpotifyCares PLEASE update app for iPhone X compatibility",
+        "historical_reply": "@664299 Hey there! We hear you, and we’re working on it as we speak. Stay tuned, we'll be sure to keep everyone in the loop /TB",
+        "created_at": "Sat Nov 11 17:09:20 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.2416137642101644
+      },
+      {
+        "component_id": "2647467",
+        "customer_tweet_id": "2647468",
+        "support_tweet_id": "2647467",
+        "customer_message": "@115888 please update Red Velvet's new albumㅠ.ㅠ",
+        "historical_reply": "@746952 Hi there! Fingers crossed we'll be able to have it soon, but there's info about Spotify content here: https://t.co/0i8GpimuDa. If you need anything else, just give us a shout /AK",
+        "created_at": "Fri Nov 17 22:54:08 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.21288830056810476
+      },
+      {
+        "component_id": "1917225",
+        "customer_tweet_id": "1917226",
+        "support_tweet_id": "1917225",
+        "customer_message": "@115888 pleaseeeee update your app for iPhone X.",
+        "historical_reply": "@496050 Hey Justin! We don't have any info on this right now, but we'll let the right team know it's something you'd like to see /LO",
+        "created_at": "Wed Nov 08 04:17:02 +0000 2017",
+        "resolution_verified": false,
+        "similarity": 0.21171419405947695
+      }
+    ]
+  }
+]

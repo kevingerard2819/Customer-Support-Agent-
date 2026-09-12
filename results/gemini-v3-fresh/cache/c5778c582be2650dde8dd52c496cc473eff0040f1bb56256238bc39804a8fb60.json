@@ -1,0 +1,32 @@
+{
+  "parsed": {
+    "intent": "catalog_availability",
+    "route": "auto_handle",
+    "reason": "supported_general_help",
+    "draft": "We don't have an exact release date just yet, but we'll make it available as soon as it's provided to us. Keep an eye out!",
+    "evidence_ids": [
+      "2225728"
+    ],
+    "reply_kind": "answer"
+  },
+  "metadata": {
+    "model": "gemini-3.5-flash",
+    "model_version": "gemini-3.5-flash",
+    "request_sha256": "c5778c582be2650dde8dd52c496cc473eff0040f1bb56256238bc39804a8fb60",
+    "usage": {
+      "promptTokenCount": 2499,
+      "candidatesTokenCount": 86,
+      "totalTokenCount": 2725,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2499
+        }
+      ],
+      "thoughtsTokenCount": 140,
+      "serviceTier": "standard"
+    },
+    "latency_ms": 26874.663700000383,
+    "cache_hit": false
+  }
+}

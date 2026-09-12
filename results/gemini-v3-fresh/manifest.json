@@ -1,0 +1,10 @@
+{
+  "source_packet_id": "d797322d6dd221afc172be83f8d75c19835bff9951133a6646d88f2632a8a55f",
+  "model": "gemini-3.5-flash",
+  "fallback_model": "gemini-3.8-flash",
+  "fallback_after": 19,
+  "style_version": "human-tone-v3-intent-fallbacks-sentiment-v1",
+  "prompt_sha256": "8c972b59e189a58681db3b833727419fb79edd656025d0fe8c5be25d58b159af",
+  "created_at": "2026-09-12T05:49:34.409354+00:00",
+  "note": "Fresh post-fix reply evaluation. No labels or ratings existed when these outputs were generated. The primary model hit quota after cached successes; the declared fallback generated only later packet positions."
+}

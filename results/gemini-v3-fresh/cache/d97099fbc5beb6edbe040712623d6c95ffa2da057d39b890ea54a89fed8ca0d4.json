@@ -1,0 +1,32 @@
+{
+  "parsed": {
+    "intent": "account_access_security",
+    "route": "escalate",
+    "reason": "account_action",
+    "draft": "Hey! We'd love to help you with this. To keep your details safe, could you send us a private message with your account's email address or username?",
+    "evidence_ids": [
+      "885036"
+    ],
+    "reply_kind": "handoff"
+  },
+  "metadata": {
+    "model": "gemini-3.5-flash",
+    "model_version": "gemini-3.5-flash",
+    "request_sha256": "d97099fbc5beb6edbe040712623d6c95ffa2da057d39b890ea54a89fed8ca0d4",
+    "usage": {
+      "promptTokenCount": 2398,
+      "candidatesTokenCount": 107,
+      "totalTokenCount": 2735,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2398
+        }
+      ],
+      "thoughtsTokenCount": 230,
+      "serviceTier": "standard"
+    },
+    "latency_ms": 26045.77649998828,
+    "cache_hit": false
+  }
+}

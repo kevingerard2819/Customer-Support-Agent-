@@ -1,0 +1,466 @@
+{
+  "packet_id": "d797322d6dd221afc172be83f8d75c19835bff9951133a6646d88f2632a8a55f",
+  "version": "fresh-reply-eval-v3-source-v1",
+  "seed": 20260912,
+  "count": 30,
+  "sampling": "Random eligible Spotify conversation components after excluding discovery, all 200 labelled components, all retrieval components, multi-brand threads, and near-duplicates. One directly answered customer message per component.",
+  "examples": [
+    {
+      "tweet_id": "2913802",
+      "component_id": "2913800",
+      "message": "@115888 Why don't you like working on my browser today?",
+      "created_at": "Tue Nov 28 20:43:44 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "700400",
+      "component_id": "700399",
+      "message": "@117153 hello, I hope you can help me. I had Spotify premium on my old phone which came off my phone bill but I now have a new phone does that automatically cancel the account and I have to make a new 1 or will I still be getting charged?",
+      "created_at": "Thu Nov 23 13:41:43 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2647474",
+      "component_id": "2647473",
+      "message": "@116130 - can you tell me if you will have available the new radio 1 live lounge 2017 album for me to listen to?",
+      "created_at": "Fri Nov 17 22:38:43 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1974577",
+      "component_id": "1974575",
+      "message": "@SpotifyCares I did, just wondering if there is a way to speed up this process",
+      "created_at": "Wed Nov 01 15:06:15 +0000 2017",
+      "context": [
+        {
+          "tweet_id": "1974581",
+          "role": "customer",
+          "text": "@SpotifyCares I have a problem with my new release not showing up under my artist profile. When can you fix this?",
+          "created_at": "Wed Nov 01 14:48:02 +0000 2017"
+        },
+        {
+          "tweet_id": "1974580",
+          "role": "support",
+          "text": "@584752 Hey! Sorry about that. We’d recommend reaching out to your distributor/aggregator. They'll work with our team to get this sorted /MC",
+          "created_at": "Wed Nov 01 15:04:42 +0000 2017"
+        }
+      ],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1739418",
+      "component_id": "1739416",
+      "message": "@115888 nope it’s just whenever i press the play button it doesn’t even do anything",
+      "created_at": "Tue Oct 17 23:44:52 +0000 2017",
+      "context": [
+        {
+          "tweet_id": "1739417",
+          "role": "customer",
+          "text": "i’m so annoyed @115888 won’t play my playlist for some reason 🙄",
+          "created_at": "Tue Oct 17 18:13:20 +0000 2017"
+        }
+      ],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "956463",
+      "component_id": "956462",
+      "message": "@SpotifyCares Hi! I'm having issues with my spotify where it pauses randomly saying its being used elsewhere. Thanks ^^",
+      "created_at": "Sat Oct 21 16:44:51 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2890062",
+      "component_id": "2890060",
+      "message": "@SpotifyCares I signed up for the wrong subscription - can I switch subscriptions? I've DM'd you.",
+      "created_at": "Tue Nov 28 12:18:44 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1567370",
+      "component_id": "1567368",
+      "message": "@SpotifyCares Have already tried that multiple times and have already tried reinstalling. It only happens when I try and play Drake",
+      "created_at": "Tue Oct 17 05:42:18 +0000 2017",
+      "context": [
+        {
+          "tweet_id": "1567375",
+          "role": "customer",
+          "text": "@SpotifyCares Having problems with one of my spotify playlists only on windows. DM",
+          "created_at": "Tue Oct 17 03:26:56 +0000 2017"
+        },
+        {
+          "tweet_id": "1567374",
+          "role": "support",
+          "text": "@413229 Hey! That doesn't sound good. Are you getting any specific error messages? Can you also let us your OS and Spotify version? /YM",
+          "created_at": "Tue Oct 17 03:53:17 +0000 2017"
+        },
+        {
+          "tweet_id": "1567373",
+          "role": "customer",
+          "text": "@SpotifyCares It tells me I can’t play the current track and I can import it if it is a local file. Latest version of Spotify on the latest version of win",
+          "created_at": "Tue Oct 17 05:37:08 +0000 2017"
+        },
+        {
+          "tweet_id": "1567372",
+          "role": "support",
+          "text": "@413229 Does logging out, restarting your computer, and logging back in help at all? /YM",
+          "created_at": "Tue Oct 17 05:41:10 +0000 2017"
+        }
+      ],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2899864",
+      "component_id": "2899863",
+      "message": "@SpotifyCares Only been waiting 5 years!!!",
+      "created_at": "Wed Nov 29 20:51:26 +0000 2017",
+      "context": [
+        {
+          "tweet_id": "2899865",
+          "role": "customer",
+          "text": "@SpotifyCares - Please advise when we can protect our own children from explicit lyrics #ExplicitButton #SpotifyDoesNotCare https://t.co/aMODofKNiA",
+          "created_at": "Tue Nov 28 16:05:49 +0000 2017"
+        },
+        {
+          "tweet_id": "2899863",
+          "role": "support",
+          "text": "@129061 Hey Mark! We're afraid we don't have any info to share right now. Rest assured our devs already know it's something you'd like to see. Fingers crossed we'll have an update soon /GU",
+          "created_at": "Tue Nov 28 17:33:54 +0000 2017"
+        }
+      ],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "787542",
+      "component_id": "787541",
+      "message": "What about a timer/alarm to set @SpotifyCares to come on at a particular time? Wake up to tunes, not the same bleeping alarm every morning.",
+      "created_at": "Sat Oct 07 23:38:43 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "272512",
+      "component_id": "272511",
+      "message": "@SpotifyCares It still won't let me log into my Spotify account on the Groove app to move my music. Windows and the app are up-to-date. @115890",
+      "created_at": "Tue Oct 10 22:32:06 +0000 2017",
+      "context": [
+        {
+          "tweet_id": "272513",
+          "role": "customer",
+          "text": "@117168 @115890 I can't login to my Spotify acct thru the Groove app to move my music over. Checked the credentials on my phone too",
+          "created_at": "Fri Oct 06 02:26:25 +0000 2017"
+        },
+        {
+          "tweet_id": "272511",
+          "role": "support",
+          "text": "@181049 2: https://t.co/Peyq1ETDeT. We'll be right here if you need help with anything else /MT",
+          "created_at": "Fri Oct 06 03:31:33 +0000 2017"
+        }
+      ],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2905914",
+      "component_id": "2905913",
+      "message": "@SpotifyCares credit card hacked called you and reported Oct 23 still charging my card need support chatted w/ Mark R",
+      "created_at": "Tue Nov 28 17:58:59 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1487764",
+      "component_id": "1487763",
+      "message": "@115888 why Ducktails III : Arcade Dynamics album disappear?",
+      "created_at": "Fri Nov 03 04:26:16 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "633768",
+      "component_id": "633767",
+      "message": "@SpotifyCares Hi guys! Is there any reason I suddenly can’t control Spotify from the control centre and lock screen on iOS 11? Thanks!:)",
+      "created_at": "Wed Oct 04 15:31:45 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2005767",
+      "component_id": "2005766",
+      "message": "@115888 put truly, madly, deeply &amp; irresistible on Spotify https://t.co/vez1zL9Sbs",
+      "created_at": "Sat Nov 04 05:24:09 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2855899",
+      "component_id": "2855898",
+      "message": "Hi @SpotifyCares. I just noticed that I all of a sudden am on the premium family subscription? How? it might have something to do with the fact that my account was being streamed from an unfamiliar device earlier this month. Can u switch me back to 9.99/mo",
+      "created_at": "Mon Nov 27 15:58:22 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1739273",
+      "component_id": "1739271",
+      "message": "@SpotifyCares #IntroFunDays you guys do awesome work 👍",
+      "created_at": "Tue Nov 07 15:51:47 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2866635",
+      "component_id": "2866634",
+      "message": "@SpotifyCares when will it be available ??",
+      "created_at": "Tue Nov 28 13:02:06 +0000 2017",
+      "context": [
+        {
+          "tweet_id": "2866636",
+          "role": "customer",
+          "text": "@115888 where is reputation?",
+          "created_at": "Mon Nov 27 21:43:00 +0000 2017"
+        },
+        {
+          "tweet_id": "2866634",
+          "role": "support",
+          "text": "@649713 Hey Zach! Taylor Swift's 'Reputation' isn't available to stream just yet! For now, check out the singles: https://t.co/3h0TnPWP0c /KC",
+          "created_at": "Tue Nov 28 00:28:28 +0000 2017"
+        }
+      ],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "100116",
+      "component_id": "100115",
+      "message": "@SpotifyCares My Spotify computer app has legit said \"offline\" for 4 months and every attempt that customer service has attempted has failed miserably.",
+      "created_at": "Thu Nov 30 17:29:20 +0000 2017",
+      "context": [
+        {
+          "tweet_id": "100117",
+          "role": "customer",
+          "text": "I've been trying to fix my @115888 computer app and Spotify web player for 4 months with no help from customer service, is it about time I give up and switch to @115948 ?",
+          "created_at": "Thu Nov 30 17:19:15 +0000 2017"
+        },
+        {
+          "tweet_id": "100115",
+          "role": "support",
+          "text": "@137938 Hey Daniel! Don't throw in the towel just yet. Can you give us more info on what's happening exactly? We'd love to help /NG",
+          "created_at": "Thu Nov 30 17:28:13 +0000 2017"
+        }
+      ],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "856695",
+      "component_id": "856694",
+      "message": "@115888 Trying to run in #chrome on a #chromebook, and every time the ad changes the music pauses. Any suggestions other than paying $?",
+      "created_at": "Fri Oct 20 14:19:43 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2865512",
+      "component_id": "2865511",
+      "message": "@SpotifyCares thanks for responding,  just sent another one :)",
+      "created_at": "Mon Nov 27 22:28:28 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1090107",
+      "component_id": "1090106",
+      "message": "DEAR @115888 - no to horror movie / haunted house / scary whispery-screamy ads in the middle of my chillllllll work playlist PLS",
+      "created_at": "Mon Oct 23 16:21:42 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "507435",
+      "component_id": "507434",
+      "message": "@115888 Hello\nMy account got stolen by changing the email. Origina name: KisuoX e-mail: __email__ Please change it back.",
+      "created_at": "Fri Dec 01 19:25:42 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2404061",
+      "component_id": "2404060",
+      "message": "I wonder when would Taylor Swift's Reputation album be on @115888 coz I've been waiting for days already.",
+      "created_at": "Tue Nov 14 14:10:25 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1460710",
+      "component_id": "1460709",
+      "message": "@SpotifyCares If I upgrade to the student spotify, will I also get Hulu with it?",
+      "created_at": "Thu Nov 02 21:15:35 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1095347",
+      "component_id": "1095346",
+      "message": "Why @SpotifyCares and he doesn't...",
+      "created_at": "Fri Oct 13 18:06:31 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "789821",
+      "component_id": "789820",
+      "message": "@SpotifyCares clicking \"share\" on any song crashes with no error msg. Android 8.0.0, nexus 6p, Spotify 8.4.22.857. Have reinstalled once.",
+      "created_at": "Thu Oct 12 10:33:10 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1733259",
+      "component_id": "1733258",
+      "message": "@115888  PLEASE PUT @44235 THE CODE ALBUM on spotify.  Coz monbebes are waitinggggg.",
+      "created_at": "Tue Nov 07 10:18:37 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "1887644",
+      "component_id": "1887643",
+      "message": "Who can put me in touch with business development at @115888 / @125633 ? I have a big idea to introduce to the platform",
+      "created_at": "Mon Oct 23 14:57:43 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    },
+    {
+      "tweet_id": "2047806",
+      "component_id": "2047805",
+      "message": "@115888 please update your podcasts. I need my @12743 fix!",
+      "created_at": "Thu Oct 05 14:11:58 +0000 2017",
+      "context": [],
+      "context_status": {
+        "missing_parent": false,
+        "cycle": false,
+        "timestamp_conflict": false
+      }
+    }
+  ]
+}

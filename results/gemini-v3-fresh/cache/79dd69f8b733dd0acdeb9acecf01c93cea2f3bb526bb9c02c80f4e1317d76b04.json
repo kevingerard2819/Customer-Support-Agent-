@@ -1,0 +1,29 @@
+{
+  "parsed": {
+    "intent": "catalog_availability",
+    "route": "escalate",
+    "reason": "unverified_policy",
+    "draft": "We don't have news about specific release dates right now, but we'd love to help you find out more. Could you head over to our Help Community or send us a DM so we can look into this?",
+    "evidence_ids": [],
+    "reply_kind": "handoff"
+  },
+  "metadata": {
+    "model": "gemini-3.5-flash",
+    "model_version": "gemini-3.5-flash",
+    "request_sha256": "79dd69f8b733dd0acdeb9acecf01c93cea2f3bb526bb9c02c80f4e1317d76b04",
+    "usage": {
+      "promptTokenCount": 2387,
+      "candidatesTokenCount": 103,
+      "totalTokenCount": 2490,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2387
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "latency_ms": 24147.52880000742,
+    "cache_hit": false
+  }
+}

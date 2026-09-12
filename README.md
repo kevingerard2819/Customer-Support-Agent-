@@ -113,6 +113,8 @@ python scripts/build_posteval_v3.py
 
 For manual end-to-end testing, run `python scripts/try_live_agent.py --key-file path/to/key.txt --model gemini-3.5-flash` and open `http://127.0.0.1:8766`. The page runs actual retrieval, Gemini classification/drafting, and the deterministic output gate. Test messages and retrieved historical snippets are sent to Gemini; the key stays in the local file and is never displayed or committed.
 
+The post-fix v3 reply review uses 30 newly sampled conversation components excluded from discovery, the 200-example golden packet, and retrieval. Its source packet and model outputs are frozen in `annotations/fresh-reply-eval-v3-source.json` and `results/gemini-v3-fresh`. Gemini 3.5 produced the first 19 replies; after its quota was reached, Gemini 3.8 produced the remaining 11, as recorded in the run manifest. Rate the blinded packet with `node scripts/rate_replies_server.mjs --packet annotations/fresh-reply-review-v3.json --ratings annotations/fresh-reply-ratings-human-v3.json --port 8768 --title "Fresh v3 reply review"`, then run `python scripts/report_fresh_reply_review.py`.
+
 Open the autosaving label and reply-review tools on Windows with `open-labels.ps1` and `open-reply-review.ps1`. Dataset preparation commands and archive checksum are documented in `docs/batch-sampling.md` and `docs/discovery.md`.
 
 ## Attribution

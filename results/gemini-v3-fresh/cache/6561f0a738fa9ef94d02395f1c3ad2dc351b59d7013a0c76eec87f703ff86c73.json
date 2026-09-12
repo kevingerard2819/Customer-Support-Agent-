@@ -1,0 +1,29 @@
+{
+  "parsed": {
+    "intent": "playback_app",
+    "route": "escalate",
+    "reason": "repeated_failure",
+    "draft": "Thanks for providing those device details and letting us know you've already reinstalled. Since that didn't help with the crash when sharing, please reach out to our team privately so we can take a closer look.",
+    "evidence_ids": [],
+    "reply_kind": "handoff"
+  },
+  "metadata": {
+    "model": "gemini-3.8-flash",
+    "model_version": "gemini-3.8-flash",
+    "request_sha256": "6561f0a738fa9ef94d02395f1c3ad2dc351b59d7013a0c76eec87f703ff86c73",
+    "usage": {
+      "promptTokenCount": 2405,
+      "candidatesTokenCount": 102,
+      "totalTokenCount": 2507,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2405
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "latency_ms": 13530.99330002442,
+    "cache_hit": false
+  }
+}

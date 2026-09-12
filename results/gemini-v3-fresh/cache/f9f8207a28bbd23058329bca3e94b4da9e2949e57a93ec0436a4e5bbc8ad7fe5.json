@@ -1,0 +1,29 @@
+{
+  "parsed": {
+    "intent": "catalog_availability",
+    "route": "escalate",
+    "reason": "unverified_policy",
+    "draft": "We don't have an exact date to share, as content availability depends on rights and agreements. We'll pass your interest along to our team.",
+    "evidence_ids": [],
+    "reply_kind": "handoff"
+  },
+  "metadata": {
+    "model": "gemini-3.8-flash",
+    "model_version": "gemini-3.8-flash",
+    "request_sha256": "f9f8207a28bbd23058329bca3e94b4da9e2949e57a93ec0436a4e5bbc8ad7fe5",
+    "usage": {
+      "promptTokenCount": 2407,
+      "candidatesTokenCount": 89,
+      "totalTokenCount": 2496,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2407
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "latency_ms": 13461.725899978774,
+    "cache_hit": false
+  }
+}

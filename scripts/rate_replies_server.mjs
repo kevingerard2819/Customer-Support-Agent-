@@ -4,8 +4,11 @@ import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 const repo = dirname(dirname(fileURLToPath(import.meta.url)));
-const packetPath = join(repo, 'annotations', 'reply-review-packet-v2.json');
-const ratingsPath = join(repo, 'annotations', 'reply-ratings-human-v2.json');
+const args = Object.fromEntries(process.argv.slice(2).map((value, index, all) => value.startsWith('--') ? [value.slice(2), all[index + 1]] : null).filter(Boolean));
+const packetPath = args.packet || join(repo, 'annotations', 'reply-review-packet-v2.json');
+const ratingsPath = args.ratings || join(repo, 'annotations', 'reply-ratings-human-v2.json');
+const port = Number(args.port || 8765);
+const title = args.title || 'Reply quality review v2';
 const packet = JSON.parse(await readFile(packetPath, 'utf8'));
 const ids = new Set(packet.items.map(x => x.rating_id));
 const dims = ['correctness', 'grounding', 'usefulness', 'routing_privacy'];
@@ -33,9 +36,9 @@ async function saveRating(value) {
 }
 
 const page = String.raw`<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Reply quality review v2</title><style>
+<title>${title}</title><style>
 :root{font-family:Inter,Segoe UI,Arial,sans-serif;color:#16202a;background:#eef2f6}*{box-sizing:border-box}body{margin:0}.top{position:sticky;top:0;background:white;border-bottom:1px solid #ccd5df;padding:14px 20px;z-index:2}.title{display:flex;justify-content:space-between;align-items:center}.title h1{font-size:22px;margin:0}.status{font-weight:700;color:#315b9d}.note{font-size:13px;color:#586675;margin-top:5px}.rating{display:grid;grid-template-columns:180px repeat(3,68px) 1fr;gap:5px;align-items:center;margin-top:10px}.rating strong{font-size:14px}.rating .hint{color:#647382;font-size:13px}.choice input{position:absolute;opacity:0}.choice span{display:block;text-align:center;padding:8px;border:2px solid #b7c2ce;border-radius:7px;cursor:pointer;font-weight:700}.choice input:checked+span{background:#1967d2;color:white;border-color:#1967d2}.critical{display:flex;gap:10px;align-items:center;margin-top:9px}.critical .choice span{min-width:70px}.actions{display:flex;gap:8px;margin-top:10px}.actions button{padding:10px 18px;border:1px solid #9aa8b6;background:white;border-radius:7px;font-weight:700;cursor:pointer}.actions .primary{background:#16794b;color:white;border-color:#16794b;font-size:15px}.actions .primary:hover{background:#10643d}.notes{flex:1;padding:9px;border:1px solid #aeb9c5;border-radius:6px}.card{max-width:1060px;margin:16px auto;background:white;padding:22px;border-radius:10px;box-shadow:0 2px 10px #1b2a3a18}.section{margin:18px 0}.section h2{font-size:13px;letter-spacing:.06em;color:#526171;margin:0 0 7px}.section p,.context,.evidence{white-space:pre-wrap;font-size:16px;line-height:1.5;margin:0}.draft{font-size:18px!important;background:#f3f8ff;border-left:4px solid #3578d4;padding:14px}.route{font-weight:700}.evidence{background:#f7f7f7;padding:12px;border-radius:6px;margin-bottom:10px}.error{color:#b42318;font-weight:700}@media(max-width:800px){.rating{grid-template-columns:130px repeat(3,55px)}.rating .hint{grid-column:1/-1}.top{position:static}}
-</style></head><body><div class="top"><div class="title"><h1>Reply quality review v2</h1><div id="status" class="status">Loading…</div></div>
+</style></head><body><div class="top"><div class="title"><h1>${title}</h1><div id="status" class="status">Loading…</div></div>
 <div class="note">Some drafts are intentionally weak baselines. Score exactly what you see; system names remain hidden.</div><div id="ratings"></div>
 <div class="critical"><strong>Critical failure</strong><label class="choice"><input type="radio" name="critical" value="false"><span>No</span></label><label class="choice"><input type="radio" name="critical" value="true"><span>Yes</span></label><span class="hint">Yes only for fabricated actions/policy, public requests for private data, or missed required escalation.</span></div>
 <div class="actions"><button id="prev">← Previous</button><button id="next">Next →</button><button id="unrated">Next unrated</button><input id="notes" class="notes" placeholder="Optional notes"><button id="save" class="primary">SAVE & NEXT</button></div><div id="error" class="error"></div></div>
@@ -62,4 +65,4 @@ const server=http.createServer(async (req,res)=>{
     res.writeHead(404);res.end('Not found');
   } catch(error){res.writeHead(400,{'content-type':'text/plain; charset=utf-8'});res.end(error.message)}
 });
-server.listen(8765,'127.0.0.1',()=>console.log('Reply review: http://127.0.0.1:8765'));
+server.listen(port,'127.0.0.1',()=>console.log(`Reply review: http://127.0.0.1:${port}`));

@@ -1,0 +1,30 @@
+{
+  "parsed": {
+    "intent": "playback_app",
+    "route": "escalate",
+    "reason": "insufficient_context",
+    "draft": "We'd love to help get this sorted. What browser are you using, and are you seeing any specific error messages?",
+    "evidence_ids": [],
+    "reply_kind": "handoff"
+  },
+  "metadata": {
+    "model": "gemini-3.5-flash",
+    "model_version": "gemini-3.5-flash",
+    "request_sha256": "bdc1e351fb150445501c3c4557ddfb8e468dcfc0019df9fe918ceccddee935a1",
+    "usage": {
+      "promptTokenCount": 2335,
+      "candidatesTokenCount": 83,
+      "totalTokenCount": 2827,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2335
+        }
+      ],
+      "thoughtsTokenCount": 409,
+      "serviceTier": "standard"
+    },
+    "latency_ms": 3617.7033999993,
+    "cache_hit": false
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "parsed": {
+    "intent": "billing_subscription",
+    "route": "escalate",
+    "reason": "account_action",
+    "draft": "We can help you get onto the subscription you wanted. Since we'll need some account details, let's head over to DMs to sort this out securely.",
+    "evidence_ids": [],
+    "reply_kind": "handoff"
+  },
+  "metadata": {
+    "model": "gemini-3.5-flash",
+    "model_version": "gemini-3.5-flash",
+    "request_sha256": "b57df3003a41342a212feb1b635a15f439b743fe5d539bb70347b91910163ac3",
+    "usage": {
+      "promptTokenCount": 2302,
+      "candidatesTokenCount": 91,
+      "totalTokenCount": 2393,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2302
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "latency_ms": 26394.70540001639,
+    "cache_hit": false
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "parsed": {
+    "intent": "feedback_feature_request",
+    "route": "auto_handle",
+    "reason": "safe_acknowledgement",
+    "draft": "We hear you, and that definitely sounds jarring during a chill playlist. Thanks for sharing your feedback about the ads you're hearing.",
+    "evidence_ids": [
+      "1640514"
+    ],
+    "reply_kind": "acknowledgement"
+  },
+  "metadata": {
+    "model": "gemini-3.8-flash",
+    "model_version": "gemini-3.8-flash",
+    "request_sha256": "f218f893a10c420f1148c291590dfd069e557202af93145a31a37299540b0e14",
+    "usage": {
+      "promptTokenCount": 2342,
+      "candidatesTokenCount": 102,
+      "totalTokenCount": 2444,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2342
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "latency_ms": 10779.269600025145,
+    "cache_hit": false
+  }
+}

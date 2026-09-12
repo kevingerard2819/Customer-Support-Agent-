@@ -1,0 +1,30 @@
+{
+  "parsed": {
+    "intent": "catalog_availability",
+    "route": "escalate",
+    "reason": "unverified_policy",
+    "draft": "We'd love to have these tracks on Spotify! While we can't promise if or when they will be available, we hope to have them in the future.",
+    "evidence_ids": [],
+    "reply_kind": "handoff"
+  },
+  "metadata": {
+    "model": "gemini-3.5-flash",
+    "model_version": "gemini-3.5-flash",
+    "request_sha256": "df05dbfe48241870c35ef213119a5f10ac1b956d1fef5bd49807ae4cf2cb20ef",
+    "usage": {
+      "promptTokenCount": 2339,
+      "candidatesTokenCount": 77,
+      "totalTokenCount": 2722,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2339
+        }
+      ],
+      "thoughtsTokenCount": 306,
+      "serviceTier": "standard"
+    },
+    "latency_ms": 26828.381100000115,
+    "cache_hit": false
+  }
+}

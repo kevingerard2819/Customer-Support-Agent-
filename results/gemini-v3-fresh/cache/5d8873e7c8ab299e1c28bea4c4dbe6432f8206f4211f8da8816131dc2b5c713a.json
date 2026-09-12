@@ -1,0 +1,32 @@
+{
+  "parsed": {
+    "intent": "catalog_availability",
+    "route": "auto_handle",
+    "reason": "supported_general_help",
+    "draft": "We'd love to have every album available, and we hope to have this on Spotify soon. Music availability depends on agreements with rights holders and artists.",
+    "evidence_ids": [
+      "1561620",
+      "2982086"
+    ],
+    "reply_kind": "acknowledgement"
+  },
+  "metadata": {
+    "model": "gemini-3.8-flash",
+    "model_version": "gemini-3.8-flash",
+    "request_sha256": "5d8873e7c8ab299e1c28bea4c4dbe6432f8206f4211f8da8816131dc2b5c713a",
+    "usage": {
+      "promptTokenCount": 2395,
+      "candidatesTokenCount": 108,
+      "totalTokenCount": 2503,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2395
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "latency_ms": 13432.779399998253,
+    "cache_hit": false
+  }
+}

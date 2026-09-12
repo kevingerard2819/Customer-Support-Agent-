@@ -1,0 +1,31 @@
+{
+  "parsed": {
+    "intent": "account_access_security",
+    "route": "escalate",
+    "reason": "security_privacy",
+    "draft": "For security reasons, we recommend deleting your tweet since it includes your private info. Please reach out to our team through a private support channel so we can help you safely recover your account.",
+    "evidence_ids": [
+      "1464488"
+    ],
+    "reply_kind": "handoff"
+  },
+  "metadata": {
+    "model": "gemini-3.8-flash",
+    "model_version": "gemini-3.8-flash",
+    "request_sha256": "483320aba4cc8fd75f4b087c3c828ee110405f661865046a31a393f6d97030c4",
+    "usage": {
+      "promptTokenCount": 2377,
+      "candidatesTokenCount": 104,
+      "totalTokenCount": 2481,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2377
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "latency_ms": 54536.90579999238,
+    "cache_hit": false
+  }
+}

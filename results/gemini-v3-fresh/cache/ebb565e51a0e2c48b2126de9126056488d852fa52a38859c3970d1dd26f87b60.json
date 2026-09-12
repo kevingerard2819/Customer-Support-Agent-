@@ -1,0 +1,30 @@
+{
+  "parsed": {
+    "intent": "playback_app",
+    "route": "escalate",
+    "reason": "repeated_failure",
+    "draft": "We're really sorry to hear you've been dealing with this offline issue for so long and that previous steps didn't work. Let's get this sorted out in a private message. Can you send us a DM with the email linked to your account?",
+    "evidence_ids": [],
+    "reply_kind": "handoff"
+  },
+  "metadata": {
+    "model": "gemini-3.5-flash",
+    "model_version": "gemini-3.5-flash",
+    "request_sha256": "ebb565e51a0e2c48b2126de9126056488d852fa52a38859c3970d1dd26f87b60",
+    "usage": {
+      "promptTokenCount": 2523,
+      "candidatesTokenCount": 97,
+      "totalTokenCount": 2771,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2523
+        }
+      ],
+      "thoughtsTokenCount": 151,
+      "serviceTier": "standard"
+    },
+    "latency_ms": 52827.09969999269,
+    "cache_hit": false
+  }
+}

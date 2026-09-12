@@ -1,0 +1,29 @@
+{
+  "parsed": {
+    "intent": "billing_subscription",
+    "route": "escalate",
+    "reason": "unverified_policy",
+    "draft": "Offer details and bundle inclusions can vary, so please reach out via direct message or through our support site so an agent can check the current student plan options with you.",
+    "evidence_ids": [],
+    "reply_kind": "handoff"
+  },
+  "metadata": {
+    "model": "gemini-3.8-flash",
+    "model_version": "gemini-3.8-flash",
+    "request_sha256": "c52a8eb3611fe0878a9691bca4a613b9b772b70de665dd69a17c837a0a3bf9de",
+    "usage": {
+      "promptTokenCount": 2372,
+      "candidatesTokenCount": 91,
+      "totalTokenCount": 2463,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2372
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "latency_ms": 13658.208299981197,
+    "cache_hit": false
+  }
+}

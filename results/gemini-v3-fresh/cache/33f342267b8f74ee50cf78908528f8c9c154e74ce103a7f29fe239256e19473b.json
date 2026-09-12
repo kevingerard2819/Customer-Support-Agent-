@@ -1,0 +1,29 @@
+{
+  "parsed": {
+    "intent": "catalog_availability",
+    "route": "auto_handle",
+    "reason": "safe_clarification",
+    "draft": "Which podcast are you looking for, and which specific episode is missing? Let us know and we can take a closer look.",
+    "evidence_ids": [],
+    "reply_kind": "clarification"
+  },
+  "metadata": {
+    "model": "gemini-3.8-flash",
+    "model_version": "gemini-3.8-flash",
+    "request_sha256": "33f342267b8f74ee50cf78908528f8c9c154e74ce103a7f29fe239256e19473b",
+    "usage": {
+      "promptTokenCount": 2348,
+      "candidatesTokenCount": 84,
+      "totalTokenCount": 2432,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2348
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "latency_ms": 20694.189100002404,
+    "cache_hit": false
+  }
+}

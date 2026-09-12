@@ -1,0 +1,30 @@
+{
+  "parsed": {
+    "intent": "other_unclear",
+    "route": "escalate",
+    "reason": "unsupported_language_scope",
+    "draft": "We understand you're eager to get this sorted, but we can't manually speed up the ingestion process from our end. We recommend keeping in touch with your distributor or reaching out to the Spotify for Artists team for specialized help.",
+    "evidence_ids": [],
+    "reply_kind": "handoff"
+  },
+  "metadata": {
+    "model": "gemini-3.5-flash",
+    "model_version": "gemini-3.5-flash",
+    "request_sha256": "8d8329a49661be01fc11a06663ac14d7c0731fafc6ce7c80357de7628dd883fc",
+    "usage": {
+      "promptTokenCount": 2534,
+      "candidatesTokenCount": 108,
+      "totalTokenCount": 2944,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2534
+        }
+      ],
+      "thoughtsTokenCount": 302,
+      "serviceTier": "standard"
+    },
+    "latency_ms": 27386.316799995257,
+    "cache_hit": false
+  }
+}

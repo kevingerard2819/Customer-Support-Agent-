@@ -1,0 +1,29 @@
+{
+  "parsed": {
+    "intent": "billing_subscription",
+    "route": "escalate",
+    "reason": "account_action",
+    "draft": "Hey there! Getting a new phone won't automatically cancel your Spotify Premium subscription. We can help you check on this, so please send us a DM with your account's email address or username.",
+    "evidence_ids": [],
+    "reply_kind": "handoff"
+  },
+  "metadata": {
+    "model": "gemini-3.5-flash",
+    "model_version": "gemini-3.5-flash",
+    "request_sha256": "c6210b76feff44376eff3b0d10eb91b712c3a3ebc04fc2b9ecba88a1e82fc448",
+    "usage": {
+      "promptTokenCount": 2449,
+      "candidatesTokenCount": 74,
+      "totalTokenCount": 2523,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2449
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "latency_ms": 14562.93079999159,
+    "cache_hit": false
+  }
+}

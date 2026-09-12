@@ -1,0 +1,30 @@
+{
+  "parsed": {
+    "intent": "playback_app",
+    "route": "escalate",
+    "reason": "repeated_failure",
+    "draft": "Thanks for trying those steps. Since restarting and reinstalling didn't help, please send us a DM with your account's email address so we can take a closer look.",
+    "evidence_ids": [],
+    "reply_kind": "handoff"
+  },
+  "metadata": {
+    "model": "gemini-3.5-flash",
+    "model_version": "gemini-3.5-flash",
+    "request_sha256": "2e1b2c2197b66191eeaca091d4456930ffe3b96cde02fbb67374f30a0d3a4cf1",
+    "usage": {
+      "promptTokenCount": 2658,
+      "candidatesTokenCount": 93,
+      "totalTokenCount": 3011,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2658
+        }
+      ],
+      "thoughtsTokenCount": 260,
+      "serviceTier": "standard"
+    },
+    "latency_ms": 25894.49910001713,
+    "cache_hit": false
+  }
+}

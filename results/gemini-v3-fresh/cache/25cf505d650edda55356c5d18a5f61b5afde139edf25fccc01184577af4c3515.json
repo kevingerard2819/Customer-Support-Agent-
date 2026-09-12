@@ -1,0 +1,29 @@
+{
+  "parsed": {
+    "intent": "other_unclear",
+    "route": "escalate",
+    "reason": "unsupported_language_scope",
+    "draft": "We handle customer support inquiries here, so we don't have direct contact details for the business development team. You can check the official Spotify website for corporate contact channels.",
+    "evidence_ids": [],
+    "reply_kind": "handoff"
+  },
+  "metadata": {
+    "model": "gemini-3.8-flash",
+    "model_version": "gemini-3.8-flash",
+    "request_sha256": "25cf505d650edda55356c5d18a5f61b5afde139edf25fccc01184577af4c3515",
+    "usage": {
+      "promptTokenCount": 2366,
+      "candidatesTokenCount": 95,
+      "totalTokenCount": 2461,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2366
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "latency_ms": 12424.012999981642,
+    "cache_hit": false
+  }
+}

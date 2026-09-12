@@ -1,0 +1,30 @@
+{
+  "parsed": {
+    "intent": "catalog_availability",
+    "route": "escalate",
+    "reason": "unverified_policy",
+    "draft": "We don't have details on specific album licensing right now. Music availability can change over time due to agreements with artists and labels.",
+    "evidence_ids": [],
+    "reply_kind": "handoff"
+  },
+  "metadata": {
+    "model": "gemini-3.5-flash",
+    "model_version": "gemini-3.5-flash",
+    "request_sha256": "f229a691baf3f1ed1ec469e6e181ad4cf2e8b7ef6d27ae6ed9c68c9722212a6b",
+    "usage": {
+      "promptTokenCount": 2375,
+      "candidatesTokenCount": 61,
+      "totalTokenCount": 2623,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2375
+        }
+      ],
+      "thoughtsTokenCount": 187,
+      "serviceTier": "standard"
+    },
+    "latency_ms": 25989.752399997087,
+    "cache_hit": false
+  }
+}

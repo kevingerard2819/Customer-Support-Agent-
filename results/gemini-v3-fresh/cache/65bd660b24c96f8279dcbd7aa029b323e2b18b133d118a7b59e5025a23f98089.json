@@ -1,0 +1,29 @@
+{
+  "parsed": {
+    "intent": "other_unclear",
+    "route": "escalate",
+    "reason": "insufficient_context",
+    "draft": "Could you provide a bit more detail on what you're experiencing? We'd be glad to help once we have more information.",
+    "evidence_ids": [],
+    "reply_kind": "handoff"
+  },
+  "metadata": {
+    "model": "gemini-3.8-flash",
+    "model_version": "gemini-3.8-flash",
+    "request_sha256": "65bd660b24c96f8279dcbd7aa029b323e2b18b133d118a7b59e5025a23f98089",
+    "usage": {
+      "promptTokenCount": 2397,
+      "candidatesTokenCount": 86,
+      "totalTokenCount": 2483,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2397
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "latency_ms": 12013.415900000837,
+    "cache_hit": false
+  }
+}
