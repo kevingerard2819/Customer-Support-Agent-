@@ -11,10 +11,10 @@ import urllib.request
 
 
 class Gemini:
-    def __init__(self, model='gemini-3.8-flash', key_file=None, cache=None, min_interval=13):
+    def __init__(self, model='gemini-3.8-flash', key_file=None, cache=None, min_interval=13, api_key=None):
         if not re.fullmatch(r'gemini-[a-zA-Z0-9.\-]+',model): raise ValueError('Invalid model ID')
         self.model=model
-        self.key=Path(key_file).read_text(encoding='utf-8').strip() if key_file else os.environ.get('GEMINI_API_KEY','').strip()
+        self.key=(api_key or '').strip() or (Path(key_file).read_text(encoding='utf-8').strip() if key_file else os.environ.get('GEMINI_API_KEY','').strip())
         self.cache=Path(cache) if cache else None
         self.min_interval=min_interval
         self.lock=threading.Lock()
