@@ -118,4 +118,38 @@ class SystemTests(unittest.TestCase):
         self.assertFalse(overall_pass(dict(good,correctness=0)))
         self.assertFalse(overall_pass(dict(good,critical_failure=True)))
 
+    def test_model_chain_resolution_auto_and_fallbacks(self):
+        from gemini_client import resolve_model_chain, DEFAULT_FALLBACK_CHAIN
+        chain_auto = resolve_model_chain('auto')
+        self.assertEqual(chain_auto, DEFAULT_FALLBACK_CHAIN)
+        self.assertEqual(chain_auto[0], 'gemini-3.8-flash')
+        self.assertIn('gemini-3.5-flash', chain_auto)
+
+        chain_custom = resolve_model_chain('gemini-3.7-flash')
+        self.assertEqual(chain_custom[0], 'gemini-3.7-flash')
+        self.assertIn('gemini-3.8-flash', chain_custom)
+        self.assertIn('gemini-3.5-flash', chain_custom)
+
+        chain_csv = resolve_model_chain('gemini-3.6-flash, gemini-3.5-flash')
+        self.assertEqual(chain_csv[:2], ['gemini-3.6-flash', 'gemini-3.5-flash'])
+
+    def test_gemini_fallback_simulation_on_model_errors(self):
+        from gemini_client import Gemini
+        client = Gemini(model='gemini-3.8-flash,gemini-3.5-flash', api_key='test-key', auto_fallback=True)
+        call_log = []
+        def mock_call(model_name, instructions, data, schema):
+            call_log.append(model_name)
+            if model_name == 'gemini-3.8-flash':
+                raise RuntimeError("HTTP 503: model capacity exceeded")
+            return {'intent': 'social_acknowledgement', 'route': 'auto_handle', 'reason': 'test', 'draft': 'test', 'evidence_ids': [], 'reply_kind': 'acknowledgement'}, {'model': model_name, 'modelVersion': model_name}
+
+        client._call_model = mock_call
+        parsed, meta = client.generate('instructions', {'test': 1}, {})
+        self.assertEqual(parsed['intent'], 'social_acknowledgement')
+        self.assertEqual(meta['model'], 'gemini-3.5-flash')
+        self.assertTrue(meta['fallback_occurred'])
+        self.assertEqual(call_log, ['gemini-3.8-flash', 'gemini-3.5-flash'])
+
+
 if __name__=='__main__': unittest.main()
+
